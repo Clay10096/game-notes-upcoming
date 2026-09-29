@@ -1,0 +1,90 @@
+name: Refresh one upcoming-games region
+on:
+  workflow_call:
+    inputs:
+      region:
+        required: true
+        type: string
+  workflow_dispatch:
+    inputs:
+      region:
+        description: Region to refresh
+        required: true
+        type: choice
+        options: [hk, jp, us]
+
+permissions:
+  contents: write
+  deployments: write
+
+concurrency:
+  group: upcoming-publish
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      REGION: ${{ inputs.region }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - run: python -m pip install -r requirements.txt
+      - name: Check scraper and frontend
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py' -v
+          npm test
+      - name: Refresh Nintendo Switch 2
+        id: ns2
+        continue-on-error: true
+        run: python scripts/scrape_upcoming.py --store nintendo --region "$REGION"
+      - name: Refresh PlayStation 5
+        id: ps5
+        continue-on-error: true
+        run: python scripts/scrape_upcoming.py --store playstation --region "$REGION"
+      - name: Refresh CNY reference exchange rates
+        id: fx
+        continue-on-error: true
+        run: python scripts/exchange.py
+      - name: Verify all retained and refreshed snapshots
+        run: python scripts/check_site.py
+      - name: Save snapshots and source states
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "site/data/upcoming-ns2-${REGION}.json" "site/data/upcoming-ns2-${REGION}.status.json" \
+                  "site/data/upcoming-ps5-${REGION}.json" "site/data/upcoming-ps5-${REGION}.status.json" \
+                  site/data/fx.json site/data/fx.status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh upcoming ${REGION} snapshots"
+            git push origin HEAD:main
+          fi
+      - name: Check publishing configuration
+        env:
+          HOSTING_PROVIDER: ${{ vars.HOSTING_PROVIDER }}
+          CLOUDFLARE_PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python scripts/check_deployment.py
+      - name: Publish site/ including latest status
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=${{ vars.CLOUDFLARE_PAGES_PROJECT }} --branch=main
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      - name: Flag source failures after publishing retained data
+        if: always() && (steps.ns2.outcome == 'failure' || steps.ps5.outcome == 'failure' || steps.fx.outcome == 'failure')
+        run: |
+          echo "At least one source failed; its previous valid JSON was retained and the status file was published."
+          exit 1

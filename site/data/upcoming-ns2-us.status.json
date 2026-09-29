@@ -1,0 +1,10 @@
+{
+  "region": "US",
+  "store": "nintendo",
+  "status": "success",
+  "attemptedAt": "2026-09-29T08:39:21-07:00",
+  "completedAt": "2026-09-29T08:39:23-07:00",
+  "lastSuccessAt": "2026-09-29T08:39:23-07:00",
+  "requestCount": 1,
+  "error": null
+}

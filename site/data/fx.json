@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "status": "success",
+  "targetCurrency": "CNY",
+  "quoteDate": "2026-09-29",
+  "updatedAt": "2026-09-29T16:10:03+00:00",
+  "rates": {
+    "USD": 6.703390576838397,
+    "JPY": 0.04266408833585562,
+    "HKD": 0.8543736179861041
+  },
+  "source": {
+    "name": "European Central Bank",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+    "feed": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  }
+}

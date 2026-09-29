@@ -1,0 +1,10 @@
+{
+  "region": "HK",
+  "store": "nintendo",
+  "status": "success",
+  "attemptedAt": "2026-09-29T23:45:51+08:00",
+  "completedAt": "2026-09-29T23:46:25+08:00",
+  "lastSuccessAt": "2026-09-29T23:46:25+08:00",
+  "requestCount": 23,
+  "error": null
+}

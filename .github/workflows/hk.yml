@@ -1,0 +1,17 @@
+name: Daily HK upcoming games
+on:
+  schedule:
+    - cron: '5 0 * * *'
+      timezone: Asia/Hong_Kong
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  deployments: write
+
+jobs:
+  refresh:
+    uses: ./.github/workflows/refresh.yml
+    with:
+      region: hk
+    secrets: inherit
