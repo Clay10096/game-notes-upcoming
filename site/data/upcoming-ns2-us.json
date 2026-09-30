@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-09-29T17:40:25-07:00",
+  "updatedAt": "2026-09-30T00:15:21-07:00",
   "status": "success",
-  "gameCount": 43,
+  "gameCount": 42,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,56 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000131244",
-      "id": "70010000131244",
-      "conceptId": null,
-      "region": "us",
-      "title": "Middle-earth™: Shadow of Mordor™ Game of the Year Edition",
-      "edition": "Standard Edition",
-      "publisher": "Aspyr",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-09-30T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-09-30",
-      "releaseAt": null,
-      "price": 9.99,
-      "originalPrice": 19.99,
-      "currency": "USD",
-      "offer": {
-        "scope": "public",
-        "price": 9.99,
-        "originalPrice": 19.99,
-        "discountPercent": 50.0,
-        "startsAt": null,
-        "endsAt": "2026-10-06T06:59:59Z",
-        "endsAtRaw": null
-      },
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/middle-earth-shadow-of-mordor-game-of-the-year-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3",
-      "versions": [
-        {
-          "key": "70010000131244",
-          "id": "70010000131244",
-          "title": "Middle-earth™: Shadow of Mordor™ Game of the Year Edition",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/middle-earth-shadow-of-mordor-game-of-the-year-edition-switch-2/",
-          "price": 9.99,
-          "originalPrice": 19.99,
-          "offer": {
-            "scope": "public",
-            "price": 9.99,
-            "originalPrice": 19.99,
-            "discountPercent": 50.0,
-            "startsAt": null,
-            "endsAt": "2026-10-06T06:59:59Z",
-            "endsAtRaw": null
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000108548",
       "id": "70010000108548",
