@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-09-29T08:39:23-07:00",
+  "updatedAt": "2026-09-29T17:40:25-07:00",
   "status": "success",
-  "gameCount": 41,
+  "gameCount": 43,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -842,6 +842,90 @@
           "price": 59.99,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000111803",
+      "id": "70010000111803",
+      "conceptId": null,
+      "region": "us",
+      "title": "Let's Sing 2027",
+      "edition": "Standard Edition",
+      "publisher": "THQ Nordic",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-03T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-03",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/lets-sing-2027-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000111803/788e5f6d068ac4e181273dc894c083d708f9f16336ee04867323affc8c438441",
+      "versions": [
+        {
+          "key": "70010000111803",
+          "id": "70010000111803",
+          "title": "Let's Sing 2027",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/lets-sing-2027-switch-2/",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000125081",
+      "id": "70010000125081",
+      "conceptId": null,
+      "region": "us",
+      "title": "CRYMELIGHT",
+      "edition": "Standard Edition",
+      "publisher": "FURYU Corporation",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-04T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-04",
+      "releaseAt": null,
+      "price": 17.99,
+      "originalPrice": 19.99,
+      "currency": "USD",
+      "offer": {
+        "scope": "public",
+        "price": 17.99,
+        "originalPrice": 19.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-04T14:59:59Z",
+        "endsAtRaw": null
+      },
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/crymelight-switch-2/",
+      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9773716f6023490fb813f3251833882f_1024",
+      "versions": [
+        {
+          "key": "70010000125081",
+          "id": "70010000125081",
+          "title": "CRYMELIGHT",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/crymelight-switch-2/",
+          "price": 17.99,
+          "originalPrice": 19.99,
+          "offer": {
+            "scope": "public",
+            "price": 17.99,
+            "originalPrice": 19.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-04T14:59:59Z",
+            "endsAtRaw": null
+          },
           "memberOffer": null
         }
       ]

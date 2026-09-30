@@ -5,64 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-09-29T08:59:19-07:00",
+  "updatedAt": "2026-09-29T17:42:50-07:00",
   "status": "success",
-  "gameCount": 69,
+  "gameCount": 68,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 118,
-    "productPages": 112,
+    "candidateCount": 114,
+    "productPages": 110,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP7064-PPSA30479_00-TF30000000000000",
-      "id": "EP7064-PPSA30479_00-TF30000000000000",
-      "conceptId": "10015054",
-      "region": "us",
-      "title": "Transport Fever 3",
-      "edition": "Standard Edition",
-      "publisher": "Paradox Interactive",
-      "platform": "ps5",
-      "releaseDateRaw": "9/29/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-09-29",
-      "releaseAt": "2026-09-29T16:00:00+00:00",
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/EP7064-PPSA30479_00-TF30000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0807/3251bc7c55678139140ebf73908c0e908b935cd396a5762d.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP7064-PPSA30479_00-TF30000000000000",
-          "id": "EP7064-PPSA30479_00-TF30000000000000",
-          "title": "Transport Fever 3",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/EP7064-PPSA30479_00-TF30000000000000",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "EP7064-PPSA30479_00-TF3DLXEDITION000",
-          "id": "EP7064-PPSA30479_00-TF3DLXEDITION000",
-          "title": "Transport Fever 3: Deluxe Edition",
-          "edition": "Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/EP7064-PPSA30479_00-TF3DLXEDITION000",
-          "price": 74.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0807/9bd848e0e87606d7f109a83941ad903d9fd62d084cd9af01.png?w=160&thumb=false"
-    },
     {
       "key": "JP0700-PPSA24913_00-MAINGAME00000000",
       "id": "JP0700-PPSA24913_00-MAINGAME00000000",
