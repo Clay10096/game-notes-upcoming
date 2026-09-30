@@ -10,3 +10,12 @@
 6. `hk.yml`、`jp.yml`、`us.yml` 各在 **Asia/Hong_Kong／Asia/Tokyo／America/Los_Angeles 当地 00:05** 运行；美国夏令时由 GitHub 的 IANA 时区调度处理。任务实际启动可能延迟，网站以 `updatedAt` 实际采集完成时间为准。每次刷新该区 NS2、PS5 和独立汇率快照，失败只更新状态，不清空旧快照；随后发布。Actions 的 `GITHUB_TOKEN` 需要仓库允许 **Read and write permissions**，以便把有效快照与状态提交回 `main`。
 
 Cloudflare Pages Direct Upload 与 GitHub 仓库保持独立；此处的自动部署由 GitHub Actions 明确执行，不需要 Cloudflare 的 Git 集成。上线后修改一处可见的首页文字并再次推送，确认 Pages 生产部署更新。
+
+## 本项目实际配置
+
+- Pages 项目：`game-notes-upcoming`；生产分支：`main`。
+- 公开网址：https://game-notes-upcoming.pages.dev/
+- GitHub 仓库：https://github.com/Clay10096/game-notes-upcoming
+- 发布目录：`site/`；无构建命令。
+- 已配置上述两项 Variables 与两项 Secrets，并允许 Actions 提交快照。
+- Cloudflare 发布令牌限定当前账号的 Pages 编辑权限，有效期至 2027 年 9 月 30 日；到期前需在 Cloudflare 创建替代令牌，并更新仓库的 `CLOUDFLARE_API_TOKEN` Secret。

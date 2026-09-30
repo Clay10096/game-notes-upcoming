@@ -1,5 +1,9 @@
 # 游戏发售笔记
 
+在线网站：https://game-notes-upcoming.pages.dev/
+
+源码仓库：https://github.com/Clay10096/game-notes-upcoming
+
 独立的 Nintendo Switch 2 / PlayStation 5 即将发售游戏网站。首页只展示港、日、美三个商店区服的待发售游戏，不连接折扣站、App、游戏库或愿望单。
 
 ## 项目结构
