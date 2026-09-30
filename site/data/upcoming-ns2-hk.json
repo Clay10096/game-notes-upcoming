@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-09-30T08:35:21+08:00",
+  "updatedAt": "2026-10-01T00:17:04+08:00",
   "status": "success",
-  "gameCount": 47,
+  "gameCount": 44,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,108 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000108546",
-      "id": "70010000108546",
-      "conceptId": null,
-      "region": "hk",
-      "title": "歧路旅人 OCTOPATH TRAVELER",
-      "edition": null,
-      "publisher": "SQUARE ENIX",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-01",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 298.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000108546",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000108546b268ad447ef611f18f5397a580bd1008/4a92aaa46b49ce8f7b896465161976e1/33f76887983f0e4a2a8c2b5a424fe17f950e903b3f62a408329bd2ac4b76df58.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000108546",
-          "id": "70010000108546",
-          "title": "歧路旅人 OCTOPATH TRAVELER",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000108546",
-          "price": 298.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000108551",
-      "id": "70010000108551",
-      "conceptId": null,
-      "region": "hk",
-      "title": "歧路旅人II OCTOPATH TRAVELER II",
-      "edition": null,
-      "publisher": "SQUARE ENIX",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-01",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 298.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000108551",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000108551d0139e007ef611f1a53f83eefb3b8b7a/3f0b5a895f0725825d8ff7adc14560a8/42dfaa729ddea74784da69945a8e9b8c83c60459a39ec9edb81bed183cd9eb99.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000108551",
-          "id": "70010000108551",
-          "title": "歧路旅人II OCTOPATH TRAVELER II",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000108551",
-          "price": 298.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000105791",
-      "id": "70010000105791",
-      "conceptId": null,
-      "region": "hk",
-      "title": "真・三國無雙２ with 猛將傳 Remastered",
-      "edition": null,
-      "publisher": "KOEI TECMO GAMES",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-01",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 318.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000105791",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001057910f8ea7fba57811f1a8d34949bb194ff2/bb093c3d245837521af300104846a428/21d6b317eee5a7f5b83bfbad252a24f1be9603acc66216764e56db0e79bcac62.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000105791",
-          "id": "70010000105791",
-          "title": "真・三國無雙２ with 猛將傳 Remastered",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000105791",
-          "price": 318.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000126388",
       "id": "70010000126388",
@@ -571,7 +469,7 @@
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": null,
-      "price": null,
+      "price": 239.0,
       "originalPrice": null,
       "currency": "HKD",
       "offer": null,
@@ -585,7 +483,7 @@
           "title": "永恆傳奇 Remastered",
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000110881",
-          "price": null,
+          "price": 239.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
