@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-09-30T09:39:53+09:00",
+  "updatedAt": "2026-10-01T00:28:22+09:00",
   "status": "success",
-  "gameCount": 75,
+  "gameCount": 73,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 88,
-    "productPages": 88,
+    "candidateCount": 86,
+    "productPages": 86,
     "coverage": "official-category",
     "notes": []
   },
@@ -62,92 +62,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/ebd85af04fb911d1bc6d6c640f3ee286fb1542c2ea4e8e18.png?w=160&thumb=false"
-    },
-    {
-      "key": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-      "id": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-      "conceptId": "10012377",
-      "region": "jp",
-      "title": "End of Abyss",
-      "edition": null,
-      "publisher": "EPIC GAMES",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/1",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T04:00:00+00:00",
-      "price": 3650.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 3285.0,
-        "originalPrice": 3650.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-01T04:00:00.000Z",
-        "endsAtRaw": "2026-10-01T04:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/HP1597-PPSA25717_00-ENDOFABYSS000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1019/0d2e73708559cde05e59a29b70a4f4eebde405d55dce9958.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-          "id": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-          "title": "End of Abyss",
-          "edition": null,
-          "url": "https://store.playstation.com/ja-jp/product/HP1597-PPSA25717_00-ENDOFABYSS000000",
-          "price": 3650.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 3285.0,
-            "originalPrice": 3650.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-01T04:00:00.000Z",
-            "endsAtRaw": "2026-10-01T04:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0619/a6f666be2918286733383cf4c7a06d5fa6aebe7302329598.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "EP6665-PPSA30839_00-MXGP200000000000",
-      "id": "EP6665-PPSA30839_00-MXGP200000000000",
-      "conceptId": "10015195",
-      "region": "jp",
-      "title": "MXGP 26 - The Official Game",
-      "edition": "Standard Edition",
-      "publisher": "NACON SA",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/1",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T08:00:00+00:00",
-      "price": 6930.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA30839_00-MXGP200000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1014/3d8f163859e7f3d6ed0fa8cd48696c8b93f39a1a7bdd05eb.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA30839_00-MXGP200000000000",
-          "id": "EP6665-PPSA30839_00-MXGP200000000000",
-          "title": "MXGP 26 - The Official Game",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA30839_00-MXGP200000000000",
-          "price": 6930.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1014/abc3886d85c71ea3f8fb590fdda68e8ac5b34a50c182343e.jpg?w=160&thumb=false"
     },
     {
       "key": "EP6665-PPSA33917_00-GCU30DELUXE00001",

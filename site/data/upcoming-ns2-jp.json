@@ -5,9 +5,9 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-09-30T09:38:08+09:00",
+  "updatedAt": "2026-10-01T00:26:51+09:00",
   "status": "success",
-  "gameCount": 112,
+  "gameCount": 110,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
@@ -16,85 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000134371",
-      "id": "70010000134371",
-      "conceptId": null,
-      "region": "jp",
-      "title": "ヴィラクタル(Viractal) Nintendo Switch 2 Edition",
-      "edition": null,
-      "publisher": "スティング",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.1",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 4950.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134371",
-      "image": "https://img-eshop.cdn.nintendo.net/i/bcebbfa7b5e896883f6bf71dc436bd3198a19b1f4bcc4c4547222029de079f80.jpg",
-      "versions": [
-        {
-          "key": "70010000134371",
-          "id": "70010000134371",
-          "title": "ヴィラクタル(Viractal) Nintendo Switch 2 Edition",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000134371",
-          "price": 4950.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000105790",
-      "id": "70010000105790",
-      "conceptId": null,
-      "region": "jp",
-      "title": "真・三國無双２ with 猛将伝 Remastered",
-      "edition": null,
-      "publisher": "コーエーテクモゲームス",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.1",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 7480.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000105790",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fbde2172f19eb9f063524c6a4082a608ff1d135bf8cb9a2d5cf585162a6bfa16.jpg",
-      "versions": [
-        {
-          "key": "70010000105790",
-          "id": "70010000105790",
-          "title": "真・三國無双２ with 猛将伝 Remastered",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000105790",
-          "price": 7480.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "70070000038058",
-          "id": "70070000038058",
-          "title": "真・三國無双２ with 猛将伝 Remastered Digital Deluxe Edition",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70070000038058",
-          "price": 11880.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "c48f6862024c235fa551",
       "id": null,
