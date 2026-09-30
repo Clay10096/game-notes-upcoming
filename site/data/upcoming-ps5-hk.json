@@ -5,64 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-09-29T23:59:03+08:00",
+  "updatedAt": "2026-09-30T08:37:35+08:00",
   "status": "success",
-  "gameCount": 80,
+  "gameCount": 79,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 101,
-    "productPages": 101,
+    "candidateCount": 99,
+    "productPages": 99,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP7064-PPSA30479_00-TF30000000000000",
-      "id": "EP7064-PPSA30479_00-TF30000000000000",
-      "conceptId": "10015054",
-      "region": "hk",
-      "title": "Transport Fever 3 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "標準版",
-      "publisher": "Paradox Interactive",
-      "platform": "ps5",
-      "releaseDateRaw": "29/9/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-09-29",
-      "releaseAt": "2026-09-29T16:00:00+00:00",
-      "price": 468.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP7064-PPSA30479_00-TF30000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0807/3251bc7c55678139140ebf73908c0e908b935cd396a5762d.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP7064-PPSA30479_00-TF30000000000000",
-          "id": "EP7064-PPSA30479_00-TF30000000000000",
-          "title": "Transport Fever 3 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "標準版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP7064-PPSA30479_00-TF30000000000000",
-          "price": 468.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "EP7064-PPSA30479_00-TF3DLXEDITION000",
-          "id": "EP7064-PPSA30479_00-TF3DLXEDITION000",
-          "title": "Transport Fever 3: Deluxe Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "豪华版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP7064-PPSA30479_00-TF3DLXEDITION000",
-          "price": 568.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0807/9bd848e0e87606d7f109a83941ad903d9fd62d084cd9af01.png?w=160&thumb=false"
-    },
     {
       "key": "EP4405-PPSA35336_00-0843783698723479",
       "id": "EP4405-PPSA35336_00-0843783698723479",
