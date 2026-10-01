@@ -1,10 +1,10 @@
 {
   "region": "US",
   "store": "playstation",
-  "status": "success",
-  "attemptedAt": "2026-09-30T00:15:22-07:00",
-  "completedAt": "2026-09-30T00:17:04-07:00",
+  "status": "failed",
+  "attemptedAt": "2026-10-01T00:15:43-07:00",
+  "completedAt": "2026-10-01T00:15:45-07:00",
   "lastSuccessAt": "2026-09-30T00:17:04-07:00",
-  "requestCount": 113,
-  "error": null
+  "requestCount": 2,
+  "error": "SourceError: PlayStation coming-soon page unexpectedly empty"
 }

@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-09-30T00:15:21-07:00",
+  "updatedAt": "2026-10-01T00:15:43-07:00",
   "status": "success",
-  "gameCount": 42,
+  "gameCount": 40,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,74 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000108548",
-      "id": "70010000108548",
-      "conceptId": null,
-      "region": "us",
-      "title": "OCTOPATH TRAVELER II",
-      "edition": "Standard Edition",
-      "publisher": "SQUARE ENIX",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-01T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/octopath-traveler-ii-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000108548/d4ee410411bb207f269c574d30997c3bc5998109163ff42d2cf0043caba198cd",
-      "versions": [
-        {
-          "key": "70010000108548",
-          "id": "70010000108548",
-          "title": "OCTOPATH TRAVELER II",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/octopath-traveler-ii-switch-2/",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000108543",
-      "id": "70010000108543",
-      "conceptId": null,
-      "region": "us",
-      "title": "Octopath Traveler™",
-      "edition": "Standard Edition",
-      "publisher": "SQUARE ENIX",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-01T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": null,
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/octopath-traveler-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000108543/b792a2c9250cc70c335b63491dcad0c50884d282eb1e949e2223ab87c11193fd",
-      "versions": [
-        {
-          "key": "70010000108543",
-          "id": "70010000108543",
-          "title": "Octopath Traveler™",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/octopath-traveler-switch-2/",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000116712",
       "id": "70010000116712",
@@ -1011,7 +943,7 @@
       "datePrecision": "day",
       "releaseDate": "2026-11-06",
       "releaseAt": null,
-      "price": 39.99,
+      "price": 29.99,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
@@ -1025,7 +957,7 @@
           "title": "Hasbro Games™ Junior Collection",
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/hasbro-games-junior-collection-switch-2/",
-          "price": 39.99,
+          "price": 29.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
