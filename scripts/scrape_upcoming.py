@@ -14,6 +14,7 @@ import json
 import math
 from pathlib import Path
 import re
+import unicodedata
 from urllib.parse import urljoin, urlsplit
 from zoneinfo import ZoneInfo
 
@@ -41,6 +42,10 @@ EDITION_WORDS = re.compile(
     re.I,
 )
 EXCLUDE_WORDS = re.compile(r"体験版|試玩版|试玩版|デモ版|\bDemo\b|Upgrade\s*(?:Pack|Pass)|アップグレード|升級包|升级包", re.I)
+
+
+class IncompletePSPage(SourceError):
+    """A successful HTTP response without the requested official product."""
 
 
 def release(raw, now):
@@ -118,6 +123,32 @@ def sale_offer(price, original, end=None, start=None, raw_end=None, scope="publi
     return {"scope": scope, "price": price, "originalPrice": original,
             "discountPercent": float(percent), "startsAt": start, "endsAt": end,
             "endsAtRaw": raw_end}
+
+
+def timestamp(value):
+    if not isinstance(value, str) or not re.fullmatch(r"20\d\d-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d+)?(?:Z|[+-]\d\d:\d\d)", value):
+        raise SourceError("Invalid timestamp or missing time zone")
+    try:
+        result = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if result.utcoffset() is None:
+            raise ValueError("Missing time zone")
+        return result
+    except ValueError as exc:
+        raise SourceError("Invalid official timestamp") from exc
+
+
+def active_offer(offer, now):
+    return offer and (not offer.get("startsAt") or timestamp(offer["startsAt"]) <= now) and \
+        (not offer.get("endsAt") or timestamp(offer["endsAt"]) > now)
+
+
+def expire_offers(game, now):
+    offer = game.get("offer")
+    if offer and not active_offer(offer, now):
+        game["price"], game["originalPrice"], game["offer"] = offer["originalPrice"], None, None
+    if game.get("memberOffer") and not active_offer(game["memberOffer"], now):
+        game["memberOffer"] = None
+    return game
 
 
 def parse_hk_page(markup):
@@ -402,7 +433,7 @@ def ps_detail(markup, uid, region, listing_row):
         product.update(part)
         ctas.extend(v for k, v in cache.items() if k.startswith("GameCTA:") and uid in k and isinstance(v, dict) and v.get("local"))
     if product.get("id") != uid:
-        raise SourceError("PlayStation product detail missing identity")
+        raise IncompletePSPage(f"PlayStation product detail missing identity: {uid}")
     if product.get("storeDisplayClassification") not in PS_TYPES or "PS5" not in product.get("platforms", []):
         return None
     if EXCLUDE_WORDS.search(product.get("name") or ""):
@@ -498,7 +529,9 @@ def ps_concept_detail(markup, uid, region, listing_row):
         except ValueError:
             continue
         concept.update((payload.get("cache") or {}).get(f"Concept:{uid}") or {})
-    if concept.get("id") != uid or concept.get("isAnnounce") is not True:
+    if concept.get("id") != uid:
+        raise IncompletePSPage(f"PlayStation announced concept missing identity: {uid}")
+    if concept.get("isAnnounce") is not True:
         raise SourceError("PlayStation announced concept identity/status changed")
     if concept.get("defaultProduct") or concept.get("products"):
         raise SourceError("PlayStation announced concept became purchasable during scan")
@@ -542,14 +575,25 @@ def ps_concept_detail(markup, uid, region, listing_row):
     return game
 
 
+def ps_page_game(client, url, uid, region, row, announced):
+    parser = ps_concept_detail if announced else ps_detail
+    try:
+        return parser(client.request(url), uid, region, row)
+    except IncompletePSPage:
+        # The store CDN can serve an HTTP 200 shell with no product payload.
+        # Revalidate once against the same official page; never skip a product
+        # or publish a partial list when its identity still cannot be verified.
+        fresh_url = query_url(url, {"refresh": datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S%f")})
+        return parser(client.request(fresh_url, headers={"Cache-Control": "no-cache"}), uid, region, row)
+
+
 def scrape_ps(client, region, now):
     candidates, total = ps_candidates(client, region)
     games = []
     for uid, row in candidates:
         announced = bool(re.fullmatch(r"\d{1,20}", uid))
         url = f"https://store.playstation.com/{PS_PATHS[region]}/{'concept' if announced else 'product'}/{uid}"
-        parser = ps_concept_detail if announced else ps_detail
-        g = parser(client.request(url), uid, region, row)
+        g = ps_page_game(client, url, uid, region, row, announced)
         if g and still_upcoming(g, now):
             games.append(g)
     return games, {"name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
@@ -566,6 +610,7 @@ def group_games(games):
         return re.sub(r"\s*\((?=[^)]*(?:中文|英文|韓文|日文|Chinese|English|Japanese|Korean))[^)]*\)$", "", title, flags=re.I)
 
     def stem(title):
+        title = unicodedata.normalize("NFKC", title).translate(str.maketrans({"’": "'", "‘": "'"}))
         return EDITION_WORDS.sub("", without_languages(title)).strip(" -–—:：")
 
     groups = {}
@@ -589,47 +634,100 @@ def group_games(games):
 
 
 def validate_snapshot(data):
+    if not isinstance(data, dict):
+        raise SourceError("Invalid upcoming snapshot")
     region = str(data.get("region", "")).lower()
     store = data.get("store")
     if data.get("schemaVersion") != 1 or data.get("kind") != "upcoming" or region not in ZONES or store not in ("nintendo", "playstation"):
         raise SourceError("Invalid upcoming snapshot metadata")
-    if data.get("status") != "success" or data.get("currency") != CURRENCIES[region] or data.get("timezone") != ZONES[region]:
+    if data.get("region") != region.upper() or data.get("status") != "success" or data.get("currency") != CURRENCIES[region] or data.get("timezone") != ZONES[region]:
         raise SourceError("Invalid upcoming snapshot context")
-    datetime.fromisoformat(data["updatedAt"])
+    source = data.get("source")
+    if source is not None and not isinstance(source, dict):
+        raise SourceError("Invalid upcoming source metadata")
+    notes = (source or {}).get("notes")
+    if notes is not None and (not isinstance(notes, list) or any(not isinstance(note, str) for note in notes)):
+        raise SourceError("Invalid upcoming source notes")
+    updated = timestamp(data.get("updatedAt"))
+    if (updated - datetime.now(timezone.utc)).total_seconds() > 300:
+        raise SourceError("Upcoming completion time is in the future")
     games = data.get("games")
-    if not isinstance(games, list) or not games or data.get("gameCount") != len(games):
+    if not isinstance(games, list) or not 0 < len(games) <= 25000 or type(data.get("gameCount")) is not int or data.get("gameCount") != len(games):
         raise SourceError("Empty or incomplete upcoming snapshot; preserving previous data")
-    if len({g.get("key") for g in games}) != len(games):
-        raise SourceError("Duplicate upcoming game key")
+
+    def numeric(value):
+        if isinstance(value, bool) or not isinstance(value, (int, float)):
+            raise SourceError("Upcoming prices must be JSON numbers")
+        return amount(value)
+
+    def offer_valid(offer, scope):
+        if offer is None:
+            return
+        if not isinstance(offer, dict) or offer.get("scope") != scope:
+            raise SourceError("Upcoming offer scope changed")
+        current, original = numeric(offer.get("price")), numeric(offer.get("originalPrice"))
+        percent = offer.get("discountPercent")
+        if original <= current or isinstance(percent, bool) or not isinstance(percent, (float, int)) or not math.isfinite(percent) or not 0 <= percent <= 100 or abs(percent - (1 - current / original) * 100) > .11:
+            raise SourceError("Invalid upcoming offer amounts")
+        for field in ("startsAt", "endsAt"):
+            if offer.get(field) is not None:
+                timestamp(offer[field])
+        if offer.get("startsAt") and offer.get("endsAt") and timestamp(offer["startsAt"]) >= timestamp(offer["endsAt"]):
+            raise SourceError("Invalid upcoming offer interval")
+        if offer.get("endsAtRaw") is not None and not isinstance(offer["endsAtRaw"], str):
+            raise SourceError("Invalid raw upcoming offer deadline")
+
+    def version_valid(version):
+        if not isinstance(version, dict) or any(not isinstance(version.get(k), str) or not version[k].strip() for k in ("key", "title", "url")):
+            raise SourceError("Invalid upcoming version identity")
+        for field in ("id", "edition"):
+            if version.get(field) is not None and not isinstance(version[field], str):
+                raise SourceError("Invalid upcoming optional text")
+        (playstation_url if store == "playstation" else official_url)(version["url"])
+        if store == "nintendo" and not any(urlsplit(version["url"]).hostname == h or urlsplit(version["url"]).hostname.endswith("." + h) for h in ("nintendo.com", "nintendo.co.jp", "nintendo.com.hk")):
+            raise SourceError("Unexpected Nintendo product host")
+        for field in ("price", "originalPrice"):
+            if version.get(field) is not None:
+                numeric(version[field])
+        if version.get("originalPrice") is not None and (version.get("price") is None or version["originalPrice"] <= version["price"]):
+            raise SourceError("Invalid upcoming original price")
+        offer_valid(version.get("offer"), "public")
+        offer_valid(version.get("memberOffer"), "member")
+        if version.get("offer") and (version["offer"]["price"] != version.get("price") or version["offer"]["originalPrice"] != version.get("originalPrice")):
+            raise SourceError("Upcoming offer disagrees with its version price")
+
     for g in games:
+        version_valid(g)
+        for field in ("publisher", "conceptId", "releaseDateRaw"):
+            if g.get(field) is not None and not isinstance(g[field], str):
+                raise SourceError("Invalid upcoming game text")
         if not g.get("title") or g.get("region") != region or g.get("currency") != CURRENCIES[region]:
             raise SourceError("Invalid upcoming game identity")
         if g.get("platform") != ("ps5" if store == "playstation" else "switch2"):
             raise SourceError("Invalid upcoming platform")
         if g.get("datePrecision") not in ("day", "year", "season", "tbd"):
             raise SourceError("Invalid upcoming date precision")
-        if g["datePrecision"] == "day" and not g.get("releaseDate"):
-            raise SourceError("Missing exact upcoming date")
-        if g["datePrecision"] != "day" and g.get("releaseDate"):
+        if g["datePrecision"] == "day":
+            try:
+                value = g.get("releaseDate")
+                if not isinstance(value, str) or date.fromisoformat(value).isoformat() != value:
+                    raise ValueError("Missing date")
+            except ValueError as exc:
+                raise SourceError("Invalid exact upcoming date") from exc
+        if g["datePrecision"] != "day" and g.get("releaseDate") is not None:
             raise SourceError("Approximate upcoming date fabricated")
-        (playstation_url if store == "playstation" else official_url)(g.get("url"))
-        if not g.get("url"):
-            raise SourceError("Missing official upcoming link")
+        if g.get("releaseAt") is not None:
+            timestamp(g["releaseAt"])
         image_url(g.get("image"), store)
-        if g.get("price") is not None:
-            amount(g["price"])
-        if g.get("offer"):
-            o = g["offer"]
-            if o.get("scope") != "public" or o.get("price") != g["price"] or o.get("originalPrice") != g["originalPrice"] or not o["originalPrice"] > o["price"] >= 0:
-                raise SourceError("Invalid public upcoming offer")
-            if o.get("endsAt"):
-                datetime.fromisoformat(o["endsAt"].replace("Z", "+00:00"))
-        if g.get("memberOffer") and g["memberOffer"].get("scope") != "member":
-            raise SourceError("Member offer mislabelled")
-        if g.get("memberOffer") and g["memberOffer"].get("endsAt"):
-            datetime.fromisoformat(g["memberOffer"]["endsAt"].replace("Z", "+00:00"))
+        image_url(g.get("imageFallback"), store)
         if not isinstance(g.get("versions"), list) or not g["versions"]:
             raise SourceError("Upcoming versions missing")
+        for version in g["versions"]:
+            version_valid(version)
+        if len({v["key"] for v in g["versions"]}) != len(g["versions"]):
+            raise SourceError("Duplicate upcoming version key")
+    if len({g["key"] for g in games}) != len(games):
+        raise SourceError("Duplicate upcoming game key")
     return data
 
 
@@ -655,8 +753,8 @@ def refresh(region, store, directory, client=None, scraper=None, clock=None):
             games, source = scrape_ps(client, region, now)
         else:
             games, source = {"hk": scrape_hk, "jp": scrape_jp, "us": scrape_us}[region](client, now)
-        games = group_games([g for g in games if still_upcoming(g, now)])
         completed = datetime.now(ZoneInfo(ZONES[region])) if clock is None else clock
+        games = group_games([expire_offers(g, completed) for g in games if still_upcoming(g, completed)])
         snapshot = {"schemaVersion": 1, "kind": "upcoming", "store": store, "region": region.upper(),
                     "timezone": ZONES[region], "currency": CURRENCIES[region],
                     "updatedAt": completed.isoformat(timespec="seconds"), "status": "success",
