@@ -523,6 +523,10 @@ def ps_concept_detail(markup, uid, region, listing_row):
     # Prefer the verbatim official date label for year/season/TBD precision.
     labels = tree.xpath('//*[@data-qa="mfe-game-title#release-date"]')
     label = " ".join(labels[0].text_content().split()) if labels else None
+    # A near-release title header can show a ticking countdown rather than a
+    # date. Fall back to the structured official date, never the countdown.
+    if label and re.fullmatch(r"\d{1,3}:\d{2}:\d{2}", label):
+        label = None
     if kind != "DAY_MONTH_YEAR" and label:
         raw = label
     art, fallback = ps_artwork(concept.get("media") or listing_row.get("media") or [])
