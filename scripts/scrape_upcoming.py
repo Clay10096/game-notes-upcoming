@@ -362,11 +362,19 @@ def ps_candidates(client, region):
         if products:
             entries = [(p.get("id"), p) for p in products]
         elif concepts:
-            entries = [(p.get("id"), None) for concept in concepts for p in concept.get("products", [])]
-        if not entries:
-            raise SourceError("PlayStation coming-soon page unexpectedly empty")
+            for concept in concepts:
+                linked = concept.get("products")
+                if not isinstance(linked, list):
+                    raise SourceError("PlayStation coming-soon concept products missing")
+                if linked:
+                    entries.extend((p.get("id"), None) for p in linked)
+                else:
+                    # Announced games have a concept page before a purchasable
+                    # product exists. An entire valid page can contain these.
+                    entries.append((concept["id"], concept))
         for uid, row in entries:
-            if not uid or not re.fullmatch(r"[A-Z0-9_-]{16,80}", uid):
+            pattern = r"\d{1,20}" if row is not None and concepts and not products else r"[A-Z0-9_-]{16,80}"
+            if not uid or not re.fullmatch(pattern, uid):
                 raise SourceError("PlayStation coming-soon product ID missing")
             if uid not in seen:
                 seen.add(uid)
@@ -480,12 +488,64 @@ def ps_detail(markup, uid, region, listing_row):
     return g
 
 
+def ps_concept_detail(markup, uid, region, listing_row):
+    """Read announced games without inventing a product ID or price."""
+    tree = html.fromstring(markup)
+    concept = {}
+    for script in tree.xpath('//script[@type="application/json"]'):
+        try:
+            payload = json.loads(script.text or "")
+        except ValueError:
+            continue
+        concept.update((payload.get("cache") or {}).get(f"Concept:{uid}") or {})
+    if concept.get("id") != uid or concept.get("isAnnounce") is not True:
+        raise SourceError("PlayStation announced concept identity/status changed")
+    if concept.get("defaultProduct") or concept.get("products"):
+        raise SourceError("PlayStation announced concept became purchasable during scan")
+    if EXCLUDE_WORDS.search(concept.get("name") or ""):
+        return None
+    compatibility = concept.get("compatibilityNoticesByPlatform") or {}
+    if "PS5" not in (concept.get("platforms") or []) and not compatibility.get("PS5"):
+        # Compatibility notices on the official page identify platforms even
+        # when the announced concept's platforms array is empty.
+        return None
+    official_date = concept.get("releaseDate") or {}
+    kind, value = official_date.get("type"), official_date.get("value")
+    release_at = None
+    if kind == "DAY_MONTH_YEAR":
+        try:
+            release_at = datetime.fromisoformat(value.replace("Z", "+00:00")).isoformat()
+        except (ValueError, AttributeError) as exc:
+            raise SourceError("PlayStation announced release date changed") from exc
+        raw = release_at[:10]
+    else:
+        raw = value
+    # Prefer the verbatim official date label for year/season/TBD precision.
+    labels = tree.xpath('//*[@data-qa="mfe-game-title#release-date"]')
+    label = " ".join(labels[0].text_content().split()) if labels else None
+    if kind != "DAY_MONTH_YEAR" and label:
+        raw = label
+    art, fallback = ps_artwork(concept.get("media") or listing_row.get("media") or [])
+    if not art:
+        raise SourceError("PlayStation announced cover missing")
+    game = base_game(region, "playstation", concept.get("name"), raw,
+                     f"https://store.playstation.com/{PS_PATHS[region]}/concept/{uid}",
+                     art, publisher=concept.get("publisherName"), concept=uid,
+                     release_at=release_at)
+    if label:
+        game["releaseDateRaw"] = label
+    game["imageFallback"] = fallback
+    return game
+
+
 def scrape_ps(client, region, now):
     candidates, total = ps_candidates(client, region)
     games = []
     for uid, row in candidates:
-        url = f"https://store.playstation.com/{PS_PATHS[region]}/product/{uid}"
-        g = ps_detail(client.request(url), uid, region, row)
+        announced = bool(re.fullmatch(r"\d{1,20}", uid))
+        url = f"https://store.playstation.com/{PS_PATHS[region]}/{'concept' if announced else 'product'}/{uid}"
+        parser = ps_concept_detail if announced else ps_detail
+        g = parser(client.request(url), uid, region, row)
         if g and still_upcoming(g, now):
             games.append(g)
     return games, {"name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
