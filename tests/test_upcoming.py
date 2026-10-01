@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from common import SourceError
-from scrape_upcoming import (base_game, group_games, ps_detail, refresh, release,
+from scrape_upcoming import (base_game, group_games, ps_candidates, ps_concept_detail, ps_detail, refresh, release,
                              sale_offer, still_upcoming, validate_snapshot)
 
 
@@ -106,6 +106,46 @@ class UpcomingTests(unittest.TestCase):
             status = json.loads((directory / "upcoming-ns2-jp.status.json").read_text())
             self.assertEqual(status["status"], "failed")
             self.assertEqual(status["lastSuccessAt"], second["updatedAt"])
+
+    def test_announced_only_last_page_is_not_a_failed_scan(self):
+        product_id = "UP1234-PPSA12345_00-EXAMPLE000000000"
+        first = [{"id": str(i), "products": [{"id": product_id}]} for i in range(100)]
+        last = [{"id": "10017135", "products": []}]
+        class FixtureClient:
+            def json(self, url, headers):
+                rows = first if not getattr(self, "called", False) else last
+                offset = 0 if rows is first else 100
+                self.called = True
+                return {"data": {"categoryGridRetrieve": {"products": [], "concepts": rows,
+                    "pageInfo": {"totalCount": 101, "offset": offset, "isLast": offset == 100}}}}
+        candidates, total = ps_candidates(FixtureClient(), "us")
+        self.assertEqual(total, 101)
+        self.assertEqual(candidates, [(product_id, None), ("10017135", last[0])])
+        first[0]["products"] = None
+        with self.assertRaises(SourceError):
+            ps_candidates(FixtureClient(), "us")
+
+    def test_announced_concept_preserves_unpriced_release_and_platform(self):
+        concept = {"id": "12345", "isAnnounce": True, "products": [], "defaultProduct": None,
+                   "name": "Announced game", "publisherName": "Example publisher", "platforms": [],
+                   "compatibilityNoticesByPlatform": {"PS5": [{"type": "PS5_VIBRATION"}]},
+                   "media": [{"type": "IMAGE", "role": "GAMEHUB_COVER_ART",
+                              "url": "https://image.api.playstation.com/example.jpg"}],
+                   "releaseDate": {"type": "DAY_MONTH_YEAR", "value": "2026-10-14T14:00:00Z"}}
+        def markup(label):
+            return '<html><body><script type="application/json">' + json.dumps({"cache": {"Concept:12345": concept}}) + \
+                   '</script><span data-qa="mfe-game-title#release-date">' + label + '</span></body></html>'
+        game = ps_concept_detail(markup("10/14/2026 02:00 PM UTC"), "12345", "us", concept)
+        self.assertIsNone(game["id"])
+        self.assertIsNone(game["price"])
+        self.assertEqual(game["releaseDate"], "2026-10-14")
+        self.assertEqual(game["releaseAt"], "2026-10-14T14:00:00+00:00")
+        concept["releaseDate"] = {"type": "YEAR", "value": "2027"}
+        game = ps_concept_detail(markup("2027"), "12345", "us", concept)
+        self.assertEqual(game["datePrecision"], "year")
+        self.assertIsNone(game["releaseDate"])
+        concept["compatibilityNoticesByPlatform"] = {"PS4": [{}]}
+        self.assertIsNone(ps_concept_detail(markup("2027"), "12345", "us", concept))
 
     def snapshot(self, games):
         games = group_games(games)
