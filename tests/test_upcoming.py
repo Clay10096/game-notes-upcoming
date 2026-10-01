@@ -140,6 +140,8 @@ class UpcomingTests(unittest.TestCase):
         self.assertIsNone(game["price"])
         self.assertEqual(game["releaseDate"], "2026-10-14")
         self.assertEqual(game["releaseAt"], "2026-10-14T14:00:00+00:00")
+        countdown = ps_concept_detail(markup("03:32:51"), "12345", "us", concept)
+        self.assertEqual(countdown["releaseDateRaw"], "2026-10-14")
         concept["releaseDate"] = {"type": "YEAR", "value": "2027"}
         game = ps_concept_detail(markup("2027"), "12345", "us", concept)
         self.assertEqual(game["datePrecision"], "year")
