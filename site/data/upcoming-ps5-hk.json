@@ -5,104 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-01T00:19:03+08:00",
+  "updatedAt": "2026-10-01T17:13:02+08:00",
   "status": "success",
-  "gameCount": 78,
+  "gameCount": 75,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 97,
-    "productPages": 97,
+    "candidateCount": 95,
+    "productPages": 95,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-      "id": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-      "conceptId": "10012377",
-      "region": "hk",
-      "title": "End of Abyss (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": null,
-      "publisher": "Epic Games Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "1/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T04:00:00+00:00",
-      "price": 238.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 214.2,
-        "originalPrice": 238.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-01T04:00:00.000Z",
-        "endsAtRaw": "2026-10-01T04:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP1597-PPSA25717_00-ENDOFABYSS000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1019/0d2e73708559cde05e59a29b70a4f4eebde405d55dce9958.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-          "id": "HP1597-PPSA25717_00-ENDOFABYSS000000",
-          "title": "End of Abyss (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": null,
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP1597-PPSA25717_00-ENDOFABYSS000000",
-          "price": 238.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 214.2,
-            "originalPrice": 238.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-01T04:00:00.000Z",
-            "endsAtRaw": "2026-10-01T04:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0619/a6f666be2918286733383cf4c7a06d5fa6aebe7302329598.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "EP6665-PPSA30839_00-MXGP200000000000",
-      "id": "EP6665-PPSA30839_00-MXGP200000000000",
-      "conceptId": "10015195",
-      "region": "hk",
-      "title": "MXGP 26 - The Official Game (簡體中文, 韓文, 英文, 日文)",
-      "edition": "Standard Edition",
-      "publisher": "NACON SA",
-      "platform": "ps5",
-      "releaseDateRaw": "1/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T08:00:00+00:00",
-      "price": 468.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA30839_00-MXGP200000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1014/3d8f163859e7f3d6ed0fa8cd48696c8b93f39a1a7bdd05eb.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA30839_00-MXGP200000000000",
-          "id": "EP6665-PPSA30839_00-MXGP200000000000",
-          "title": "MXGP 26 - The Official Game (簡體中文, 韓文, 英文, 日文)",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA30839_00-MXGP200000000000",
-          "price": 468.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1014/abc3886d85c71ea3f8fb590fdda68e8ac5b34a50c182343e.jpg?w=160&thumb=false"
-    },
     {
       "key": "JP0700-PPSA24913_00-MAINGAME00000000",
       "id": "JP0700-PPSA24913_00-MAINGAME00000000",
@@ -496,35 +410,11 @@
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/0e674208eb71f10df39ad1f9deab22425521ed6ff72bab9a.png?w=160&thumb=false"
-    },
-    {
-      "key": "EP6853-PPSA25642_00-DELUXE0000000000",
-      "id": "EP6853-PPSA25642_00-DELUXE0000000000",
-      "conceptId": "10012313",
-      "region": "hk",
-      "title": "Clive Barker’s Hellraiser: Revival - Deluxe Edition (中英文版)",
-      "edition": "Deluxe Edition",
-      "publisher": "Saber Interactive, Inc",
-      "platform": "ps5",
-      "releaseDateRaw": "8/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-08",
-      "releaseAt": "2026-10-08T12:00:00+00:00",
-      "price": 398.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP6853-PPSA25642_00-DELUXE0000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1314/aecf3b890cd36fe56211dcbe4e15ed1aa55428daea316587.png?w=160&thumb=false",
-      "versions": [
+        },
         {
           "key": "EP6853-PPSA25642_00-DELUXE0000000000",
           "id": "EP6853-PPSA25642_00-DELUXE0000000000",
-          "title": "Clive Barker’s Hellraiser: Revival - Deluxe Edition (中英文版)",
+          "title": "Clive Barker’s Hellraiser: Revival - Deluxe Edition (英文)",
           "edition": "Deluxe Edition",
           "url": "https://store.playstation.com/zh-hant-hk/product/EP6853-PPSA25642_00-DELUXE0000000000",
           "price": 398.0,
@@ -533,7 +423,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1314/8c51045f253f44f1145412ec3b9ee726a52f52c4db651528.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/0e674208eb71f10df39ad1f9deab22425521ed6ff72bab9a.png?w=160&thumb=false"
     },
     {
       "key": "HP0102-PPSA18727_00-DD2DA00000000000",
