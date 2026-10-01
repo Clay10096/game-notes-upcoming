@@ -2,9 +2,9 @@
   "region": "HK",
   "store": "nintendo",
   "status": "success",
-  "attemptedAt": "2026-10-01T00:16:49+08:00",
-  "completedAt": "2026-10-01T00:17:04+08:00",
-  "lastSuccessAt": "2026-10-01T00:17:04+08:00",
+  "attemptedAt": "2026-10-01T17:07:28+08:00",
+  "completedAt": "2026-10-01T17:08:13+08:00",
+  "lastSuccessAt": "2026-10-01T17:08:13+08:00",
   "requestCount": 23,
   "error": null
 }

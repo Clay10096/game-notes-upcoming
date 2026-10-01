@@ -1,14 +1,17 @@
 import json
+from copy import deepcopy
 from datetime import datetime
 from pathlib import Path
 import sys
 import tempfile
 import unittest
 from zoneinfo import ZoneInfo
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from common import SourceError
-from scrape_upcoming import (base_game, group_games, ps_candidates, ps_concept_detail, ps_detail, refresh, release,
+from check_site import validate_status
+from scrape_upcoming import (base_game, expire_offers, group_games, ps_candidates, ps_concept_detail, ps_detail, ps_page_game, refresh, release, scrape_jp,
                              sale_offer, still_upcoming, validate_snapshot)
 
 
@@ -148,6 +151,119 @@ class UpcomingTests(unittest.TestCase):
         self.assertIsNone(game["releaseDate"])
         concept["compatibilityNoticesByPlatform"] = {"PS4": [{}]}
         self.assertIsNone(ps_concept_detail(markup("2027"), "12345", "us", concept))
+
+    def test_every_edition_must_be_decodable_and_valid_before_publishing(self):
+        snapshot = self.snapshot([self.game(price=100)])
+        for field, value in (("price", "100"), ("price", float("nan")), ("price", -1),
+                             ("price", True), ("originalPrice", 80), ("title", None),
+                             ("url", "https://example.com/game"), ("id", 123)):
+            with self.subTest(field=field, value=value):
+                broken = deepcopy(snapshot)
+                broken["games"][0]["versions"][0][field] = value
+                with self.assertRaises(SourceError):
+                    validate_snapshot(broken)
+        for field, value in (("releaseDate", "2026-02-30"), ("releaseAt", "2026-10-01T00:00:00")):
+            broken = deepcopy(snapshot)
+            broken["games"][0][field] = value
+            with self.assertRaises(SourceError):
+                validate_snapshot(broken)
+
+    def test_bad_member_discount_never_passes_as_an_ordinary_valid_price(self):
+        snapshot = self.snapshot([self.game(price=100)])
+        offer = sale_offer(80, 100, "2026-10-20T00:00:00Z", scope="member")
+        for field, value in (("scope", "public"), ("price", "80"), ("originalPrice", -100),
+                             ("discountPercent", 99), ("endsAt", "2026-02-30T00:00:00Z")):
+            broken = deepcopy(snapshot)
+            broken["games"][0]["versions"][0]["memberOffer"] = {**offer, field: value}
+            with self.assertRaises(SourceError):
+                validate_snapshot(broken)
+
+    def test_expired_offers_are_removed_at_the_cutoff_without_losing_regular_price(self):
+        game = self.game(price=80)
+        game["originalPrice"] = 100
+        game["offer"] = sale_offer(80, 100, self.now.isoformat())
+        game["memberOffer"] = sale_offer(70, 100, self.now.isoformat(), scope="member")
+        expire_offers(game, self.now)
+        self.assertEqual(game["price"], 100)
+        self.assertIsNone(game["originalPrice"])
+        self.assertIsNone(game["offer"])
+        self.assertIsNone(game["memberOffer"])
+        game["offer"] = sale_offer(80, 100)
+        expire_offers(game, self.now)
+        self.assertIsNotNone(game["offer"])
+
+    def test_empty_or_invalid_source_keeps_snapshot_bytes_and_marks_failure(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            directory = Path(tmp)
+            refresh("jp", "nintendo", directory, scraper=lambda c, n: ([self.game()], {}), clock=self.now)
+            path = directory / "upcoming-ns2-jp.json"
+            before = path.read_bytes()
+            bad = self.game(price=100)
+            bad["memberOffer"] = sale_offer(80, 100, scope="public")
+            for games in ([], [bad]):
+                with self.assertRaises(SourceError):
+                    refresh("jp", "nintendo", directory, scraper=lambda c, n: (games, {}), clock=self.now)
+                self.assertEqual(path.read_bytes(), before)
+                state = json.loads((directory / "upcoming-ns2-jp.status.json").read_text())
+                self.assertEqual(state["status"], "failed")
+                validate_status(state, json.loads(before))
+
+    def test_punctuation_variants_merge_but_early_release_editions_stay_separate(self):
+        def product(uid, title, raw):
+            return base_game("us", "playstation", title, raw,
+                "https://store.playstation.com/en-us/product/" + uid, None, uid=uid, concept="123", price=40)
+        standard = product("STANDARD", "Clive Barker’s Hellraiser", "2026-10-29")
+        deluxe = product("DELUXE", "Clive Barker's Hellraiser Deluxe Edition", "2026-10-29")
+        early = product("EARLY", "Clive Barker's Hellraiser Deluxe Edition", "2026-10-26")
+        result = group_games([standard, deluxe, early])
+        self.assertEqual(len(result), 2)
+        self.assertEqual(len(next(g for g in result if g["releaseDate"] == "2026-10-29")["versions"]), 2)
+
+    def test_status_must_match_the_snapshot_it_describes(self):
+        snapshot = self.snapshot([self.game()])
+        status = {"region": "JP", "store": "nintendo", "status": "success", "error": None,
+                  "attemptedAt": snapshot["updatedAt"], "completedAt": snapshot["updatedAt"],
+                  "lastSuccessAt": snapshot["updatedAt"]}
+        validate_status(status, snapshot)
+        for field, value in (("region", "HK"), ("lastSuccessAt", "2026-09-28T12:00:00+09:00"),
+                             ("attemptedAt", "2026-09-30T12:00:00+09:00"), ("completedAt", "2026-09-29T12:00:00")):
+            with self.assertRaises(SourceError):
+                validate_status({**status, field: value}, snapshot)
+
+    def test_jp_search_keeps_hardware_announced_games_and_full_bundles(self):
+        base = {"id": "announced", "title": "Announced game", "sdate": "2027年", "ssitu": "not_found",
+                "sform": None, "url": "https://www.nintendo.com/jp/games/switch2/index.html"}
+        rows = [base, {**base, "id": "console", "title": "Console", "sform": "hard"},
+                {**base, "id": "controller", "title": "Controller", "sform": "accessory"},
+                {**base, "id": "console-bundle", "title": "Console bundle", "sform": "hard-soft"},
+                {**base, "id": "uncategorized-hardware", "title": "Accessory", "url": "https://www.nintendo.com/jp/hardware/switch2/index.html"},
+                {**base, "id": "70070000000001", "nsuid": "70070000000001", "title": "Complete bundle", "sform": "DL_DLC"},
+                {**base, "id": "70050000000001", "nsuid": "70050000000001", "title": "Standalone DLC", "sform": "DL_DLC"}]
+        with patch("scrape_upcoming.jp_rows", return_value=(rows, len(rows))):
+            games, source = scrape_jp(None, self.now)
+        self.assertEqual({g["title"] for g in games}, {"Announced game", "Complete bundle", "Console", "Controller", "Console bundle", "Accessory"})
+
+    def test_http_200_shell_is_revalidated_once_without_skipping_a_product(self):
+        uid = "JP1234-PPSA12345_00-EXAMPLE000000000"
+        product = {"id": uid, "name": "Example", "releaseDate": "2027-01-01T00:00:00Z",
+                   "storeDisplayClassification": "FULL_GAME", "platforms": ["PS5"],
+                   "media": [{"type": "IMAGE", "role": "GAMEHUB_COVER_ART", "url": "https://image.api.playstation.com/example.jpg"}]}
+        markup = '<html><body><script type="application/json">' + json.dumps({"cache": {"Product:" + uid: product}}) + '</script></body></html>'
+        class FixtureClient:
+            calls = []
+            def request(self, url, headers=None):
+                self.calls.append((url, headers))
+                return markup if len(self.calls) == 2 else '<html><body>Store loading</body></html>'
+        client = FixtureClient()
+        url = "https://store.playstation.com/ja-jp/product/" + uid
+        game = ps_page_game(client, url, uid, "jp", None, False)
+        self.assertEqual(game["id"], uid)
+        self.assertEqual(game["releaseDate"], "2027-01-01")
+        self.assertEqual(len(client.calls), 2)
+        self.assertTrue(client.calls[1][0].startswith(url + "?refresh="))
+        self.assertEqual(client.calls[1][1], {"Cache-Control": "no-cache"})
+        with self.assertRaises(SourceError):
+            ps_page_game(client, url, uid, "jp", None, False)
 
     def snapshot(self, games):
         games = group_games(games)

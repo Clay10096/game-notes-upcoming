@@ -5,64 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-01T00:28:22+09:00",
+  "updatedAt": "2026-10-01T18:28:18+09:00",
   "status": "success",
-  "gameCount": 73,
+  "gameCount": 72,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 86,
-    "productPages": 86,
+    "candidateCount": 84,
+    "productPages": 84,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "JP0700-PPSA24913_00-MAINGAME00000000",
-      "id": "JP0700-PPSA24913_00-MAINGAME00000000",
-      "conceptId": "10011942",
-      "region": "jp",
-      "title": "ACE COMBAT 8: WINGS OF THEVE",
-      "edition": "STANDARD EDITION",
-      "publisher": "株式会社バンダイナムコエンターテインメント",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/1",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T22:00:00+00:00",
-      "price": 9790.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP0700-PPSA24913_00-MAINGAME00000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/5b1e1e52f2aefd528167ef0e65d03276863d5104794d5a21.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0700-PPSA24913_00-MAINGAME00000000",
-          "id": "JP0700-PPSA24913_00-MAINGAME00000000",
-          "title": "ACE COMBAT 8: WINGS OF THEVE",
-          "edition": "STANDARD EDITION",
-          "url": "https://store.playstation.com/ja-jp/product/JP0700-PPSA24913_00-MAINGAME00000000",
-          "price": 9790.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "JP0700-PPSA24913_00-ACEC8DLXEDITION0",
-          "id": "JP0700-PPSA24913_00-ACEC8DLXEDITION0",
-          "title": "ACE COMBAT 8: WINGS OF THEVE DELUXE EDITION",
-          "edition": "DELUXE EDITION",
-          "url": "https://store.playstation.com/ja-jp/product/JP0700-PPSA24913_00-ACEC8DLXEDITION0",
-          "price": 11990.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/ebd85af04fb911d1bc6d6c640f3ee286fb1542c2ea4e8e18.png?w=160&thumb=false"
-    },
     {
       "key": "EP6665-PPSA33917_00-GCU30DELUXE00001",
       "id": "EP6665-PPSA33917_00-GCU30DELUXE00001",
