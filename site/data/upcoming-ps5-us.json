@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-01T01:27:26-07:00",
+  "updatedAt": "2026-10-01T02:17:28-07:00",
   "status": "success",
-  "gameCount": 98,
+  "gameCount": 97,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
@@ -385,31 +385,7 @@
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/0e674208eb71f10df39ad1f9deab22425521ed6ff72bab9a.png?w=160&thumb=false"
-    },
-    {
-      "key": "EP6853-PPSA25642_00-DELUXE0000000000",
-      "id": "EP6853-PPSA25642_00-DELUXE0000000000",
-      "conceptId": "10012313",
-      "region": "us",
-      "title": "Clive Barker’s Hellraiser: Revival - Deluxe Edition",
-      "edition": "Deluxe Edition",
-      "publisher": "Saber Interactive, Inc",
-      "platform": "ps5",
-      "releaseDateRaw": "10/8/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-08",
-      "releaseAt": "2026-10-08T12:00:00+00:00",
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/EP6853-PPSA25642_00-DELUXE0000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1314/aecf3b890cd36fe56211dcbe4e15ed1aa55428daea316587.png?w=160&thumb=false",
-      "versions": [
+        },
         {
           "key": "EP6853-PPSA25642_00-DELUXE0000000000",
           "id": "EP6853-PPSA25642_00-DELUXE0000000000",
@@ -422,7 +398,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1314/8c51045f253f44f1145412ec3b9ee726a52f52c4db651528.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/0e674208eb71f10df39ad1f9deab22425521ed6ff72bab9a.png?w=160&thumb=false"
     },
     {
       "key": "cef7734fe0b717fe70d2",
