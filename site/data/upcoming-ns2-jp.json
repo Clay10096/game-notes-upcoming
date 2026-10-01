@@ -5,51 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-01T18:12:28+09:00",
+  "updatedAt": "2026-10-02T00:25:07+09:00",
   "status": "success",
   "gameCount": 116,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 838,
+    "candidateCount": 839,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "c48f6862024c235fa551",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "Lies of P（ライズ オブ ピー）：コンプリート エディション",
-      "edition": null,
-      "publisher": "NEOWIZ",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.2",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-02",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "c48f6862024c235fa551",
-          "id": null,
-          "title": "Lies of P（ライズ オブ ピー）：コンプリート エディション",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000121359",
       "id": "70010000121359",
@@ -78,6 +44,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000121359",
           "price": 5170.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000116558",
+      "id": "70010000116558",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Forever Ago",
+      "edition": null,
+      "publisher": "Annapurna Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.8",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-08",
+      "releaseAt": null,
+      "price": 2300.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000116558",
+      "image": "https://img-eshop.cdn.nintendo.net/i/23c470f5668bb843f92a43c21e83d4a3e6884841f360cefe75910bb12f4fdcb5.jpg",
+      "versions": [
+        {
+          "key": "70010000116558",
+          "id": "70010000116558",
+          "title": "Forever Ago",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000116558",
+          "price": 2300.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
