@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-02T00:14:34+08:00",
+  "updatedAt": "2026-10-03T00:14:29+08:00",
   "status": "success",
-  "gameCount": 44,
+  "gameCount": 51,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 507,
+    "candidateCount": 520,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -187,6 +187,56 @@
       ]
     },
     {
+      "key": "70010000133913",
+      "id": "70010000133913",
+      "conceptId": null,
+      "region": "hk",
+      "title": "《幽室鬼牌》（Deck of Haunts）",
+      "edition": null,
+      "publisher": "DANGEN Entertainment",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-08",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-08",
+      "releaseAt": null,
+      "price": 133.0,
+      "originalPrice": 148.0,
+      "currency": "HKD",
+      "offer": {
+        "scope": "public",
+        "price": 133.0,
+        "originalPrice": 148.0,
+        "discountPercent": 10.1,
+        "startsAt": "2026-09-30T16:00:00Z",
+        "endsAt": "2026-10-14T15:59:59Z",
+        "endsAtRaw": "2026-10-14T15:59:59Z"
+      },
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000133913",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001339132471aab2bd0b11f1a1d02b936ab55538/6c3747318d9eb9643e65f52e066b135a/cf584deffa5a2d61033b7e268a282f82c7514e7dac4f3ba14d9b3046ff9d0314.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000133913",
+          "id": "70010000133913",
+          "title": "《幽室鬼牌》（Deck of Haunts）",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000133913",
+          "price": 133.0,
+          "originalPrice": 148.0,
+          "offer": {
+            "scope": "public",
+            "price": 133.0,
+            "originalPrice": 148.0,
+            "discountPercent": 10.1,
+            "startsAt": "2026-09-30T16:00:00Z",
+            "endsAt": "2026-10-14T15:59:59Z",
+            "endsAtRaw": "2026-10-14T15:59:59Z"
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000133054",
       "id": "70010000133054",
       "conceptId": null,
@@ -237,6 +287,40 @@
       ]
     },
     {
+      "key": "70010000130889",
+      "id": "70010000130889",
+      "conceptId": null,
+      "region": "hk",
+      "title": "魔物之王 (Mamon King) For Nintendo Switch 2",
+      "edition": null,
+      "publisher": "LiTMUS",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-08",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-08",
+      "releaseAt": null,
+      "price": 83.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000130889",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001308891e22c5d3bd0b11f1bdec53cc470e4195/e6dc0bdd9cf195b44138fdd4215d0f5e/24ba7faac7d192f309c991b5651ac893ed4469a9ab522179abf57a4622df6592.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000130889",
+          "id": "70010000130889",
+          "title": "魔物之王 (Mamon King) For Nintendo Switch 2",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000130889",
+          "price": 83.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000118033",
       "id": "70010000118033",
       "conceptId": null,
@@ -264,6 +348,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000118033",
           "price": 378.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000124342",
+      "id": "70010000124342",
+      "conceptId": null,
+      "region": "hk",
+      "title": "沉星之序",
+      "edition": null,
+      "publisher": "Gamirror Games",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-09",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-09",
+      "releaseAt": null,
+      "price": 148.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000124342",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000124342344748fbbd0b11f1847717dbcea20580/27d94da29097d6bc4c0309aafda89a73/b93c8b8d9813a3d67dfe4b22b6fee0deac93f804b0d2df8e0cd856560a30de58.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000124342",
+          "id": "70010000124342",
+          "title": "沉星之序",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000124342",
+          "price": 148.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -348,6 +466,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000112754",
           "price": 308.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000133040",
+      "id": "70010000133040",
+      "conceptId": null,
+      "region": "hk",
+      "title": "DESOLUS",
+      "edition": null,
+      "publisher": "The Quantum Astrophysicists Guild",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-15",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-15",
+      "releaseAt": null,
+      "price": 115.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000133040",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001330407868404dbd0b11f1bafd6144ffd9a873/ec2e583e65b02a757ffb97b52d234428/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000133040",
+          "id": "70010000133040",
+          "title": "DESOLUS",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000133040",
+          "price": 115.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -929,6 +1081,40 @@
       ]
     },
     {
+      "key": "70010000116352",
+      "id": "70010000116352",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "edition": null,
+      "publisher": "Atari",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-05",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": null,
+      "price": 172.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000116352",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000116352433d07a4bd0b11f18e729b02671ceb98/713546292c3bc06af70dab08e2888387/ae95e0f4075c88c6926d2730f58ba5bede755463375f65a95020857735d3af12.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000116352",
+          "id": "70010000116352",
+          "title": "Godzilla: Destroy All Monsters Melee Remastered",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000116352",
+          "price": 172.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000119220",
       "id": "70010000119220",
       "conceptId": null,
@@ -1008,6 +1194,56 @@
           "price": 348.0,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000132540",
+      "id": "70010000132540",
+      "conceptId": null,
+      "region": "hk",
+      "title": "慟哭幽光／CRYMELIGHT",
+      "edition": null,
+      "publisher": "Clouded Leopard Entertainment",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-05",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": null,
+      "price": 140.0,
+      "originalPrice": 156.0,
+      "currency": "HKD",
+      "offer": {
+        "scope": "public",
+        "price": 140.0,
+        "originalPrice": 156.0,
+        "discountPercent": 10.3,
+        "startsAt": "2026-09-30T16:00:00Z",
+        "endsAt": "2026-11-04T15:59:59Z",
+        "endsAtRaw": "2026-11-04T15:59:59Z"
+      },
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000132540",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000132540995f2e92bd0b11f1a6ff2b936ab55538/d8d990129fd04642d86a0d28a795ce6d/9d34a97e240f32afb8ff51e3b9685a6d2c452dee01ea608d743eba4abf28b95f.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000132540",
+          "id": "70010000132540",
+          "title": "慟哭幽光／CRYMELIGHT",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000132540",
+          "price": 140.0,
+          "originalPrice": 156.0,
+          "offer": {
+            "scope": "public",
+            "price": 140.0,
+            "originalPrice": 156.0,
+            "discountPercent": 10.3,
+            "startsAt": "2026-09-30T16:00:00Z",
+            "endsAt": "2026-11-04T15:59:59Z",
+            "endsAtRaw": "2026-11-04T15:59:59Z"
+          },
           "memberOffer": null
         }
       ]
@@ -1176,6 +1412,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000129141",
           "price": 65.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000100025",
+      "id": "70010000100025",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Hela：魔鼠無敵",
+      "edition": null,
+      "publisher": "MY.GAMES",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-01",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-01",
+      "releaseAt": null,
+      "price": 199.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000100025",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000010002509011b06bd0b11f1ac755b81500cacb7/06e56240c67f7f22a5e603371605d690/91c9e72698ef7afafa5d4c3c63b8d1d1c53bccb79e9b5ab7537edefd39c1c1d6.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000100025",
+          "id": "70010000100025",
+          "title": "Hela：魔鼠無敵",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000100025",
+          "price": 199.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
