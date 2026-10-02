@@ -5,99 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-01T02:17:28-07:00",
+  "updatedAt": "2026-10-02T00:17:41-07:00",
   "status": "success",
   "gameCount": 97,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 112,
-    "productPages": 166,
+    "candidateCount": 106,
+    "productPages": 160,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "JP0700-PPSA24913_00-MAINGAME00000000",
-      "id": "JP0700-PPSA24913_00-MAINGAME00000000",
-      "conceptId": "10011942",
-      "region": "us",
-      "title": "ACE COMBAT 8: WINGS OF THEVE",
-      "edition": "Standard Edition",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/1/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T22:00:00+00:00",
-      "price": 69.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP0700-PPSA24913_00-MAINGAME00000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1502/0eb5386081c6680e4726069ab46facc26f9b27c63e90fad5.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0700-PPSA24913_00-MAINGAME00000000",
-          "id": "JP0700-PPSA24913_00-MAINGAME00000000",
-          "title": "ACE COMBAT 8: WINGS OF THEVE",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/JP0700-PPSA24913_00-MAINGAME00000000",
-          "price": 69.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "JP0700-PPSA24913_00-ACEC8DLXEDITION0",
-          "id": "JP0700-PPSA24913_00-ACEC8DLXEDITION0",
-          "title": "ACE COMBAT 8: WINGS OF THEVE Deluxe Edition",
-          "edition": "Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/JP0700-PPSA24913_00-ACEC8DLXEDITION0",
-          "price": 89.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1502/95905fbb3bb2ac0fc797ad14a809efa859769828bbbe6463.png?w=160&thumb=false"
-    },
-    {
-      "key": "badef5be3c87d1f939ef",
-      "id": null,
-      "conceptId": "10011552",
-      "region": "us",
-      "title": "PUCKOFF: RELOADED",
-      "edition": null,
-      "publisher": "Kuura Playhouse Oy",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-01",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-01",
-      "releaseAt": "2026-10-01T12:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10011552",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/03072b31ee12468cb289161e26aff51b420df319d73ddd00.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "badef5be3c87d1f939ef",
-          "id": null,
-          "title": "PUCKOFF: RELOADED",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10011552",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0715/5615bb8583dadaeeff2f2b27ef39157fce90157b2d6d6981.png?w=160&thumb=false"
-    },
     {
       "key": "EP6665-PPSA33917_00-GCU30DELUXE00001",
       "id": "EP6665-PPSA33917_00-GCU30DELUXE00001",
@@ -1213,7 +1132,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/en-us/concept/10016067",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0514/7390e1a14bdb87910bf726103bca9e75807671d464618276.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1006/d5287767e165b0ff363bb2c883f3d5750273c1d093d08242.png?w=160&thumb=false",
       "versions": [
         {
           "key": "4c9c5b9d2cf3cd08475e",
@@ -1227,7 +1146,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0514/e069e3f506c1d6825681f3b509c7810d95806911a978e5d5.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1006/b9daa1fcef40100da8e3dc6c4f37281cb7d12117a41b371c.png?w=160&thumb=false"
     },
     {
       "key": "UP1014-PPSA36628_00-HMEOT000000PS5US",
@@ -1965,6 +1884,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/2153ee57f7955802d94a6722418315637e8fba8f69eaf064.png?w=160&thumb=false"
     },
     {
+      "key": "878a0375e53f4e22865c",
+      "id": null,
+      "conceptId": "10017585",
+      "region": "us",
+      "title": "Train Yard Builder",
+      "edition": null,
+      "publisher": "ULTIMATE GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 03:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T15:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017585",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/98e0a04f029ae3cb944bbffc144ea60adf28c38b139db3df.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "878a0375e53f4e22865c",
+          "id": null,
+          "title": "Train Yard Builder",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017585",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/5aceb2a0e8c898cbd9dbb222a9b801ce71d925572cb454ff.jpg?w=160&thumb=false"
+    },
+    {
       "key": "UB0289-PPSA38219_00-0697163834453593",
       "id": "UB0289-PPSA38219_00-0697163834453593",
       "conceptId": "10010699",
@@ -2447,6 +2401,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0704/64db280cd2b182043d5e4183ba753645c6a5c08867cfb530.png?w=160&thumb=false"
     },
     {
+      "key": "b1b59757285881353a26",
+      "id": null,
+      "conceptId": "10012485",
+      "region": "us",
+      "title": "Hela: of Mice & Magic",
+      "edition": null,
+      "publisher": "MY.GAMES HOLDINGS LTD",
+      "platform": "ps5",
+      "releaseDateRaw": "12/1/2026 10:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-01",
+      "releaseAt": "2026-12-01T10:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10012485",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0909/0310329028455a9a9c53905b78f86f5e61bf8bdb934b345c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "b1b59757285881353a26",
+          "id": null,
+          "title": "Hela: of Mice & Magic",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10012485",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0909/a635ae9111c76e25b4558b3a23e44e18b311c8bab0b92665.png?w=160&thumb=false"
+    },
+    {
       "key": "JP0082-PPSA32281_00-DQM4000000000000",
       "id": "JP0082-PPSA32281_00-DQM4000000000000",
       "conceptId": "10016414",
@@ -2793,6 +2782,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2808/11724ec4ada8ca3839a90c66372f9c2f5e97499f0cfbc231.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "UP4133-PPSA21225_00-ELTAGAME00000000",
+      "id": "UP4133-PPSA21225_00-ELTAGAME00000000",
+      "conceptId": "10009613",
+      "region": "us",
+      "title": "Elta: Defy All Gods",
+      "edition": null,
+      "publisher": "Focus Entertainment",
+      "platform": "ps5",
+      "releaseDateRaw": "2/2/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-02",
+      "releaseAt": "2027-02-02T16:00:00+00:00",
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/UP4133-PPSA21225_00-ELTAGAME00000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/80e58adfa088392c42c06b1f8d24065fdee9fa47fa391593.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP4133-PPSA21225_00-ELTAGAME00000000",
+          "id": "UP4133-PPSA21225_00-ELTAGAME00000000",
+          "title": "Elta: Defy All Gods",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/UP4133-PPSA21225_00-ELTAGAME00000000",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/e9442a1255d6068c6bbdf323109780442423562bf187afa7.jpg?w=160&thumb=false"
     },
     {
       "key": "UP5267-PPSA29000_00-TRLOADELX0000000",
@@ -3469,6 +3493,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1910/110964c9d8b896b80f037215d96d8d4360468978888aeaff.jpg?w=160&thumb=false"
     },
     {
+      "key": "a4a0ef9d0333786060be",
+      "id": null,
+      "conceptId": "10017746",
+      "region": "us",
+      "title": "Colorbound",
+      "edition": null,
+      "publisher": "Whitethorn Games, Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017746",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3118/e23a1ef5eaa1c838c289639ee50a5b5b0391ff6ce5ce200d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "a4a0ef9d0333786060be",
+          "id": null,
+          "title": "Colorbound",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017746",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2220/8ad64136d1bff1c4ae357842df89783a6bce6bb3ad3de176.png?w=160&thumb=false"
+    },
+    {
       "key": "70d9a56fdb534cd4f1e9",
       "id": null,
       "conceptId": "10001991",
@@ -3537,76 +3596,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
-    },
-    {
-      "key": "cd09c16435868edd47a6",
-      "id": null,
-      "conceptId": "10019732",
-      "region": "us",
-      "title": "Storebound",
-      "edition": null,
-      "publisher": "Embers SAS",
-      "platform": "ps5",
-      "releaseDateRaw": "10/2026",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019732",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0411/3fb67ee0b7ca462f132317b629aa99a68708c945832ebfb0.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "cd09c16435868edd47a6",
-          "id": null,
-          "title": "Storebound",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019732",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/818bbff3f1f519db4a44821d755f1941cd0031ee954a8cc2.png?w=160&thumb=false"
-    },
-    {
-      "key": "878a0375e53f4e22865c",
-      "id": null,
-      "conceptId": "10017585",
-      "region": "us",
-      "title": "Train Yard Builder",
-      "edition": null,
-      "publisher": "ULTIMATE GAMES",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017585",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/98e0a04f029ae3cb944bbffc144ea60adf28c38b139db3df.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "878a0375e53f4e22865c",
-          "id": null,
-          "title": "Train Yard Builder",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017585",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/5aceb2a0e8c898cbd9dbb222a9b801ce71d925572cb454ff.jpg?w=160&thumb=false"
     },
     {
       "key": "af26f60e7919bd5df5a7",
