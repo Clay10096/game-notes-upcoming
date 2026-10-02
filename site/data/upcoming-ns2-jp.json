@@ -5,13 +5,13 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-02T00:25:07+09:00",
+  "updatedAt": "2026-10-03T00:25:16+09:00",
   "status": "success",
-  "gameCount": 116,
+  "gameCount": 117,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 839,
+    "candidateCount": 843,
     "coverage": "official-search",
     "notes": []
   },
@@ -284,6 +284,56 @@
           "price": 5456.0,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70070000040694",
+      "id": "70070000040694",
+      "conceptId": null,
+      "region": "jp",
+      "title": "The Relic: First Guardian Bundle",
+      "edition": null,
+      "publisher": "Perpetual Europe",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.8",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-08",
+      "releaseAt": null,
+      "price": 5391.0,
+      "originalPrice": 6930.0,
+      "currency": "JPY",
+      "offer": {
+        "scope": "public",
+        "price": 5391.0,
+        "originalPrice": 6930.0,
+        "discountPercent": 22.2,
+        "startsAt": "2026-10-01T00:00:00+09:00",
+        "endsAt": "2026-10-07T23:59:59+09:00",
+        "endsAtRaw": "2026-10-07 23:59:59"
+      },
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70070000040694",
+      "image": "https://img-eshop.cdn.nintendo.net/i/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2.jpg",
+      "versions": [
+        {
+          "key": "70070000040694",
+          "id": "70070000040694",
+          "title": "The Relic: First Guardian Bundle",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000040694",
+          "price": 5391.0,
+          "originalPrice": 6930.0,
+          "offer": {
+            "scope": "public",
+            "price": 5391.0,
+            "originalPrice": 6930.0,
+            "discountPercent": 22.2,
+            "startsAt": "2026-10-01T00:00:00+09:00",
+            "endsAt": "2026-10-07T23:59:59+09:00",
+            "endsAtRaw": "2026-10-07 23:59:59"
+          },
           "memberOffer": null
         }
       ]

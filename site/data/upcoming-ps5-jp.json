@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-02T00:26:42+09:00",
+  "updatedAt": "2026-10-03T00:27:03+09:00",
   "status": "success",
-  "gameCount": 72,
+  "gameCount": 73,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 84,
-    "productPages": 84,
+    "candidateCount": 85,
+    "productPages": 85,
     "coverage": "official-category",
     "notes": []
   },
@@ -2202,6 +2202,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2808/11724ec4ada8ca3839a90c66372f9c2f5e97499f0cfbc231.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP4133-PPSA21224_00-ELTAGAME00000000",
+      "id": "EP4133-PPSA21224_00-ELTAGAME00000000",
+      "conceptId": "10009613",
+      "region": "jp",
+      "title": "Elta: Defy All Gods",
+      "edition": null,
+      "publisher": "Focus Entertainment",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/2/2",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-02",
+      "releaseAt": "2027-02-02T16:00:00+00:00",
+      "price": 3960.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/EP4133-PPSA21224_00-ELTAGAME00000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/80e58adfa088392c42c06b1f8d24065fdee9fa47fa391593.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4133-PPSA21224_00-ELTAGAME00000000",
+          "id": "EP4133-PPSA21224_00-ELTAGAME00000000",
+          "title": "Elta: Defy All Gods",
+          "edition": null,
+          "url": "https://store.playstation.com/ja-jp/product/EP4133-PPSA21224_00-ELTAGAME00000000",
+          "price": 3960.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/e9442a1255d6068c6bbdf323109780442423562bf187afa7.jpg?w=160&thumb=false"
     },
     {
       "key": "UP5267-PPSA29000_00-TRLOADELX0000000",
