@@ -5,53 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-03T00:27:03+09:00",
+  "updatedAt": "2026-10-04T04:02:06+09:00",
   "status": "success",
-  "gameCount": 73,
+  "gameCount": 72,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 85,
-    "productPages": 85,
+    "candidateCount": 84,
+    "productPages": 84,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP6665-PPSA33917_00-GCU30DELUXE00001",
-      "id": "EP6665-PPSA33917_00-GCU30DELUXE00001",
-      "conceptId": "10017084",
-      "region": "jp",
-      "title": "Gear.Club Unlimited 3 - Deluxe Edition",
-      "edition": null,
-      "publisher": "株式会社3goo",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/4",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-04",
-      "releaseAt": "2026-10-04T15:00:00+00:00",
-      "price": 6820.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA33917_00-GCU30DELUXE00001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1710/8136dc7df99a7e34b8fef059c238b7fb18725621e56c1557.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA33917_00-GCU30DELUXE00001",
-          "id": "EP6665-PPSA33917_00-GCU30DELUXE00001",
-          "title": "Gear.Club Unlimited 3 - Deluxe Edition",
-          "edition": null,
-          "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA33917_00-GCU30DELUXE00001",
-          "price": 6820.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1710/8879f7288e970f4d9d86e4a80b53c8d5cb1ec5d7c99230c1.jpg?w=160&thumb=false"
-    },
     {
       "key": "JP0082-PPSA35876_00-KHHD1525RMX00000",
       "id": "JP0082-PPSA35876_00-KHHD1525RMX00000",
