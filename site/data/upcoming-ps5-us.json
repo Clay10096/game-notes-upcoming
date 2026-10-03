@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-02T00:17:41-07:00",
+  "updatedAt": "2026-10-03T00:19:31-07:00",
   "status": "success",
-  "gameCount": 97,
+  "gameCount": 100,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 106,
-    "productPages": 160,
+    "candidateCount": 108,
+    "productPages": 162,
     "coverage": "official-category",
     "notes": []
   },
@@ -590,6 +590,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/20fb6045ba434345bf4fc7a61ca09fb5fe726c55ba6fd754.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "bb5556865040aba52865",
+      "id": null,
+      "conceptId": "10016571",
+      "region": "us",
+      "title": "Valor Mortis",
+      "edition": null,
+      "publisher": "LYRICAL GAMES, LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "10/13/2026 06:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-13",
+      "releaseAt": "2026-10-13T18:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10016571",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "bb5556865040aba52865",
+          "id": null,
+          "title": "Valor Mortis",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10016571",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/4d76a918fd8a46e60aead8a57938592531a2db7d139e9b3f.jpg?w=160&thumb=false"
     },
     {
       "key": "HP5249-PPSA34884_00-0116723305741680",
@@ -1219,6 +1254,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3109/2b9ff35958e894797cdce90d4e2f0290eb249400f826672b.jpg?w=160&thumb=false"
     },
     {
+      "key": "c48d61a7e1253483f197",
+      "id": null,
+      "conceptId": "10015321",
+      "region": "us",
+      "title": "BeamNG.drive",
+      "edition": null,
+      "publisher": "BEAMNG GMBH",
+      "platform": "ps5",
+      "releaseDateRaw": "10/19/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-19",
+      "releaseAt": "2026-10-19T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10015321",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2516/4f7bccbd06cdd2bcb1abfe25179c31c12ea3b4cfae75b286.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c48d61a7e1253483f197",
+          "id": null,
+          "title": "BeamNG.drive",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10015321",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2516/f7ac096d5b5ca9b66ad57dcbbdb37bea623b2c32fff62697.jpg?w=160&thumb=false"
+    },
+    {
       "key": "HP7588-PPSA28050_00-SET0100000000000",
       "id": "HP7588-PPSA28050_00-SET0100000000000",
       "conceptId": "10013888",
@@ -1680,6 +1750,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/2c6841eef889ad17e2417cb46d93d3d50ca58fdfe0386c31.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "da1554c7695d0b4b0a1d",
+      "id": null,
+      "conceptId": "10015979",
+      "region": "us",
+      "title": "Village in the Shade",
+      "edition": null,
+      "publisher": "NIS America Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "10/27/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-27",
+      "releaseAt": "2026-10-27T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10015979",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/fb87870937681c3af9cd06e3ae4de8b8c4ece460764384fc.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "da1554c7695d0b4b0a1d",
+          "id": null,
+          "title": "Village in the Shade",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10015979",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/75a06b05fc345197c29d879260be3c66314723cfd1272ce8.png?w=160&thumb=false"
     },
     {
       "key": "UP2777-PPSA29381_00-0000000000000000",
