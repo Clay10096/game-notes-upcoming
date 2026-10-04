@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-03T00:16:35-07:00",
+  "updatedAt": "2026-10-04T08:01:15-07:00",
   "status": "success",
   "gameCount": 40,
   "source": {
@@ -441,7 +441,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/tales-of-eternia-remastered-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/85354db6a76f4d4d8b1323b479beac45_1024",
+      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ad932e19a8a54fcfae6b16b478f6af9c_1024",
       "versions": [
         {
           "key": "70010000110878",
