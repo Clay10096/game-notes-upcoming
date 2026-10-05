@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-04T08:04:03-07:00",
+  "updatedAt": "2026-10-05T00:21:54-07:00",
   "status": "success",
   "gameCount": 100,
   "source": {
@@ -2285,36 +2285,52 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
     },
     {
-      "key": "3f4e5622f6f002bcb959",
-      "id": null,
+      "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
+      "id": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
       "conceptId": "10019384",
       "region": "us",
       "title": "K-Pop Rising - Dream to Shine",
       "edition": null,
       "publisher": "Microids",
       "platform": "ps5",
-      "releaseDateRaw": "11/5/2026 05:00 AM UTC",
+      "releaseDateRaw": "11/5/2026",
       "datePrecision": "day",
       "releaseDate": "2026-11-05",
       "releaseAt": "2026-11-05T05:00:00+00:00",
-      "price": null,
+      "price": 34.99,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019384",
+      "memberOffer": {
+        "scope": "member",
+        "price": 31.49,
+        "originalPrice": 34.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-05T05:00:00.000Z",
+        "endsAtRaw": "2026-11-05T05:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP4295-PPSA37453_00-KPOPRISING0PS5WW",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1309/a1545f01cc249aabf7c3b7c05e19ac50fc2c02cae8937e25.png?w=160&thumb=false",
       "versions": [
         {
-          "key": "3f4e5622f6f002bcb959",
-          "id": null,
+          "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
+          "id": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
           "title": "K-Pop Rising - Dream to Shine",
           "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019384",
-          "price": null,
+          "url": "https://store.playstation.com/en-us/product/EP4295-PPSA37453_00-KPOPRISING0PS5WW",
+          "price": 34.99,
           "originalPrice": null,
           "offer": null,
-          "memberOffer": null
+          "memberOffer": {
+            "scope": "member",
+            "price": 31.49,
+            "originalPrice": 34.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-05T05:00:00.000Z",
+            "endsAtRaw": "2026-11-05T05:00:00.000Z"
+          }
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1309/53848e2bc7d3043c0ea1335d2a7f9222f35d8e411339601d.png?w=160&thumb=false"
