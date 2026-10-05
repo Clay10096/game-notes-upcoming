@@ -5,64 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-05T05:43:09+09:00",
+  "updatedAt": "2026-10-06T00:28:07+09:00",
   "status": "success",
-  "gameCount": 69,
+  "gameCount": 68,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 81,
-    "productPages": 81,
+    "candidateCount": 79,
+    "productPages": 79,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-      "id": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-      "conceptId": "10014146",
-      "region": "jp",
-      "title": "スター・ウォーズ：ギャラクティック・レーサー™",
-      "edition": "スタンダードエディション",
-      "publisher": "Secret Mode Limited",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/6",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-06",
-      "releaseAt": "2026-10-06T09:00:00+00:00",
-      "price": 7040.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/UP8737-PPSA28416_00-SWGALACTICRACER1",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/8431a1a2fb0ac057a077f5a6f653cde6c0d4ac6b9405d5d6.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-          "id": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-          "title": "スター・ウォーズ：ギャラクティック・レーサー™",
-          "edition": "スタンダードエディション",
-          "url": "https://store.playstation.com/ja-jp/product/UP8737-PPSA28416_00-SWGALACTICRACER1",
-          "price": 7040.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "UP8737-PPSA28416_00-SWGRDELUXEBUNDLE",
-          "id": "UP8737-PPSA28416_00-SWGRDELUXEBUNDLE",
-          "title": "スター・ウォーズ：ギャラクティック・レーサー™ デラックスエディション",
-          "edition": "デラックスエディション",
-          "url": "https://store.playstation.com/ja-jp/product/UP8737-PPSA28416_00-SWGRDELUXEBUNDLE",
-          "price": 9240.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/c90c6f76ce6fe76a7e824236faa207446130507c198075f5.png?w=160&thumb=false"
-    },
     {
       "key": "EP6665-PPSA33917_00-GCU3000000000000",
       "id": "EP6665-PPSA33917_00-GCU3000000000000",
