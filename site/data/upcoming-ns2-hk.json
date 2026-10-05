@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-05T04:58:10+08:00",
+  "updatedAt": "2026-10-06T00:16:05+08:00",
   "status": "success",
-  "gameCount": 51,
+  "gameCount": 50,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,40 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000126388",
-      "id": "70010000126388",
-      "conceptId": null,
-      "region": "hk",
-      "title": "Disney Epic Mickey: Rebrushed",
-      "edition": null,
-      "publisher": "THQ Nordic",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-06",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-06",
-      "releaseAt": null,
-      "price": 309.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000126388",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000126388657a88a8929a11f1ba4e97af4bd43e3d/71d644ff89c6fe4bc250f9a78a5426d5/26db10cf470c7ed0c76282323b09b4f9b80907c92cbf5dbb24b2e63f6e57aaa2.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000126388",
-          "id": "70010000126388",
-          "title": "Disney Epic Mickey: Rebrushed",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000126388",
-          "price": 309.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000117245",
       "id": "70010000117245",
