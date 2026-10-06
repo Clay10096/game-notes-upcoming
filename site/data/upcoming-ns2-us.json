@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-05T00:18:48-07:00",
+  "updatedAt": "2026-10-06T00:14:56-07:00",
   "status": "success",
-  "gameCount": 40,
+  "gameCount": 39,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,40 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000116712",
-      "id": "70010000116712",
-      "conceptId": null,
-      "region": "us",
-      "title": "Disney Epic Mickey: Rebrushed",
-      "edition": "Standard Edition",
-      "publisher": "THQ Nordic",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-06T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-06",
-      "releaseAt": null,
-      "price": 39.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/disney-epic-mickey-rebrushed-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/cb4cd0714f0d4ba09a9ae827e2c23629_1024",
-      "versions": [
-        {
-          "key": "70010000116712",
-          "id": "70010000116712",
-          "title": "Disney Epic Mickey: Rebrushed",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/disney-epic-mickey-rebrushed-switch-2/",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000115616",
       "id": "70010000115616",
@@ -713,7 +679,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/1b0abe96a59d42fcac808b95bffca227_1024",
+      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/930d77fb88b94ee29b01fa2132f85ee1_1024",
       "versions": [
         {
           "key": "70010000127298",
@@ -1079,10 +1045,18 @@
       "datePrecision": "day",
       "releaseDate": "2026-12-02",
       "releaseAt": null,
-      "price": 29.99,
-      "originalPrice": null,
+      "price": 26.99,
+      "originalPrice": 29.99,
       "currency": "USD",
-      "offer": null,
+      "offer": {
+        "scope": "public",
+        "price": 26.99,
+        "originalPrice": 29.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-03T07:59:59Z",
+        "endsAtRaw": null
+      },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/the-ascent-ultimate-edition-switch-2/",
       "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000123180/f6229526aacf3b4904f6a8022191c1c70e1f4c84c3159ee64e04c67d66614539",
@@ -1093,9 +1067,17 @@
           "title": "THE ASCENT ULTIMATE EDITION",
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/the-ascent-ultimate-edition-switch-2/",
-          "price": 29.99,
-          "originalPrice": null,
-          "offer": null,
+          "price": 26.99,
+          "originalPrice": 29.99,
+          "offer": {
+            "scope": "public",
+            "price": 26.99,
+            "originalPrice": 29.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T07:59:59Z",
+            "endsAtRaw": null
+          },
           "memberOffer": null
         }
       ]
