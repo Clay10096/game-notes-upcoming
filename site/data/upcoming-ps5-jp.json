@@ -5,104 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-06T00:28:07+09:00",
+  "updatedAt": "2026-10-07T00:25:21+09:00",
   "status": "success",
-  "gameCount": 68,
+  "gameCount": 66,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 79,
-    "productPages": 79,
+    "candidateCount": 77,
+    "productPages": 77,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP6665-PPSA33917_00-GCU3000000000000",
-      "id": "EP6665-PPSA33917_00-GCU3000000000000",
-      "conceptId": "10017084",
-      "region": "jp",
-      "title": "Gear.Club Unlimited 3",
-      "edition": null,
-      "publisher": "株式会社3goo",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/7",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-07",
-      "releaseAt": "2026-10-07T15:00:00+00:00",
-      "price": 5830.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA33917_00-GCU3000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2810/ffa733868c33ee549595792a64e1175a796d47e990d12954.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA33917_00-GCU3000000000000",
-          "id": "EP6665-PPSA33917_00-GCU3000000000000",
-          "title": "Gear.Club Unlimited 3",
-          "edition": null,
-          "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA33917_00-GCU3000000000000",
-          "price": 5830.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2810/211aad8a2339fe70d5965ad274ff85c8c0cbb59990565390.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "EP2921-PPSA38781_00-0000000000000001",
-      "id": "EP2921-PPSA38781_00-0000000000000001",
-      "conceptId": "10020058",
-      "region": "jp",
-      "title": "I'm Having A Bad Day",
-      "edition": "Standard VR Edition",
-      "publisher": "PlaySys",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/7",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-07",
-      "releaseAt": "2026-10-07T15:00:00+00:00",
-      "price": 1760.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 1584.0,
-        "originalPrice": 1760.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-07T15:00:00.000Z",
-        "endsAtRaw": "2026-10-07T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/EP2921-PPSA38781_00-0000000000000001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1417/2ed821a688390d3508a12a42d1a06ea581dcaba5826990cd.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2921-PPSA38781_00-0000000000000001",
-          "id": "EP2921-PPSA38781_00-0000000000000001",
-          "title": "I'm Having A Bad Day",
-          "edition": "Standard VR Edition",
-          "url": "https://store.playstation.com/ja-jp/product/EP2921-PPSA38781_00-0000000000000001",
-          "price": 1760.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 1584.0,
-            "originalPrice": 1760.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-07T15:00:00.000Z",
-            "endsAtRaw": "2026-10-07T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1417/0535140caf66fddeef201993e8208ba5a0826787da776527.jpg?w=160&thumb=false"
-    },
     {
       "key": "JP0102-PPSA09665_00-DD2DA00000000000",
       "id": "JP0102-PPSA09665_00-DD2DA00000000000",
