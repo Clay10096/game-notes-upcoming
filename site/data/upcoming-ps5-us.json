@@ -5,98 +5,52 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-06T00:17:49-07:00",
+  "updatedAt": "2026-10-07T00:18:08-07:00",
   "status": "success",
-  "gameCount": 96,
+  "gameCount": 99,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 113,
-    "productPages": 167,
+    "candidateCount": 118,
+    "productPages": 172,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
     {
-      "key": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-      "id": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-      "conceptId": "10014146",
-      "region": "us",
-      "title": "STAR WARS: Galactic Racer™",
-      "edition": "Standard Edition",
-      "publisher": "Secret Mode Limited",
-      "platform": "ps5",
-      "releaseDateRaw": "10/6/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-06",
-      "releaseAt": "2026-10-06T09:00:00+00:00",
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/UP8737-PPSA28416_00-SWGALACTICRACER1",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/58ef6a7a23ea91e8b89e02f00792bde4c839daa63b90da0e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-          "id": "UP8737-PPSA28416_00-SWGALACTICRACER1",
-          "title": "STAR WARS: Galactic Racer™",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/UP8737-PPSA28416_00-SWGALACTICRACER1",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "UP8737-PPSA28416_00-SWGRDELUXEBUNDLE",
-          "id": "UP8737-PPSA28416_00-SWGRDELUXEBUNDLE",
-          "title": "STAR WARS: Galactic Racer™ Deluxe Edition",
-          "edition": "Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/UP8737-PPSA28416_00-SWGRDELUXEBUNDLE",
-          "price": 79.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/c90c6f76ce6fe76a7e824236faa207446130507c198075f5.png?w=160&thumb=false"
-    },
-    {
-      "key": "d2b1b6362ecb8718fd4a",
+      "key": "dadce174bc5d15c352f3",
       "id": null,
-      "conceptId": "10018887",
+      "conceptId": "10019431",
       "region": "us",
-      "title": "Highway Blossoms: Gold Rush Edition",
+      "title": "Deep Rock Galactic: Survivor",
       "edition": null,
-      "publisher": "Evgeniy Kolpakov t/a Sometimes You",
+      "publisher": "Ghost Ship Publishing ApS",
       "platform": "ps5",
       "releaseDateRaw": "2026-10-07",
       "datePrecision": "day",
       "releaseDate": "2026-10-07",
-      "releaseAt": "2026-10-07T04:00:00+00:00",
+      "releaseAt": "2026-10-07T09:00:00+00:00",
       "price": null,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
       "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018887",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1810/056de6e3857e29f55689319f5b5d7f953abbf16a0e78045f.png?w=160&thumb=false",
+      "url": "https://store.playstation.com/en-us/concept/10019431",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2814/bf9c0a88b86a11646624c7f6c6be830bfbb2b9af4f0068d9.png?w=160&thumb=false",
       "versions": [
         {
-          "key": "d2b1b6362ecb8718fd4a",
+          "key": "dadce174bc5d15c352f3",
           "id": null,
-          "title": "Highway Blossoms: Gold Rush Edition",
+          "title": "Deep Rock Galactic: Survivor",
           "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018887",
+          "url": "https://store.playstation.com/en-us/concept/10019431",
           "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1810/20628e75b8bbef14b5d102b4fe385739783145d8c50cd89c.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1209/2c189c4d9b5d889325819f327ca8abf43ed5097d1a1b7111.png?w=160&thumb=false"
     },
     {
       "key": "EP6853-PPSA25642_00-0082868685413873",
@@ -309,7 +263,7 @@
       "edition": null,
       "publisher": "Team17 Software Ltd.",
       "platform": "ps5",
-      "releaseDateRaw": "10/8/2026 04:00 AM UTC",
+      "releaseDateRaw": "2026-10-08",
       "datePrecision": "day",
       "releaseDate": "2026-10-08",
       "releaseAt": "2026-10-08T04:00:00+00:00",
@@ -1114,6 +1068,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3109/2b9ff35958e894797cdce90d4e2f0290eb249400f826672b.jpg?w=160&thumb=false"
     },
     {
+      "key": "08b06625da6f7055a22a",
+      "id": null,
+      "conceptId": "10014611",
+      "region": "us",
+      "title": "Tales of Eternia Remastered",
+      "edition": null,
+      "publisher": "Bandai Namco Entertainment America Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "10/16/2026 04:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-16",
+      "releaseAt": "2026-10-16T04:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10014611",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2219/bb8e088535d226f8f6dd43ca75112ed8c55b9bd637db40e0.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "08b06625da6f7055a22a",
+          "id": null,
+          "title": "Tales of Eternia Remastered",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10014611",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2219/4edd41ec61f1fc35091d3a1793b90dd1b0d8af424973c1ba.png?w=160&thumb=false"
+    },
+    {
       "key": "c48d61a7e1253483f197",
       "id": null,
       "conceptId": "10015321",
@@ -1182,6 +1171,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2405/ca2f8763f333e8c9792e34d0a326f780a28258bc3d7add1d.png?w=160&thumb=false"
+    },
+    {
+      "key": "577104690f522b6c5b27",
+      "id": null,
+      "conceptId": "10018801",
+      "region": "us",
+      "title": "Hail to the Rainbow",
+      "edition": null,
+      "publisher": "Evgeniy Kolpakov t/a Sometimes You",
+      "platform": "ps5",
+      "releaseDateRaw": "10/21/2026 04:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-21",
+      "releaseAt": "2026-10-21T04:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018801",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0600/fa2e1edc8ac369de8b3d4840219859c424c952830a8b5237.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "577104690f522b6c5b27",
+          "id": null,
+          "title": "Hail to the Rainbow",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018801",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/8f3ddb815669949163e0cb6bc4d6f1d1fc4f75d7f8169408.png?w=160&thumb=false"
     },
     {
       "key": "HP7588-PPSA28050_00-MAIN000000000000",
@@ -2229,6 +2253,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0811/7c5cf689e334a518b19f001c729a8e15a6af47950a572183.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
+      "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
+      "conceptId": "10016825",
+      "region": "us",
+      "title": "Warhammer Survivors",
+      "edition": null,
+      "publisher": "AUROCH DIGITAL LIMITED",
+      "platform": "ps5",
+      "releaseDateRaw": "11/10/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": "2026-11-10T10:00:00+00:00",
+      "price": 7.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 7.19,
+        "originalPrice": 7.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-10T10:00:00.000Z",
+        "endsAtRaw": "2026-11-10T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP5778-PPSA33563_00-WARHAMSURV000001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
+          "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
+          "title": "Warhammer Survivors",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/EP5778-PPSA33563_00-WARHAMSURV000001",
+          "price": 7.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 7.19,
+            "originalPrice": 7.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-10T10:00:00.000Z",
+            "endsAtRaw": "2026-11-10T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
     },
     {
       "key": "EP2430-PPSA19075_00-0055738142177921",
@@ -3577,6 +3652,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
+    },
+    {
+      "key": "cc5d16a82772d7991929",
+      "id": null,
+      "conceptId": "10020540",
+      "region": "us",
+      "title": "Sugar Rush Rescue",
+      "edition": null,
+      "publisher": "Cascadia Games LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "10/2026",
+      "datePrecision": "season",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020540",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2115/0d9fa68c521edf8c1b73fd5ba75bca47af9d64b17dcec1e5.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "cc5d16a82772d7991929",
+          "id": null,
+          "title": "Sugar Rush Rescue",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020540",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2115/25ce7520428d2e6115d8197be49cea2c2370f49075fa0e1b.png?w=160&thumb=false"
     },
     {
       "key": "af26f60e7919bd5df5a7",
