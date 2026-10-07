@@ -5,7 +5,7 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-07T00:25:21+09:00",
+  "updatedAt": "2026-10-08T00:36:43+09:00",
   "status": "success",
   "gameCount": 66,
   "source": {
@@ -17,41 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "JP0102-PPSA09665_00-DD2DA00000000000",
-      "id": "JP0102-PPSA09665_00-DD2DA00000000000",
-      "conceptId": "10005844",
-      "region": "jp",
-      "title": "Dragon's Dogma 2: Dark Arisen",
-      "edition": "Dark Arisen",
-      "publisher": "(株)カプコン",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/8",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-08",
-      "releaseAt": "2026-10-08T15:00:00+00:00",
-      "price": 5990.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP0102-PPSA09665_00-DD2DA00000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1204/2f72b83944616f297926b77b592b7edd51e2e4954b7a3755.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0102-PPSA09665_00-DD2DA00000000000",
-          "id": "JP0102-PPSA09665_00-DD2DA00000000000",
-          "title": "Dragon's Dogma 2: Dark Arisen",
-          "edition": "Dark Arisen",
-          "url": "https://store.playstation.com/ja-jp/product/JP0102-PPSA09665_00-DD2DA00000000000",
-          "price": 5990.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1204/bda29a4dc7a570619be6201ba50060a5ee61a5eef2e2498a.png?w=160&thumb=false"
-    },
     {
       "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
       "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
@@ -1366,6 +1331,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/baf360b1f72f1d88b1da64a7f89b20efacfb8be7806f243a.png?w=160&thumb=false"
     },
     {
+      "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
+      "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
+      "conceptId": "10016825",
+      "region": "jp",
+      "title": "Warhammer Survivors",
+      "edition": null,
+      "publisher": "AUROCH DIGITAL LIMITED",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/11/10",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": "2026-11-10T10:00:00+00:00",
+      "price": 1100.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 990.0,
+        "originalPrice": 1100.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-10T10:00:00.000Z",
+        "endsAtRaw": "2026-11-10T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/EP5778-PPSA33563_00-WARHAMSURV000001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
+          "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
+          "title": "Warhammer Survivors",
+          "edition": null,
+          "url": "https://store.playstation.com/ja-jp/product/EP5778-PPSA33563_00-WARHAMSURV000001",
+          "price": 1100.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 990.0,
+            "originalPrice": 1100.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-10T10:00:00.000Z",
+            "endsAtRaw": "2026-11-10T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
+    },
+    {
       "key": "EP2430-PPSA19075_00-0055738142177921",
       "id": "EP2430-PPSA19075_00-0055738142177921",
       "conceptId": "10009391",
@@ -1766,7 +1782,7 @@
       "id": "JP5784-PPSA34054_00-WSDELUXEEDITION0",
       "conceptId": "10017362",
       "region": "jp",
-      "title": "Wandering Sword デラックスエディション",
+      "title": "Wandering Sword ～逸剣風雲決～ デラックスエディション",
       "edition": "デラックスエディション",
       "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
       "platform": "ps5",
@@ -1780,12 +1796,12 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/ja-jp/product/JP5784-PPSA34054_00-WSDELUXEEDITION0",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/79736934c1e5ff6f7dac970ae7b8801cd3e68064c4c515b2.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0703/a6c736748dcc2ccb48de7050ec7fec79c9d69d1686398ee7.png?w=160&thumb=false",
       "versions": [
         {
           "key": "JP5784-PPSA34054_00-WSDELUXEEDITION0",
           "id": "JP5784-PPSA34054_00-WSDELUXEEDITION0",
-          "title": "Wandering Sword デラックスエディション",
+          "title": "Wandering Sword ～逸剣風雲決～ デラックスエディション",
           "edition": "デラックスエディション",
           "url": "https://store.playstation.com/ja-jp/product/JP5784-PPSA34054_00-WSDELUXEEDITION0",
           "price": 6578.0,
@@ -1794,14 +1810,14 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/1896a877099ef707c4876591fc16ffaabe8814630d587fe2.jpg?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0703/e48356ebb027c5037e174e2211dfee8b2d8f26dae2fd4035.png?w=160&thumb=false"
     },
     {
       "key": "JP5784-PPSA34054_00-WANDERINGSWORD00",
       "id": "JP5784-PPSA34054_00-WANDERINGSWORD00",
       "conceptId": "10017362",
       "region": "jp",
-      "title": "Wandering Sword",
+      "title": "Wandering Sword ～逸剣風雲決～",
       "edition": "通常版",
       "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
       "platform": "ps5",
@@ -1815,12 +1831,12 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/ja-jp/product/JP5784-PPSA34054_00-WANDERINGSWORD00",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/8f707b69e8ca4d9d4e466d08e7be3d294007acbb98620f84.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0703/ba37b0e0af7b1abe566838c83abdabc2ebdf0b3da4c68526.png?w=160&thumb=false",
       "versions": [
         {
           "key": "JP5784-PPSA34054_00-WANDERINGSWORD00",
           "id": "JP5784-PPSA34054_00-WANDERINGSWORD00",
-          "title": "Wandering Sword",
+          "title": "Wandering Sword ～逸剣風雲決～",
           "edition": "通常版",
           "url": "https://store.playstation.com/ja-jp/product/JP5784-PPSA34054_00-WANDERINGSWORD00",
           "price": 4928.0,
@@ -1829,7 +1845,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/1896a877099ef707c4876591fc16ffaabe8814630d587fe2.jpg?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0703/e48356ebb027c5037e174e2211dfee8b2d8f26dae2fd4035.png?w=160&thumb=false"
     },
     {
       "key": "JP3372-PPSA37624_00-MAINGAME00000000",
