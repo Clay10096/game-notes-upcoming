@@ -5,7 +5,7 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-07T00:18:10+08:00",
+  "updatedAt": "2026-10-08T00:19:14+08:00",
   "status": "success",
   "gameCount": 70,
   "source": {
@@ -17,57 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "EP2921-PPSA38781_00-0000000000000001",
-      "id": "EP2921-PPSA38781_00-0000000000000001",
-      "conceptId": "10020058",
-      "region": "hk",
-      "title": "今天真煩 (英文)",
-      "edition": "Standard VR Edition",
-      "publisher": "PlaySys",
-      "platform": "ps5",
-      "releaseDateRaw": "7/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-07",
-      "releaseAt": "2026-10-07T16:00:00+00:00",
-      "price": 78.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 70.2,
-        "originalPrice": 78.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-07T16:00:00.000Z",
-        "endsAtRaw": "2026-10-07T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP2921-PPSA38781_00-0000000000000001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1417/2ed821a688390d3508a12a42d1a06ea581dcaba5826990cd.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2921-PPSA38781_00-0000000000000001",
-          "id": "EP2921-PPSA38781_00-0000000000000001",
-          "title": "今天真煩 (英文)",
-          "edition": "Standard VR Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP2921-PPSA38781_00-0000000000000001",
-          "price": 78.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 70.2,
-            "originalPrice": 78.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-07T16:00:00.000Z",
-            "endsAtRaw": "2026-10-07T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1417/0535140caf66fddeef201993e8208ba5a0826787da776527.jpg?w=160&thumb=false"
-    },
     {
       "key": "EP6853-PPSA25642_00-0082868685413873",
       "id": "EP6853-PPSA25642_00-0082868685413873",
@@ -1472,6 +1421,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
+      "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
+      "conceptId": "10016825",
+      "region": "hk",
+      "title": "Warhammer Survivors (簡體中文, 韓文, 英文, 日文)",
+      "edition": null,
+      "publisher": "AUROCH DIGITAL LIMITED",
+      "platform": "ps5",
+      "releaseDateRaw": "10/11/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": "2026-11-10T10:00:00+00:00",
+      "price": 78.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 70.2,
+        "originalPrice": 78.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-10T10:00:00.000Z",
+        "endsAtRaw": "2026-11-10T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP5778-PPSA33563_00-WARHAMSURV000001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
+          "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
+          "title": "Warhammer Survivors (簡體中文, 韓文, 英文, 日文)",
+          "edition": null,
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP5778-PPSA33563_00-WARHAMSURV000001",
+          "price": 78.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 70.2,
+            "originalPrice": 78.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-10T10:00:00.000Z",
+            "endsAtRaw": "2026-11-10T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
     },
     {
       "key": "EP2430-PPSA19075_00-0055738142177921",
