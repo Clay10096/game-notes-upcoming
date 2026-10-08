@@ -5,7 +5,7 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-08T00:36:43+09:00",
+  "updatedAt": "2026-10-09T00:27:20+09:00",
   "status": "success",
   "gameCount": 66,
   "source": {
@@ -351,7 +351,7 @@
         "endsAtRaw": "2026-10-14T15:00:00.000Z"
       },
       "url": "https://store.playstation.com/ja-jp/product/EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2410/8450ef91c6c68a1a79df2bfd8a9e07de40c990ddf5fc1f15.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0702/585694735b2f64f771fbe8e31c462c153ff4dcdfe04eba1f.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",

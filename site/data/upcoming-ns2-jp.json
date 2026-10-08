@@ -5,51 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-08T00:35:05+09:00",
+  "updatedAt": "2026-10-09T00:25:58+09:00",
   "status": "success",
-  "gameCount": 102,
+  "gameCount": 105,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 841,
+    "candidateCount": 851,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000118037",
-      "id": "70010000118037",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Dragon's Dogma 2: Dark Arisen",
-      "edition": null,
-      "publisher": "カプコン",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.9",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-09",
-      "releaseAt": null,
-      "price": 5990.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000118037",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f23e83bd47a84d0d02afeb2b1a578dc45254de18b2f5b631478d9dbf82aab814.jpg",
-      "versions": [
-        {
-          "key": "70010000118037",
-          "id": "70010000118037",
-          "title": "Dragon's Dogma 2: Dark Arisen",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000118037",
-          "price": 5990.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000133039",
       "id": "70010000133039",
@@ -855,6 +821,74 @@
       ]
     },
     {
+      "key": "70010000119402",
+      "id": "70010000119402",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Minecraft",
+      "edition": null,
+      "publisher": "Mojang/日本マイクロソフト",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.28",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-28",
+      "releaseAt": null,
+      "price": 4730.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000119402",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a.jpg",
+      "versions": [
+        {
+          "key": "70010000119402",
+          "id": "70010000119402",
+          "title": "Minecraft",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000119402",
+          "price": 4730.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000119231",
+      "id": "70010000119231",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Cities: Skylines - Expanded Edition",
+      "edition": null,
+      "publisher": "ParadoxInteractive",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.29",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": null,
+      "price": 6890.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000119231",
+      "image": "https://img-eshop.cdn.nintendo.net/i/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0.jpg",
+      "versions": [
+        {
+          "key": "70010000119231",
+          "id": "70010000119231",
+          "title": "Cities: Skylines - Expanded Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000119231",
+          "price": 6890.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "5ce8c95b15bcdcbc1853",
       "id": null,
       "conceptId": null,
@@ -950,6 +984,40 @@
           "edition": null,
           "url": "https://www.nintendo.com/jp/hardware/switch2/lineup/zelda40th/index.html#switch2",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000132572",
+      "id": "70010000132572",
+      "conceptId": null,
+      "region": "jp",
+      "title": "SNØ: Ultimate Freeriding",
+      "edition": null,
+      "publisher": "あまた",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.29",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": null,
+      "price": 1600.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000132572",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671.jpg",
+      "versions": [
+        {
+          "key": "70010000132572",
+          "id": "70010000132572",
+          "title": "SNØ: Ultimate Freeriding",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000132572",
+          "price": 1600.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1528,6 +1596,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000123165",
           "price": 7678.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000132137",
+      "id": "70010000132137",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ムーミン：ムーミン谷の夏まつり",
+      "edition": null,
+      "publisher": "松竹",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 2550.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000132137",
+      "image": "https://img-eshop.cdn.nintendo.net/i/de8e467e1b88038935fb31a065f90d8910232f3988c3fd0049147a79a5476baa.jpg",
+      "versions": [
+        {
+          "key": "70010000132137",
+          "id": "70010000132137",
+          "title": "ムーミン：ムーミン谷の夏まつり",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000132137",
+          "price": 2550.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -3194,7 +3296,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/jp/topics/article/1b050f16-6e37-4181-8338-6187b6207366",
-      "image": "https://assets.topics.apps-jp.nintendo.com/image/2026/05/27103114360582/0/c436220e36e44ca28bb67a0a34c7e2ce.webp",
+      "image": "https://assets.topics.apps-jp.nintendo.com/image/2026/05/27103114360582/1280/c436220e36e44ca28bb67a0a34c7e2ce.webp",
       "versions": [
         {
           "key": "196a4763c5c6a2c9d574",
