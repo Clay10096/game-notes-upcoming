@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-07T00:18:08-07:00",
+  "updatedAt": "2026-10-08T00:19:08-07:00",
   "status": "success",
-  "gameCount": 99,
+  "gameCount": 100,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 118,
-    "productPages": 172,
+    "candidateCount": 117,
+    "productPages": 169,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "dadce174bc5d15c352f3",
-      "id": null,
-      "conceptId": "10019431",
-      "region": "us",
-      "title": "Deep Rock Galactic: Survivor",
-      "edition": null,
-      "publisher": "Ghost Ship Publishing ApS",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-07",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-07",
-      "releaseAt": "2026-10-07T09:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019431",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2814/bf9c0a88b86a11646624c7f6c6be830bfbb2b9af4f0068d9.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "dadce174bc5d15c352f3",
-          "id": null,
-          "title": "Deep Rock Galactic: Survivor",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019431",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1209/2c189c4d9b5d889325819f327ca8abf43ed5097d1a1b7111.png?w=160&thumb=false"
-    },
     {
       "key": "EP6853-PPSA25642_00-0082868685413873",
       "id": "EP6853-PPSA25642_00-0082868685413873",
@@ -107,7 +72,7 @@
       "edition": null,
       "publisher": "Akupara Games, LLC",
       "platform": "ps5",
-      "releaseDateRaw": "10/8/2026 04:00 PM UTC",
+      "releaseDateRaw": "2026-10-08",
       "datePrecision": "day",
       "releaseDate": "2026-10-08",
       "releaseAt": "2026-10-08T16:00:00+00:00",
@@ -169,57 +134,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2810/211aad8a2339fe70d5965ad274ff85c8c0cbb59990565390.jpg?w=160&thumb=false"
     },
     {
-      "key": "UP3061-PPSA38782_00-0000000000000002",
-      "id": "UP3061-PPSA38782_00-0000000000000002",
-      "conceptId": "10020058",
-      "region": "us",
-      "title": "I'm Having A Bad Day",
-      "edition": "Standard VR Edition",
-      "publisher": "PlaySys",
-      "platform": "ps5",
-      "releaseDateRaw": "10/8/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-08",
-      "releaseAt": "2026-10-08T04:00:00+00:00",
-      "price": 8.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 8.09,
-        "originalPrice": 8.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-08T04:00:00.000Z",
-        "endsAtRaw": "2026-10-08T04:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/UP3061-PPSA38782_00-0000000000000002",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1417/2ed821a688390d3508a12a42d1a06ea581dcaba5826990cd.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP3061-PPSA38782_00-0000000000000002",
-          "id": "UP3061-PPSA38782_00-0000000000000002",
-          "title": "I'm Having A Bad Day",
-          "edition": "Standard VR Edition",
-          "url": "https://store.playstation.com/en-us/product/UP3061-PPSA38782_00-0000000000000002",
-          "price": 8.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 8.09,
-            "originalPrice": 8.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-08T04:00:00.000Z",
-            "endsAtRaw": "2026-10-08T04:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1417/0535140caf66fddeef201993e8208ba5a0826787da776527.jpg?w=160&thumb=false"
-    },
-    {
       "key": "23d76778196da17529b0",
       "id": null,
       "conceptId": "10019955",
@@ -228,7 +142,7 @@
       "edition": null,
       "publisher": "CM IMMERSIVE OU",
       "platform": "ps5",
-      "releaseDateRaw": "10/8/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-10-08",
       "datePrecision": "day",
       "releaseDate": "2026-10-08",
       "releaseAt": "2026-10-08T14:00:00+00:00",
@@ -255,41 +169,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2413/574e2ab52c9aeabfce84863b42aa320d33b134462dc81e30.jpg?w=160&thumb=false"
     },
     {
-      "key": "4c9431b3ce9dac611ab0",
-      "id": null,
-      "conceptId": "10017331",
-      "region": "us",
-      "title": "Silver Pines",
-      "edition": null,
-      "publisher": "Team17 Software Ltd.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-08",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-08",
-      "releaseAt": "2026-10-08T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017331",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0314/829ba207099d13abdb6e758822ab2961ac9def7cebd3c87a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "4c9431b3ce9dac611ab0",
-          "id": null,
-          "title": "Silver Pines",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017331",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0314/ae8d53e037d761ba8a5dff7277b76470d25e83a6956a4c4a.jpg?w=160&thumb=false"
-    },
-    {
       "key": "68eb204f49c4aa847462",
       "id": null,
       "conceptId": "10019039",
@@ -298,7 +177,7 @@
       "edition": null,
       "publisher": "Wild River Games",
       "platform": "ps5",
-      "releaseDateRaw": "10/9/2026 12:00 AM UTC",
+      "releaseDateRaw": "2026-10-09",
       "datePrecision": "day",
       "releaseDate": "2026-10-09",
       "releaseAt": "2026-10-09T00:00:00+00:00",
@@ -1173,6 +1052,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2405/ca2f8763f333e8c9792e34d0a326f780a28258bc3d7add1d.png?w=160&thumb=false"
     },
     {
+      "key": "a4dd864f7b0db4390dc2",
+      "id": null,
+      "conceptId": "10017279",
+      "region": "us",
+      "title": "Frankenstein: Awakening of Horror",
+      "edition": null,
+      "publisher": "Witenovastudio OÜ",
+      "platform": "ps5",
+      "releaseDateRaw": "10/20/2026 12:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-20",
+      "releaseAt": "2026-10-20T12:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017279",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/9c08e7a6a647764135c29ab0a892bbaed213d13f2347ddf5.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "a4dd864f7b0db4390dc2",
+          "id": null,
+          "title": "Frankenstein: Awakening of Horror",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017279",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/59114e5a0b7dcf04450cab54023468f3c95d465dd8c943ec.png?w=160&thumb=false"
+    },
+    {
       "key": "577104690f522b6c5b27",
       "id": null,
       "conceptId": "10018801",
@@ -1548,6 +1462,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
+    },
+    {
+      "key": "e5a95e5aac2a7ca776a1",
+      "id": null,
+      "conceptId": "10018448",
+      "region": "us",
+      "title": "Remothered: Red Nun's Legacy",
+      "edition": null,
+      "publisher": "STORMIND GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "10/27/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-27",
+      "releaseAt": "2026-10-27T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018448",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/24506d1634bf32d5ce835d705e0cd6c7c95fa5714897fb6b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "e5a95e5aac2a7ca776a1",
+          "id": null,
+          "title": "Remothered: Red Nun's Legacy",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018448",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/de2e5641fda9680d459dd86adac160820d02d2f2268c2d85.png?w=160&thumb=false"
     },
     {
       "key": "UB0289-PPSA38219_00-0832989115896074",
@@ -3619,6 +3568,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0912/17949abf0e4fe65bd07a803f700e6723580d18744f226c57.png?w=160&thumb=false"
     },
     {
+      "key": "c68aeeb6021d4c45d24d",
+      "id": null,
+      "conceptId": "10019782",
+      "region": "us",
+      "title": "Frog Sqwad",
+      "edition": null,
+      "publisher": "Panic Stations LTD",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019782",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1215/8669572da9dd700a535a52f94932743997e7e68d10f1c9a4.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c68aeeb6021d4c45d24d",
+          "id": null,
+          "title": "Frog Sqwad",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019782",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1215/4c97be22b4749f11ffbd129c3b5c08fa5ba3e872236ac16b.png?w=160&thumb=false"
+    },
+    {
       "key": "c19199dd888d432123aa",
       "id": null,
       "conceptId": "10018803",
@@ -3652,6 +3636,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
+    },
+    {
+      "key": "ad3a2198bf8b49798ce0",
+      "id": null,
+      "conceptId": "10016118",
+      "region": "us",
+      "title": "Primal Planet",
+      "edition": null,
+      "publisher": "Pretty Soon S.A.",
+      "platform": "ps5",
+      "releaseDateRaw": "2026",
+      "datePrecision": "year",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10016118",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/10cab6423f3b3161d2fa818ad99599fda904336ab797e6aa.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "ad3a2198bf8b49798ce0",
+          "id": null,
+          "title": "Primal Planet",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10016118",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/15a171ca86e33d001ecffd6c79623a77f6f9405f5d223b37.jpg?w=160&thumb=false"
     },
     {
       "key": "cc5d16a82772d7991929",
