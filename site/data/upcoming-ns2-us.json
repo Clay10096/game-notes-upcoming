@@ -5,53 +5,19 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-08T00:16:48-07:00",
+  "updatedAt": "2026-10-09T00:16:21-07:00",
   "status": "success",
-  "gameCount": 38,
+  "gameCount": 37,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
-    "candidateCount": 52,
+    "candidateCount": 48,
     "coverage": "official-curated-page",
     "notes": [
       "美服来源为任天堂公开的 Coming Soon 精选页，可能不包含全部待发售游戏。"
     ]
   },
   "games": [
-    {
-      "key": "70010000118031",
-      "id": "70010000118031",
-      "conceptId": null,
-      "region": "us",
-      "title": "Dragon's Dogma 2: Dark Arisen",
-      "edition": "Standard Edition",
-      "publisher": "CAPCOM",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-09T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-09",
-      "releaseAt": null,
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/dragons-dogma-2-dark-arisen-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000118031/6800d14992005a8a4e1861877cc514a6ff0932d41e150c35e3ec6c423ec85aef",
-      "versions": [
-        {
-          "key": "70010000118031",
-          "id": "70010000118031",
-          "title": "Dragon's Dogma 2: Dark Arisen",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/dragons-dogma-2-dark-arisen-switch-2/",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000117765",
       "id": "70010000117765",
