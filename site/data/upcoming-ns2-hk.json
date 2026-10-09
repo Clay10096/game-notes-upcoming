@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-09T00:18:09+08:00",
+  "updatedAt": "2026-10-10T00:15:19+08:00",
   "status": "success",
-  "gameCount": 44,
+  "gameCount": 45,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 529,
+    "candidateCount": 532,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -1244,6 +1244,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000111170",
           "price": 398.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000126599",
+      "id": "70010000126599",
+      "conceptId": null,
+      "region": "hk",
+      "title": "磕磕絆絆圓舞曲",
+      "edition": null,
+      "publisher": "Flyway Games",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 149.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000126599",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001265992029a0b2c35411f194028bf3387d14e7/e4e31e141ab02bff49a5c962a202e83f/167bf4bd2a3fd58c0a18fa94f8d6d9d449fe108adabe2a51bba83f31222e229f.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000126599",
+          "id": "70010000126599",
+          "title": "磕磕絆絆圓舞曲",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000126599",
+          "price": 149.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
