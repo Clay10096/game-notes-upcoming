@@ -5,13 +5,13 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-09T00:25:58+09:00",
+  "updatedAt": "2026-10-10T00:24:16+09:00",
   "status": "success",
-  "gameCount": 105,
+  "gameCount": 109,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 851,
+    "candidateCount": 862,
     "coverage": "official-search",
     "notes": []
   },
@@ -504,6 +504,56 @@
       ]
     },
     {
+      "key": "70010000131049",
+      "id": "70010000131049",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ステラーコード",
+      "edition": null,
+      "publisher": "ケムコ",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.16",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-16",
+      "releaseAt": null,
+      "price": 2574.0,
+      "originalPrice": 2860.0,
+      "currency": "JPY",
+      "offer": {
+        "scope": "public",
+        "price": 2574.0,
+        "originalPrice": 2860.0,
+        "discountPercent": 10.0,
+        "startsAt": "2026-10-09T00:00:00+09:00",
+        "endsAt": "2026-11-05T23:59:59+09:00",
+        "endsAtRaw": "2026-11-05 23:59:59"
+      },
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131049",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fa7644410f4edb11490ae28635ad7ae9123305863bc00f70e4b591aa5da2e579.jpg",
+      "versions": [
+        {
+          "key": "70010000131049",
+          "id": "70010000131049",
+          "title": "ステラーコード",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000131049",
+          "price": 2574.0,
+          "originalPrice": 2860.0,
+          "offer": {
+            "scope": "public",
+            "price": 2574.0,
+            "originalPrice": 2860.0,
+            "discountPercent": 10.0,
+            "startsAt": "2026-10-09T00:00:00+09:00",
+            "endsAt": "2026-11-05T23:59:59+09:00",
+            "endsAtRaw": "2026-11-05 23:59:59"
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000106212",
       "id": "70010000106212",
       "conceptId": null,
@@ -848,6 +898,74 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000119402",
           "price": 4730.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70070000040856",
+      "id": "70070000040856",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Minecraft デラックス コレクション",
+      "edition": null,
+      "publisher": "Mojang/日本マイクロソフト",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.28",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-28",
+      "releaseAt": null,
+      "price": 5830.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70070000040856",
+      "image": "https://img-eshop.cdn.nintendo.net/i/5398352a41cf424fe01abebf96fa94d79e0075989653cfd8be1d0cb68a6340c4.jpg",
+      "versions": [
+        {
+          "key": "70070000040856",
+          "id": "70070000040856",
+          "title": "Minecraft デラックス コレクション",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000040856",
+          "price": 5830.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70070000040857",
+      "id": "70070000040857",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Minecraft: Ultimate Collection",
+      "edition": null,
+      "publisher": "Mojang/日本マイクロソフト",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.28",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-28",
+      "releaseAt": null,
+      "price": 7370.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70070000040857",
+      "image": "https://img-eshop.cdn.nintendo.net/i/eca91b94490d73e7b7033c1fa9d1a014c2d64610f026572bba3bfc819fc245c3.jpg",
+      "versions": [
+        {
+          "key": "70070000040857",
+          "id": "70070000040857",
+          "title": "Minecraft: Ultimate Collection",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000040857",
+          "price": 7370.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -2054,6 +2172,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000111544",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000126598",
+      "id": "70010000126598",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ワルツとジャム",
+      "edition": null,
+      "publisher": "Flyway Games",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.3",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 2490.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126598",
+      "image": "https://img-eshop.cdn.nintendo.net/i/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda.jpg",
+      "versions": [
+        {
+          "key": "70010000126598",
+          "id": "70010000126598",
+          "title": "ワルツとジャム",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000126598",
+          "price": 2490.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null

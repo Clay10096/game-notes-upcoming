@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-09T00:27:20+09:00",
+  "updatedAt": "2026-10-10T00:25:45+09:00",
   "status": "success",
-  "gameCount": 66,
+  "gameCount": 69,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 77,
-    "productPages": 77,
+    "candidateCount": 81,
+    "productPages": 81,
     "coverage": "official-category",
     "notes": []
   },
@@ -1280,6 +1280,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1309/53848e2bc7d3043c0ea1335d2a7f9222f35d8e411339601d.png?w=160&thumb=false"
     },
     {
+      "key": "JP4108-PPSA35020_00-KONGLOBAL0000000",
+      "id": "JP4108-PPSA35020_00-KONGLOBAL0000000",
+      "conceptId": "10017961",
+      "region": "jp",
+      "title": "Kingdom of Night",
+      "edition": null,
+      "publisher": "DANGEN ENTERTAINMENT株式会社",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/11/4",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-04",
+      "releaseAt": "2026-11-04T15:00:00+00:00",
+      "price": 2200.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 1980.0,
+        "originalPrice": 2200.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-04T15:00:00.000Z",
+        "endsAtRaw": "2026-11-04T15:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/JP4108-PPSA35020_00-KONGLOBAL0000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2214/fe284f3df187ad77b4d0fe8ee019e96d487e91cd3ebc4141.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP4108-PPSA35020_00-KONGLOBAL0000000",
+          "id": "JP4108-PPSA35020_00-KONGLOBAL0000000",
+          "title": "Kingdom of Night",
+          "edition": null,
+          "url": "https://store.playstation.com/ja-jp/product/JP4108-PPSA35020_00-KONGLOBAL0000000",
+          "price": 2200.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 1980.0,
+            "originalPrice": 2200.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-04T15:00:00.000Z",
+            "endsAtRaw": "2026-11-04T15:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2214/24fc26d1f318c0780bce1cfc50a9722c71930c1f4794b4c7.png?w=160&thumb=false"
+    },
+    {
       "key": "JP0536-PPSA36936_00-PROJECTALICE0000",
       "id": "JP0536-PPSA36936_00-PROJECTALICE0000",
       "conceptId": "10019084",
@@ -1846,6 +1897,87 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0703/e48356ebb027c5037e174e2211dfee8b2d8f26dae2fd4035.png?w=160&thumb=false"
+    },
+    {
+      "key": "UP6312-PPSA32152_00-0930725187413160",
+      "id": "UP6312-PPSA32152_00-0930725187413160",
+      "conceptId": "10016335",
+      "region": "jp",
+      "title": "Forza Horizon 6 Premium Edition",
+      "edition": "Premium Edition",
+      "publisher": "Microsoft Corporation",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/1/21",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-21",
+      "releaseAt": "2027-01-21T16:00:00+00:00",
+      "price": 16800.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/UP6312-PPSA32152_00-0930725187413160",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2220/02184b815741568fb56da9720bf3b3745bc1e7138bb0dd31.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP6312-PPSA32152_00-0930725187413160",
+          "id": "UP6312-PPSA32152_00-0930725187413160",
+          "title": "Forza Horizon 6 Premium Edition",
+          "edition": "Premium Edition",
+          "url": "https://store.playstation.com/ja-jp/product/UP6312-PPSA32152_00-0930725187413160",
+          "price": 16800.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/098f24a2047a6a15d042b55fbcd7cde9f9c3d1f29e041c28.png?w=160&thumb=false"
+    },
+    {
+      "key": "UP6312-PPSA32152_00-0081086881064115",
+      "id": "UP6312-PPSA32152_00-0081086881064115",
+      "conceptId": "10016335",
+      "region": "jp",
+      "title": "Forza Horizon 6",
+      "edition": "Standard Edition",
+      "publisher": "Microsoft Corporation",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/1/26",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-26",
+      "releaseAt": "2027-01-26T16:00:00+00:00",
+      "price": 9800.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/UP6312-PPSA32152_00-0081086881064115",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/9e09677388a2f815ab02fe08cc918d945b822d4041a55023.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP6312-PPSA32152_00-0081086881064115",
+          "id": "UP6312-PPSA32152_00-0081086881064115",
+          "title": "Forza Horizon 6",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/ja-jp/product/UP6312-PPSA32152_00-0081086881064115",
+          "price": 9800.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "UP6312-PPSA32152_00-0915536134724905",
+          "id": "UP6312-PPSA32152_00-0915536134724905",
+          "title": "Forza Horizon 6 Deluxe Edition",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/ja-jp/product/UP6312-PPSA32152_00-0915536134724905",
+          "price": 14000.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/098f24a2047a6a15d042b55fbcd7cde9f9c3d1f29e041c28.png?w=160&thumb=false"
     },
     {
       "key": "JP3372-PPSA37624_00-MAINGAME00000000",
