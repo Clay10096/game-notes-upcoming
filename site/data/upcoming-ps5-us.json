@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-09T00:18:50-07:00",
+  "updatedAt": "2026-10-10T00:17:42-07:00",
   "status": "success",
-  "gameCount": 97,
+  "gameCount": 99,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 110,
-    "productPages": 163,
+    "candidateCount": 113,
+    "productPages": 166,
     "coverage": "official-category",
     "notes": []
   },
@@ -1120,6 +1120,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1416/9efdaf29e619bc09d0828687fb3273cf623e551ef01a8586.png?w=160&thumb=false"
+    },
+    {
+      "key": "07df3ec909022a08424f",
+      "id": null,
+      "conceptId": "10019396",
+      "region": "us",
+      "title": "FIRE AND ASHES",
+      "edition": null,
+      "publisher": "Axyos Games Entertainment LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "10/23/2026 08:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-23",
+      "releaseAt": "2026-10-23T20:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019396",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/264f4af967571f0b1dc3f29ce00313d87c74f34437035e9d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "07df3ec909022a08424f",
+          "id": null,
+          "title": "FIRE AND ASHES",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019396",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/bfc70cc8cbdbdff211ac2d8e1d3da96b641a789b7de315dc.jpg?w=160&thumb=false"
     },
     {
       "key": "657dfd7cf7a05e52b514",
@@ -3687,6 +3722,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1310/824967de0e154cc60339abde1f71c94f191c9b8a7c33ea37.png?w=160&thumb=false"
+    },
+    {
+      "key": "c3a27ee7d962b4e5c8de",
+      "id": null,
+      "conceptId": "10019536",
+      "region": "us",
+      "title": "Zero Caliber 2 Remastered",
+      "edition": null,
+      "publisher": "XREAL GAMES LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019536",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0715/538894125dde5a240a46207d2ac1f77b3043699556684735.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c3a27ee7d962b4e5c8de",
+          "id": null,
+          "title": "Zero Caliber 2 Remastered",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019536",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0710/d16c65746450f13acbaa142de791722930801589881a176f.png?w=160&thumb=false"
     },
     {
       "key": "431030da947975720c5a",
