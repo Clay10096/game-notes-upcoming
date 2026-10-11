@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-10T00:17:42-07:00",
+  "updatedAt": "2026-10-11T00:17:03-07:00",
   "status": "success",
-  "gameCount": 99,
+  "gameCount": 101,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 113,
-    "productPages": 166,
+    "candidateCount": 115,
+    "productPages": 168,
     "coverage": "official-category",
     "notes": []
   },
@@ -794,6 +794,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2219/4edd41ec61f1fc35091d3a1793b90dd1b0d8af424973c1ba.png?w=160&thumb=false"
+    },
+    {
+      "key": "6f6c15be803003d8e96a",
+      "id": null,
+      "conceptId": "10015442",
+      "region": "us",
+      "title": "Island Market Simulator",
+      "edition": null,
+      "publisher": "CUDIT Games",
+      "platform": "ps5",
+      "releaseDateRaw": "10/18/2026 12:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-18",
+      "releaseAt": "2026-10-18T00:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10015442",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0520/571ccc1abe44eccf94a2cadad016fddd32ad20d857df76f2.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "6f6c15be803003d8e96a",
+          "id": null,
+          "title": "Island Market Simulator",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10015442",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0509/82f2b8d8c4edf0b4e8122bcf930d90bcfe8db97b22500d5e.jpg?w=160&thumb=false"
     },
     {
       "key": "c48d61a7e1253483f197",
@@ -2067,6 +2102,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2214/24fc26d1f318c0780bce1cfc50a9722c71930c1f4794b4c7.png?w=160&thumb=false"
+    },
+    {
+      "key": "8517128720984d5376d9",
+      "id": null,
+      "conceptId": "10013485",
+      "region": "us",
+      "title": "LIGHT:Black Cat & Amnesia Girl",
+      "edition": null,
+      "publisher": "COSEN CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/5/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": "2026-11-05T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10013485",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/6987d5008e9ab6669260adb21f1b393c814babda7409ec8b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "8517128720984d5376d9",
+          "id": null,
+          "title": "LIGHT:Black Cat & Amnesia Girl",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10013485",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/61fce1b12c65e7238a5250535c132def2e6f8dda7fe5d7c8.jpg?w=160&thumb=false"
     },
     {
       "key": "337b387fb6f377882e20",
