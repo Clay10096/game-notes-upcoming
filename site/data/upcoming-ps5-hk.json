@@ -5,7 +5,7 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-11T00:14:37+08:00",
+  "updatedAt": "2026-10-12T04:03:25+08:00",
   "status": "success",
   "gameCount": 70,
   "source": {
@@ -1452,7 +1452,7 @@
       "edition": "標準版",
       "publisher": "Take-Two",
       "platform": "ps5",
-      "releaseDateRaw": "18/11/2026",
+      "releaseDateRaw": "2026-11-18",
       "datePrecision": "day",
       "releaseDate": "2026-11-18",
       "releaseAt": "2026-11-18T16:00:00+00:00",
