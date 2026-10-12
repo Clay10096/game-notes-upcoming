@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-11T00:17:03-07:00",
+  "updatedAt": "2026-10-12T09:37:50-07:00",
   "status": "success",
   "gameCount": 101,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 115,
-    "productPages": 168,
+    "candidateCount": 116,
+    "productPages": 169,
     "coverage": "official-category",
     "notes": []
   },
