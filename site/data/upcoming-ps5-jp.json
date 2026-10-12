@@ -5,64 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-12T04:31:32+09:00",
+  "updatedAt": "2026-10-13T07:30:20+09:00",
   "status": "success",
-  "gameCount": 69,
+  "gameCount": 68,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 81,
-    "productPages": 81,
+    "candidateCount": 79,
+    "productPages": 79,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
-      "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
-      "conceptId": "10015056",
-      "region": "jp",
-      "title": "プラネット ズー 2",
-      "edition": "プラネット ズー 2",
-      "publisher": "Frontier Developments",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/13",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-13",
-      "releaseAt": "2026-10-13T14:00:00+00:00",
-      "price": 5610.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP2377-PPSA29934_00-PLANETZOO2000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/fb79f37f17eacf47e7dca606863c01188d5992f66af4bf3f.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
-          "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
-          "title": "プラネット ズー 2",
-          "edition": "プラネット ズー 2",
-          "url": "https://store.playstation.com/ja-jp/product/EP2377-PPSA29934_00-PLANETZOO2000000",
-          "price": 5610.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "id": "EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "title": "プラネット ズー 2: デラックス版",
-          "edition": "デラックス エディション",
-          "url": "https://store.playstation.com/ja-jp/product/EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "price": 7700.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/20fb6045ba434345bf4fc7a61ca09fb5fe726c55ba6fd754.jpg?w=160&thumb=false"
-    },
     {
       "key": "JP0101-PPSA35399_00-CVBCAPP000000000",
       "id": "JP0101-PPSA35399_00-CVBCAPP000000000",
