@@ -2,9 +2,9 @@
   "region": "JP",
   "store": "playstation",
   "status": "success",
-  "attemptedAt": "2026-10-13T07:28:48+09:00",
-  "completedAt": "2026-10-13T07:30:20+09:00",
-  "lastSuccessAt": "2026-10-13T07:30:20+09:00",
-  "requestCount": 80,
+  "attemptedAt": "2026-10-14T05:37:25+09:00",
+  "completedAt": "2026-10-14T05:38:54+09:00",
+  "lastSuccessAt": "2026-10-14T05:38:54+09:00",
+  "requestCount": 74,
   "error": null
 }

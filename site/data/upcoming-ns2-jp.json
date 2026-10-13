@@ -5,7 +5,7 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-13T07:28:48+09:00",
+  "updatedAt": "2026-10-14T05:37:24+09:00",
   "status": "success",
   "gameCount": 109,
   "source": {
@@ -2191,7 +2191,7 @@
       "datePrecision": "day",
       "releaseDate": "2026-12-03",
       "releaseAt": null,
-      "price": 2490.0,
+      "price": 3300.0,
       "originalPrice": null,
       "currency": "JPY",
       "offer": null,
@@ -2205,7 +2205,7 @@
           "title": "ワルツとジャム",
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000126598",
-          "price": 2490.0,
+          "price": 3300.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
