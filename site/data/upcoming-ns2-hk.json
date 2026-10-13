@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-13T06:48:05+08:00",
+  "updatedAt": "2026-10-14T05:03:13+08:00",
   "status": "success",
-  "gameCount": 45,
+  "gameCount": 44,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,56 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000119030",
-      "id": "70010000119030",
-      "conceptId": null,
-      "region": "hk",
-      "title": "啦嗒噹(Ratatan)",
-      "edition": null,
-      "publisher": "Game Source Entertainment",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-14",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": null,
-      "price": 250.0,
-      "originalPrice": 278.0,
-      "currency": "HKD",
-      "offer": {
-        "scope": "public",
-        "price": 250.0,
-        "originalPrice": 278.0,
-        "discountPercent": 10.1,
-        "startsAt": "2026-09-14T15:00:00Z",
-        "endsAt": "2026-10-14T14:59:59Z",
-        "endsAtRaw": "2026-10-14T14:59:59Z"
-      },
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000119030",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000119030b4a260a5ac8a11f1b99bf92df09e18f3/276937a150581d232511b7e4a8897e0a/21fa947ba38ec3843b8c59cca491049ed2a566377dc0180948196078ff792136.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000119030",
-          "id": "70010000119030",
-          "title": "啦嗒噹(Ratatan)",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000119030",
-          "price": 250.0,
-          "originalPrice": 278.0,
-          "offer": {
-            "scope": "public",
-            "price": 250.0,
-            "originalPrice": 278.0,
-            "discountPercent": 10.1,
-            "startsAt": "2026-09-14T15:00:00Z",
-            "endsAt": "2026-10-14T14:59:59Z",
-            "endsAtRaw": "2026-10-14T14:59:59Z"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000112754",
       "id": "70010000112754",

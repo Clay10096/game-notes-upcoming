@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-13T06:49:48+08:00",
+  "updatedAt": "2026-10-14T05:04:52+08:00",
   "status": "success",
-  "gameCount": 70,
+  "gameCount": 71,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
@@ -17,52 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
-      "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
-      "conceptId": "10015056",
-      "region": "hk",
-      "title": "《動物園之星 2》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "《動物園之星 2》",
-      "publisher": "FRONTIER DEVELOPMENTS PLC",
-      "platform": "ps5",
-      "releaseDateRaw": "13/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-13",
-      "releaseAt": "2026-10-13T14:00:00+00:00",
-      "price": 398.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP2377-PPSA29934_00-PLANETZOO2000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/ff0c14696203a86e24a1752df4319e1d14cc913392fd1f41.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
-          "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
-          "title": "《動物園之星 2》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "《動物園之星 2》",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP2377-PPSA29934_00-PLANETZOO2000000",
-          "price": 398.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "id": "EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "title": "《動物園之星 2》豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "price": 518.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/20fb6045ba434345bf4fc7a61ca09fb5fe726c55ba6fd754.jpg?w=160&thumb=false"
-    },
     {
       "key": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
       "id": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
@@ -413,7 +367,7 @@
       "conceptId": "10015961",
       "region": "hk",
       "title": "FINAL FANTASY RESONANCE (簡體中文, 韓文, 繁體中文)",
-      "edition": "FINAL FANTASY RESONAN(中韩文版)",
+      "edition": "FINAL FANTASY RESONANCE",
       "publisher": "SQUARE ENIX CO., LTD.",
       "platform": "ps5",
       "releaseDateRaw": "21/10/2026",
@@ -432,7 +386,7 @@
           "key": "HP0082-PPSA34140_00-FFRSSTDHP0000000",
           "id": "HP0082-PPSA34140_00-FFRSSTDHP0000000",
           "title": "FINAL FANTASY RESONANCE (簡體中文, 韓文, 繁體中文)",
-          "edition": "FINAL FANTASY RESONAN(中韩文版)",
+          "edition": "FINAL FANTASY RESONANCE",
           "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA34140_00-FFRSSTDHP0000000",
           "price": 399.0,
           "originalPrice": null,
@@ -443,7 +397,7 @@
           "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
           "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
           "title": "FINAL FANTASY RESONANCE (英文, 日文)",
-          "edition": null,
+          "edition": "FINAL FANTASY RESONANCE",
           "url": "https://store.playstation.com/zh-hant-hk/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
           "price": 399.0,
           "originalPrice": null,
@@ -453,7 +407,7 @@
         {
           "key": "HP0082-PPSA34140_00-FFRSDDXHP0000000",
           "id": "HP0082-PPSA34140_00-FFRSDDXHP0000000",
-          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition (中韓文版)",
+          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition (簡體中文, 韓文, 繁體中文)",
           "edition": "Digital Deluxe (中韓文版)",
           "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA34140_00-FFRSDDXHP0000000",
           "price": 499.0,
@@ -464,7 +418,7 @@
         {
           "key": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
           "id": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition (日英文版)",
+          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition (英文, 日文)",
           "edition": "Digital Deluxe (日英文版)",
           "url": "https://store.playstation.com/zh-hant-hk/product/JP0082-PPSA31544_00-FFRSDDXWW0000000",
           "price": 499.0,
@@ -1084,41 +1038,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3106/8607e1288f1a9834039d9fcdc38b86acbae5d0ec1818ece4.png?w=160&thumb=false"
     },
     {
-      "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "conceptId": "10014408",
-      "region": "hk",
-      "title": "Edge of Memories - Digital Deluxe Edition (中日英韓文版)",
-      "edition": "Digital Deluxe Edition",
-      "publisher": "NACON SA",
-      "platform": "ps5",
-      "releaseDateRaw": "3/11/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": "2026-11-03T09:00:00+00:00",
-      "price": 398.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/6db3f2d48834aa942a892359178484ef81995a31e1c15580.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-          "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-          "title": "Edge of Memories - Digital Deluxe Edition (中日英韓文版)",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
-          "price": 398.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/d61fbbca124fc8343165383657a956d70acaba47a4ea3d83.jpg?w=160&thumb=false"
-    },
-    {
       "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
       "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
       "conceptId": "10014443",
@@ -1323,41 +1242,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2214/24fc26d1f318c0780bce1cfc50a9722c71930c1f4794b4c7.png?w=160&thumb=false"
     },
     {
-      "key": "EP6665-PPSA28864_00-EOM0000000000000",
-      "id": "EP6665-PPSA28864_00-EOM0000000000000",
-      "conceptId": "10014408",
-      "region": "hk",
-      "title": "Edge of Memories (簡體中文, 韓文, 英文, 日文)",
-      "edition": "Standard Edition",
-      "publisher": "NACON SA",
-      "platform": "ps5",
-      "releaseDateRaw": "5/11/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": "2026-11-05T09:00:00+00:00",
-      "price": 308.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM0000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA28864_00-EOM0000000000000",
-          "id": "EP6665-PPSA28864_00-EOM0000000000000",
-          "title": "Edge of Memories (簡體中文, 韓文, 英文, 日文)",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM0000000000000",
-          "price": 308.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
-    },
-    {
       "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
       "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
       "conceptId": "10016825",
@@ -1549,6 +1433,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0704/64db280cd2b182043d5e4183ba753645c6a5c08867cfb530.png?w=160&thumb=false"
     },
     {
+      "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "conceptId": "10014408",
+      "region": "hk",
+      "title": "Edge of Memories - Digital Deluxe Edition (中日英韓文版)",
+      "edition": "Digital Deluxe Edition",
+      "publisher": "NACON SA",
+      "platform": "ps5",
+      "releaseDateRaw": "1/12/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-01",
+      "releaseAt": "2026-12-01T09:00:00+00:00",
+      "price": 398.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/6db3f2d48834aa942a892359178484ef81995a31e1c15580.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "title": "Edge of Memories - Digital Deluxe Edition (中日英韓文版)",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "price": 398.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/d61fbbca124fc8343165383657a956d70acaba47a4ea3d83.jpg?w=160&thumb=false"
+    },
+    {
       "key": "EP0001-PPSA34056_00-STBSTD0000000000",
       "id": "EP0001-PPSA34056_00-STBSTD0000000000",
       "conceptId": "10017364",
@@ -1628,6 +1547,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0704/64db280cd2b182043d5e4183ba753645c6a5c08867cfb530.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP6665-PPSA28864_00-EOM0000000000000",
+      "id": "EP6665-PPSA28864_00-EOM0000000000000",
+      "conceptId": "10014408",
+      "region": "hk",
+      "title": "Edge of Memories (簡體中文, 韓文, 英文, 日文)",
+      "edition": "Standard Edition",
+      "publisher": "NACON SA",
+      "platform": "ps5",
+      "releaseDateRaw": "3/12/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T09:00:00+00:00",
+      "price": 308.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM0000000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP6665-PPSA28864_00-EOM0000000000000",
+          "id": "EP6665-PPSA28864_00-EOM0000000000000",
+          "title": "Edge of Memories (簡體中文, 韓文, 英文, 日文)",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP6665-PPSA28864_00-EOM0000000000000",
+          "price": 308.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
@@ -2070,6 +2024,76 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/e9442a1255d6068c6bbdf323109780442423562bf187afa7.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+      "id": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+      "conceptId": "10009337",
+      "region": "hk",
+      "title": "METRO 2039 (中日英韓文版)",
+      "edition": null,
+      "publisher": "PLAION",
+      "platform": "ps5",
+      "releaseDateRaw": "4/2/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": "2027-02-04T16:00:00+00:00",
+      "price": 568.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP8459-PPSA18995_00-GOZO0000000PS5WW",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2408/522fd46e628df9250ac7bd3a52b7e97cddfa872a32664578.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+          "id": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+          "title": "METRO 2039 (中日英韓文版)",
+          "edition": null,
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP8459-PPSA18995_00-GOZO0000000PS5WW",
+          "price": 568.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/a6213966773f343cce1e876d1240b4fd85c500c052acc4b5.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP8459-PPSA18995_00-METRO039DELUXEWW",
+      "id": "EP8459-PPSA18995_00-METRO039DELUXEWW",
+      "conceptId": "10009337",
+      "region": "hk",
+      "title": "《戰慄深隧2039》豪華版 (中日英韓文版)",
+      "edition": "Deluxe Edition",
+      "publisher": "PLAION",
+      "platform": "ps5",
+      "releaseDateRaw": "4/2/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": "2027-02-04T16:00:00+00:00",
+      "price": 798.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP8459-PPSA18995_00-METRO039DELUXEWW",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0519/b31a81c18e4c4594d82b8c55c1b9404984d3218f6789fff8.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP8459-PPSA18995_00-METRO039DELUXEWW",
+          "id": "EP8459-PPSA18995_00-METRO039DELUXEWW",
+          "title": "《戰慄深隧2039》豪華版 (中日英韓文版)",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP8459-PPSA18995_00-METRO039DELUXEWW",
+          "price": 798.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0519/fa8346c3c91c42c7a82257c19be3feaa5ec851fb2efb8e4f.png?w=160&thumb=false"
     },
     {
       "key": "UP5267-PPSA29000_00-TRLOADELX0000000",
