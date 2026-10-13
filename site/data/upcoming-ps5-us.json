@@ -5,64 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-12T09:37:50-07:00",
+  "updatedAt": "2026-10-13T07:54:51-07:00",
   "status": "success",
-  "gameCount": 101,
+  "gameCount": 102,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 116,
-    "productPages": 169,
+    "candidateCount": 120,
+    "productPages": 172,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
-      "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
-      "conceptId": "10015056",
-      "region": "us",
-      "title": "Planet Zoo 2",
-      "edition": "Planet Zoo 2",
-      "publisher": "Frontier Developments PLC",
-      "platform": "ps5",
-      "releaseDateRaw": "10/13/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-13",
-      "releaseAt": "2026-10-13T14:00:00+00:00",
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/EP2377-PPSA29934_00-PLANETZOO2000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/5feefa4c7809beb8bc4fafba1f31cdb45ce8ab3b366252f6.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2377-PPSA29934_00-PLANETZOO2000000",
-          "id": "EP2377-PPSA29934_00-PLANETZOO2000000",
-          "title": "Planet Zoo 2",
-          "edition": "Planet Zoo 2",
-          "url": "https://store.playstation.com/en-us/product/EP2377-PPSA29934_00-PLANETZOO2000000",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "id": "EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "title": "Planet Zoo 2: Deluxe Edition",
-          "edition": "Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/EP2377-PPSA29934_00-PZ2DELUXEEDITION",
-          "price": 64.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/20fb6045ba434345bf4fc7a61ca09fb5fe726c55ba6fd754.jpg?w=160&thumb=false"
-    },
     {
       "key": "bb5556865040aba52865",
       "id": null,
@@ -72,7 +26,7 @@
       "edition": null,
       "publisher": "LYRICAL GAMES, LLC",
       "platform": "ps5",
-      "releaseDateRaw": "10/13/2026 05:00 PM UTC",
+      "releaseDateRaw": "2026-10-13",
       "datePrecision": "day",
       "releaseDate": "2026-10-13",
       "releaseAt": "2026-10-13T17:00:00+00:00",
@@ -107,7 +61,7 @@
       "edition": null,
       "publisher": "Orca Games Pty Ltd",
       "platform": "ps5",
-      "releaseDateRaw": "10/14/2026 12:00 AM UTC",
+      "releaseDateRaw": "2026-10-14",
       "datePrecision": "day",
       "releaseDate": "2026-10-14",
       "releaseAt": "2026-10-14T00:00:00+00:00",
@@ -212,7 +166,7 @@
       "edition": null,
       "publisher": "EastAsiaSoft",
       "platform": "ps5",
-      "releaseDateRaw": "10/14/2026 04:00 AM UTC",
+      "releaseDateRaw": "2026-10-14",
       "datePrecision": "day",
       "releaseDate": "2026-10-14",
       "releaseAt": "2026-10-14T04:00:00+00:00",
@@ -247,7 +201,7 @@
       "edition": null,
       "publisher": "Silver Lining Interactive LTD",
       "platform": "ps5",
-      "releaseDateRaw": "10/14/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-10-14",
       "datePrecision": "day",
       "releaseDate": "2026-10-14",
       "releaseAt": "2026-10-14T14:00:00+00:00",
@@ -1046,7 +1000,7 @@
       "conceptId": "10015961",
       "region": "us",
       "title": "FINAL FANTASY RESONANCE",
-      "edition": null,
+      "edition": "FINAL FANTASY RESONANCE",
       "publisher": "SQUARE ENIX CO., LTD.",
       "platform": "ps5",
       "releaseDateRaw": "10/22/2026",
@@ -1065,7 +1019,7 @@
           "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
           "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
           "title": "FINAL FANTASY RESONANCE",
-          "edition": null,
+          "edition": "FINAL FANTASY RESONANCE",
           "url": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
           "price": 49.99,
           "originalPrice": null,
@@ -1085,6 +1039,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/e13825714849a55ce1b1cd190d96b710d1bc96d78ca71597.png?w=160&thumb=false"
+    },
+    {
+      "key": "d9d748fe5718e624afab",
+      "id": null,
+      "conceptId": "10012271",
+      "region": "us",
+      "title": "Playground VR",
+      "edition": null,
+      "publisher": "SOURCE BYTE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "platform": "ps5",
+      "releaseDateRaw": "10/22/2026 11:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-22",
+      "releaseAt": "2026-10-22T23:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10012271",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1301/af00d98848fe0467b7fb7601a3290a502c487d71470a46c6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "d9d748fe5718e624afab",
+          "id": null,
+          "title": "Playground VR",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10012271",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1301/a01f7e33a4e766b826f46d013e55ab655161ade6c58a3c86.jpg?w=160&thumb=false"
     },
     {
       "key": "UP0002-PPSA01649_00-CODMW4STANDARD01",
@@ -1190,6 +1179,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/bfc70cc8cbdbdff211ac2d8e1d3da96b641a789b7de315dc.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "50781bb7261fb6295072",
+      "id": null,
+      "conceptId": "10015567",
+      "region": "us",
+      "title": "House 2",
+      "edition": null,
+      "publisher": "GLOWSTICK GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "10/23/2026 01:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-23",
+      "releaseAt": "2026-10-23T13:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10015567",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2513/a34b95870ecc98d50cbba53963bcdeedd2206002556eae23.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "50781bb7261fb6295072",
+          "id": null,
+          "title": "House 2",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10015567",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2513/d90dcf7ffa6ed905e996fea259ce4517d148daf0a550812e.png?w=160&thumb=false"
     },
     {
       "key": "657dfd7cf7a05e52b514",
@@ -1660,6 +1684,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2609/0a102b57c2c8663d47af865d0ba9d0eef43140b13c9f70d7.jpg?w=160&thumb=false"
     },
     {
+      "key": "b0058441fb558c5ed4e7",
+      "id": null,
+      "conceptId": "10015518",
+      "region": "us",
+      "title": "HYPERVIOLENT",
+      "edition": null,
+      "publisher": "Fulqrum Publishing Ltd.",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 09:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T09:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10015518",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1112/80a6cfbf99945e6aa5f2314169ee7cac985dee9febbd59a1.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "b0058441fb558c5ed4e7",
+          "id": null,
+          "title": "HYPERVIOLENT",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10015518",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1112/27c83b5510a3773f544b21ef64c6fc3fd84973dd8e160700.jpg?w=160&thumb=false"
+    },
+    {
       "key": "UB2134-PPSA34579_00-0622032276386943",
       "id": "UB2134-PPSA34579_00-0622032276386943",
       "conceptId": "10017620",
@@ -1862,41 +1921,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/eeea2a52258e50550342a05123139647bc1cb23f91ac50f3.png?w=160&thumb=false"
     },
     {
-      "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "conceptId": "10014408",
-      "region": "us",
-      "title": "Edge of Memories - Digital Deluxe Edition",
-      "edition": "Digital Deluxe Edition",
-      "publisher": "NACON SA",
-      "platform": "ps5",
-      "releaseDateRaw": "11/3/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": "2026-11-03T09:00:00+00:00",
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/6db3f2d48834aa942a892359178484ef81995a31e1c15580.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-          "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
-          "title": "Edge of Memories - Digital Deluxe Edition",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/d61fbbca124fc8343165383657a956d70acaba47a4ea3d83.jpg?w=160&thumb=false"
-    },
-    {
       "key": "3df7b005941790e86a9c",
       "id": null,
       "conceptId": "10018112",
@@ -1965,41 +1989,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/baf360b1f72f1d88b1da64a7f89b20efacfb8be7806f243a.png?w=160&thumb=false"
-    },
-    {
-      "key": "EP6665-PPSA28864_00-EOM0000000000000",
-      "id": "EP6665-PPSA28864_00-EOM0000000000000",
-      "conceptId": "10014408",
-      "region": "us",
-      "title": "Edge of Memories",
-      "edition": "Standard Edition",
-      "publisher": "NACON SA",
-      "platform": "ps5",
-      "releaseDateRaw": "11/5/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": "2026-11-05T09:00:00+00:00",
-      "price": 39.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM0000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP6665-PPSA28864_00-EOM0000000000000",
-          "id": "EP6665-PPSA28864_00-EOM0000000000000",
-          "title": "Edge of Memories",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM0000000000000",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
     },
     {
       "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
@@ -2376,6 +2365,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0704/64db280cd2b182043d5e4183ba753645c6a5c08867cfb530.png?w=160&thumb=false"
     },
     {
+      "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "conceptId": "10014408",
+      "region": "us",
+      "title": "Edge of Memories - Digital Deluxe Edition",
+      "edition": "Digital Deluxe Edition",
+      "publisher": "NACON SA",
+      "platform": "ps5",
+      "releaseDateRaw": "12/1/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-01",
+      "releaseAt": "2026-12-01T09:00:00+00:00",
+      "price": 49.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/6db3f2d48834aa942a892359178484ef81995a31e1c15580.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "title": "Edge of Memories - Digital Deluxe Edition",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "price": 49.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/d61fbbca124fc8343165383657a956d70acaba47a4ea3d83.jpg?w=160&thumb=false"
+    },
+    {
       "key": "b1b59757285881353a26",
       "id": null,
       "conceptId": "10012485",
@@ -2444,6 +2468,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0704/64db280cd2b182043d5e4183ba753645c6a5c08867cfb530.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP6665-PPSA28864_00-EOM0000000000000",
+      "id": "EP6665-PPSA28864_00-EOM0000000000000",
+      "conceptId": "10014408",
+      "region": "us",
+      "title": "Edge of Memories",
+      "edition": "Standard Edition",
+      "publisher": "NACON SA",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T09:00:00+00:00",
+      "price": 39.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM0000000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP6665-PPSA28864_00-EOM0000000000000",
+          "id": "EP6665-PPSA28864_00-EOM0000000000000",
+          "title": "Edge of Memories",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/en-us/product/EP6665-PPSA28864_00-EOM0000000000000",
+          "price": 39.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
     },
     {
       "key": "79b7228fb3a18a0d83d4",
@@ -3547,41 +3606,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1910/110964c9d8b896b80f037215d96d8d4360468978888aeaff.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "a4a0ef9d0333786060be",
-      "id": null,
-      "conceptId": "10017746",
-      "region": "us",
-      "title": "Colorbound",
-      "edition": null,
-      "publisher": "Whitethorn Games, Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017746",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3118/e23a1ef5eaa1c838c289639ee50a5b5b0391ff6ce5ce200d.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "a4a0ef9d0333786060be",
-          "id": null,
-          "title": "Colorbound",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017746",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2220/8ad64136d1bff1c4ae357842df89783a6bce6bb3ad3de176.png?w=160&thumb=false"
     },
     {
       "key": "70d9a56fdb534cd4f1e9",
