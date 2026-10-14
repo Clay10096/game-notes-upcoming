@@ -5,327 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-14T05:04:52+08:00",
+  "updatedAt": "2026-10-15T04:05:11+08:00",
   "status": "success",
-  "gameCount": 71,
+  "gameCount": 69,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 84,
-    "productPages": 84,
+    "candidateCount": 83,
+    "productPages": 83,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "id": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "conceptId": "10016903",
-      "region": "hk",
-      "title": "Bluey's Happy Snaps：豪華版 (簡體中文, 英文, 繁體中文, 日文)",
-      "edition": "豪華版",
-      "publisher": "Gameloft K.K.",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T16:00:00+00:00",
-      "price": 428.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 321.0,
-        "originalPrice": 428.0,
-        "discountPercent": 25.0,
-        "startsAt": null,
-        "endsAt": "2026-10-14T16:00:00.000Z",
-        "endsAtRaw": "2026-10-14T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2410/8450ef91c6c68a1a79df2bfd8a9e07de40c990ddf5fc1f15.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-          "id": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-          "title": "Bluey's Happy Snaps：豪華版 (簡體中文, 英文, 繁體中文, 日文)",
-          "edition": "豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-          "price": 428.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 321.0,
-            "originalPrice": 428.0,
-            "discountPercent": 25.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T16:00:00.000Z",
-            "endsAtRaw": "2026-10-14T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2410/fd79efbe45677b972026898fe8e748e4f0ab259b8bccfb8d.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "JP0101-PPSA35399_00-CVBCAPP000000000",
-      "id": "JP0101-PPSA35399_00-CVBCAPP000000000",
-      "conceptId": "10018186",
-      "region": "hk",
-      "title": "Castlevania: Belmont's Curse (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "Standard Edition",
-      "publisher": "KONAMI",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T16:00:00+00:00",
-      "price": 198.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/JP0101-PPSA35399_00-CVBCAPP000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2005/4074e46383e491ab25df83141a556f69aa7c005fa92ffa4b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0101-PPSA35399_00-CVBCAPP000000000",
-          "id": "JP0101-PPSA35399_00-CVBCAPP000000000",
-          "title": "Castlevania: Belmont's Curse (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/JP0101-PPSA35399_00-CVBCAPP000000000",
-          "price": 198.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0906/724071a2c329fa38b317c67a57d33a9c69e2fe8a7e4296c3.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-      "id": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-      "conceptId": "10018186",
-      "region": "hk",
-      "title": "Castlevania: Belmont’s Curse Midnight Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "Midnight Edition",
-      "publisher": "KONAMI",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T16:00:00+00:00",
-      "price": 238.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/JP0101-PPSA35399_00-CVBCDXDL00000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2108/ea252a91ce78f4427c1e1a6c72836874e41408dc7dd77f76.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-          "id": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-          "title": "Castlevania: Belmont’s Curse Midnight Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "Midnight Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/JP0101-PPSA35399_00-CVBCDXDL00000000",
-          "price": 238.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0906/724071a2c329fa38b317c67a57d33a9c69e2fe8a7e4296c3.png?w=160&thumb=false"
-    },
-    {
-      "key": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-      "id": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-      "conceptId": "10018934",
-      "region": "hk",
-      "title": "Harvest Moon®: Echoes of Teradea (簡體中文, 英文, 繁體中文, 日文)",
-      "edition": "Standard",
-      "publisher": "Natsume, Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T16:00:00+00:00",
-      "price": 398.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UP1014-PPSA36628_00-HMEOT000000PS5US",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2917/9e9c256f6e3617337ef6e294bac57308cbe9fc3b1d74e17b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-          "id": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-          "title": "Harvest Moon®: Echoes of Teradea (簡體中文, 英文, 繁體中文, 日文)",
-          "edition": "Standard",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UP1014-PPSA36628_00-HMEOT000000PS5US",
-          "price": 398.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2917/e0342d5ff71fef35b25cf3564c251c39532c1b5fef43bca0.png?w=160&thumb=false"
-    },
-    {
-      "key": "HP5249-PPSA34884_00-0823883309224394",
-      "id": "HP5249-PPSA34884_00-0823883309224394",
-      "conceptId": "10017810",
-      "region": "hk",
-      "title": "Ratatan - 數位豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "數位豪華版",
-      "publisher": "GAME SOURCE ENTERTAINMENT",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T15:00:00+00:00",
-      "price": 308.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 277.2,
-        "originalPrice": 308.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-14T15:00:00.000Z",
-        "endsAtRaw": "2026-10-14T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP5249-PPSA34884_00-0823883309224394",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2704/bdf1e3afba7df7796a324ff5992517bb83d3060288dae0c9.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP5249-PPSA34884_00-0823883309224394",
-          "id": "HP5249-PPSA34884_00-0823883309224394",
-          "title": "Ratatan - 數位豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "數位豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP5249-PPSA34884_00-0823883309224394",
-          "price": 308.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 277.2,
-            "originalPrice": 308.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T15:00:00.000Z",
-            "endsAtRaw": "2026-10-14T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2704/9e7724693affeaf1686d4f5448891f71041c5eeec4950dc5.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "UP3643-PPSA33779_00-0036248476329215",
-      "id": "UP3643-PPSA33779_00-0036248476329215",
-      "conceptId": "10017203",
-      "region": "hk",
-      "title": "Warhammer 40,000: Boltgun 2 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": null,
-      "publisher": "Devolver Digital",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T16:00:00+00:00",
-      "price": 198.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 178.2,
-        "originalPrice": 198.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-14T16:00:00.000Z",
-        "endsAtRaw": "2026-10-14T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/UP3643-PPSA33779_00-0036248476329215",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/de29511c491381d78f76ae20094f1cfa97ce863921f6432b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP3643-PPSA33779_00-0036248476329215",
-          "id": "UP3643-PPSA33779_00-0036248476329215",
-          "title": "Warhammer 40,000: Boltgun 2 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": null,
-          "url": "https://store.playstation.com/zh-hant-hk/product/UP3643-PPSA33779_00-0036248476329215",
-          "price": 198.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 178.2,
-            "originalPrice": 198.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T16:00:00.000Z",
-            "endsAtRaw": "2026-10-14T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/56d9e3e8a51e82772a7db4c938ebd67d95c328afd99fba29.png?w=160&thumb=false"
-    },
-    {
-      "key": "HP5249-PPSA34884_00-0116723305741680",
-      "id": "HP5249-PPSA34884_00-0116723305741680",
-      "conceptId": "10017810",
-      "region": "hk",
-      "title": "啦嗒噹 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "Standard",
-      "publisher": "GAME SOURCE ENTERTAINMENT",
-      "platform": "ps5",
-      "releaseDateRaw": "14/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T15:00:00+00:00",
-      "price": 268.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 241.2,
-        "originalPrice": 268.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-14T15:00:00.000Z",
-        "endsAtRaw": "2026-10-14T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP5249-PPSA34884_00-0116723305741680",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2010/9fc5019ce4b370fe374cea40468605a410b9cb65064e35cb.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP5249-PPSA34884_00-0116723305741680",
-          "id": "HP5249-PPSA34884_00-0116723305741680",
-          "title": "啦嗒噹 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "Standard",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP5249-PPSA34884_00-0116723305741680",
-          "price": 268.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 241.2,
-            "originalPrice": 268.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T15:00:00.000Z",
-            "endsAtRaw": "2026-10-14T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2704/9e7724693affeaf1686d4f5448891f71041c5eeec4950dc5.jpg?w=160&thumb=false"
-    },
     {
       "key": "HP7588-PPSA28050_00-SET0100000000000",
       "id": "HP7588-PPSA28050_00-SET0100000000000",
@@ -905,7 +596,7 @@
       "id": "UB0289-PPSA38219_00-0697163834453593",
       "conceptId": "10010699",
       "region": "hk",
-      "title": "SURI: The Seventh Note (簡體中文, 英文, 日文)",
+      "title": "SURI: The Seventh Note (簡體中文, 英文, 泰文, 日文)",
       "edition": "Standard",
       "publisher": "Tathvamasi Studios Private Limited",
       "platform": "ps5",
@@ -932,7 +623,7 @@
         {
           "key": "UB0289-PPSA38219_00-0697163834453593",
           "id": "UB0289-PPSA38219_00-0697163834453593",
-          "title": "SURI: The Seventh Note (簡體中文, 英文, 日文)",
+          "title": "SURI: The Seventh Note (簡體中文, 英文, 泰文, 日文)",
           "edition": "Standard",
           "url": "https://store.playstation.com/zh-hant-hk/product/UB0289-PPSA38219_00-0697163834453593",
           "price": 148.0,
@@ -1398,6 +1089,76 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/1c8e3e304f0bad2d99ffed828ad460ebe5949608cb82a5dd.png?w=160&thumb=false"
     },
     {
+      "key": "EP1439-PPSA36395_00-0856144322518238",
+      "id": "EP1439-PPSA36395_00-0856144322518238",
+      "conceptId": "10016558",
+      "region": "hk",
+      "title": "FreeStyle Football 2 - Deluxe Edition (中日英韓文版)",
+      "edition": "Deluxe Edition",
+      "publisher": "JOYCITY CORPORATION",
+      "platform": "ps5",
+      "releaseDateRaw": "30/11/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-30",
+      "releaseAt": "2026-11-30T10:00:00+00:00",
+      "price": 308.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 277.2,
+        "originalPrice": 308.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-03T10:00:00.000Z",
+        "endsAtRaw": "2026-12-03T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0856144322518238",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/56bac1673c67a7b64f0f3d613276bb572a5da0c3b1d6921c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP1439-PPSA36395_00-0856144322518238",
+          "id": "EP1439-PPSA36395_00-0856144322518238",
+          "title": "FreeStyle Football 2 - Deluxe Edition (中日英韓文版)",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0856144322518238",
+          "price": 308.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 277.2,
+            "originalPrice": 308.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T10:00:00.000Z",
+            "endsAtRaw": "2026-12-03T10:00:00.000Z"
+          }
+        },
+        {
+          "key": "EP1439-PPSA36395_00-0801025643898279",
+          "id": "EP1439-PPSA36395_00-0801025643898279",
+          "title": "FreeStyle Football 2 - Ultimate Edition (中日英韓文版)",
+          "edition": "Ultimate Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0801025643898279",
+          "price": 568.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 511.2,
+            "originalPrice": 568.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T10:00:00.000Z",
+            "endsAtRaw": "2026-12-03T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP0082-PPSA32281_00-DQM4DDX000000000",
       "id": "JP0082-PPSA32281_00-DQM4DDX000000000",
       "conceptId": "10016414",
@@ -1584,6 +1345,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
     },
     {
+      "key": "EP1439-PPSA36395_00-0081988138842333",
+      "id": "EP1439-PPSA36395_00-0081988138842333",
+      "conceptId": "10016558",
+      "region": "hk",
+      "title": "FreeStyle Football 2 (中日英韓文版)",
+      "edition": "Standard Edition",
+      "publisher": "JOYCITY CORPORATION",
+      "platform": "ps5",
+      "releaseDateRaw": "3/12/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T10:00:00+00:00",
+      "price": 238.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 214.2,
+        "originalPrice": 238.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-03T10:00:00.000Z",
+        "endsAtRaw": "2026-12-03T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0081988138842333",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0804/0c2b2c82393455ba4bbe970a94a614f98f55e29d53332011.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP1439-PPSA36395_00-0081988138842333",
+          "id": "EP1439-PPSA36395_00-0081988138842333",
+          "title": "FreeStyle Football 2 (中日英韓文版)",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0081988138842333",
+          "price": 238.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 214.2,
+            "originalPrice": 238.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T10:00:00.000Z",
+            "endsAtRaw": "2026-12-03T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
       "id": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
       "conceptId": "10012189",
@@ -1652,6 +1464,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2108/985131c0d1a0a04bca901fd3c98b2d9b13f0e61ea309ce62.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "UB2417-PPSA39386_00-ROSTAGETOURSUBSK",
+      "id": "UB2417-PPSA39386_00-ROSTAGETOURSUBSK",
+      "conceptId": "10019110",
+      "region": "hk",
+      "title": "STAGE TOUR (英文)",
+      "edition": null,
+      "publisher": "Redoctane Games LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "10/12/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": "2026-12-10T05:00:00+00:00",
+      "price": 308.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 277.2,
+        "originalPrice": 308.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-10T05:00:00.000Z",
+        "endsAtRaw": "2026-12-10T05:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/UB2417-PPSA39386_00-ROSTAGETOURSUBSK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1619/99ee34791b1a80fe6aec3009f72e776eb69930605e89b496.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UB2417-PPSA39386_00-ROSTAGETOURSUBSK",
+          "id": "UB2417-PPSA39386_00-ROSTAGETOURSUBSK",
+          "title": "STAGE TOUR (英文)",
+          "edition": null,
+          "url": "https://store.playstation.com/zh-hant-hk/product/UB2417-PPSA39386_00-ROSTAGETOURSUBSK",
+          "price": 308.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 277.2,
+            "originalPrice": 308.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-10T05:00:00.000Z",
+            "endsAtRaw": "2026-12-10T05:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1914/e747e9cd0f70119b0504707fc32c51ad589b26db078b9513.jpg?w=160&thumb=false"
     },
     {
       "key": "JP0177-PPSA34972_00-MAINGAME00000000",
@@ -1735,6 +1598,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/44db9f080cae5913c506fcf62c2e8e11fc720eb7ef5eb15f.jpg?w=160&thumb=false"
     },
     {
+      "key": "EP3392-PPSA38251_00-0725635823258947",
+      "id": "EP3392-PPSA38251_00-0725635823258947",
+      "conceptId": "10019858",
+      "region": "hk",
+      "title": "Arizona Sunshine® (中日英韓文版)",
+      "edition": "豪華版",
+      "publisher": "VERTIGO GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "19/1/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-19",
+      "releaseAt": "2027-01-19T10:00:00+00:00",
+      "price": 238.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 190.4,
+        "originalPrice": 238.0,
+        "discountPercent": 20.0,
+        "startsAt": null,
+        "endsAt": "2027-01-21T10:00:00.000Z",
+        "endsAtRaw": "2027-01-21T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP3392-PPSA38251_00-0725635823258947",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2506/6f01014c0eae9c02d46d2762af2cdf9349e41304855dda10.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP3392-PPSA38251_00-0725635823258947",
+          "id": "EP3392-PPSA38251_00-0725635823258947",
+          "title": "Arizona Sunshine® (中日英韓文版)",
+          "edition": "豪華版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP3392-PPSA38251_00-0725635823258947",
+          "price": 238.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 190.4,
+            "originalPrice": 238.0,
+            "discountPercent": 20.0,
+            "startsAt": null,
+            "endsAt": "2027-01-21T10:00:00.000Z",
+            "endsAtRaw": "2027-01-21T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0909/0f9a9d695edc2b7a96c3b0812789059337816c841e18004c.png?w=160&thumb=false"
+    },
+    {
       "key": "JP5784-PPSA34054_00-WANDERINGSWORD00",
       "id": "JP5784-PPSA34054_00-WANDERINGSWORD00",
       "conceptId": "10017362",
@@ -1768,6 +1682,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/44db9f080cae5913c506fcf62c2e8e11fc720eb7ef5eb15f.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP3392-PPSA38251_00-0316275811660370",
+      "id": "EP3392-PPSA38251_00-0316275811660370",
+      "conceptId": "10019858",
+      "region": "hk",
+      "title": "Arizona Sunshine® (中日英韓文版)",
+      "edition": null,
+      "publisher": "VERTIGO GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "21/1/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-21",
+      "releaseAt": "2027-01-21T10:00:00+00:00",
+      "price": 198.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 158.4,
+        "originalPrice": 198.0,
+        "discountPercent": 20.0,
+        "startsAt": null,
+        "endsAt": "2027-01-21T10:00:00.000Z",
+        "endsAtRaw": "2027-01-21T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP3392-PPSA38251_00-0316275811660370",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0321/c39e42b89f8757dc264a134c2552d9b1eae8df5f236d7d78.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP3392-PPSA38251_00-0316275811660370",
+          "id": "EP3392-PPSA38251_00-0316275811660370",
+          "title": "Arizona Sunshine® (中日英韓文版)",
+          "edition": null,
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP3392-PPSA38251_00-0316275811660370",
+          "price": 198.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 158.4,
+            "originalPrice": 198.0,
+            "discountPercent": 20.0,
+            "startsAt": null,
+            "endsAt": "2027-01-21T10:00:00.000Z",
+            "endsAtRaw": "2027-01-21T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0909/0f9a9d695edc2b7a96c3b0812789059337816c841e18004c.png?w=160&thumb=false"
     },
     {
       "key": "UP6312-PPSA32152_00-0930725187413160",
@@ -2327,7 +2292,7 @@
         {
           "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
           "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "title": "復活邪神3 錯綜宿命 (日英文版)",
+          "title": "復活邪神3 錯綜宿命 (英文, 日文)",
           "edition": "Standard Edition (JP/EN)",
           "url": "https://store.playstation.com/zh-hant-hk/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
           "price": 398.0,
