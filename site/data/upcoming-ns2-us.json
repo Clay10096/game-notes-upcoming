@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-13T07:51:43-07:00",
+  "updatedAt": "2026-10-14T05:42:36-07:00",
   "status": "success",
-  "gameCount": 37,
+  "gameCount": 36,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,40 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000117765",
-      "id": "70010000117765",
-      "conceptId": null,
-      "region": "us",
-      "title": "The Witch's Bakery",
-      "edition": "Standard Edition",
-      "publisher": "Silver Lining",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-14T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": null,
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/the-witchs-bakery-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000117765/8af94512d75e3e85ad484d577960e895879ff9836c4e1e4e22db3bcba407a917",
-      "versions": [
-        {
-          "key": "70010000117765",
-          "id": "70010000117765",
-          "title": "The Witch's Bakery",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/the-witchs-bakery-switch-2/",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000130219",
       "id": "70010000130219",

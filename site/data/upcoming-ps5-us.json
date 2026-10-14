@@ -5,88 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-13T07:54:51-07:00",
+  "updatedAt": "2026-10-14T05:45:44-07:00",
   "status": "success",
-  "gameCount": 102,
+  "gameCount": 103,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 120,
-    "productPages": 172,
+    "candidateCount": 123,
+    "productPages": 178,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "bb5556865040aba52865",
-      "id": null,
-      "conceptId": "10016571",
-      "region": "us",
-      "title": "Valor Mortis",
-      "edition": null,
-      "publisher": "LYRICAL GAMES, LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-13",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-13",
-      "releaseAt": "2026-10-13T17:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10016571",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "bb5556865040aba52865",
-          "id": null,
-          "title": "Valor Mortis",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10016571",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/4d76a918fd8a46e60aead8a57938592531a2db7d139e9b3f.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "d81999b2afe8957a2f08",
-      "id": null,
-      "conceptId": "10020871",
-      "region": "us",
-      "title": "Hippo Hop",
-      "edition": null,
-      "publisher": "Orca Games Pty Ltd",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-14",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T00:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020871",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1705/a469e62aa30a9ab8d3972127f4508feebad2468f79e24dad.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "d81999b2afe8957a2f08",
-          "id": null,
-          "title": "Hippo Hop",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020871",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1705/5deaafaccbfe52a8ef2a1ff9500955dde5284192b0ce231a.png?w=160&thumb=false"
-    },
     {
       "key": "HP5249-PPSA34884_00-0116723305741680",
       "id": "HP5249-PPSA34884_00-0116723305741680",
@@ -158,41 +88,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2704/9e7724693affeaf1686d4f5448891f71041c5eeec4950dc5.jpg?w=160&thumb=false"
     },
     {
-      "key": "7b266240293458cdd16e",
-      "id": null,
-      "conceptId": "10018118",
-      "region": "us",
-      "title": "Shockwave Triggers",
-      "edition": null,
-      "publisher": "EastAsiaSoft",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-14",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018118",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0708/4ebcc2ad98d70d753f2cac89231a5e6bf5f4e142df1ecc7c.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "7b266240293458cdd16e",
-          "id": null,
-          "title": "Shockwave Triggers",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018118",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0708/10a1f766a6ef3f438652940023f7bc85b879a504b8a01bdb.png?w=160&thumb=false"
-    },
-    {
       "key": "e2003a926543bb123e7f",
       "id": null,
       "conceptId": "10017135",
@@ -211,7 +106,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/en-us/concept/10017135",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0909/f3cdfdc8fc7eaccfe011702d45c2ff23bd0caf79c11229d9.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1409/3dc4c92cf33ecde30cacdd96b715f2d3135e18857c374dd4.png?w=160&thumb=false",
       "versions": [
         {
           "key": "e2003a926543bb123e7f",
@@ -225,7 +120,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0910/b2af6f5d9d1ad69aead955eb81453e39d2f37b0cbfda4e4c.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1409/0bd988d2b6db833c0138de9e9c1e0fea30ed011bddb9ee01.jpg?w=160&thumb=false"
     },
     {
       "key": "UP3643-PPSA33779_00-0036248476329215",
@@ -287,7 +182,7 @@
       "edition": null,
       "publisher": "Axyos Games Entertainment LLC",
       "platform": "ps5",
-      "releaseDateRaw": "10/14/2026 08:00 PM UTC",
+      "releaseDateRaw": "2026-10-14",
       "datePrecision": "day",
       "releaseDate": "2026-10-14",
       "releaseAt": "2026-10-14T20:00:00+00:00",
@@ -478,7 +373,7 @@
       "edition": null,
       "publisher": "FEATHERWEIGHT GAMES PTY LIMITED",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 12:00 AM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T00:00:00+00:00",
@@ -513,7 +408,7 @@
       "edition": null,
       "publisher": "Evgeniy Kolpakov t/a Sometimes You",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 04:00 AM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T04:00:00+00:00",
@@ -688,7 +583,7 @@
       "edition": null,
       "publisher": "Markt+Technik Verlag GmbH",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 12:00 AM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T00:00:00+00:00",
@@ -1956,6 +1851,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2615/056aa16e5eae4340cf46e6df484ed62054ffc9f06ee264e3.jpg?w=160&thumb=false"
     },
     {
+      "key": "e50bdb337ac43ab5127d",
+      "id": null,
+      "conceptId": "10016673",
+      "region": "us",
+      "title": "ZERO PARADES: Director's Cut",
+      "edition": null,
+      "publisher": "ZAUM STUDIO LIMITED",
+      "platform": "ps5",
+      "releaseDateRaw": "11/3/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-03",
+      "releaseAt": "2026-11-03T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10016673",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1518/e3a1fb54a44eea922f1697f62e1150d6186dd17ed25bb236.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "e50bdb337ac43ab5127d",
+          "id": null,
+          "title": "ZERO PARADES: Director's Cut",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10016673",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1518/b5c687c6e55a82bafe4dcbd5034960c9116354c410e686a3.jpg?w=160&thumb=false"
+    },
+    {
       "key": "UP2777-PPSA36938_00-PROJECTALICE0000",
       "id": "UP2777-PPSA36938_00-PROJECTALICE0000",
       "conceptId": "10019084",
@@ -2330,6 +2260,76 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/83c8c965f81890a78c9f4472660adb8748135f5afd1c4acb.jpg?w=160&thumb=false"
     },
     {
+      "key": "EP1439-PPSA36395_00-0856144322518238",
+      "id": "EP1439-PPSA36395_00-0856144322518238",
+      "conceptId": "10016558",
+      "region": "us",
+      "title": "FreeStyle Football 2 - Deluxe Edition",
+      "edition": "Deluxe Edition",
+      "publisher": "JOYCITY Corporation",
+      "platform": "ps5",
+      "releaseDateRaw": "11/30/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-30",
+      "releaseAt": "2026-11-30T10:00:00+00:00",
+      "price": 39.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 35.99,
+        "originalPrice": 39.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-03T10:00:00.000Z",
+        "endsAtRaw": "2026-12-03T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0856144322518238",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/56bac1673c67a7b64f0f3d613276bb572a5da0c3b1d6921c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP1439-PPSA36395_00-0856144322518238",
+          "id": "EP1439-PPSA36395_00-0856144322518238",
+          "title": "FreeStyle Football 2 - Deluxe Edition",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0856144322518238",
+          "price": 39.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 35.99,
+            "originalPrice": 39.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T10:00:00.000Z",
+            "endsAtRaw": "2026-12-03T10:00:00.000Z"
+          }
+        },
+        {
+          "key": "EP1439-PPSA36395_00-0801025643898279",
+          "id": "EP1439-PPSA36395_00-0801025643898279",
+          "title": "FreeStyle Football 2 - Ultimate Edition",
+          "edition": "Ultimate Edition",
+          "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0801025643898279",
+          "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 62.99,
+            "originalPrice": 69.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T10:00:00.000Z",
+            "endsAtRaw": "2026-12-03T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP0082-PPSA32281_00-DQM4DDX000000000",
       "id": "JP0082-PPSA32281_00-DQM4DDX000000000",
       "conceptId": "10016414",
@@ -2538,6 +2538,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3111/b8ba2723c1d83ef6ba34bcc8d9131b043d2c16a1c8928e4c.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP1439-PPSA36395_00-0081988138842333",
+      "id": "EP1439-PPSA36395_00-0081988138842333",
+      "conceptId": "10016558",
+      "region": "us",
+      "title": "FreeStyle Football 2",
+      "edition": "Standard Edition",
+      "publisher": "JOYCITY Corporation",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T10:00:00+00:00",
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 26.99,
+        "originalPrice": 29.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-03T10:00:00.000Z",
+        "endsAtRaw": "2026-12-03T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0081988138842333",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0804/0c2b2c82393455ba4bbe970a94a614f98f55e29d53332011.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP1439-PPSA36395_00-0081988138842333",
+          "id": "EP1439-PPSA36395_00-0081988138842333",
+          "title": "FreeStyle Football 2",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0081988138842333",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 26.99,
+            "originalPrice": 29.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T10:00:00.000Z",
+            "endsAtRaw": "2026-12-03T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
     },
     {
       "key": "EP0001-PPSA34056_00-STBSTD0000000000",
@@ -2932,6 +2983,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/e9442a1255d6068c6bbdf323109780442423562bf187afa7.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+      "id": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+      "conceptId": "10009337",
+      "region": "us",
+      "title": "METRO 2039",
+      "edition": null,
+      "publisher": "PLAION",
+      "platform": "ps5",
+      "releaseDateRaw": "2/4/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": "2027-02-04T16:00:00+00:00",
+      "price": 69.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/EP8459-PPSA18995_00-GOZO0000000PS5WW",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2408/522fd46e628df9250ac7bd3a52b7e97cddfa872a32664578.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+          "id": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
+          "title": "METRO 2039",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/EP8459-PPSA18995_00-GOZO0000000PS5WW",
+          "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "EP8459-PPSA18995_00-METRO039DELUXEWW",
+          "id": "EP8459-PPSA18995_00-METRO039DELUXEWW",
+          "title": "METRO 2039 Deluxe Edition",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/EP8459-PPSA18995_00-METRO039DELUXEWW",
+          "price": 99.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/a6213966773f343cce1e876d1240b4fd85c500c052acc4b5.png?w=160&thumb=false"
     },
     {
       "key": "UP5267-PPSA29000_00-TRLOADELX0000000",
