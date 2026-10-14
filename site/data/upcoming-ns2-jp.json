@@ -5,354 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-14T05:37:24+09:00",
+  "updatedAt": "2026-10-15T04:18:54+09:00",
   "status": "success",
   "gameCount": 109,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 862,
+    "candidateCount": 879,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000133039",
-      "id": "70010000133039",
-      "conceptId": null,
-      "region": "jp",
-      "title": "DESOLUS",
-      "edition": null,
-      "publisher": "The Quantum Astrophysicists Guild",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 2600.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000133039",
-      "image": "https://img-eshop.cdn.nintendo.net/i/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640.jpg",
-      "versions": [
-        {
-          "key": "70010000133039",
-          "id": "70010000133039",
-          "title": "DESOLUS",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000133039",
-          "price": 2600.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000109120",
-      "id": "70010000109120",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Disney/Pixar Toy Story 3 Complete Edition",
-      "edition": null,
-      "publisher": "Atari",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 3300.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000109120",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ff06cff56dbe86d811097b363499f55fbfaf9b9e4584a6789679a66d03692bd0.jpg",
-      "versions": [
-        {
-          "key": "70010000109120",
-          "id": "70010000109120",
-          "title": "Disney/Pixar Toy Story 3 Complete Edition",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000109120",
-          "price": 3300.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000109105",
-      "id": "70010000109105",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Disney/Pixar Toy Story: Retro Roundup!",
-      "edition": null,
-      "publisher": "Atari",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 3850.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000109105",
-      "image": "https://img-eshop.cdn.nintendo.net/i/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f.jpg",
-      "versions": [
-        {
-          "key": "70010000109105",
-          "id": "70010000109105",
-          "title": "Disney/Pixar Toy Story: Retro Roundup!",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000109105",
-          "price": 3850.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000129741",
-      "id": "70010000129741",
-      "conceptId": null,
-      "region": "jp",
-      "title": "House Flipper 2 (ハウスフリッパー２)",
-      "edition": null,
-      "publisher": "Frozen District",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 4500.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129741",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b80d47ebcc632d8f7dfc3f8f98084000919b9553aa9b892e9da88d0e754c278b.jpg",
-      "versions": [
-        {
-          "key": "70010000129741",
-          "id": "70010000129741",
-          "title": "House Flipper 2 (ハウスフリッパー２)",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000129741",
-          "price": 4500.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000119029",
-      "id": "70010000119029",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Ratatan",
-      "edition": null,
-      "publisher": "Game Source Entertainment",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 5544.0,
-      "originalPrice": 6160.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 5544.0,
-        "originalPrice": 6160.0,
-        "discountPercent": 10.0,
-        "startsAt": "2026-09-15T00:00:00+09:00",
-        "endsAt": "2026-10-14T23:59:59+09:00",
-        "endsAtRaw": "2026-10-14 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000119029",
-      "image": "https://img-eshop.cdn.nintendo.net/i/93a27281bac3380ebe5c24ff0281b13c511ebf4d2ab5cfcc57365fee69a68509.jpg",
-      "versions": [
-        {
-          "key": "70010000119029",
-          "id": "70010000119029",
-          "title": "Ratatan",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000119029",
-          "price": 5544.0,
-          "originalPrice": 6160.0,
-          "offer": {
-            "scope": "public",
-            "price": 5544.0,
-            "originalPrice": 6160.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-09-15T00:00:00+09:00",
-            "endsAt": "2026-10-14T23:59:59+09:00",
-            "endsAtRaw": "2026-10-14 23:59:59"
-          },
-          "memberOffer": null
-        },
-        {
-          "key": "70070000039504",
-          "id": "70070000039504",
-          "title": "Ratatan - デラックス版",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70070000039504",
-          "price": 6316.0,
-          "originalPrice": 7018.0,
-          "offer": {
-            "scope": "public",
-            "price": 6316.0,
-            "originalPrice": 7018.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-09-15T00:00:00+09:00",
-            "endsAt": "2026-10-14T23:59:59+09:00",
-            "endsAtRaw": "2026-10-14 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000117767",
-      "id": "70010000117767",
-      "conceptId": null,
-      "region": "jp",
-      "title": "The Witch's Bakery",
-      "edition": null,
-      "publisher": "Silver Lining",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 2400.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000117767",
-      "image": "https://img-eshop.cdn.nintendo.net/i/44492df10ca14492df82040117a4917062b7f9493f7a17cd024a5ca63ca2b76b.jpg",
-      "versions": [
-        {
-          "key": "70010000117767",
-          "id": "70010000117767",
-          "title": "The Witch's Bakery",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000117767",
-          "price": 2400.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000110880",
-      "id": "70010000110880",
-      "conceptId": null,
-      "region": "jp",
-      "title": "テイルズ オブ エターニア リマスター",
-      "edition": null,
-      "publisher": "バンダイナムコエンターテインメント",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 3960.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000110880",
-      "image": "https://img-eshop.cdn.nintendo.net/i/01bb22a8965c365ddac7c85a4ee556690823e4dcae978596eacbf5a62660a75e.jpg",
-      "versions": [
-        {
-          "key": "70010000110880",
-          "id": "70010000110880",
-          "title": "テイルズ オブ エターニア リマスター",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000110880",
-          "price": 3960.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "70070000038272",
-          "id": "70070000038272",
-          "title": "テイルズ オブ エターニア リマスター デラックスエディション",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70070000038272",
-          "price": 6930.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000112753",
-      "id": "70010000112753",
-      "conceptId": null,
-      "region": "jp",
-      "title": "ブルーイのハッピースナップ",
-      "edition": null,
-      "publisher": "ゲームロフト",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 4650.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000112753",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8226b4cd2861ce9ce27a192176dbc4d8f652d430666fc07fa80864c8b7bc4e35.jpg",
-      "versions": [
-        {
-          "key": "70010000112753",
-          "id": "70010000112753",
-          "title": "ブルーイのハッピースナップ",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000112753",
-          "price": 4650.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "70070000038872",
-          "id": "70070000038872",
-          "title": "ブルーイのハッピースナップ – デラックスエディション",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70070000038872",
-          "price": 4650.0,
-          "originalPrice": 5500.0,
-          "offer": {
-            "scope": "public",
-            "price": 4650.0,
-            "originalPrice": 5500.0,
-            "discountPercent": 15.5,
-            "startsAt": "2026-09-10T00:00:00+09:00",
-            "endsAt": "2026-10-14T23:59:59+09:00",
-            "endsAtRaw": "2026-10-14 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000117155",
       "id": "70010000117155",
@@ -803,6 +466,90 @@
       ]
     },
     {
+      "key": "70010000115445",
+      "id": "70010000115445",
+      "conceptId": null,
+      "region": "jp",
+      "title": "私のフレンドリーなご近所さん (My Friendly Neighborhood)",
+      "edition": null,
+      "publisher": "DreadXP",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.22",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-22",
+      "releaseAt": null,
+      "price": 3400.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000115445",
+      "image": "https://img-eshop.cdn.nintendo.net/i/3ce45fe9196909b7d0780d07028652c87d9ac4d0709fb5edc63377a086234913.jpg",
+      "versions": [
+        {
+          "key": "70010000115445",
+          "id": "70010000115445",
+          "title": "私のフレンドリーなご近所さん (My Friendly Neighborhood)",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000115445",
+          "price": 3400.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000135983",
+      "id": "70010000135983",
+      "conceptId": null,
+      "region": "jp",
+      "title": "蒼き雷霆（アームドブルー） ガンヴォルト トライアングル エディション Nintendo Switch 2 Edition",
+      "edition": null,
+      "publisher": "インティ・クリエイツ",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.22",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-22",
+      "releaseAt": null,
+      "price": 5085.0,
+      "originalPrice": 6480.0,
+      "currency": "JPY",
+      "offer": {
+        "scope": "public",
+        "price": 5085.0,
+        "originalPrice": 6480.0,
+        "discountPercent": 21.5,
+        "startsAt": "2026-10-15T00:00:00+09:00",
+        "endsAt": "2026-11-04T23:59:59+09:00",
+        "endsAtRaw": "2026-11-04 23:59:59"
+      },
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000135983",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e496ecf1312d93de2818c0ad4fbad2b519fb71f52717aa5b01787eb18ce50e43.jpg",
+      "versions": [
+        {
+          "key": "70010000135983",
+          "id": "70010000135983",
+          "title": "蒼き雷霆（アームドブルー） ガンヴォルト トライアングル エディション Nintendo Switch 2 Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000135983",
+          "price": 5085.0,
+          "originalPrice": 6480.0,
+          "offer": {
+            "scope": "public",
+            "price": 5085.0,
+            "originalPrice": 6480.0,
+            "discountPercent": 21.5,
+            "startsAt": "2026-10-15T00:00:00+09:00",
+            "endsAt": "2026-11-04T23:59:59+09:00",
+            "endsAtRaw": "2026-11-04 23:59:59"
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000107235",
       "id": "70010000107235",
       "conceptId": null,
@@ -855,7 +602,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store-jp.nintendo.com/item/software/D70070000039449",
-      "image": "https://img-eshop.cdn.nintendo.net/i/23f1d31cb136b7ce97d4185564e63eb6a03beb69bd6a003671a0bcdd55289ccc.jpg",
+      "image": "https://img-eshop.cdn.nintendo.net/i/bc75de0c2e86fd2593de9c3fe5ea44913b788b721824b4eeeec36af83c323730.jpg",
       "versions": [
         {
           "key": "70070000039449",
@@ -864,6 +611,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70070000039449",
           "price": 3960.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000131088",
+      "id": "70010000131088",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Frog Sqwad",
+      "edition": null,
+      "publisher": "Panic Stations",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.28",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-28",
+      "releaseAt": null,
+      "price": 980.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131088",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709.jpg",
+      "versions": [
+        {
+          "key": "70010000131088",
+          "id": "70010000131088",
+          "title": "Frog Sqwad",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000131088",
+          "price": 980.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1246,6 +1027,56 @@
       ]
     },
     {
+      "key": "70010000136510",
+      "id": "70010000136510",
+      "conceptId": null,
+      "region": "jp",
+      "title": "サルファー",
+      "edition": null,
+      "publisher": "Perfect Random",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.29",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": null,
+      "price": 3184.0,
+      "originalPrice": 3980.0,
+      "currency": "JPY",
+      "offer": {
+        "scope": "public",
+        "price": 3184.0,
+        "originalPrice": 3980.0,
+        "discountPercent": 20.0,
+        "startsAt": "2026-10-15T00:00:00+09:00",
+        "endsAt": "2026-11-12T23:59:59+09:00",
+        "endsAtRaw": "2026-11-12 23:59:59"
+      },
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136510",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d.jpg",
+      "versions": [
+        {
+          "key": "70010000136510",
+          "id": "70010000136510",
+          "title": "サルファー",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000136510",
+          "price": 3184.0,
+          "originalPrice": 3980.0,
+          "offer": {
+            "scope": "public",
+            "price": 3184.0,
+            "originalPrice": 3980.0,
+            "discountPercent": 20.0,
+            "startsAt": "2026-10-15T00:00:00+09:00",
+            "endsAt": "2026-11-12T23:59:59+09:00",
+            "endsAtRaw": "2026-11-12 23:59:59"
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000117872",
       "id": "70010000117872",
       "conceptId": null,
@@ -1273,6 +1104,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000117872",
           "price": 6380.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000137377",
+      "id": "70010000137377",
+      "conceptId": null,
+      "region": "jp",
+      "title": "光るだけしかない機械",
+      "edition": null,
+      "publisher": "わくわくゲームズ",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.29",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": null,
+      "price": 350.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137377",
+      "image": "https://img-eshop.cdn.nintendo.net/i/32b81f2e51a97696ec1ff5b9dc2b1d6d432da6798a15e424061836bb22e157c6.jpg",
+      "versions": [
+        {
+          "key": "70010000137377",
+          "id": "70010000137377",
+          "title": "光るだけしかない機械",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000137377",
+          "price": 350.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1585,6 +1450,40 @@
       ]
     },
     {
+      "key": "9079709d9b57d50041ce",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "Nintendo Switch 2（日本語・国内専用） 選べるソフト セット",
+      "edition": null,
+      "publisher": "任天堂",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/hardware/switch2/lineup/choose-bundle/index.html",
+      "image": "https://www.nintendo.com/jp/data/img/hero/eraberu-set.webp",
+      "versions": [
+        {
+          "key": "9079709d9b57d50041ce",
+          "id": null,
+          "title": "Nintendo Switch 2（日本語・国内専用） 選べるソフト セット",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/hardware/switch2/lineup/choose-bundle/index.html",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000135058",
       "id": "70010000135058",
       "conceptId": null,
@@ -1818,6 +1717,56 @@
           "price": 5990.0,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000126958",
+      "id": "70010000126958",
+      "conceptId": null,
+      "region": "jp",
+      "title": "トロイメライの月あかり Nintendo Switch 2 Edition",
+      "edition": null,
+      "publisher": "room6",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.19",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-19",
+      "releaseAt": null,
+      "price": 1184.0,
+      "originalPrice": 1480.0,
+      "currency": "JPY",
+      "offer": {
+        "scope": "public",
+        "price": 1184.0,
+        "originalPrice": 1480.0,
+        "discountPercent": 20.0,
+        "startsAt": "2026-10-15T00:00:00+09:00",
+        "endsAt": "2026-12-02T23:59:59+09:00",
+        "endsAtRaw": "2026-12-02 23:59:59"
+      },
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126958",
+      "image": "https://img-eshop.cdn.nintendo.net/i/2f263e2a70655ad3b83c5072344fb3f9c7a5a718cc68d8105287a5a372b4c9e5.jpg",
+      "versions": [
+        {
+          "key": "70010000126958",
+          "id": "70010000126958",
+          "title": "トロイメライの月あかり Nintendo Switch 2 Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000126958",
+          "price": 1184.0,
+          "originalPrice": 1480.0,
+          "offer": {
+            "scope": "public",
+            "price": 1184.0,
+            "originalPrice": 1480.0,
+            "discountPercent": 20.0,
+            "startsAt": "2026-10-15T00:00:00+09:00",
+            "endsAt": "2026-12-02T23:59:59+09:00",
+            "endsAtRaw": "2026-12-02 23:59:59"
+          },
           "memberOffer": null
         }
       ]
@@ -2528,6 +2477,40 @@
           "edition": null,
           "url": "https://www.nintendo.com/jp/games/switch2/abvta/index.html",
           "price": 7980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000136194",
+      "id": "70010000136194",
+      "conceptId": null,
+      "region": "jp",
+      "title": "スパイダー：エージェント8",
+      "edition": null,
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.2.11",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-11",
+      "releaseAt": null,
+      "price": 1700.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136194",
+      "image": "https://img-eshop.cdn.nintendo.net/i/5cc60c65759f9955bae9d43bd2e17bf0550be4232f43759c0b62ce20612866a7.jpg",
+      "versions": [
+        {
+          "key": "70010000136194",
+          "id": "70010000136194",
+          "title": "スパイダー：エージェント8",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000136194",
+          "price": 1700.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
