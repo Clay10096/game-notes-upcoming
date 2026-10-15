@@ -5,209 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-14T05:45:44-07:00",
+  "updatedAt": "2026-10-15T05:33:38-07:00",
   "status": "success",
-  "gameCount": 103,
+  "gameCount": 98,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 123,
-    "productPages": 178,
+    "candidateCount": 118,
+    "productPages": 171,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP5249-PPSA34884_00-0116723305741680",
-      "id": "HP5249-PPSA34884_00-0116723305741680",
-      "conceptId": "10017810",
-      "region": "us",
-      "title": "Ratatan",
-      "edition": "Standard",
-      "publisher": "GAME SOURCE ENTERTAINMENT",
-      "platform": "ps5",
-      "releaseDateRaw": "10/14/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T15:00:00+00:00",
-      "price": 34.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 31.49,
-        "originalPrice": 34.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-14T15:00:00.000Z",
-        "endsAtRaw": "2026-10-14T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/HP5249-PPSA34884_00-0116723305741680",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2010/9fc5019ce4b370fe374cea40468605a410b9cb65064e35cb.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP5249-PPSA34884_00-0116723305741680",
-          "id": "HP5249-PPSA34884_00-0116723305741680",
-          "title": "Ratatan",
-          "edition": "Standard",
-          "url": "https://store.playstation.com/en-us/product/HP5249-PPSA34884_00-0116723305741680",
-          "price": 34.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 31.49,
-            "originalPrice": 34.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T15:00:00.000Z",
-            "endsAtRaw": "2026-10-14T15:00:00.000Z"
-          }
-        },
-        {
-          "key": "HP5249-PPSA34884_00-0823883309224394",
-          "id": "HP5249-PPSA34884_00-0823883309224394",
-          "title": "Ratatan - Deluxe Edition",
-          "edition": "Deluxe",
-          "url": "https://store.playstation.com/en-us/product/HP5249-PPSA34884_00-0823883309224394",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 35.99,
-            "originalPrice": 39.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T15:00:00.000Z",
-            "endsAtRaw": "2026-10-14T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2704/9e7724693affeaf1686d4f5448891f71041c5eeec4950dc5.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "e2003a926543bb123e7f",
-      "id": null,
-      "conceptId": "10017135",
-      "region": "us",
-      "title": "The Witch's Bakery",
-      "edition": null,
-      "publisher": "Silver Lining Interactive LTD",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-14",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T14:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017135",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1409/3dc4c92cf33ecde30cacdd96b715f2d3135e18857c374dd4.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "e2003a926543bb123e7f",
-          "id": null,
-          "title": "The Witch's Bakery",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017135",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1409/0bd988d2b6db833c0138de9e9c1e0fea30ed011bddb9ee01.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "UP3643-PPSA33779_00-0036248476329215",
-      "id": "UP3643-PPSA33779_00-0036248476329215",
-      "conceptId": "10017203",
-      "region": "us",
-      "title": "Warhammer 40,000: Boltgun 2",
-      "edition": null,
-      "publisher": "Devolver Digital",
-      "platform": "ps5",
-      "releaseDateRaw": "10/14/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T16:00:00+00:00",
-      "price": 24.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 22.49,
-        "originalPrice": 24.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-14T16:00:00.000Z",
-        "endsAtRaw": "2026-10-14T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/UP3643-PPSA33779_00-0036248476329215",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/de29511c491381d78f76ae20094f1cfa97ce863921f6432b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP3643-PPSA33779_00-0036248476329215",
-          "id": "UP3643-PPSA33779_00-0036248476329215",
-          "title": "Warhammer 40,000: Boltgun 2",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/product/UP3643-PPSA33779_00-0036248476329215",
-          "price": 24.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 22.49,
-            "originalPrice": 24.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-14T16:00:00.000Z",
-            "endsAtRaw": "2026-10-14T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/56d9e3e8a51e82772a7db4c938ebd67d95c328afd99fba29.png?w=160&thumb=false"
-    },
-    {
-      "key": "a15faa99e61e2bcb9286",
-      "id": null,
-      "conceptId": "10019397",
-      "region": "us",
-      "title": "YAR: Forgotten Throne",
-      "edition": null,
-      "publisher": "Axyos Games Entertainment LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-14",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-14",
-      "releaseAt": "2026-10-14T20:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019397",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1012/b5e387039f4194ee9813d9a63aaf248030b5faa19a40b877.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "a15faa99e61e2bcb9286",
-          "id": null,
-          "title": "YAR: Forgotten Throne",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019397",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1012/fa21faa2cef3dc0bb77e9027890504e0b2249399b1aa7af6.png?w=160&thumb=false"
-    },
     {
       "key": "81354b4795a59cd0e5fd",
       "id": null,
@@ -217,7 +26,7 @@
       "edition": null,
       "publisher": "GAMES INCUBATOR S.A.",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 03:00 PM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T15:00:00+00:00",
@@ -244,197 +53,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1013/4531e24a0e016e2764e2918b536842cb420e18b6f56e7731.png?w=160&thumb=false"
     },
     {
-      "key": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "id": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "conceptId": "10016903",
-      "region": "us",
-      "title": "Bluey's Happy Snaps Deluxe Edition",
-      "edition": "Deluxe Edition",
-      "publisher": "Gameloft Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/15/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T04:00:00+00:00",
-      "price": 54.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 41.24,
-        "originalPrice": 54.99,
-        "discountPercent": 25.0,
-        "startsAt": null,
-        "endsAt": "2026-10-15T04:00:00.000Z",
-        "endsAtRaw": "2026-10-15T04:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2410/8450ef91c6c68a1a79df2bfd8a9e07de40c990ddf5fc1f15.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-          "id": "EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-          "title": "Bluey's Happy Snaps Deluxe Edition",
-          "edition": "Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/EP2006-PPSA33218_00-BLUEYDELUXEBUNDL",
-          "price": 54.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 41.24,
-            "originalPrice": 54.99,
-            "discountPercent": 25.0,
-            "startsAt": null,
-            "endsAt": "2026-10-15T04:00:00.000Z",
-            "endsAtRaw": "2026-10-15T04:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2410/fd79efbe45677b972026898fe8e748e4f0ab259b8bccfb8d.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "JP0101-PPSA35399_00-CVBCAPP000000000",
-      "id": "JP0101-PPSA35399_00-CVBCAPP000000000",
-      "conceptId": "10018186",
-      "region": "us",
-      "title": "Castlevania: Belmont's Curse",
-      "edition": "Standard Edition",
-      "publisher": "KONAMI",
-      "platform": "ps5",
-      "releaseDateRaw": "10/15/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T04:00:00+00:00",
-      "price": 29.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP0101-PPSA35399_00-CVBCAPP000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2005/4074e46383e491ab25df83141a556f69aa7c005fa92ffa4b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0101-PPSA35399_00-CVBCAPP000000000",
-          "id": "JP0101-PPSA35399_00-CVBCAPP000000000",
-          "title": "Castlevania: Belmont's Curse",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/JP0101-PPSA35399_00-CVBCAPP000000000",
-          "price": 29.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0906/724071a2c329fa38b317c67a57d33a9c69e2fe8a7e4296c3.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-      "id": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-      "conceptId": "10018186",
-      "region": "us",
-      "title": "Castlevania: Belmont’s Curse Midnight Edition",
-      "edition": "Midnight Edition",
-      "publisher": "KONAMI",
-      "platform": "ps5",
-      "releaseDateRaw": "10/15/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T04:00:00+00:00",
-      "price": 39.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP0101-PPSA35399_00-CVBCDXDL00000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2108/ea252a91ce78f4427c1e1a6c72836874e41408dc7dd77f76.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-          "id": "JP0101-PPSA35399_00-CVBCDXDL00000000",
-          "title": "Castlevania: Belmont’s Curse Midnight Edition",
-          "edition": "Midnight Edition",
-          "url": "https://store.playstation.com/en-us/product/JP0101-PPSA35399_00-CVBCDXDL00000000",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0906/724071a2c329fa38b317c67a57d33a9c69e2fe8a7e4296c3.png?w=160&thumb=false"
-    },
-    {
-      "key": "b5b397dce96b7dbbb27f",
-      "id": null,
-      "conceptId": "10018409",
-      "region": "us",
-      "title": "Chained Beasts",
-      "edition": null,
-      "publisher": "FEATHERWEIGHT GAMES PTY LIMITED",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T00:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018409",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0208/952566be276ad4044694398dffb1b5cb527562e232c7514e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "b5b397dce96b7dbbb27f",
-          "id": null,
-          "title": "Chained Beasts",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018409",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0208/29b1c8c0bd2d4d22a5cfdb17be2aba2e5387761de870e0b0.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "a89b043ee30a0da04fcc",
-      "id": null,
-      "conceptId": "10020336",
-      "region": "us",
-      "title": "Creepy Tale: Snow Child",
-      "edition": null,
-      "publisher": "Evgeniy Kolpakov t/a Sometimes You",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020336",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0521/9582af619f7e670d5487961ec8ea69d69086eb34ab83d4d9.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "a89b043ee30a0da04fcc",
-          "id": null,
-          "title": "Creepy Tale: Snow Child",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020336",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0521/064bbe7f6171ad18cf0b4f63ad63e60b558e93eae27a62cb.png?w=160&thumb=false"
-    },
-    {
       "key": "8ee6b2dc12c19216db1e",
       "id": null,
       "conceptId": "10011899",
@@ -443,7 +61,7 @@
       "edition": null,
       "publisher": "The Quantum Astrophysicists Guild",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T14:00:00+00:00",
@@ -478,7 +96,7 @@
       "edition": null,
       "publisher": "Atari Inc.",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 01:00 PM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T13:00:00+00:00",
@@ -513,7 +131,7 @@
       "edition": null,
       "publisher": "Keen Games GmbH",
       "platform": "ps5",
-      "releaseDateRaw": "10/15/2026 05:00 PM UTC",
+      "releaseDateRaw": "2026-10-15",
       "datePrecision": "day",
       "releaseDate": "2026-10-15",
       "releaseAt": "2026-10-15T17:00:00+00:00",
@@ -540,76 +158,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1006/b9daa1fcef40100da8e3dc6c4f37281cb7d12117a41b371c.png?w=160&thumb=false"
     },
     {
-      "key": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-      "id": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-      "conceptId": "10018934",
-      "region": "us",
-      "title": "Harvest Moon®: Echoes of Teradea",
-      "edition": "Standard",
-      "publisher": "Natsume Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/15/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T04:00:00+00:00",
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/UP1014-PPSA36628_00-HMEOT000000PS5US",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2917/9e9c256f6e3617337ef6e294bac57308cbe9fc3b1d74e17b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-          "id": "UP1014-PPSA36628_00-HMEOT000000PS5US",
-          "title": "Harvest Moon®: Echoes of Teradea",
-          "edition": "Standard",
-          "url": "https://store.playstation.com/en-us/product/UP1014-PPSA36628_00-HMEOT000000PS5US",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2917/e0342d5ff71fef35b25cf3564c251c39532c1b5fef43bca0.png?w=160&thumb=false"
-    },
-    {
-      "key": "39b335f1af561d90261c",
-      "id": null,
-      "conceptId": "10018065",
-      "region": "us",
-      "title": "Wolfsschanze – Operation Götterdämmerung",
-      "edition": null,
-      "publisher": "Markt+Technik Verlag GmbH",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T00:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018065",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1109/6df1422bf1f702dea89bd5b7f040e317d44b1884d254539c.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "39b335f1af561d90261c",
-          "id": null,
-          "title": "Wolfsschanze – Operation Götterdämmerung",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018065",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3109/2b9ff35958e894797cdce90d4e2f0290eb249400f826672b.jpg?w=160&thumb=false"
-    },
-    {
       "key": "08b06625da6f7055a22a",
       "id": null,
       "conceptId": "10014611",
@@ -618,7 +166,7 @@
       "edition": null,
       "publisher": "Bandai Namco Entertainment America Inc.",
       "platform": "ps5",
-      "releaseDateRaw": "10/16/2026 04:00 AM UTC",
+      "releaseDateRaw": "2026-10-16",
       "datePrecision": "day",
       "releaseDate": "2026-10-16",
       "releaseAt": "2026-10-16T04:00:00+00:00",
@@ -783,6 +331,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/59114e5a0b7dcf04450cab54023468f3c95d465dd8c943ec.png?w=160&thumb=false"
+    },
+    {
+      "key": "af67532b0e8ed9357e12",
+      "id": null,
+      "conceptId": "10018765",
+      "region": "us",
+      "title": "Mycopunk",
+      "edition": null,
+      "publisher": "Devolver Digital",
+      "platform": "ps5",
+      "releaseDateRaw": "10/20/2026 05:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-20",
+      "releaseAt": "2026-10-20T17:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018765",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/f8792b372d1c8135e3aea17b1684c618483127aa57fe4fd0.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "af67532b0e8ed9357e12",
+          "id": null,
+          "title": "Mycopunk",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018765",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/8f8fb84bb7449882ff1135673d2a9d3401ad33d44ca33ba6.png?w=160&thumb=false"
     },
     {
       "key": "577104690f522b6c5b27",
@@ -1658,6 +1241,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/2153ee57f7955802d94a6722418315637e8fba8f69eaf064.png?w=160&thumb=false"
+    },
+    {
+      "key": "cf221ec0469981b91afa",
+      "id": null,
+      "conceptId": "10018232",
+      "region": "us",
+      "title": "The Wolf Among Us Remastered",
+      "edition": null,
+      "publisher": "Telltale",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 01:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T13:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018232",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2618/3d33671bb8c21ca0460c8e4c44f3f8f5350d2e9337d51112.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "cf221ec0469981b91afa",
+          "id": null,
+          "title": "The Wolf Among Us Remastered",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018232",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2713/bec1ed88b804fec9887f9d15a853d8c2bf2628d84c3819b2.png?w=160&thumb=false"
     },
     {
       "key": "878a0375e53f4e22865c",
@@ -2707,6 +2325,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2108/985131c0d1a0a04bca901fd3c98b2d9b13f0e61ea309ce62.jpg?w=160&thumb=false"
     },
     {
+      "key": "UB2417-PPSA37315_00-ROCTANESTAGETOUR",
+      "id": "UB2417-PPSA37315_00-ROCTANESTAGETOUR",
+      "conceptId": "10019110",
+      "region": "us",
+      "title": "Stage Tour",
+      "edition": null,
+      "publisher": "Redoctane Games LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "12/10/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": "2026-12-10T05:00:00+00:00",
+      "price": 39.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 35.99,
+        "originalPrice": 39.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-10T05:00:00.000Z",
+        "endsAtRaw": "2026-12-10T05:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/UB2417-PPSA37315_00-ROCTANESTAGETOUR",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1619/99ee34791b1a80fe6aec3009f72e776eb69930605e89b496.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UB2417-PPSA37315_00-ROCTANESTAGETOUR",
+          "id": "UB2417-PPSA37315_00-ROCTANESTAGETOUR",
+          "title": "Stage Tour",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/UB2417-PPSA37315_00-ROCTANESTAGETOUR",
+          "price": 39.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 35.99,
+            "originalPrice": 39.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-10T05:00:00.000Z",
+            "endsAtRaw": "2026-12-10T05:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1914/e747e9cd0f70119b0504707fc32c51ad589b26db078b9513.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP0177-PPSA34972_00-MAINGAME00000000",
       "id": "JP0177-PPSA34972_00-MAINGAME00000000",
       "conceptId": "10017939",
@@ -2786,6 +2455,108 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1009/1896a877099ef707c4876591fc16ffaabe8814630d587fe2.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP3392-PPSA38251_00-0725635823258947",
+      "id": "EP3392-PPSA38251_00-0725635823258947",
+      "conceptId": "10019858",
+      "region": "us",
+      "title": "Arizona Sunshine®",
+      "edition": "Deluxe Edition",
+      "publisher": "Vertigo Games B.V",
+      "platform": "ps5",
+      "releaseDateRaw": "1/19/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-19",
+      "releaseAt": "2027-01-19T10:00:00+00:00",
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 23.99,
+        "originalPrice": 29.99,
+        "discountPercent": 20.0,
+        "startsAt": null,
+        "endsAt": "2027-01-21T10:00:00.000Z",
+        "endsAtRaw": "2027-01-21T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP3392-PPSA38251_00-0725635823258947",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2506/6f01014c0eae9c02d46d2762af2cdf9349e41304855dda10.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP3392-PPSA38251_00-0725635823258947",
+          "id": "EP3392-PPSA38251_00-0725635823258947",
+          "title": "Arizona Sunshine®",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/EP3392-PPSA38251_00-0725635823258947",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 23.99,
+            "originalPrice": 29.99,
+            "discountPercent": 20.0,
+            "startsAt": null,
+            "endsAt": "2027-01-21T10:00:00.000Z",
+            "endsAtRaw": "2027-01-21T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0909/0f9a9d695edc2b7a96c3b0812789059337816c841e18004c.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP3392-PPSA38251_00-0316275811660370",
+      "id": "EP3392-PPSA38251_00-0316275811660370",
+      "conceptId": "10019858",
+      "region": "us",
+      "title": "Arizona Sunshine®",
+      "edition": null,
+      "publisher": "Vertigo Games B.V",
+      "platform": "ps5",
+      "releaseDateRaw": "1/21/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-21",
+      "releaseAt": "2027-01-21T10:00:00+00:00",
+      "price": 24.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 19.99,
+        "originalPrice": 24.99,
+        "discountPercent": 20.0,
+        "startsAt": null,
+        "endsAt": "2027-01-21T10:00:00.000Z",
+        "endsAtRaw": "2027-01-21T10:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP3392-PPSA38251_00-0316275811660370",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0321/c39e42b89f8757dc264a134c2552d9b1eae8df5f236d7d78.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP3392-PPSA38251_00-0316275811660370",
+          "id": "EP3392-PPSA38251_00-0316275811660370",
+          "title": "Arizona Sunshine®",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/EP3392-PPSA38251_00-0316275811660370",
+          "price": 24.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 19.99,
+            "originalPrice": 24.99,
+            "discountPercent": 20.0,
+            "startsAt": null,
+            "endsAt": "2027-01-21T10:00:00.000Z",
+            "endsAtRaw": "2027-01-21T10:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0909/0f9a9d695edc2b7a96c3b0812789059337816c841e18004c.png?w=160&thumb=false"
     },
     {
       "key": "UP6312-PPSA32152_00-0930725187413160",
@@ -3737,7 +3508,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0912/17949abf0e4fe65bd07a803f700e6723580d18744f226c57.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
     },
     {
       "key": "c68aeeb6021d4c45d24d",
@@ -3878,6 +3649,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/15a171ca86e33d001ecffd6c79623a77f6f9405f5d223b37.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "8d16169d49883540b75d",
+      "id": null,
+      "conceptId": "10020053",
+      "region": "us",
+      "title": "Shelterra the Skyworld",
+      "edition": null,
+      "publisher": "KEMCO",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020053",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/34a3389873d8402770a0b226d29f410aaa169960eb07fc0e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "8d16169d49883540b75d",
+          "id": null,
+          "title": "Shelterra the Skyworld",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020053",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",

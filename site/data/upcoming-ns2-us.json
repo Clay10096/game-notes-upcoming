@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-14T05:42:36-07:00",
+  "updatedAt": "2026-10-15T05:30:44-07:00",
   "status": "success",
-  "gameCount": 36,
+  "gameCount": 35,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,56 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000130219",
-      "id": "70010000130219",
-      "conceptId": null,
-      "region": "us",
-      "title": "Tormented Souls 2",
-      "edition": "Standard Edition",
-      "publisher": "PQube",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-15T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": null,
-      "price": 25.49,
-      "originalPrice": 29.99,
-      "currency": "USD",
-      "offer": {
-        "scope": "public",
-        "price": 25.49,
-        "originalPrice": 29.99,
-        "discountPercent": 15.0,
-        "startsAt": null,
-        "endsAt": "2026-10-15T06:59:59Z",
-        "endsAtRaw": null
-      },
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/tormented-souls-2-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000130219/c7ae5697adbd52e1ff916de894e0651e54104a7604468893ca4cda558bc25591",
-      "versions": [
-        {
-          "key": "70010000130219",
-          "id": "70010000130219",
-          "title": "Tormented Souls 2",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/tormented-souls-2-switch-2/",
-          "price": 25.49,
-          "originalPrice": 29.99,
-          "offer": {
-            "scope": "public",
-            "price": 25.49,
-            "originalPrice": 29.99,
-            "discountPercent": 15.0,
-            "startsAt": null,
-            "endsAt": "2026-10-15T06:59:59Z",
-            "endsAtRaw": null
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000114442",
       "id": "70010000114442",
