@@ -5,251 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-15T04:18:54+09:00",
+  "updatedAt": "2026-10-16T04:04:38+09:00",
   "status": "success",
-  "gameCount": 109,
+  "gameCount": 106,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 879,
+    "candidateCount": 884,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000117155",
-      "id": "70010000117155",
-      "conceptId": null,
-      "region": "jp",
-      "title": "BIOHAZARD RE:2 Z Version デラックスエディション",
-      "edition": null,
-      "publisher": "カプコン",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.16",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-16",
-      "releaseAt": null,
-      "price": 2990.0,
-      "originalPrice": 3990.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 2990.0,
-        "originalPrice": 3990.0,
-        "discountPercent": 25.1,
-        "startsAt": "2026-09-10T00:00:00+09:00",
-        "endsAt": "2026-11-07T23:59:59+09:00",
-        "endsAtRaw": "2026-11-07 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000117155",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f6253ee51a6f32feca23c213f36125c0dfa3aa73de4606d7d9757add581d8717.jpg",
-      "versions": [
-        {
-          "key": "70010000117155",
-          "id": "70010000117155",
-          "title": "BIOHAZARD RE:2 Z Version デラックスエディション",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000117155",
-          "price": 2990.0,
-          "originalPrice": 3990.0,
-          "offer": {
-            "scope": "public",
-            "price": 2990.0,
-            "originalPrice": 3990.0,
-            "discountPercent": 25.1,
-            "startsAt": "2026-09-10T00:00:00+09:00",
-            "endsAt": "2026-11-07T23:59:59+09:00",
-            "endsAtRaw": "2026-11-07 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000122490",
-      "id": "70010000122490",
-      "conceptId": null,
-      "region": "jp",
-      "title": "BIOHAZARD RE:3 Z Version",
-      "edition": null,
-      "publisher": "カプコン",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.16",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-16",
-      "releaseAt": null,
-      "price": 1990.0,
-      "originalPrice": 2990.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 1990.0,
-        "originalPrice": 2990.0,
-        "discountPercent": 33.4,
-        "startsAt": "2026-09-10T00:00:00+09:00",
-        "endsAt": "2026-11-07T23:59:59+09:00",
-        "endsAtRaw": "2026-11-07 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122490",
-      "image": "https://img-eshop.cdn.nintendo.net/i/3a3f621a0dc4417bd8c54900934f7c5ecfef171e85d886bc10c88b14ba5700ed.jpg",
-      "versions": [
-        {
-          "key": "70010000122490",
-          "id": "70010000122490",
-          "title": "BIOHAZARD RE:3 Z Version",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000122490",
-          "price": 1990.0,
-          "originalPrice": 2990.0,
-          "offer": {
-            "scope": "public",
-            "price": 1990.0,
-            "originalPrice": 2990.0,
-            "discountPercent": 33.4,
-            "startsAt": "2026-09-10T00:00:00+09:00",
-            "endsAt": "2026-11-07T23:59:59+09:00",
-            "endsAtRaw": "2026-11-07 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000122502",
-      "id": "70010000122502",
-      "conceptId": null,
-      "region": "jp",
-      "title": "BIOHAZARD RE:4 Gold Edition",
-      "edition": null,
-      "publisher": "カプコン",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.16",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-16",
-      "releaseAt": null,
-      "price": 3990.0,
-      "originalPrice": 4990.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 3990.0,
-        "originalPrice": 4990.0,
-        "discountPercent": 20.0,
-        "startsAt": "2026-09-10T00:00:00+09:00",
-        "endsAt": "2026-11-07T23:59:59+09:00",
-        "endsAtRaw": "2026-11-07 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122502",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b701c8fdd3b4c35b15fa0cfb26e43853308e3a964bcbdb8b4b890b7a57f5089e.jpg",
-      "versions": [
-        {
-          "key": "70010000122502",
-          "id": "70010000122502",
-          "title": "BIOHAZARD RE:4 Gold Edition",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000122502",
-          "price": 3990.0,
-          "originalPrice": 4990.0,
-          "offer": {
-            "scope": "public",
-            "price": 3990.0,
-            "originalPrice": 4990.0,
-            "discountPercent": 20.0,
-            "startsAt": "2026-09-10T00:00:00+09:00",
-            "endsAt": "2026-11-07T23:59:59+09:00",
-            "endsAtRaw": "2026-11-07 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000131049",
-      "id": "70010000131049",
-      "conceptId": null,
-      "region": "jp",
-      "title": "ステラーコード",
-      "edition": null,
-      "publisher": "ケムコ",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.16",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-16",
-      "releaseAt": null,
-      "price": 2574.0,
-      "originalPrice": 2860.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 2574.0,
-        "originalPrice": 2860.0,
-        "discountPercent": 10.0,
-        "startsAt": "2026-10-09T00:00:00+09:00",
-        "endsAt": "2026-11-05T23:59:59+09:00",
-        "endsAtRaw": "2026-11-05 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131049",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fa7644410f4edb11490ae28635ad7ae9123305863bc00f70e4b591aa5da2e579.jpg",
-      "versions": [
-        {
-          "key": "70010000131049",
-          "id": "70010000131049",
-          "title": "ステラーコード",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000131049",
-          "price": 2574.0,
-          "originalPrice": 2860.0,
-          "offer": {
-            "scope": "public",
-            "price": 2574.0,
-            "originalPrice": 2860.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-10-09T00:00:00+09:00",
-            "endsAt": "2026-11-05T23:59:59+09:00",
-            "endsAtRaw": "2026-11-05 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000106212",
-      "id": "70010000106212",
-      "conceptId": null,
-      "region": "jp",
-      "title": "レゴ® ハリー・ポッター™ コレクション / LEGO® Harry Potter™ Collection",
-      "edition": null,
-      "publisher": "WB Games",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.16",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-16",
-      "releaseAt": null,
-      "price": 6578.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000106212",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b6572baf2c6dbe7cdb7b4ba7e28021a6bd5cad4dcd897b374cdfe58a024c246e.jpg",
-      "versions": [
-        {
-          "key": "70010000106212",
-          "id": "70010000106212",
-          "title": "レゴ® ハリー・ポッター™ コレクション / LEGO® Harry Potter™ Collection",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000106212",
-          "price": 6578.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000103439",
       "id": "70010000103439",
@@ -414,6 +180,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000110985",
           "price": 2970.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000131969",
+      "id": "70010000131969",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ぷちホロの村 - 剣とお店と田舎暮らし",
+      "edition": null,
+      "publisher": "CCMC",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.10.22",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-22",
+      "releaseAt": null,
+      "price": 2900.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131969",
+      "image": "https://img-eshop.cdn.nintendo.net/i/b2132382fbe1c193c9a153178b34ec4402970a05b18ebd34d7b09c45589d4d00.jpg",
+      "versions": [
+        {
+          "key": "70010000131969",
+          "id": "70010000131969",
+          "title": "ぷちホロの村 - 剣とお店と田舎暮らし",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000131969",
+          "price": 2900.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -2749,6 +2549,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000113325",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000099815",
+      "id": "70010000099815",
+      "conceptId": null,
+      "region": "jp",
+      "title": "007 ファーストライト - デラックスエディション",
+      "edition": null,
+      "publisher": "IO Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.3.18",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-18",
+      "releaseAt": null,
+      "price": 8910.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000099815",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1d32eef60eb07ae4ddb9dc45aecc86e55ba2f8e05d1345b39d78dab7474f6a40.jpg",
+      "versions": [
+        {
+          "key": "70010000099815",
+          "id": "70010000099815",
+          "title": "007 ファーストライト - デラックスエディション",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000099815",
+          "price": 8910.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
