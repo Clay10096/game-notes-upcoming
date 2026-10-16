@@ -5,51 +5,17 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-16T03:45:26+08:00",
+  "updatedAt": "2026-10-17T03:26:45+08:00",
   "status": "success",
-  "gameCount": 40,
+  "gameCount": 39,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 547,
+    "candidateCount": 548,
     "coverage": "official-lineup",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000103440",
-      "id": "70010000103440",
-      "conceptId": null,
-      "region": "hk",
-      "title": "決勝時刻® (Call of Duty)",
-      "edition": null,
-      "publisher": "Activision",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-17",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-17",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000103440",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000103440f37db60ea18911f1a72c4d9d6fcd5d60/9087f33a109e90bf27181a4c10ab93ec/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000103440",
-          "id": "70010000103440",
-          "title": "決勝時刻® (Call of Duty)",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000103440",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000139359",
       "id": "70010000139359",
