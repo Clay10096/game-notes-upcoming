@@ -5,193 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-15T05:33:38-07:00",
+  "updatedAt": "2026-10-16T05:12:01-07:00",
   "status": "success",
-  "gameCount": 98,
+  "gameCount": 97,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 118,
-    "productPages": 171,
+    "candidateCount": 120,
+    "productPages": 174,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "81354b4795a59cd0e5fd",
-      "id": null,
-      "conceptId": "10020239",
-      "region": "us",
-      "title": "Animal Trainer Simulator",
-      "edition": null,
-      "publisher": "GAMES INCUBATOR S.A.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T15:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020239",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1013/5899ab2191d5fd0ddbd936f538995edae5ae2c0eee5d7712.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "81354b4795a59cd0e5fd",
-          "id": null,
-          "title": "Animal Trainer Simulator",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020239",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1013/4531e24a0e016e2764e2918b536842cb420e18b6f56e7731.png?w=160&thumb=false"
-    },
-    {
-      "key": "8ee6b2dc12c19216db1e",
-      "id": null,
-      "conceptId": "10011899",
-      "region": "us",
-      "title": "DESOLUS",
-      "edition": null,
-      "publisher": "The Quantum Astrophysicists Guild",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T14:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10011899",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2900/1400ae8535a3856618c951e04ede9021fafa5334db43e0ad.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "8ee6b2dc12c19216db1e",
-          "id": null,
-          "title": "DESOLUS",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10011899",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2900/0545178447ca72c7c3850093f3d175651caa2c7024629fa6.png?w=160&thumb=false"
-    },
-    {
-      "key": "c8626d156a48fc46cdfc",
-      "id": null,
-      "conceptId": "10017122",
-      "region": "us",
-      "title": "Disney/Pixar Toy Story 3 Complete Edition",
-      "edition": null,
-      "publisher": "Atari Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T13:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017122",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1114/86b2651fcc61e74da44a7949263a63f43fee87911bd4c411.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c8626d156a48fc46cdfc",
-          "id": null,
-          "title": "Disney/Pixar Toy Story 3 Complete Edition",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017122",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1114/fed9f98a73a31d29a2db9663a5fba16350f667c552ec3c48.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "4c9c5b9d2cf3cd08475e",
-      "id": null,
-      "conceptId": "10016067",
-      "region": "us",
-      "title": "Enshrouded",
-      "edition": null,
-      "publisher": "Keen Games GmbH",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-15",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-15",
-      "releaseAt": "2026-10-15T17:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10016067",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1006/d5287767e165b0ff363bb2c883f3d5750273c1d093d08242.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "4c9c5b9d2cf3cd08475e",
-          "id": null,
-          "title": "Enshrouded",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10016067",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1006/b9daa1fcef40100da8e3dc6c4f37281cb7d12117a41b371c.png?w=160&thumb=false"
-    },
-    {
-      "key": "08b06625da6f7055a22a",
-      "id": null,
-      "conceptId": "10014611",
-      "region": "us",
-      "title": "Tales of Eternia Remastered",
-      "edition": null,
-      "publisher": "Bandai Namco Entertainment America Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-16",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-16",
-      "releaseAt": "2026-10-16T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10014611",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2219/bb8e088535d226f8f6dd43ca75112ed8c55b9bd637db40e0.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "08b06625da6f7055a22a",
-          "id": null,
-          "title": "Tales of Eternia Remastered",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10014611",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2219/4edd41ec61f1fc35091d3a1793b90dd1b0d8af424973c1ba.png?w=160&thumb=false"
-    },
     {
       "key": "6f6c15be803003d8e96a",
       "id": null,
@@ -1243,6 +1068,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/2153ee57f7955802d94a6722418315637e8fba8f69eaf064.png?w=160&thumb=false"
     },
     {
+      "key": "00768faf1022283a0d00",
+      "id": null,
+      "conceptId": "10019212",
+      "region": "us",
+      "title": "Planted!",
+      "edition": null,
+      "publisher": "Curveball Leisure Ltd",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 01:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T13:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019212",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0815/0d188f0073ad7c9710b74c08e309d9424bd90f0e0f6966c4.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "00768faf1022283a0d00",
+          "id": null,
+          "title": "Planted!",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019212",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0815/0fcc82232a2a974b23780e020f0a315619e5e87e4b508c53.png?w=160&thumb=false"
+    },
+    {
       "key": "cf221ec0469981b91afa",
       "id": null,
       "conceptId": "10018232",
@@ -1276,6 +1136,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2713/bec1ed88b804fec9887f9d15a853d8c2bf2628d84c3819b2.png?w=160&thumb=false"
+    },
+    {
+      "key": "586706c5edb78a71e1a4",
+      "id": null,
+      "conceptId": "10020159",
+      "region": "us",
+      "title": "Titanium Court",
+      "edition": null,
+      "publisher": "SURPRISE ATTACK PTY LTD T/A FELLOW TRAVELLER GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020159",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/ba3b6e520700d20869e4ad54dce9bde8805e6e683a790b9e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "586706c5edb78a71e1a4",
+          "id": null,
+          "title": "Titanium Court",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020159",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/10fabf4fec407477d3ee04bfb955f09b5c52c95189f8c945.png?w=160&thumb=false"
     },
     {
       "key": "878a0375e53f4e22865c",
@@ -3511,6 +3406,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
     },
     {
+      "key": "1588c91d52f9d1961a0d",
+      "id": null,
+      "conceptId": "10020330",
+      "region": "us",
+      "title": "Don Bradman Cricket JR",
+      "edition": null,
+      "publisher": "Home Entertainment Suppliers",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020330",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0203/623438032a1ea9e7e9995e7e5f7df4f3cd9cebd4a2b4ad34.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "1588c91d52f9d1961a0d",
+          "id": null,
+          "title": "Don Bradman Cricket JR",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020330",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0203/587b5e6a13bc4ef2168cd255d8754e382bd2446618c98033.png?w=160&thumb=false"
+    },
+    {
       "key": "c68aeeb6021d4c45d24d",
       "id": null,
       "conceptId": "10019782",
@@ -3614,6 +3544,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
+    },
+    {
+      "key": "16b73a901e67e8203d62",
+      "id": null,
+      "conceptId": "10013833",
+      "region": "us",
+      "title": "Luma Island",
+      "edition": null,
+      "publisher": "Feel Free Games B.V.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10013833",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0213/7dcda0b78dfc79047b4b0f67ed292bc489ef2e95fdfe7fc6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "16b73a901e67e8203d62",
+          "id": null,
+          "title": "Luma Island",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10013833",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0115/77a0008afeae93951224323771eedd9b2e3774e777d26079.png?w=160&thumb=false"
     },
     {
       "key": "ad3a2198bf8b49798ce0",
