@@ -2,9 +2,9 @@
   "region": "HK",
   "store": "playstation",
   "status": "success",
-  "attemptedAt": "2026-10-17T03:26:45+08:00",
-  "completedAt": "2026-10-17T03:28:41+08:00",
-  "lastSuccessAt": "2026-10-17T03:28:41+08:00",
-  "requestCount": 85,
+  "attemptedAt": "2026-10-18T02:17:03+08:00",
+  "completedAt": "2026-10-18T02:18:31+08:00",
+  "lastSuccessAt": "2026-10-18T02:18:31+08:00",
+  "requestCount": 84,
   "error": null
 }
