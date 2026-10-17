@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-16T05:12:01-07:00",
+  "updatedAt": "2026-10-17T04:30:56-07:00",
   "status": "success",
-  "gameCount": 97,
+  "gameCount": 98,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 120,
-    "productPages": 174,
+    "candidateCount": 121,
+    "productPages": 175,
     "coverage": "official-category",
     "notes": []
   },
@@ -26,7 +26,7 @@
       "edition": null,
       "publisher": "CUDIT Games",
       "platform": "ps5",
-      "releaseDateRaw": "10/18/2026 12:00 AM UTC",
+      "releaseDateRaw": "2026-10-18",
       "datePrecision": "day",
       "releaseDate": "2026-10-18",
       "releaseAt": "2026-10-18T00:00:00+00:00",
@@ -3404,6 +3404,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
+    },
+    {
+      "key": "989013604f4065523fd0",
+      "id": null,
+      "conceptId": "10020591",
+      "region": "us",
+      "title": "Dominoes Together",
+      "edition": null,
+      "publisher": "CUDIT Games",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020591",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1517/f1e54fc35f89591a476354db382199ee3d9a437fe47820f1.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "989013604f4065523fd0",
+          "id": null,
+          "title": "Dominoes Together",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020591",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1517/dc55b06874666e23fa4f9cbc47365a942301c2e3b8370f42.jpg?w=160&thumb=false"
     },
     {
       "key": "1588c91d52f9d1961a0d",
