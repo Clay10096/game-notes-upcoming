@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-17T04:30:56-07:00",
+  "updatedAt": "2026-10-18T05:01:26-07:00",
   "status": "success",
   "gameCount": 98,
   "source": {
@@ -17,41 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "6f6c15be803003d8e96a",
-      "id": null,
-      "conceptId": "10015442",
-      "region": "us",
-      "title": "Island Market Simulator",
-      "edition": null,
-      "publisher": "CUDIT Games",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-18",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-18",
-      "releaseAt": "2026-10-18T00:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10015442",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0520/571ccc1abe44eccf94a2cadad016fddd32ad20d857df76f2.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "6f6c15be803003d8e96a",
-          "id": null,
-          "title": "Island Market Simulator",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10015442",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0509/82f2b8d8c4edf0b4e8122bcf930d90bcfe8db97b22500d5e.jpg?w=160&thumb=false"
-    },
     {
       "key": "c48d61a7e1253483f197",
       "id": null,
@@ -3684,6 +3649,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
+    },
+    {
+      "key": "574fe0a01f842ed8ebe7",
+      "id": null,
+      "conceptId": "10019905",
+      "region": "us",
+      "title": "The Killing Stone",
+      "edition": null,
+      "publisher": "Question LLC",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019905",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0703/e7709b8e70f2d1b959945a11a81a441a0ba75024a286e64b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "574fe0a01f842ed8ebe7",
+          "id": null,
+          "title": "The Killing Stone",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019905",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0914/6a958e9c43ab180dc967117e41fc7a9400abb839c2a7ecc2.png?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",
