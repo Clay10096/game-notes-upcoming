@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-18T05:01:26-07:00",
+  "updatedAt": "2026-10-19T07:29:47-07:00",
   "status": "success",
-  "gameCount": 98,
+  "gameCount": 102,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 121,
-    "productPages": 175,
+    "candidateCount": 125,
+    "productPages": 180,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "c48d61a7e1253483f197",
-      "id": null,
-      "conceptId": "10015321",
-      "region": "us",
-      "title": "BeamNG.drive",
-      "edition": null,
-      "publisher": "BEAMNG GMBH",
-      "platform": "ps5",
-      "releaseDateRaw": "10/19/2026 02:00 PM UTC",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-19",
-      "releaseAt": "2026-10-19T14:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10015321",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2516/4f7bccbd06cdd2bcb1abfe25179c31c12ea3b4cfae75b286.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c48d61a7e1253483f197",
-          "id": null,
-          "title": "BeamNG.drive",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10015321",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2516/f7ac096d5b5ca9b66ad57dcbbdb37bea623b2c32fff62697.jpg?w=160&thumb=false"
-    },
     {
       "key": "HP7588-PPSA28050_00-SET0100000000000",
       "id": "HP7588-PPSA28050_00-SET0100000000000",
@@ -96,7 +61,7 @@
       "edition": null,
       "publisher": "Witenovastudio OÜ",
       "platform": "ps5",
-      "releaseDateRaw": "10/20/2026 12:00 PM UTC",
+      "releaseDateRaw": "2026-10-20",
       "datePrecision": "day",
       "releaseDate": "2026-10-20",
       "releaseAt": "2026-10-20T12:00:00+00:00",
@@ -307,6 +272,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/e13825714849a55ce1b1cd190d96b710d1bc96d78ca71597.png?w=160&thumb=false"
+    },
+    {
+      "key": "2212755a28d324e41289",
+      "id": null,
+      "conceptId": "10019042",
+      "region": "us",
+      "title": "Moadra",
+      "edition": null,
+      "publisher": "Gloomsoft Oy",
+      "platform": "ps5",
+      "releaseDateRaw": "10/22/2026 04:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-22",
+      "releaseAt": "2026-10-22T04:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019042",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2913/6d44bc507bd90984565e5a4b840a9fa3402d18af1322c9f9.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "2212755a28d324e41289",
+          "id": null,
+          "title": "Moadra",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019042",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0513/f89162bee304b222d12dd15d9d513af1a8f6cea03990e293.png?w=160&thumb=false"
     },
     {
       "key": "d9d748fe5718e624afab",
@@ -638,6 +638,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
+    },
+    {
+      "key": "43e7eff2fd99efefd8a2",
+      "id": null,
+      "conceptId": "10013468",
+      "region": "us",
+      "title": "Hunter's Moon",
+      "edition": null,
+      "publisher": "Twin Swans Limited",
+      "platform": "ps5",
+      "releaseDateRaw": "10/26/2026 12:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-26",
+      "releaseAt": "2026-10-26T00:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10013468",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1413/ef408f0f61d57fc79b66cdf8bdcfeca743fe7f75b03c8e3e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "43e7eff2fd99efefd8a2",
+          "id": null,
+          "title": "Hunter's Moon",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10013468",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1413/9ede1b5ad05ccdc6c6cd3c7360a9e0f0ea0f3078d2c43b76.png?w=160&thumb=false"
     },
     {
       "key": "e5a95e5aac2a7ca776a1",
@@ -1171,6 +1206,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/5aceb2a0e8c898cbd9dbb222a9b801ce71d925572cb454ff.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "6e7ae6ccb6b541a048a0",
+      "id": null,
+      "conceptId": "10019847",
+      "region": "us",
+      "title": "Queen's Domain",
+      "edition": null,
+      "publisher": "Future Friends Games Limited",
+      "platform": "ps5",
+      "releaseDateRaw": "10/30/2026 05:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-30",
+      "releaseAt": "2026-10-30T17:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019847",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0107/d48e2ad94cefa82e44285ffc1a47ac1981881802d9582b34.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "6e7ae6ccb6b541a048a0",
+          "id": null,
+          "title": "Queen's Domain",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019847",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/0e877856a6da8220fc13d5bc57e100138a9f4e0a8cfec784.png?w=160&thumb=false"
     },
     {
       "key": "UB0289-PPSA38219_00-0697163834453593",
@@ -1764,7 +1834,7 @@
         "endsAtRaw": "2026-12-03T10:00:00.000Z"
       },
       "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0856144322518238",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/56bac1673c67a7b64f0f3d613276bb572a5da0c3b1d6921c.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1908/c2203d4bb1293ae38cb9c3b4b310814bdbba5aa41dd5946a.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP1439-PPSA36395_00-0856144322518238",
@@ -2044,7 +2114,7 @@
         "endsAtRaw": "2026-12-03T10:00:00.000Z"
       },
       "url": "https://store.playstation.com/en-us/product/EP1439-PPSA36395_00-0081988138842333",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0804/0c2b2c82393455ba4bbe970a94a614f98f55e29d53332011.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1908/096dc2bd1372d79a9810ae8ef81114fcbe9377fc21ad1178.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP1439-PPSA36395_00-0081988138842333",
@@ -2533,6 +2603,108 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/098f24a2047a6a15d042b55fbcd7cde9f9c3d1f29e041c28.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "id": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "conceptId": "10005193",
+      "region": "us",
+      "title": "Tropico 7 - Deluxe Edition",
+      "edition": "Deluxe Edition",
+      "publisher": "Kalypso Media GMBH",
+      "platform": "ps5",
+      "releaseDateRaw": "1/26/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-26",
+      "releaseAt": "2027-01-26T14:00:00+00:00",
+      "price": 69.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 62.99,
+        "originalPrice": 69.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2027-01-28T14:00:00.000Z",
+        "endsAtRaw": "2027-01-28T14:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/4daaf2ea3d1c245793f7f18dbcd30fdacbbe52c258b5661d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "id": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "title": "Tropico 7 - Deluxe Edition",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 62.99,
+            "originalPrice": 69.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2027-01-28T14:00:00.000Z",
+            "endsAtRaw": "2027-01-28T14:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/fee3117ef2e9dad53f42a3d92a69cd2be482266eac9b6300.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP4365-PPSA39307_00-00000000TROPICO7",
+      "id": "EP4365-PPSA39307_00-00000000TROPICO7",
+      "conceptId": "10005193",
+      "region": "us",
+      "title": "Tropico 7",
+      "edition": "Standard Edition",
+      "publisher": "Kalypso Media GMBH",
+      "platform": "ps5",
+      "releaseDateRaw": "1/28/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-28",
+      "releaseAt": "2027-01-28T14:00:00+00:00",
+      "price": 54.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 49.49,
+        "originalPrice": 54.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2027-01-28T14:00:00.000Z",
+        "endsAtRaw": "2027-01-28T14:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP4365-PPSA39307_00-00000000TROPICO7",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0709/6f7f75cab455fa3b89d2889a6210c39e44e010bb113a4744.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4365-PPSA39307_00-00000000TROPICO7",
+          "id": "EP4365-PPSA39307_00-00000000TROPICO7",
+          "title": "Tropico 7",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/en-us/product/EP4365-PPSA39307_00-00000000TROPICO7",
+          "price": 54.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 49.49,
+            "originalPrice": 54.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2027-01-28T14:00:00.000Z",
+            "endsAtRaw": "2027-01-28T14:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0307/c6bfb97f7f3ec183a4ba50d5797406d2ab8a9a8d3c2fa60a.jpg?w=160&thumb=false"
     },
     {
       "key": "EP9000-PPSA05719_00-UNTILDAWN2000001",
@@ -3371,41 +3543,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
     },
     {
-      "key": "989013604f4065523fd0",
-      "id": null,
-      "conceptId": "10020591",
-      "region": "us",
-      "title": "Dominoes Together",
-      "edition": null,
-      "publisher": "CUDIT Games",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020591",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1517/f1e54fc35f89591a476354db382199ee3d9a437fe47820f1.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "989013604f4065523fd0",
-          "id": null,
-          "title": "Dominoes Together",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020591",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1517/dc55b06874666e23fa4f9cbc47365a942301c2e3b8370f42.jpg?w=160&thumb=false"
-    },
-    {
       "key": "1588c91d52f9d1961a0d",
       "id": null,
       "conceptId": "10020330",
@@ -3649,6 +3786,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
+    },
+    {
+      "key": "5573c2172820b1bd1f1f",
+      "id": null,
+      "conceptId": "10018949",
+      "region": "us",
+      "title": "Shoresy: Legends of the North",
+      "edition": null,
+      "publisher": "Treewood Studios Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018949",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1521/b14aca9329ec75b21684c89f8488c3cf0d364f018e28aa0c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "5573c2172820b1bd1f1f",
+          "id": null,
+          "title": "Shoresy: Legends of the North",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018949",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/77e1537f04386c17d3fa822cbc9c450faf445647fa465de2.png?w=160&thumb=false"
     },
     {
       "key": "574fe0a01f842ed8ebe7",
