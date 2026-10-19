@@ -5,7 +5,7 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-19T02:32:48+08:00",
+  "updatedAt": "2026-10-20T04:57:03+08:00",
   "status": "success",
   "gameCount": 69,
   "source": {
@@ -467,7 +467,7 @@
         {
           "key": "HP5846-PPSA33879_00-DDXEDITION000000",
           "id": "HP5846-PPSA33879_00-DDXEDITION000000",
-          "title": "異界揭蹤／ANOMALITH 數位豪華版 (中日英韓文版)",
+          "title": "異界揭蹤／ANOMALITH 數位豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": "數位豪華版",
           "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA33879_00-DDXEDITION000000",
           "price": 490.0,
@@ -561,7 +561,7 @@
       "id": "UB2134-PPSA34579_00-0679049422108833",
       "conceptId": "10017620",
       "region": "hk",
-      "title": "Phantom Blade Zero Digital Deluxe Edition (中日英韓文版)",
+      "title": "Phantom Blade Zero Digital Deluxe Edition (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
       "edition": "數位豪華版",
       "publisher": "S-GAME Publishing",
       "platform": "ps5",
@@ -580,7 +580,7 @@
         {
           "key": "UB2134-PPSA34579_00-0679049422108833",
           "id": "UB2134-PPSA34579_00-0679049422108833",
-          "title": "Phantom Blade Zero Digital Deluxe Edition (中日英韓文版)",
+          "title": "Phantom Blade Zero Digital Deluxe Edition (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
           "edition": "數位豪華版",
           "url": "https://store.playstation.com/zh-hant-hk/product/UB2134-PPSA34579_00-0679049422108833",
           "price": 398.0,
@@ -1115,7 +1115,7 @@
         "endsAtRaw": "2026-12-03T10:00:00.000Z"
       },
       "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0856144322518238",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/56bac1673c67a7b64f0f3d613276bb572a5da0c3b1d6921c.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1908/c2203d4bb1293ae38cb9c3b4b310814bdbba5aa41dd5946a.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP1439-PPSA36395_00-0856144322518238",
@@ -1371,7 +1371,7 @@
         "endsAtRaw": "2026-12-03T10:00:00.000Z"
       },
       "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0081988138842333",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0804/0c2b2c82393455ba4bbe970a94a614f98f55e29d53332011.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1908/096dc2bd1372d79a9810ae8ef81114fcbe9377fc21ad1178.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP1439-PPSA36395_00-0081988138842333",
@@ -2308,7 +2308,7 @@
       "id": "JP0005-PPSA23593_00-APPLICATION00000",
       "conceptId": "10011107",
       "region": "hk",
-      "title": "女神異聞錄４ Revival (中日英韓文版)",
+      "title": "女神異聞錄４ Revival (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
       "edition": "一般版",
       "publisher": "SEGA CORPORATION",
       "platform": "ps5",
@@ -2327,7 +2327,7 @@
         {
           "key": "JP0005-PPSA23593_00-APPLICATION00000",
           "id": "JP0005-PPSA23593_00-APPLICATION00000",
-          "title": "女神異聞錄４ Revival (中日英韓文版)",
+          "title": "女神異聞錄４ Revival (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
           "edition": "一般版",
           "url": "https://store.playstation.com/zh-hant-hk/product/JP0005-PPSA23593_00-APPLICATION00000",
           "price": 468.0,
