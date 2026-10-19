@@ -5,53 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-19T03:03:55+09:00",
+  "updatedAt": "2026-10-20T05:34:34+09:00",
   "status": "success",
-  "gameCount": 68,
+  "gameCount": 69,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 79,
-    "productPages": 79,
+    "candidateCount": 80,
+    "productPages": 80,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP7588-PPSA28050_00-SET0100000000000",
-      "id": "HP7588-PPSA28050_00-SET0100000000000",
-      "conceptId": "10013888",
-      "region": "jp",
-      "title": "ステューピッド・ネバー・ダイズ：ゴージャスバカエディション",
-      "edition": "ゴージャスバカエディション",
-      "publisher": "GPTRACK50 Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/19",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-19",
-      "releaseAt": "2026-10-19T22:00:00+00:00",
-      "price": 8790.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/HP7588-PPSA28050_00-SET0100000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2405/4a8e91f04de1d0ef3a53e889e8cf0f6b77fe0052170b1ffc.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP7588-PPSA28050_00-SET0100000000000",
-          "id": "HP7588-PPSA28050_00-SET0100000000000",
-          "title": "ステューピッド・ネバー・ダイズ：ゴージャスバカエディション",
-          "edition": "ゴージャスバカエディション",
-          "url": "https://store.playstation.com/ja-jp/product/HP7588-PPSA28050_00-SET0100000000000",
-          "price": 8790.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2405/d51c710856a841c020a51db75f43e35328df2350bef9f8f1.png?w=160&thumb=false"
-    },
     {
       "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
       "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
@@ -1241,7 +1206,7 @@
         "endsAtRaw": "2026-12-03T10:00:00.000Z"
       },
       "url": "https://store.playstation.com/ja-jp/product/EP1439-PPSA36395_00-0856144322518238",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/56bac1673c67a7b64f0f3d613276bb572a5da0c3b1d6921c.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1908/c2203d4bb1293ae38cb9c3b4b310814bdbba5aa41dd5946a.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP1439-PPSA36395_00-0856144322518238",
@@ -1427,7 +1392,7 @@
         "endsAtRaw": "2026-12-03T10:00:00.000Z"
       },
       "url": "https://store.playstation.com/ja-jp/product/EP1439-PPSA36395_00-0081988138842333",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0804/0c2b2c82393455ba4bbe970a94a614f98f55e29d53332011.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1908/096dc2bd1372d79a9810ae8ef81114fcbe9377fc21ad1178.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP1439-PPSA36395_00-0081988138842333",
@@ -1896,6 +1861,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/098f24a2047a6a15d042b55fbcd7cde9f9c3d1f29e041c28.png?w=160&thumb=false"
     },
     {
+      "key": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "id": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "conceptId": "10005193",
+      "region": "jp",
+      "title": "トロピコ 7 デラックスエディション",
+      "edition": "デラックスエディション",
+      "publisher": "KALYPSO MEDIA",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/1/26",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-26",
+      "releaseAt": "2027-01-26T14:00:00+00:00",
+      "price": 10979.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 9881.0,
+        "originalPrice": 10979.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2027-01-28T14:00:00.000Z",
+        "endsAtRaw": "2027-01-28T14:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/4daaf2ea3d1c245793f7f18dbcd30fdacbbe52c258b5661d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "id": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "title": "トロピコ 7 デラックスエディション",
+          "edition": "デラックスエディション",
+          "url": "https://store.playstation.com/ja-jp/product/EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "price": 10979.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 9881.0,
+            "originalPrice": 10979.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2027-01-28T14:00:00.000Z",
+            "endsAtRaw": "2027-01-28T14:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/fee3117ef2e9dad53f42a3d92a69cd2be482266eac9b6300.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP3372-PPSA37624_00-MAINGAME00000000",
       "id": "JP3372-PPSA37624_00-MAINGAME00000000",
       "conceptId": "10019493",
@@ -2010,6 +2026,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2808/11724ec4ada8ca3839a90c66372f9c2f5e97499f0cfbc231.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP4365-PPSA39307_00-00000000TROPICO7",
+      "id": "EP4365-PPSA39307_00-00000000TROPICO7",
+      "conceptId": "10005193",
+      "region": "jp",
+      "title": "トロピコ 7",
+      "edition": "スタンダードエディション",
+      "publisher": "KALYPSO MEDIA",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/1/28",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-28",
+      "releaseAt": "2027-01-28T14:00:00+00:00",
+      "price": 8979.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 8081.0,
+        "originalPrice": 8979.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2027-01-28T14:00:00.000Z",
+        "endsAtRaw": "2027-01-28T14:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/EP4365-PPSA39307_00-00000000TROPICO7",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0709/6f7f75cab455fa3b89d2889a6210c39e44e010bb113a4744.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4365-PPSA39307_00-00000000TROPICO7",
+          "id": "EP4365-PPSA39307_00-00000000TROPICO7",
+          "title": "トロピコ 7",
+          "edition": "スタンダードエディション",
+          "url": "https://store.playstation.com/ja-jp/product/EP4365-PPSA39307_00-00000000TROPICO7",
+          "price": 8979.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 8081.0,
+            "originalPrice": 8979.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2027-01-28T14:00:00.000Z",
+            "endsAtRaw": "2027-01-28T14:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0307/c6bfb97f7f3ec183a4ba50d5797406d2ab8a9a8d3c2fa60a.jpg?w=160&thumb=false"
     },
     {
       "key": "EP4133-PPSA21224_00-ELTAGAME00000000",
