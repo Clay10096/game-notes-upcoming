@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-19T07:26:09-07:00",
+  "updatedAt": "2026-10-20T05:35:17-07:00",
   "status": "success",
   "gameCount": 31,
   "source": {
@@ -133,7 +133,7 @@
       "datePrecision": "day",
       "releaseDate": "2026-10-23",
       "releaseAt": null,
-      "price": null,
+      "price": 19.99,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
@@ -147,7 +147,7 @@
           "title": "ONE PIECE: Grand Gourmet",
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/one-piece-grand-gourmet-switch-2/",
-          "price": null,
+          "price": 19.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -861,10 +861,18 @@
       "datePrecision": "day",
       "releaseDate": "2026-12-04",
       "releaseAt": null,
-      "price": 39.99,
-      "originalPrice": null,
+      "price": 29.99,
+      "originalPrice": 39.99,
       "currency": "USD",
-      "offer": null,
+      "offer": {
+        "scope": "public",
+        "price": 29.99,
+        "originalPrice": 39.99,
+        "discountPercent": 25.0,
+        "startsAt": null,
+        "endsAt": "2026-12-04T04:59:59Z",
+        "endsAtRaw": null
+      },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-wilds-switch-2/",
       "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000102602/90d2c8d6cd4faf3af5fab5443afd19a06cb64aed05b9f2f23d4400fd5d38dac1",
@@ -875,9 +883,17 @@
           "title": "Monster Hunter Wilds",
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/monster-hunter-wilds-switch-2/",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
+          "price": 29.99,
+          "originalPrice": 39.99,
+          "offer": {
+            "scope": "public",
+            "price": 29.99,
+            "originalPrice": 39.99,
+            "discountPercent": 25.0,
+            "startsAt": null,
+            "endsAt": "2026-12-04T04:59:59Z",
+            "endsAtRaw": null
+          },
           "memberOffer": null
         }
       ]

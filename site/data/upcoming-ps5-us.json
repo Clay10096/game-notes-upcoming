@@ -5,88 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-19T07:29:47-07:00",
+  "updatedAt": "2026-10-20T05:38:36-07:00",
   "status": "success",
-  "gameCount": 102,
+  "gameCount": 103,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 125,
-    "productPages": 180,
+    "candidateCount": 128,
+    "productPages": 183,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP7588-PPSA28050_00-SET0100000000000",
-      "id": "HP7588-PPSA28050_00-SET0100000000000",
-      "conceptId": "10013888",
-      "region": "us",
-      "title": "Stupid Never Dies: Glorious Idiot Edition",
-      "edition": "Glorious Idiot Edition",
-      "publisher": "GPTRACK50 Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/19/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-19",
-      "releaseAt": "2026-10-19T22:00:00+00:00",
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/HP7588-PPSA28050_00-SET0100000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2405/da5af01fd26dad991d01a19e4a0a019dd230d3be28f3c2b9.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP7588-PPSA28050_00-SET0100000000000",
-          "id": "HP7588-PPSA28050_00-SET0100000000000",
-          "title": "Stupid Never Dies: Glorious Idiot Edition",
-          "edition": "Glorious Idiot Edition",
-          "url": "https://store.playstation.com/en-us/product/HP7588-PPSA28050_00-SET0100000000000",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2405/ca2f8763f333e8c9792e34d0a326f780a28258bc3d7add1d.png?w=160&thumb=false"
-    },
-    {
-      "key": "a4dd864f7b0db4390dc2",
-      "id": null,
-      "conceptId": "10017279",
-      "region": "us",
-      "title": "Frankenstein: Awakening of Horror",
-      "edition": null,
-      "publisher": "Witenovastudio OÜ",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-20",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-20",
-      "releaseAt": "2026-10-20T12:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017279",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/9c08e7a6a647764135c29ab0a892bbaed213d13f2347ddf5.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "a4dd864f7b0db4390dc2",
-          "id": null,
-          "title": "Frankenstein: Awakening of Horror",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017279",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/59114e5a0b7dcf04450cab54023468f3c95d465dd8c943ec.png?w=160&thumb=false"
-    },
     {
       "key": "af67532b0e8ed9357e12",
       "id": null,
@@ -96,7 +26,7 @@
       "edition": null,
       "publisher": "Devolver Digital",
       "platform": "ps5",
-      "releaseDateRaw": "10/20/2026 05:00 PM UTC",
+      "releaseDateRaw": "2026-10-20",
       "datePrecision": "day",
       "releaseDate": "2026-10-20",
       "releaseAt": "2026-10-20T17:00:00+00:00",
@@ -131,7 +61,7 @@
       "edition": null,
       "publisher": "Evgeniy Kolpakov t/a Sometimes You",
       "platform": "ps5",
-      "releaseDateRaw": "10/21/2026 04:00 AM UTC",
+      "releaseDateRaw": "2026-10-21",
       "datePrecision": "day",
       "releaseDate": "2026-10-21",
       "releaseAt": "2026-10-21T04:00:00+00:00",
@@ -484,6 +414,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2513/d90dcf7ffa6ed905e996fea259ce4517d148daf0a550812e.png?w=160&thumb=false"
     },
     {
+      "key": "bb35f6d6d85d5ed4b279",
+      "id": null,
+      "conceptId": "10012034",
+      "region": "us",
+      "title": "Tape to Tape",
+      "edition": null,
+      "publisher": "Excellent Rectangle inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "10/23/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-23",
+      "releaseAt": "2026-10-23T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10012034",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0223/88d9d0206146c7dbde42b3054e3000347ceeae7105c131cb.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "bb35f6d6d85d5ed4b279",
+          "id": null,
+          "title": "Tape to Tape",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10012034",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0223/e13d62dbeed58fae2fb009d42830d943d9616ec7f1148378.png?w=160&thumb=false"
+    },
+    {
       "key": "657dfd7cf7a05e52b514",
       "id": null,
       "conceptId": "10020249",
@@ -587,6 +552,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1410/636dcbe56c36930cf3e0100501b27b607f83a60dff936c7f.png?w=160&thumb=false"
+    },
+    {
+      "key": "5573c2172820b1bd1f1f",
+      "id": null,
+      "conceptId": "10018949",
+      "region": "us",
+      "title": "Shoresy: Legends of the North",
+      "edition": null,
+      "publisher": "Treewood Studios Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "10/24/2026 04:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-24",
+      "releaseAt": "2026-10-24T04:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018949",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1521/b14aca9329ec75b21684c89f8488c3cf0d364f018e28aa0c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "5573c2172820b1bd1f1f",
+          "id": null,
+          "title": "Shoresy: Legends of the North",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018949",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1916/d05268287c93570ef6dc2da674eccf8653fb0598466b2640.png?w=160&thumb=false"
     },
     {
       "key": "UP2777-PPSA29381_00-DDXEDITION000000",
@@ -1467,6 +1467,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/baf360b1f72f1d88b1da64a7f89b20efacfb8be7806f243a.png?w=160&thumb=false"
+    },
+    {
+      "key": "4ae63f070ea19fc2708f",
+      "id": null,
+      "conceptId": "10014672",
+      "region": "us",
+      "title": "Faraway",
+      "edition": null,
+      "publisher": "Annapurna Interactive",
+      "platform": "ps5",
+      "releaseDateRaw": "11/5/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": "2026-11-05T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10014672",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/3021/c758c26b78b968380abe58a14040653b19a64b1e4198f7b9.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "4ae63f070ea19fc2708f",
+          "id": null,
+          "title": "Faraway",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10014672",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/1390982900e3ec89ee9e90b37c8d8771ae7eabd7786fbec4.png?w=160&thumb=false"
     },
     {
       "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
@@ -2869,6 +2904,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1817/771217e22a1d0697bc99d28ece0715e4cedb40a2b3561f78.png?w=160&thumb=false"
     },
     {
+      "key": "237c989b6304efdcd2aa",
+      "id": null,
+      "conceptId": "10018168",
+      "region": "us",
+      "title": "Spyder: Agent 8",
+      "edition": null,
+      "publisher": "PQUBE LTD",
+      "platform": "ps5",
+      "releaseDateRaw": "2/11/2027 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-11",
+      "releaseAt": "2027-02-11T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018168",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/6d5dd553b854e977b24d264a1e13e71fd2e8880f11392b3b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "237c989b6304efdcd2aa",
+          "id": null,
+          "title": "Spyder: Agent 8",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018168",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/716a0c8d4d19b0bd96a41844b116540c8d0d857b7db51111.jpg?w=160&thumb=false"
+    },
+    {
       "key": "UP5267-PPSA29000_00-TRLOASTND0000000",
       "id": "UP5267-PPSA29000_00-TRLOASTND0000000",
       "conceptId": "10014491",
@@ -3786,41 +3856,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
-    },
-    {
-      "key": "5573c2172820b1bd1f1f",
-      "id": null,
-      "conceptId": "10018949",
-      "region": "us",
-      "title": "Shoresy: Legends of the North",
-      "edition": null,
-      "publisher": "Treewood Studios Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018949",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1521/b14aca9329ec75b21684c89f8488c3cf0d364f018e28aa0c.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "5573c2172820b1bd1f1f",
-          "id": null,
-          "title": "Shoresy: Legends of the North",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018949",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/77e1537f04386c17d3fa822cbc9c450faf445647fa465de2.png?w=160&thumb=false"
     },
     {
       "key": "574fe0a01f842ed8ebe7",
