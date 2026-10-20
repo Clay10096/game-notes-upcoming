@@ -5,53 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-20T05:34:34+09:00",
+  "updatedAt": "2026-10-21T04:11:51+09:00",
   "status": "success",
-  "gameCount": 69,
+  "gameCount": 67,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 80,
-    "productPages": 80,
+    "candidateCount": 77,
+    "productPages": 77,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "conceptId": "10016994",
-      "region": "jp",
-      "title": "Back to the Dawn ～ブレイク･ザ･アニマル･プリズン～",
-      "edition": null,
-      "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/21",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T15:00:00+00:00",
-      "price": 4928.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/64271f485956dd602c8a9e719f37f3cbeb337c32ae4c4b09.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "title": "Back to the Dawn ～ブレイク･ザ･アニマル･プリズン～",
-          "edition": null,
-          "url": "https://store.playstation.com/ja-jp/product/JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "price": 4928.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/2f2ce3077ca1f69661e22fc2efc6eaf906de9afe110216be.jpg?w=160&thumb=false"
-    },
     {
       "key": "HP7588-PPSA28050_00-MAIN000000000000",
       "id": "HP7588-PPSA28050_00-MAIN000000000000",
@@ -86,52 +51,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/fbfabcf0c67d21e7b0cd406049c7c27627d07b2fb2449736.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-      "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-      "conceptId": "10015961",
-      "region": "jp",
-      "title": "ファイナルファンタジー レゾナンス",
-      "edition": "ファイナルファンタジー レゾナンス",
-      "publisher": "(株)スクウェア・エニックス",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/21",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T15:00:00+00:00",
-      "price": 7678.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2406/ef95ea5bd05a4b27267df2bf857e3092af6b7c4ce2fc821f.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "title": "ファイナルファンタジー レゾナンス",
-          "edition": "ファイナルファンタジー レゾナンス",
-          "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "price": 7678.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "id": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "title": "ファイナルファンタジー レゾナンス Digital Deluxe Edition",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "price": 9878.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/13c43c305463ee4408d5f8a1f228deaf92ff94a874f66e23.png?w=160&thumb=false"
     },
     {
       "key": "JP9201-PPSA07952_00-CODMW4STANDARD01",
