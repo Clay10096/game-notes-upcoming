@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-20T05:38:36-07:00",
+  "updatedAt": "2026-10-21T05:50:26-07:00",
   "status": "success",
-  "gameCount": 103,
+  "gameCount": 102,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
@@ -17,76 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "af67532b0e8ed9357e12",
-      "id": null,
-      "conceptId": "10018765",
-      "region": "us",
-      "title": "Mycopunk",
-      "edition": null,
-      "publisher": "Devolver Digital",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-20",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-20",
-      "releaseAt": "2026-10-20T17:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018765",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/f8792b372d1c8135e3aea17b1684c618483127aa57fe4fd0.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "af67532b0e8ed9357e12",
-          "id": null,
-          "title": "Mycopunk",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018765",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/8f8fb84bb7449882ff1135673d2a9d3401ad33d44ca33ba6.png?w=160&thumb=false"
-    },
-    {
-      "key": "577104690f522b6c5b27",
-      "id": null,
-      "conceptId": "10018801",
-      "region": "us",
-      "title": "Hail to the Rainbow",
-      "edition": null,
-      "publisher": "Evgeniy Kolpakov t/a Sometimes You",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-21",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018801",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0600/fa2e1edc8ac369de8b3d4840219859c424c952830a8b5237.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "577104690f522b6c5b27",
-          "id": null,
-          "title": "Hail to the Rainbow",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018801",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/8f3ddb815669949163e0cb6bc4d6f1d1fc4f75d7f8169408.png?w=160&thumb=false"
-    },
     {
       "key": "HP7588-PPSA28050_00-MAIN000000000000",
       "id": "HP7588-PPSA28050_00-MAIN000000000000",
@@ -212,7 +142,7 @@
       "edition": null,
       "publisher": "Gloomsoft Oy",
       "platform": "ps5",
-      "releaseDateRaw": "10/22/2026 04:00 AM UTC",
+      "releaseDateRaw": "2026-10-22",
       "datePrecision": "day",
       "releaseDate": "2026-10-22",
       "releaseAt": "2026-10-22T04:00:00+00:00",
@@ -915,6 +845,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1012/db529e22bcc8cb68a6acc80bd336a3f25c28c69a9613fced.png?w=160&thumb=false"
+    },
+    {
+      "key": "39ed13c4c3bf9281d05f",
+      "id": null,
+      "conceptId": "10017913",
+      "region": "us",
+      "title": "Croc 2 Kingdom of the Gobbos",
+      "edition": null,
+      "publisher": "Argonaut Games, Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017913",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0211/8b31094052a11b00aa0f866e42afba8a463bdd8b5ea130db.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "39ed13c4c3bf9281d05f",
+          "id": null,
+          "title": "Croc 2 Kingdom of the Gobbos",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017913",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2102/29b893a75855b50e890baa830f8a86cb67369f01223bb34e.png?w=160&thumb=false"
     },
     {
       "key": "EP6665-PPSA23129_00-HS30000000000000",
@@ -1674,6 +1639,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0811/7c5cf689e334a518b19f001c729a8e15a6af47950a572183.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP1875-PPSA31341_00-SHREK2REMASTERED",
+      "id": "EP1875-PPSA31341_00-SHREK2REMASTERED",
+      "conceptId": "10015844",
+      "region": "us",
+      "title": "Shrek 2 Remastered",
+      "edition": "Shrek 2 Remastered",
+      "publisher": "Aspyr Media, Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/10/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": "2026-11-10T17:00:00+00:00",
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 26.99,
+        "originalPrice": 29.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-10T17:00:00.000Z",
+        "endsAtRaw": "2026-11-10T17:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EP1875-PPSA31341_00-SHREK2REMASTERED",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/55a2d8335f4cf30e94ae7747778dc007fda46a2c963e44ac.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP1875-PPSA31341_00-SHREK2REMASTERED",
+          "id": "EP1875-PPSA31341_00-SHREK2REMASTERED",
+          "title": "Shrek 2 Remastered",
+          "edition": "Shrek 2 Remastered",
+          "url": "https://store.playstation.com/en-us/product/EP1875-PPSA31341_00-SHREK2REMASTERED",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 26.99,
+            "originalPrice": 29.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-10T17:00:00.000Z",
+            "endsAtRaw": "2026-11-10T17:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/c4fb55c58d2d9c2e027e396cbd51593e88aa12be7a665441.jpg?w=160&thumb=false"
     },
     {
       "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
@@ -2829,7 +2845,7 @@
       "region": "us",
       "title": "METRO 2039",
       "edition": null,
-      "publisher": "PLAION",
+      "publisher": "Deep Silver",
       "platform": "ps5",
       "releaseDateRaw": "2/4/2027",
       "datePrecision": "day",
@@ -3856,41 +3872,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
-    },
-    {
-      "key": "574fe0a01f842ed8ebe7",
-      "id": null,
-      "conceptId": "10019905",
-      "region": "us",
-      "title": "The Killing Stone",
-      "edition": null,
-      "publisher": "Question LLC",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019905",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0703/e7709b8e70f2d1b959945a11a81a441a0ba75024a286e64b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "574fe0a01f842ed8ebe7",
-          "id": null,
-          "title": "The Killing Stone",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019905",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0914/6a958e9c43ab180dc967117e41fc7a9400abb839c2a7ecc2.png?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",

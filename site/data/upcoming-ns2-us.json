@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-20T05:35:17-07:00",
+  "updatedAt": "2026-10-21T05:46:51-07:00",
   "status": "success",
-  "gameCount": 31,
+  "gameCount": 34,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,6 +18,40 @@
     ]
   },
   "games": [
+    {
+      "key": "70010000128064",
+      "id": "70010000128064",
+      "conceptId": null,
+      "region": "us",
+      "title": "Beyond the Dark: Nightwatch",
+      "edition": "Standard Edition",
+      "publisher": "Atlantis Studio",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-22T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-22",
+      "releaseAt": null,
+      "price": 19.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/beyond-the-dark-nightwatch-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000128064/b4cfff417f95b26c47d80e20a053b2419fed484e510521efd19566928f4d8afb",
+      "versions": [
+        {
+          "key": "70010000128064",
+          "id": "70010000128064",
+          "title": "Beyond the Dark: Nightwatch",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/beyond-the-dark-nightwatch-switch-2/",
+          "price": 19.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
     {
       "key": "70010000107233",
       "id": "70010000107233",
@@ -148,6 +182,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/one-piece-grand-gourmet-switch-2/",
           "price": 19.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000130300",
+      "id": "70010000130300",
+      "conceptId": null,
+      "region": "us",
+      "title": "Warrior Cats: Clans of the Forest",
+      "edition": "Standard Edition",
+      "publisher": "Trailmark Games",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-23T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-23",
+      "releaseAt": null,
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/warrior-cats-clans-of-the-forest-switch-2/",
+      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7c9602af5b8a4cb89bc938286f72d0e7_1024",
+      "versions": [
+        {
+          "key": "70010000130300",
+          "id": "70010000130300",
+          "title": "Warrior Cats: Clans of the Forest",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/warrior-cats-clans-of-the-forest-switch-2/",
+          "price": 29.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -926,6 +994,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
           "price": 59.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000136192",
+      "id": "70010000136192",
+      "conceptId": null,
+      "region": "us",
+      "title": "Spyder: Agent 8",
+      "edition": "Standard Edition",
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-02-11T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-11",
+      "releaseAt": null,
+      "price": 12.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/spyder-agent-8-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000136192/9825a9bcbd33fa7d99e7c4237dd6f3bf309ea2a578422a31c088e0c4afb0532f",
+      "versions": [
+        {
+          "key": "70010000136192",
+          "id": "70010000136192",
+          "title": "Spyder: Agent 8",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/spyder-agent-8-switch-2/",
+          "price": 12.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
