@@ -5,121 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-21T03:56:22+08:00",
+  "updatedAt": "2026-10-22T04:00:15+08:00",
   "status": "success",
-  "gameCount": 68,
+  "gameCount": 67,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 82,
-    "productPages": 82,
+    "candidateCount": 79,
+    "productPages": 79,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP0082-PPSA34140_00-FFRSSTDHP0000000",
-      "id": "HP0082-PPSA34140_00-FFRSSTDHP0000000",
-      "conceptId": "10015961",
-      "region": "hk",
-      "title": "FINAL FANTASY RESONANCE (簡體中文, 韓文, 繁體中文)",
-      "edition": "FINAL FANTASY RESONANCE",
-      "publisher": "SQUARE ENIX CO., LTD.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-21",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T16:00:00+00:00",
-      "price": 399.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA34140_00-FFRSSTDHP0000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP0082-PPSA34140_00-FFRSSTDHP0000000",
-          "id": "HP0082-PPSA34140_00-FFRSSTDHP0000000",
-          "title": "FINAL FANTASY RESONANCE (簡體中文, 韓文, 繁體中文)",
-          "edition": "FINAL FANTASY RESONANCE",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA34140_00-FFRSSTDHP0000000",
-          "price": 399.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "title": "FINAL FANTASY RESONANCE (英文, 日文)",
-          "edition": "FINAL FANTASY RESONANCE",
-          "url": "https://store.playstation.com/zh-hant-hk/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "price": 399.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "HP0082-PPSA34140_00-FFRSDDXHP0000000",
-          "id": "HP0082-PPSA34140_00-FFRSDDXHP0000000",
-          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition (簡體中文, 韓文, 繁體中文)",
-          "edition": "Digital Deluxe (中韓文版)",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA34140_00-FFRSDDXHP0000000",
-          "price": 499.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "id": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition (英文, 日文)",
-          "edition": "Digital Deluxe (日英文版)",
-          "url": "https://store.playstation.com/zh-hant-hk/product/JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "price": 499.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/e13825714849a55ce1b1cd190d96b710d1bc96d78ca71597.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "conceptId": "10016994",
-      "region": "hk",
-      "title": "動物迷城 ～Back to the Dawn～ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": null,
-      "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-21",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T16:00:00+00:00",
-      "price": 268.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/26eb1411652c5cea3bb865c530f5efbac903cee5450be824.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "title": "動物迷城 ～Back to the Dawn～ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": null,
-          "url": "https://store.playstation.com/zh-hant-hk/product/JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "price": 268.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/c65ac72fda9d4b6be04a75758d66500eb2297307ade2db45.jpg?w=160&thumb=false"
-    },
     {
       "key": "HP7588-PPSA28050_00-MAIN000000000000",
       "id": "HP7588-PPSA28050_00-MAIN000000000000",
@@ -2534,6 +2431,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0706/0dd35da2b37e19229fbdebc45daa5f6f4046697bc9143cb8.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+      "id": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+      "conceptId": "10020445",
+      "region": "hk",
+      "title": "藥師少女的獨語 ～真假皇弟～ (中日英文版)",
+      "edition": "一般版",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-03-17",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-17",
+      "releaseAt": "2027-03-17T16:00:00+00:00",
+      "price": 478.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA39237_00-APPKUSURIYA00000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2512/46e93ff9e2fc2db1f4cb51e37cb445359a3656f2c91b2096.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+          "id": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+          "title": "藥師少女的獨語 ～真假皇弟～ (中日英文版)",
+          "edition": "一般版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA39237_00-APPKUSURIYA00000",
+          "price": 478.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA39237_00-APPKUSURIYA00DDX",
+          "id": "JP0106-PPSA39237_00-APPKUSURIYA00DDX",
+          "title": "藥師少女的獨語 ～真假皇弟～ 數位豪華版 (中日英文版)",
+          "edition": "數位豪華版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA39237_00-APPKUSURIYA00DDX",
+          "price": 558.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0802/67a3652ea181019030a4aeca189886a789f2bc3f4d94843d.png?w=160&thumb=false"
     },
     {
       "key": "HP0082-PPSA37340_00-0841710007780278",
