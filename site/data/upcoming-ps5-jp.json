@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-22T04:17:44+09:00",
+  "updatedAt": "2026-10-23T04:12:27+09:00",
   "status": "success",
-  "gameCount": 61,
+  "gameCount": 63,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 72,
-    "productPages": 72,
+    "candidateCount": 74,
+    "productPages": 74,
     "coverage": "official-category",
     "notes": []
   },
@@ -1091,6 +1091,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
     },
     {
+      "key": "UB0874-PPSA31608_00-0733548018947982",
+      "id": "UB0874-PPSA31608_00-0733548018947982",
+      "conceptId": "10016017",
+      "region": "jp",
+      "title": "Guns of Eschaton",
+      "edition": "Pay to Lose Edition",
+      "publisher": "Eschatology Entertainment Ltd",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/12/5",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-05",
+      "releaseAt": "2026-12-05T15:00:00+00:00",
+      "price": 5940.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 5346.0,
+        "originalPrice": 5940.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-07T15:00:00.000Z",
+        "endsAtRaw": "2026-12-07T15:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/UB0874-PPSA31608_00-0733548018947982",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/fecfbb7b3b497de369759658b86443c401d6b18317e9956d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UB0874-PPSA31608_00-0733548018947982",
+          "id": "UB0874-PPSA31608_00-0733548018947982",
+          "title": "Guns of Eschaton",
+          "edition": "Pay to Lose Edition",
+          "url": "https://store.playstation.com/ja-jp/product/UB0874-PPSA31608_00-0733548018947982",
+          "price": 5940.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 5346.0,
+            "originalPrice": 5940.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-07T15:00:00.000Z",
+            "endsAtRaw": "2026-12-07T15:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/0fb1ecf0baaf6d9a78fbdc52b5bac33d8771d0d667f54c70.png?w=160&thumb=false"
+    },
+    {
       "key": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
       "id": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
       "conceptId": "10012189",
@@ -1124,6 +1175,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2108/985131c0d1a0a04bca901fd3c98b2d9b13f0e61ea309ce62.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "UB0874-PPSA31608_00-0159496427397455",
+      "id": "UB0874-PPSA31608_00-0159496427397455",
+      "conceptId": "10016017",
+      "region": "jp",
+      "title": "Guns of Escaton",
+      "edition": "Standard Edition",
+      "publisher": "Eschatology Entertainment Ltd",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/12/7",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-07",
+      "releaseAt": "2026-12-07T15:00:00+00:00",
+      "price": 4950.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 4455.0,
+        "originalPrice": 4950.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-07T15:00:00.000Z",
+        "endsAtRaw": "2026-12-07T15:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/UB0874-PPSA31608_00-0159496427397455",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0114/b1ac4a232ee4c4c2669ae0e025d87f14140a3177ea3157a9.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UB0874-PPSA31608_00-0159496427397455",
+          "id": "UB0874-PPSA31608_00-0159496427397455",
+          "title": "Guns of Escaton",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/ja-jp/product/UB0874-PPSA31608_00-0159496427397455",
+          "price": 4950.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 4455.0,
+            "originalPrice": 4950.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-07T15:00:00.000Z",
+            "endsAtRaw": "2026-12-07T15:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/d60b4125e0ac3b4d609104010245e800c94ca20e52dfff0e.png?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",

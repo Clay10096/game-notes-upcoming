@@ -5,13 +5,13 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-22T04:16:16+09:00",
+  "updatedAt": "2026-10-23T04:11:06+09:00",
   "status": "success",
-  "gameCount": 104,
+  "gameCount": 105,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 903,
+    "candidateCount": 909,
     "coverage": "official-search",
     "notes": []
   },
@@ -723,6 +723,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000134880",
           "price": 1350.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000131183",
+      "id": "70010000131183",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Faraway",
+      "edition": null,
+      "publisher": "Annapurna Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.5",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": null,
+      "price": 1200.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg",
+      "versions": [
+        {
+          "key": "70010000131183",
+          "id": "70010000131183",
+          "title": "Faraway",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
+          "price": 1200.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
