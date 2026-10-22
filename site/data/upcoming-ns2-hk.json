@@ -5,17 +5,51 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-22T03:58:33+08:00",
+  "updatedAt": "2026-10-23T03:50:28+08:00",
   "status": "success",
-  "gameCount": 33,
+  "gameCount": 36,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 548,
+    "candidateCount": 557,
     "coverage": "official-lineup",
     "notes": []
   },
   "games": [
+    {
+      "key": "70010000134744",
+      "id": "70010000134744",
+      "conceptId": null,
+      "region": "hk",
+      "title": "BURGGEIST for Nintendo Switch 2",
+      "edition": null,
+      "publisher": "GHRIAN STUDIO",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-27",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-27",
+      "releaseAt": null,
+      "price": 83.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000134744",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013474490357d8acd8b11f19cb2dbafe9ef602e/e2906260f0d2ecbfa32ad471106375dd/6468c12cfb25534da8a65d5004ed1f5ab732846ac0acd4a31f4ce1215f48166d.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000134744",
+          "id": "70010000134744",
+          "title": "BURGGEIST for Nintendo Switch 2",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000134744",
+          "price": 83.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
     {
       "key": "70010000119403",
       "id": "70010000119403",
@@ -609,6 +643,40 @@
       ]
     },
     {
+      "key": "70010000125710",
+      "id": "70010000125710",
+      "conceptId": null,
+      "region": "hk",
+      "title": "角落小夥伴 歡迎來到暖呼呼溫泉",
+      "edition": null,
+      "publisher": "NIPPON COLUMBIA",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-19",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-19",
+      "releaseAt": null,
+      "price": 299.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000125710",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000125710709a27fccd8b11f1ba58619c2c435a99/630a57216b91eb3c67f8c1ceb4496748/2092d3df07749a9ebe46b622ce35e0354bde2937c0c7b2621f9aeabd89d0813b.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000125710",
+          "id": "70010000125710",
+          "title": "角落小夥伴 歡迎來到暖呼呼溫泉",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000125710",
+          "price": 299.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000129141",
       "id": "70010000129141",
       "conceptId": null,
@@ -924,6 +992,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000135074",
           "price": 449.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000136195",
+      "id": "70010000136195",
+      "conceptId": null,
+      "region": "hk",
+      "title": "《特務蜘蛛：8號情報員》",
+      "edition": null,
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-02-11",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-11",
+      "releaseAt": null,
+      "price": 78.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000136195",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013619579922b2ccd8b11f1998fdbafe9ef602e/e54d748670ce2563c1a5f53ff70f024f/26e66b8d95c7604b8540e00baa466fefd3edeb1309ea74eed9f69abd2cf16fa7.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000136195",
+          "id": "70010000136195",
+          "title": "《特務蜘蛛：8號情報員》",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000136195",
+          "price": 78.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null

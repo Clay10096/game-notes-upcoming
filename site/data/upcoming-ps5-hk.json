@@ -5,193 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-22T04:00:15+08:00",
+  "updatedAt": "2026-10-23T03:52:24+08:00",
   "status": "success",
-  "gameCount": 67,
+  "gameCount": 64,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 79,
-    "productPages": 79,
+    "candidateCount": 76,
+    "productPages": 76,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP7588-PPSA28050_00-MAIN000000000000",
-      "id": "HP7588-PPSA28050_00-MAIN000000000000",
-      "conceptId": "10013888",
-      "region": "hk",
-      "title": "愚者不滅（Stupid Never Dies） (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "標準版",
-      "publisher": "GPTRACK50 Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-21",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T22:00:00+00:00",
-      "price": 338.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP7588-PPSA28050_00-MAIN000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/d718247a7ecf8c248c9366bcef47472979c2075ac4807de3.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP7588-PPSA28050_00-MAIN000000000000",
-          "id": "HP7588-PPSA28050_00-MAIN000000000000",
-          "title": "愚者不滅（Stupid Never Dies） (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "標準版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP7588-PPSA28050_00-MAIN000000000000",
-          "price": 338.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/fbfabcf0c67d21e7b0cd406049c7c27627d07b2fb2449736.png?w=160&thumb=false"
-    },
-    {
-      "key": "UB2551-PPSA38507_00-0938503966815822",
-      "id": "UB2551-PPSA38507_00-0938503966815822",
-      "conceptId": "10019998",
-      "region": "hk",
-      "title": "Warrior Cats: Clans of the Forest (英文)",
-      "edition": "Standard Edition",
-      "publisher": "Trailmark Games, LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-22",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T16:00:00+00:00",
-      "price": 238.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UB2551-PPSA38507_00-0938503966815822",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0412/008ac603d5d47d882c091f6728043de10c69cf5c51f1177a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB2551-PPSA38507_00-0938503966815822",
-          "id": "UB2551-PPSA38507_00-0938503966815822",
-          "title": "Warrior Cats: Clans of the Forest (英文)",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UB2551-PPSA38507_00-0938503966815822",
-          "price": 238.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0412/98ad0941090b5711771276a9199fcfe4d1fdfd4d3bf203b0.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "UB2551-PPSA38507_00-0568047176185872",
-      "id": "UB2551-PPSA38507_00-0568047176185872",
-      "conceptId": "10019998",
-      "region": "hk",
-      "title": "Warrior Cats: Clans of the Forest - Feral Edition (英文)",
-      "edition": "Feral Edition",
-      "publisher": "Trailmark Games, LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-22",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T16:00:00+00:00",
-      "price": 308.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UB2551-PPSA38507_00-0568047176185872",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1410/fad2a3af8e6fb133fb45de2d58531194cf2d6d019af83b6a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB2551-PPSA38507_00-0568047176185872",
-          "id": "UB2551-PPSA38507_00-0568047176185872",
-          "title": "Warrior Cats: Clans of the Forest - Feral Edition (英文)",
-          "edition": "Feral Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UB2551-PPSA38507_00-0568047176185872",
-          "price": 308.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1410/636dcbe56c36930cf3e0100501b27b607f83a60dff936c7f.png?w=160&thumb=false"
-    },
-    {
-      "key": "HP0002-PPSA07953_00-CODMW4STANDARD01",
-      "id": "HP0002-PPSA07953_00-CODMW4STANDARD01",
-      "conceptId": "10001130",
-      "region": "hk",
-      "title": "《決勝時刻®：現代戰爭® 4》 (簡體中文, 韓文, 英文, 繁體中文)",
-      "edition": "《MW4》標準版",
-      "publisher": "Activision",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-22",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T16:00:00+00:00",
-      "price": 568.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP0002-PPSA07953_00-CODMW4STANDARD01",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1419/8dd2a0bacba9a3e1f2c1ef8e5d62e57afea1eb31662992da.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP0002-PPSA07953_00-CODMW4STANDARD01",
-          "id": "HP0002-PPSA07953_00-CODMW4STANDARD01",
-          "title": "《決勝時刻®：現代戰爭® 4》 (簡體中文, 韓文, 英文, 繁體中文)",
-          "edition": "《MW4》標準版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP0002-PPSA07953_00-CODMW4STANDARD01",
-          "price": 568.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1415/972f277c6ca05ffd7b4f290ba34ebc0131bffc73e2a7548d.png?w=160&thumb=false"
-    },
-    {
-      "key": "HP0002-PPSA07953_00-CODMW4VAULT00001",
-      "id": "HP0002-PPSA07953_00-CODMW4VAULT00001",
-      "conceptId": "10001130",
-      "region": "hk",
-      "title": "《決勝時刻®：現代戰爭® 4》- 寶庫版 (簡體中文, 韓文, 英文, 繁體中文)",
-      "edition": "《現代戰爭® 4》寶庫版",
-      "publisher": "Activision",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-22",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T16:00:00+00:00",
-      "price": 778.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP0002-PPSA07953_00-CODMW4VAULT00001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2115/6247ce20ecafa75f014c9e674e229f888874632221408f3d.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP0002-PPSA07953_00-CODMW4VAULT00001",
-          "id": "HP0002-PPSA07953_00-CODMW4VAULT00001",
-          "title": "《決勝時刻®：現代戰爭® 4》- 寶庫版 (簡體中文, 韓文, 英文, 繁體中文)",
-          "edition": "《現代戰爭® 4》寶庫版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP0002-PPSA07953_00-CODMW4VAULT00001",
-          "price": 778.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1416/9efdaf29e619bc09d0828687fb3273cf623e551ef01a8586.png?w=160&thumb=false"
-    },
     {
       "key": "UB0289-PPSA38219_00-0832989115896074",
       "id": "UB0289-PPSA38219_00-0832989115896074",
@@ -1258,6 +1083,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
     },
     {
+      "key": "UB0874-PPSA31608_00-0733548018947982",
+      "id": "UB0874-PPSA31608_00-0733548018947982",
+      "conceptId": "10016017",
+      "region": "hk",
+      "title": "Guns of Eschaton (中英文版)",
+      "edition": "Pay to Lose Edition",
+      "publisher": "Eschatology Entertainment Ltd",
+      "platform": "ps5",
+      "releaseDateRaw": "2026-12-05",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-05",
+      "releaseAt": "2026-12-05T16:00:00+00:00",
+      "price": 259.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 233.1,
+        "originalPrice": 259.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-07T16:00:00.000Z",
+        "endsAtRaw": "2026-12-07T16:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/UB0874-PPSA31608_00-0733548018947982",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/fecfbb7b3b497de369759658b86443c401d6b18317e9956d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UB0874-PPSA31608_00-0733548018947982",
+          "id": "UB0874-PPSA31608_00-0733548018947982",
+          "title": "Guns of Eschaton (中英文版)",
+          "edition": "Pay to Lose Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/UB0874-PPSA31608_00-0733548018947982",
+          "price": 259.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 233.1,
+            "originalPrice": 259.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-07T16:00:00.000Z",
+            "endsAtRaw": "2026-12-07T16:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/0fb1ecf0baaf6d9a78fbdc52b5bac33d8771d0d667f54c70.png?w=160&thumb=false"
+    },
+    {
       "key": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
       "id": "JP0106-PPSA25406_00-AOT3DLCDDX000001",
       "conceptId": "10012189",
@@ -1291,6 +1167,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2108/985131c0d1a0a04bca901fd3c98b2d9b13f0e61ea309ce62.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "UB0874-PPSA31608_00-0159496427397455",
+      "id": "UB0874-PPSA31608_00-0159496427397455",
+      "conceptId": "10016017",
+      "region": "hk",
+      "title": "Guns of Eschaton (英文, 繁體中文, 日文)",
+      "edition": "Standard Edition",
+      "publisher": "Eschatology Entertainment Ltd",
+      "platform": "ps5",
+      "releaseDateRaw": "2026-12-07",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-07",
+      "releaseAt": "2026-12-07T16:00:00+00:00",
+      "price": 199.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 179.1,
+        "originalPrice": 199.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-12-07T16:00:00.000Z",
+        "endsAtRaw": "2026-12-07T16:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/UB0874-PPSA31608_00-0159496427397455",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0114/b1ac4a232ee4c4c2669ae0e025d87f14140a3177ea3157a9.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UB0874-PPSA31608_00-0159496427397455",
+          "id": "UB0874-PPSA31608_00-0159496427397455",
+          "title": "Guns of Eschaton (英文, 繁體中文, 日文)",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/UB0874-PPSA31608_00-0159496427397455",
+          "price": 199.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 179.1,
+            "originalPrice": 199.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-12-07T16:00:00.000Z",
+            "endsAtRaw": "2026-12-07T16:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/d60b4125e0ac3b4d609104010245e800c94ca20e52dfff0e.png?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",
