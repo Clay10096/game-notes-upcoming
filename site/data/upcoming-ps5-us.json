@@ -5,169 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-21T05:50:26-07:00",
+  "updatedAt": "2026-10-22T05:53:28-07:00",
   "status": "success",
-  "gameCount": 102,
+  "gameCount": 101,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 128,
-    "productPages": 183,
+    "candidateCount": 129,
+    "productPages": 181,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP7588-PPSA28050_00-MAIN000000000000",
-      "id": "HP7588-PPSA28050_00-MAIN000000000000",
-      "conceptId": "10013888",
-      "region": "us",
-      "title": "Stupid Never Dies",
-      "edition": "Standard Edition",
-      "publisher": "GPTRACK50 Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/21/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-21",
-      "releaseAt": "2026-10-21T22:00:00+00:00",
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/HP7588-PPSA28050_00-MAIN000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/d718247a7ecf8c248c9366bcef47472979c2075ac4807de3.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP7588-PPSA28050_00-MAIN000000000000",
-          "id": "HP7588-PPSA28050_00-MAIN000000000000",
-          "title": "Stupid Never Dies",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/HP7588-PPSA28050_00-MAIN000000000000",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/fbfabcf0c67d21e7b0cd406049c7c27627d07b2fb2449736.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "conceptId": "10016994",
-      "region": "us",
-      "title": "Back to the Dawn",
-      "edition": null,
-      "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/22/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T04:00:00+00:00",
-      "price": 34.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/823f5ae58f1bc18c86372a4438c3145bb98ab25c60cb1fbb.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "id": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "title": "Back to the Dawn",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/product/JP5784-PPSA37850_00-BACKTOTHEDAWN000",
-          "price": 34.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/c0f71d63b39b642d374631d0227cac65dcb96b11aa20eee1.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-      "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-      "conceptId": "10015961",
-      "region": "us",
-      "title": "FINAL FANTASY RESONANCE",
-      "edition": "FINAL FANTASY RESONANCE",
-      "publisher": "SQUARE ENIX CO., LTD.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/22/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T04:00:00+00:00",
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "id": "JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "title": "FINAL FANTASY RESONANCE",
-          "edition": "FINAL FANTASY RESONANCE",
-          "url": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "id": "JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSDDXWW0000000",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/e13825714849a55ce1b1cd190d96b710d1bc96d78ca71597.png?w=160&thumb=false"
-    },
-    {
-      "key": "2212755a28d324e41289",
-      "id": null,
-      "conceptId": "10019042",
-      "region": "us",
-      "title": "Moadra",
-      "edition": null,
-      "publisher": "Gloomsoft Oy",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-22",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": "2026-10-22T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019042",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2913/6d44bc507bd90984565e5a4b840a9fa3402d18af1322c9f9.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "2212755a28d324e41289",
-          "id": null,
-          "title": "Moadra",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019042",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0513/f89162bee304b222d12dd15d9d513af1a8f6cea03990e293.png?w=160&thumb=false"
-    },
     {
       "key": "d9d748fe5718e624afab",
       "id": null,
@@ -177,7 +26,7 @@
       "edition": null,
       "publisher": "SOURCE BYTE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
       "platform": "ps5",
-      "releaseDateRaw": "10/22/2026 11:00 PM UTC",
+      "releaseDateRaw": "2026-10-22",
       "datePrecision": "day",
       "releaseDate": "2026-10-22",
       "releaseAt": "2026-10-22T23:00:00+00:00",
@@ -1066,6 +915,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0815/0fcc82232a2a974b23780e020f0a315619e5e87e4b508c53.png?w=160&thumb=false"
+    },
+    {
+      "key": "38d9ee79a6d951a5d7ee",
+      "id": null,
+      "conceptId": "10018073",
+      "region": "us",
+      "title": "RV There Yet?",
+      "edition": null,
+      "publisher": "Nuggets Entertainment AB",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018073",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0213/ac52065e238f4585dbbcf4445854b5fedfe14f81ce30da27.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "38d9ee79a6d951a5d7ee",
+          "id": null,
+          "title": "RV There Yet?",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018073",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1210/ea990ac68a235a259ff5a4d9861be852c87deb2c38e346e0.png?w=160&thumb=false"
     },
     {
       "key": "cf221ec0469981b91afa",
@@ -2032,6 +1916,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0909/a635ae9111c76e25b4558b3a23e44e18b311c8bab0b92665.png?w=160&thumb=false"
+    },
+    {
+      "key": "16b73a901e67e8203d62",
+      "id": null,
+      "conceptId": "10013833",
+      "region": "us",
+      "title": "Luma Island",
+      "edition": null,
+      "publisher": "Feel Free Games B.V.",
+      "platform": "ps5",
+      "releaseDateRaw": "12/2/2026 11:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-02",
+      "releaseAt": "2026-12-02T11:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10013833",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0213/7dcda0b78dfc79047b4b0f67ed292bc489ef2e95fdfe7fc6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "16b73a901e67e8203d62",
+          "id": null,
+          "title": "Luma Island",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10013833",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0115/77a0008afeae93951224323771eedd9b2e3774e777d26079.png?w=160&thumb=false"
     },
     {
       "key": "JP0082-PPSA32281_00-DQM4000000000000",
@@ -3384,6 +3303,52 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2502/84dce1a62f92c2df911d171b79a819defd8ec5e1d0b69f81.png?w=160&thumb=false"
     },
     {
+      "key": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+      "id": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+      "conceptId": "10020445",
+      "region": "us",
+      "title": "The Apothecary Diaries: The False Imperial Brother",
+      "edition": "Standard Edition",
+      "publisher": "KOEI TECMO America",
+      "platform": "ps5",
+      "releaseDateRaw": "3/18/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-18",
+      "releaseAt": "2027-03-18T04:00:00+00:00",
+      "price": 59.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/JP0106-PPSA39237_00-APPKUSURIYA00000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2512/d5356be81800be59d5e4bcd96f22c2d4a27b3e1d238f5fbf.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+          "id": "JP0106-PPSA39237_00-APPKUSURIYA00000",
+          "title": "The Apothecary Diaries: The False Imperial Brother",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/en-us/product/JP0106-PPSA39237_00-APPKUSURIYA00000",
+          "price": 59.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA39237_00-APPKUSURIYA00DDX",
+          "id": "JP0106-PPSA39237_00-APPKUSURIYA00DDX",
+          "title": "The Apothecary Diaries: The False Imperial Brother Digital Deluxe Edition",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/JP0106-PPSA39237_00-APPKUSURIYA00DDX",
+          "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0802/67a3652ea181019030a4aeca189886a789f2bc3f4d94843d.png?w=160&thumb=false"
+    },
+    {
       "key": "UP0082-PPSA37338_00-0841710007780278",
       "id": "UP0082-PPSA37338_00-0841710007780278",
       "conceptId": "10018084",
@@ -3664,6 +3629,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0203/587b5e6a13bc4ef2168cd255d8754e382bd2446618c98033.png?w=160&thumb=false"
     },
     {
+      "key": "f7556df3171ec373e206",
+      "id": null,
+      "conceptId": "10018044",
+      "region": "us",
+      "title": "Forefront",
+      "edition": null,
+      "publisher": "Triangle Factory",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018044",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0611/352bcd85c76871203126d8e80f6beaf0f3ec013a9181c30a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "f7556df3171ec373e206",
+          "id": null,
+          "title": "Forefront",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018044",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/685c909160eb95af68b273deec71fd63186ecd56ae9d3d0b.png?w=160&thumb=false"
+    },
+    {
       "key": "c68aeeb6021d4c45d24d",
       "id": null,
       "conceptId": "10019782",
@@ -3767,41 +3767,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
-    },
-    {
-      "key": "16b73a901e67e8203d62",
-      "id": null,
-      "conceptId": "10013833",
-      "region": "us",
-      "title": "Luma Island",
-      "edition": null,
-      "publisher": "Feel Free Games B.V.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10013833",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0213/7dcda0b78dfc79047b4b0f67ed292bc489ef2e95fdfe7fc6.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "16b73a901e67e8203d62",
-          "id": null,
-          "title": "Luma Island",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10013833",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0115/77a0008afeae93951224323771eedd9b2e3774e777d26079.png?w=160&thumb=false"
     },
     {
       "key": "ad3a2198bf8b49798ce0",

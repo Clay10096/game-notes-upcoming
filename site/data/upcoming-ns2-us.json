@@ -5,155 +5,19 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-21T05:46:51-07:00",
+  "updatedAt": "2026-10-22T05:50:14-07:00",
   "status": "success",
-  "gameCount": 34,
+  "gameCount": 30,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
-    "candidateCount": 48,
+    "candidateCount": 47,
     "coverage": "official-curated-page",
     "notes": [
       "美服来源为任天堂公开的 Coming Soon 精选页，可能不包含全部待发售游戏。"
     ]
   },
   "games": [
-    {
-      "key": "70010000128064",
-      "id": "70010000128064",
-      "conceptId": null,
-      "region": "us",
-      "title": "Beyond the Dark: Nightwatch",
-      "edition": "Standard Edition",
-      "publisher": "Atlantis Studio",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-22T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": null,
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/beyond-the-dark-nightwatch-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000128064/b4cfff417f95b26c47d80e20a053b2419fed484e510521efd19566928f4d8afb",
-      "versions": [
-        {
-          "key": "70010000128064",
-          "id": "70010000128064",
-          "title": "Beyond the Dark: Nightwatch",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/beyond-the-dark-nightwatch-switch-2/",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000107233",
-      "id": "70010000107233",
-      "conceptId": null,
-      "region": "us",
-      "title": "FATAL FURY: City of the Wolves - STANDARD Edition",
-      "edition": "Standard Edition",
-      "publisher": "SNK",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-22T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": null,
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/fatal-fury-city-of-the-wolves-standard-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000107233/37f41a1e7e0b7c2d0239bc10c633ac5df8a9a41a887249440cbee8dcabcf1703",
-      "versions": [
-        {
-          "key": "70010000107233",
-          "id": "70010000107233",
-          "title": "FATAL FURY: City of the Wolves - STANDARD Edition",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/fatal-fury-city-of-the-wolves-standard-edition-switch-2/",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000117100",
-      "id": "70010000117100",
-      "conceptId": null,
-      "region": "us",
-      "title": "FINAL FANTASY RESONANCE",
-      "edition": "Standard Edition",
-      "publisher": "SQUARE ENIX",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-22T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": null,
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000117100/aa9e3c398a075cc7f17856074cf4fc2e5fcda84af16ed1c60219596eee85e0a1",
-      "versions": [
-        {
-          "key": "70010000117100",
-          "id": "70010000117100",
-          "title": "FINAL FANTASY RESONANCE",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch-2/",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000125145",
-      "id": "70010000125145",
-      "conceptId": null,
-      "region": "us",
-      "title": "Nintendo Switch Sports Resort™",
-      "edition": "Standard Edition",
-      "publisher": "Nintendo",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-22T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-22",
-      "releaseAt": null,
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000125145/15eecec6bb8d870e68bdb5b0d87e4473886c945b2454a7d179de6a89ddddb23b",
-      "versions": [
-        {
-          "key": "70010000125145",
-          "id": "70010000125145",
-          "title": "Nintendo Switch Sports Resort™",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000110983",
       "id": "70010000110983",
