@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-23T03:50:28+08:00",
+  "updatedAt": "2026-10-24T03:51:35+08:00",
   "status": "success",
-  "gameCount": 36,
+  "gameCount": 37,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 557,
+    "candidateCount": 561,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -300,6 +300,40 @@
             "endsAt": "2026-10-28T15:59:59Z",
             "endsAtRaw": "2026-10-28T15:59:59Z"
           },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000131184",
+      "id": "70010000131184",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Faraway",
+      "edition": null,
+      "publisher": "Annapurna Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-05",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": null,
+      "price": 58.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000131184",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131184f03fe324ce5411f1b65d67389ee1d11a/82648e0af363f4795805de10f9c06de4/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000131184",
+          "id": "70010000131184",
+          "title": "Faraway",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000131184",
+          "price": 58.0,
+          "originalPrice": null,
+          "offer": null,
           "memberOffer": null
         }
       ]
