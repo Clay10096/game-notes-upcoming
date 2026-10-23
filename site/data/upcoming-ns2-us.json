@@ -5,87 +5,19 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-22T05:50:14-07:00",
+  "updatedAt": "2026-10-23T05:28:11-07:00",
   "status": "success",
-  "gameCount": 30,
+  "gameCount": 31,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
-    "candidateCount": 47,
+    "candidateCount": 44,
     "coverage": "official-curated-page",
     "notes": [
       "美服来源为任天堂公开的 Coming Soon 精选页，可能不包含全部待发售游戏。"
     ]
   },
   "games": [
-    {
-      "key": "70010000110983",
-      "id": "70010000110983",
-      "conceptId": null,
-      "region": "us",
-      "title": "ONE PIECE: Grand Gourmet",
-      "edition": "Standard Edition",
-      "publisher": "Bandai Namco Entertainment",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-23T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-23",
-      "releaseAt": null,
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/one-piece-grand-gourmet-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000110983/681ab982c0e64bb3138b6aa33b6cc7dfa86c0f7dd5dde4405b27eabd8a2b32eb",
-      "versions": [
-        {
-          "key": "70010000110983",
-          "id": "70010000110983",
-          "title": "ONE PIECE: Grand Gourmet",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/one-piece-grand-gourmet-switch-2/",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000130300",
-      "id": "70010000130300",
-      "conceptId": null,
-      "region": "us",
-      "title": "Warrior Cats: Clans of the Forest",
-      "edition": "Standard Edition",
-      "publisher": "Trailmark Games",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-23T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-23",
-      "releaseAt": null,
-      "price": 29.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/warrior-cats-clans-of-the-forest-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7c9602af5b8a4cb89bc938286f72d0e7_1024",
-      "versions": [
-        {
-          "key": "70010000130300",
-          "id": "70010000130300",
-          "title": "Warrior Cats: Clans of the Forest",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/warrior-cats-clans-of-the-forest-switch-2/",
-          "price": 29.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000119400",
       "id": "70010000119400",
@@ -493,6 +425,56 @@
       ]
     },
     {
+      "key": "70010000101621",
+      "id": "70010000101621",
+      "conceptId": null,
+      "region": "us",
+      "title": "Shrek 2 Remastered",
+      "edition": "Standard Edition",
+      "publisher": "Aspyr",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-10T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": null,
+      "price": 26.99,
+      "originalPrice": 29.99,
+      "currency": "USD",
+      "offer": {
+        "scope": "public",
+        "price": 26.99,
+        "originalPrice": 29.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-17T07:59:59Z",
+        "endsAtRaw": null
+      },
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/shrek-2-remastered-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000101621/b85212e1ff7ded68d6ec393c2c4e9af4e99ce43e50795a3810d8b9c3f87b5e77",
+      "versions": [
+        {
+          "key": "70010000101621",
+          "id": "70010000101621",
+          "title": "Shrek 2 Remastered",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/shrek-2-remastered-switch-2/",
+          "price": 26.99,
+          "originalPrice": 29.99,
+          "offer": {
+            "scope": "public",
+            "price": 26.99,
+            "originalPrice": 29.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-17T07:59:59Z",
+            "endsAtRaw": null
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000105915",
       "id": "70010000105915",
       "conceptId": null,
@@ -556,6 +538,56 @@
           "price": null,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000126956",
+      "id": "70010000126956",
+      "conceptId": null,
+      "region": "us",
+      "title": "Reverie in the Moonlight – Nintendo Switch™ 2 Edition",
+      "edition": "Standard Edition",
+      "publisher": "room6",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-19T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-19",
+      "releaseAt": null,
+      "price": 8.79,
+      "originalPrice": 10.99,
+      "currency": "USD",
+      "offer": {
+        "scope": "public",
+        "price": 8.79,
+        "originalPrice": 10.99,
+        "discountPercent": 20.0,
+        "startsAt": null,
+        "endsAt": "2026-12-03T07:59:59Z",
+        "endsAtRaw": null
+      },
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/reverie-in-the-moonlight-nintendo-switch-2-edition-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000126956/c4d6f1db09d23fff34e5137366be63440bc48397de970dbf9232a602e6b9d825",
+      "versions": [
+        {
+          "key": "70010000126956",
+          "id": "70010000126956",
+          "title": "Reverie in the Moonlight – Nintendo Switch™ 2 Edition",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/reverie-in-the-moonlight-nintendo-switch-2-edition-switch-2/",
+          "price": 8.79,
+          "originalPrice": 10.99,
+          "offer": {
+            "scope": "public",
+            "price": 8.79,
+            "originalPrice": 10.99,
+            "discountPercent": 20.0,
+            "startsAt": null,
+            "endsAt": "2026-12-03T07:59:59Z",
+            "endsAtRaw": null
+          },
           "memberOffer": null
         }
       ]
@@ -1062,6 +1094,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/trine-6-together-in-time-switch-2/",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000099813",
+      "id": "70010000099813",
+      "conceptId": null,
+      "region": "us",
+      "title": "007 First Light - Deluxe Edition",
+      "edition": "Standard Edition",
+      "publisher": "IO Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-03-18T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-18",
+      "releaseAt": null,
+      "price": 69.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/007-first-light-deluxe-edition-switch-2/",
+      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/793b8a6a126e4b92be8e5433879c1e2a_1024",
+      "versions": [
+        {
+          "key": "70010000099813",
+          "id": "70010000099813",
+          "title": "007 First Light - Deluxe Edition",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/007-first-light-deluxe-edition-switch-2/",
+          "price": 69.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
