@@ -5,120 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-25T03:05:43+09:00",
+  "updatedAt": "2026-10-26T03:23:24+09:00",
   "status": "success",
-  "gameCount": 63,
+  "gameCount": 61,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 74,
-    "productPages": 74,
+    "candidateCount": 72,
+    "productPages": 72,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "UB0289-PPSA38219_00-0832989115896074",
-      "id": "UB0289-PPSA38219_00-0832989115896074",
-      "conceptId": "10010699",
-      "region": "jp",
-      "title": "SURI: The Seventh Note Digital Deluxe Edition",
-      "edition": "Digital Deluxe Edition",
-      "publisher": "Tathvamasi Studios Private Limited",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/26",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-26",
-      "releaseAt": "2026-10-26T15:00:00+00:00",
-      "price": 3960.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 3168.0,
-        "originalPrice": 3960.0,
-        "discountPercent": 20.0,
-        "startsAt": null,
-        "endsAt": "2026-10-29T15:00:00.000Z",
-        "endsAtRaw": "2026-10-29T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/UB0289-PPSA38219_00-0832989115896074",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8a8a29b9ad103c8c6c02d2dbc30e561bb0c9f5feb2792040.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB0289-PPSA38219_00-0832989115896074",
-          "id": "UB0289-PPSA38219_00-0832989115896074",
-          "title": "SURI: The Seventh Note Digital Deluxe Edition",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/ja-jp/product/UB0289-PPSA38219_00-0832989115896074",
-          "price": 3960.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 3168.0,
-            "originalPrice": 3960.0,
-            "discountPercent": 20.0,
-            "startsAt": null,
-            "endsAt": "2026-10-29T15:00:00.000Z",
-            "endsAtRaw": "2026-10-29T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8bed547c06f36fdfacf4603fb1684726a625ae98de51fa7a.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0536-PPSA26654_00-DDXEDITION000000",
-      "id": "JP0536-PPSA26654_00-DDXEDITION000000",
-      "conceptId": "10012984",
-      "region": "jp",
-      "title": "アノマリス／ANOMALITH デジタルデラックスエディション",
-      "edition": "デジタルデラックスエディション",
-      "publisher": "フリュー株式会社",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/26",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-26",
-      "releaseAt": "2026-10-26T15:00:00+00:00",
-      "price": 12100.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 10890.0,
-        "originalPrice": 12100.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-28T15:00:00.000Z",
-        "endsAtRaw": "2026-10-28T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/JP0536-PPSA26654_00-DDXEDITION000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2707/6508d2386e1630634a813ecf4a5b5415ac9d015e87032954.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0536-PPSA26654_00-DDXEDITION000000",
-          "id": "JP0536-PPSA26654_00-DDXEDITION000000",
-          "title": "アノマリス／ANOMALITH デジタルデラックスエディション",
-          "edition": "デジタルデラックスエディション",
-          "url": "https://store.playstation.com/ja-jp/product/JP0536-PPSA26654_00-DDXEDITION000000",
-          "price": 12100.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 10890.0,
-            "originalPrice": 12100.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-28T15:00:00.000Z",
-            "endsAtRaw": "2026-10-28T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
-    },
     {
       "key": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
       "id": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
