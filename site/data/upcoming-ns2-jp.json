@@ -5,9 +5,9 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-26T03:22:09+09:00",
+  "updatedAt": "2026-10-27T05:26:23+09:00",
   "status": "success",
-  "gameCount": 105,
+  "gameCount": 103,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
@@ -16,74 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000134743",
-      "id": "70010000134743",
-      "conceptId": null,
-      "region": "jp",
-      "title": "BURGGEIST for Nintendo Switch 2",
-      "edition": null,
-      "publisher": "グリーアンスタジオ",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": null,
-      "price": 1500.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134743",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6468c12cfb25534da8a65d5004ed1f5ab732846ac0acd4a31f4ce1215f48166d.jpg",
-      "versions": [
-        {
-          "key": "70010000134743",
-          "id": "70010000134743",
-          "title": "BURGGEIST for Nintendo Switch 2",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000134743",
-          "price": 1500.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000122120",
-      "id": "70010000122120",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Fangtopia 幽玄ユートピア",
-      "edition": null,
-      "publisher": "Secret Mode",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": null,
-      "price": 1700.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122120",
-      "image": "https://img-eshop.cdn.nintendo.net/i/59f820b88d31c7ae382dd95c86f97aa8ba1f2037141fad2e4e6345064ff91c06.jpg",
-      "versions": [
-        {
-          "key": "70010000122120",
-          "id": "70010000122120",
-          "title": "Fangtopia 幽玄ユートピア",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000122120",
-          "price": 1700.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000131088",
       "id": "70010000131088",

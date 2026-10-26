@@ -5,53 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-26T03:23:24+09:00",
+  "updatedAt": "2026-10-27T05:27:56+09:00",
   "status": "success",
-  "gameCount": 61,
+  "gameCount": 60,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 72,
-    "productPages": 72,
+    "candidateCount": 71,
+    "productPages": 71,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-      "id": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-      "conceptId": "10009612",
-      "region": "jp",
-      "title": "Farming Simulator 25: Beans & Alpacas Edition",
-      "edition": "FS25: Beans & Alpacas Ed.",
-      "publisher": "Giants Software GmbH",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": "2026-10-27T13:00:00+00:00",
-      "price": 7700.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP4399-PPSA19644_00-BEANSALPACASEDIT",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1215/551ea9076a5798ff88c77ce67878f52a69910c09fbd8bca7.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-          "id": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-          "title": "Farming Simulator 25: Beans & Alpacas Edition",
-          "edition": "FS25: Beans & Alpacas Ed.",
-          "url": "https://store.playstation.com/ja-jp/product/EP4399-PPSA19644_00-BEANSALPACASEDIT",
-          "price": 7700.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1215/32f41718fe40140b831d0e5fb19c0ad8b08e9bf1f1ba61cf.png?w=160&thumb=false"
-    },
     {
       "key": "EP1833-PPSA02391_00-DUNEAWAKENING000",
       "id": "EP1833-PPSA02391_00-DUNEAWAKENING000",
