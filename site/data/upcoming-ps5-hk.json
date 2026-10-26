@@ -5,69 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-26T02:49:12+08:00",
+  "updatedAt": "2026-10-27T04:58:05+08:00",
   "status": "success",
-  "gameCount": 64,
+  "gameCount": 63,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 76,
-    "productPages": 76,
+    "candidateCount": 75,
+    "productPages": 75,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "UB0289-PPSA38219_00-0832989115896074",
-      "id": "UB0289-PPSA38219_00-0832989115896074",
-      "conceptId": "10010699",
-      "region": "hk",
-      "title": "SURI: The Seventh Note Digital Deluxe Edition (簡體中文, 英文, 泰文, 日文)",
-      "edition": "Digital Deluxe Edition",
-      "publisher": "Tathvamasi Studios Private Limited",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-26",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-26",
-      "releaseAt": "2026-10-26T16:00:00+00:00",
-      "price": 198.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 158.4,
-        "originalPrice": 198.0,
-        "discountPercent": 20.0,
-        "startsAt": null,
-        "endsAt": "2026-10-29T16:00:00.000Z",
-        "endsAtRaw": "2026-10-29T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/UB0289-PPSA38219_00-0832989115896074",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8a8a29b9ad103c8c6c02d2dbc30e561bb0c9f5feb2792040.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB0289-PPSA38219_00-0832989115896074",
-          "id": "UB0289-PPSA38219_00-0832989115896074",
-          "title": "SURI: The Seventh Note Digital Deluxe Edition (簡體中文, 英文, 泰文, 日文)",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UB0289-PPSA38219_00-0832989115896074",
-          "price": 198.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 158.4,
-            "originalPrice": 198.0,
-            "discountPercent": 20.0,
-            "startsAt": null,
-            "endsAt": "2026-10-29T16:00:00.000Z",
-            "endsAtRaw": "2026-10-29T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8bed547c06f36fdfacf4603fb1684726a625ae98de51fa7a.png?w=160&thumb=false"
-    },
     {
       "key": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
       "id": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
@@ -369,7 +318,7 @@
       "id": "HP5846-PPSA37954_00-PJALICEDDX000000",
       "conceptId": "10019084",
       "region": "hk",
-      "title": "慟哭幽光／CRYMELIGHT 豪華版 (中日英韓文版)",
+      "title": "慟哭幽光／CRYMELIGHT 豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
       "edition": "豪華版",
       "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
       "platform": "ps5",
@@ -396,7 +345,7 @@
         {
           "key": "HP5846-PPSA37954_00-PJALICEDDX000000",
           "id": "HP5846-PPSA37954_00-PJALICEDDX000000",
-          "title": "慟哭幽光／CRYMELIGHT 豪華版 (中日英韓文版)",
+          "title": "慟哭幽光／CRYMELIGHT 豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": "豪華版",
           "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA37954_00-PJALICEDDX000000",
           "price": 280.0,
