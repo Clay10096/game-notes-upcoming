@@ -5,69 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-26T07:02:50-07:00",
+  "updatedAt": "2026-10-27T06:04:59-07:00",
   "status": "success",
-  "gameCount": 93,
+  "gameCount": 95,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 127,
-    "productPages": 173,
+    "candidateCount": 129,
+    "productPages": 175,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "UP2777-PPSA29381_00-DDXEDITION000000",
-      "id": "UP2777-PPSA29381_00-DDXEDITION000000",
-      "conceptId": "10012984",
-      "region": "us",
-      "title": "ANOMALITH Digital Deluxe Edition",
-      "edition": "Digital Deluxe Edition",
-      "publisher": "FURYU CORP.",
-      "platform": "ps5",
-      "releaseDateRaw": "10/26/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-26",
-      "releaseAt": "2026-10-26T15:00:00+00:00",
-      "price": 69.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 62.99,
-        "originalPrice": 69.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-28T15:00:00.000Z",
-        "endsAtRaw": "2026-10-28T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/UP2777-PPSA29381_00-DDXEDITION000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2707/af7e539bc20246ece6f68d6b8c01e664c7db361c9da9de67.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP2777-PPSA29381_00-DDXEDITION000000",
-          "id": "UP2777-PPSA29381_00-DDXEDITION000000",
-          "title": "ANOMALITH Digital Deluxe Edition",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/UP2777-PPSA29381_00-DDXEDITION000000",
-          "price": 69.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 62.99,
-            "originalPrice": 69.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-28T15:00:00.000Z",
-            "endsAtRaw": "2026-10-28T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
-    },
     {
       "key": "e5a95e5aac2a7ca776a1",
       "id": null,
@@ -104,57 +53,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/de2e5641fda9680d459dd86adac160820d02d2f2268c2d85.png?w=160&thumb=false"
     },
     {
-      "key": "UB0289-PPSA38219_00-0832989115896074",
-      "id": "UB0289-PPSA38219_00-0832989115896074",
-      "conceptId": "10010699",
-      "region": "us",
-      "title": "SURI: The Seventh Note Digital Deluxe Edition",
-      "edition": "Digital Deluxe Edition",
-      "publisher": "Tathvamasi Studios Private Limited",
-      "platform": "ps5",
-      "releaseDateRaw": "10/27/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": "2026-10-27T04:00:00+00:00",
-      "price": 24.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 19.99,
-        "originalPrice": 24.99,
-        "discountPercent": 20.0,
-        "startsAt": null,
-        "endsAt": "2026-10-30T04:00:00.000Z",
-        "endsAtRaw": "2026-10-30T04:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/UB0289-PPSA38219_00-0832989115896074",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8a8a29b9ad103c8c6c02d2dbc30e561bb0c9f5feb2792040.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB0289-PPSA38219_00-0832989115896074",
-          "id": "UB0289-PPSA38219_00-0832989115896074",
-          "title": "SURI: The Seventh Note Digital Deluxe Edition",
-          "edition": "Digital Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/UB0289-PPSA38219_00-0832989115896074",
-          "price": 24.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 19.99,
-            "originalPrice": 24.99,
-            "discountPercent": 20.0,
-            "startsAt": null,
-            "endsAt": "2026-10-30T04:00:00.000Z",
-            "endsAtRaw": "2026-10-30T04:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8bed547c06f36fdfacf4603fb1684726a625ae98de51fa7a.png?w=160&thumb=false"
-    },
-    {
       "key": "a134a04a6931590121cd",
       "id": null,
       "conceptId": "10018028",
@@ -163,7 +61,7 @@
       "edition": null,
       "publisher": "RAW FURY",
       "platform": "ps5",
-      "releaseDateRaw": "10/27/2026 03:00 PM UTC",
+      "releaseDateRaw": "2026-10-27",
       "datePrecision": "day",
       "releaseDate": "2026-10-27",
       "releaseAt": "2026-10-27T15:00:00+00:00",
@@ -188,41 +86,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/2c6841eef889ad17e2417cb46d93d3d50ca58fdfe0386c31.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "da1554c7695d0b4b0a1d",
-      "id": null,
-      "conceptId": "10015979",
-      "region": "us",
-      "title": "Village in the Shade",
-      "edition": null,
-      "publisher": "NIS America Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": "2026-10-27T13:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10015979",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/fb87870937681c3af9cd06e3ae4de8b8c4ece460764384fc.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "da1554c7695d0b4b0a1d",
-          "id": null,
-          "title": "Village in the Shade",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10015979",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/75a06b05fc345197c29d879260be3c66314723cfd1272ce8.png?w=160&thumb=false"
     },
     {
       "key": "UP2777-PPSA29381_00-0000000000000000",
@@ -274,6 +137,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
+    },
+    {
+      "key": "8162e2f40bbbdc1c6798",
+      "id": null,
+      "conceptId": "10021120",
+      "region": "us",
+      "title": "eXcise",
+      "edition": null,
+      "publisher": "Wild Sphere S.L.",
+      "platform": "ps5",
+      "releaseDateRaw": "2026-10-28",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-28",
+      "releaseAt": "2026-10-28T07:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10021120",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1314/7cfd866ed10e1a56f78a492316b1c832fac0f9b1764ede3b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "8162e2f40bbbdc1c6798",
+          "id": null,
+          "title": "eXcise",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10021120",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1314/94098822dfe0df93aa988c582dbf01e3df090a37ce08e6f8.jpg?w=160&thumb=false"
     },
     {
       "key": "dae46058b4b4943ec056",
@@ -600,6 +498,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2713/bec1ed88b804fec9887f9d15a853d8c2bf2628d84c3819b2.png?w=160&thumb=false"
+    },
+    {
+      "key": "91c04daebf72ff65f50c",
+      "id": null,
+      "conceptId": "10019122",
+      "region": "us",
+      "title": "The Zibbo Show",
+      "edition": null,
+      "publisher": "TESSERA STUDIOS SL",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 11:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T11:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019122",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1610/de756c814579ff82e782d06413c6963c6b0ebe194b1423b5.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "91c04daebf72ff65f50c",
+          "id": null,
+          "title": "The Zibbo Show",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019122",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0109/dda54f734d9fff7f6ca6fb031e98e34a5e446eda6448a126.jpg?w=160&thumb=false"
     },
     {
       "key": "586706c5edb78a71e1a4",
@@ -1138,6 +1071,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/61fce1b12c65e7238a5250535c132def2e6f8dda7fe5d7c8.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "3541c52a08a7a566bdfd",
+      "id": null,
+      "conceptId": "10019729",
+      "region": "us",
+      "title": "Where the Seeds Fall",
+      "edition": null,
+      "publisher": "Cygames, Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/5/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": "2026-11-05T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019729",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0308/cb390cece59469c750236d52fe97781bce765cf63695b538.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "3541c52a08a7a566bdfd",
+          "id": null,
+          "title": "Where the Seeds Fall",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019729",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0308/d76b789fe9d351603a14d2e4fa5b7da6d5c3320d418c7533.jpg?w=160&thumb=false"
     },
     {
       "key": "337b387fb6f377882e20",
@@ -3241,6 +3209,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0806/d6722a147cefc055bac2846bb7061e7853ebb955a9d851dd.png?w=160&thumb=false"
     },
     {
+      "key": "547e04f688740ec2cb1e",
+      "id": null,
+      "conceptId": "10016943",
+      "region": "us",
+      "title": "BrokenLore: ASCEND",
+      "edition": null,
+      "publisher": "SOFT SOURCE PTE LTD",
+      "platform": "ps5",
+      "releaseDateRaw": "1/2027",
+      "datePrecision": "season",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10016943",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2321/ef293ada2bfd89d680ef6edd10ce79f24a2ff5328fe815a1.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "547e04f688740ec2cb1e",
+          "id": null,
+          "title": "BrokenLore: ASCEND",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10016943",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2321/0f8d965384859ca103e9b2a1947616545b9a89b617ce6726.jpg?w=160&thumb=false"
+    },
+    {
       "key": "0a09e878a6937d40db05",
       "id": null,
       "conceptId": "10019949",
@@ -3624,6 +3627,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1310/824967de0e154cc60339abde1f71c94f191c9b8a7c33ea37.png?w=160&thumb=false"
+    },
+    {
+      "key": "e18cc5a98a04de4fd416",
+      "id": null,
+      "conceptId": "10018837",
+      "region": "us",
+      "title": "Worship",
+      "edition": null,
+      "publisher": "Chasing Rats Games Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018837",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3121/cda1056da79de6ed86a4d730d3911b6690180212e739c9d0.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "e18cc5a98a04de4fd416",
+          "id": null,
+          "title": "Worship",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018837",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0713/f982fd118c3aebf67c6ca47967798d814997fa3cf6fe3265.jpg?w=160&thumb=false"
     },
     {
       "key": "c3a27ee7d962b4e5c8de",
