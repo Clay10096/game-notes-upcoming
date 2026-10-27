@@ -5,53 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-27T04:58:05+08:00",
+  "updatedAt": "2026-10-28T04:31:29+08:00",
   "status": "success",
-  "gameCount": 63,
+  "gameCount": 62,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 75,
-    "productPages": 75,
+    "candidateCount": 74,
+    "productPages": 74,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-      "id": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-      "conceptId": "10009612",
-      "region": "hk",
-      "title": "Farming Simulator 25: Beans & Alpacas Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "FS25: Beans & Alpacas Ed.",
-      "publisher": "Giants Software GmbH",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": "2026-10-27T13:00:00+00:00",
-      "price": 408.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP4399-PPSA19644_00-BEANSALPACASEDIT",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1215/551ea9076a5798ff88c77ce67878f52a69910c09fbd8bca7.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-          "id": "EP4399-PPSA19644_00-BEANSALPACASEDIT",
-          "title": "Farming Simulator 25: Beans & Alpacas Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "FS25: Beans & Alpacas Ed.",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP4399-PPSA19644_00-BEANSALPACASEDIT",
-          "price": 408.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1215/32f41718fe40140b831d0e5fb19c0ad8b08e9bf1f1ba61cf.png?w=160&thumb=false"
-    },
     {
       "key": "HP5846-PPSA33879_00-0000000000000000",
       "id": "HP5846-PPSA33879_00-0000000000000000",
