@@ -5,104 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-27T05:27:56+09:00",
+  "updatedAt": "2026-10-28T05:03:21+09:00",
   "status": "success",
-  "gameCount": 60,
+  "gameCount": 58,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 71,
-    "productPages": 71,
+    "candidateCount": 69,
+    "productPages": 69,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP1833-PPSA02391_00-DUNEAWAKENING000",
-      "id": "EP1833-PPSA02391_00-DUNEAWAKENING000",
-      "conceptId": "10001899",
-      "region": "jp",
-      "title": "Dune: Awakening デューン：アウェイクニング",
-      "edition": "スタンダード版",
-      "publisher": "株式会社スパイク・チュンソフト",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/28",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-28",
-      "releaseAt": "2026-10-28T15:00:00+00:00",
-      "price": 6380.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP1833-PPSA02391_00-DUNEAWAKENING000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2217/75f286257d3bb13d542cdbda1637b6aa12f8662cc9fb307c.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP1833-PPSA02391_00-DUNEAWAKENING000",
-          "id": "EP1833-PPSA02391_00-DUNEAWAKENING000",
-          "title": "Dune: Awakening デューン：アウェイクニング",
-          "edition": "スタンダード版",
-          "url": "https://store.playstation.com/ja-jp/product/EP1833-PPSA02391_00-DUNEAWAKENING000",
-          "price": 6380.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0908/cbe27d6e923d90b48aae9198e68b6a2a22195e75c6376846.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0536-PPSA26654_00-0000000000000000",
-      "id": "JP0536-PPSA26654_00-0000000000000000",
-      "conceptId": "10012984",
-      "region": "jp",
-      "title": "アノマリス／ANOMALITH",
-      "edition": "スタンダードエディション",
-      "publisher": "フリュー株式会社",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/10/28",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-28",
-      "releaseAt": "2026-10-28T15:00:00+00:00",
-      "price": 8580.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 7722.0,
-        "originalPrice": 8580.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-28T15:00:00.000Z",
-        "endsAtRaw": "2026-10-28T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/JP0536-PPSA26654_00-0000000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/f252a8a5acb5563544927321379d61a508138ee5e0958590.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0536-PPSA26654_00-0000000000000000",
-          "id": "JP0536-PPSA26654_00-0000000000000000",
-          "title": "アノマリス／ANOMALITH",
-          "edition": "スタンダードエディション",
-          "url": "https://store.playstation.com/ja-jp/product/JP0536-PPSA26654_00-0000000000000000",
-          "price": 8580.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 7722.0,
-            "originalPrice": 8580.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-28T15:00:00.000Z",
-            "endsAtRaw": "2026-10-28T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
-    },
     {
       "key": "EP6665-PPSA23129_00-HS30000000000000",
       "id": "EP6665-PPSA23129_00-HS30000000000000",
