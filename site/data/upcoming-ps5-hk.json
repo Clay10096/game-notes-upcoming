@@ -5,7 +5,7 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-28T04:31:29+08:00",
+  "updatedAt": "2026-10-29T04:52:55+08:00",
   "status": "success",
   "gameCount": 62,
   "source": {
@@ -17,76 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "HP5846-PPSA33879_00-0000000000000000",
-      "id": "HP5846-PPSA33879_00-0000000000000000",
-      "conceptId": "10012984",
-      "region": "hk",
-      "title": "異界揭蹤／ANOMALITH (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "一般版",
-      "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-28",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-28",
-      "releaseAt": "2026-10-28T16:00:00+00:00",
-      "price": 350.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 315.0,
-        "originalPrice": 350.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-10-28T16:00:00.000Z",
-        "endsAtRaw": "2026-10-28T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA33879_00-0000000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2809/48e833a918b83f145e5182fb9256dda4f2a8c58dcb4bcdf8.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP5846-PPSA33879_00-0000000000000000",
-          "id": "HP5846-PPSA33879_00-0000000000000000",
-          "title": "異界揭蹤／ANOMALITH (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "一般版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA33879_00-0000000000000000",
-          "price": 350.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 315.0,
-            "originalPrice": 350.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-28T16:00:00.000Z",
-            "endsAtRaw": "2026-10-28T16:00:00.000Z"
-          }
-        },
-        {
-          "key": "HP5846-PPSA33879_00-DDXEDITION000000",
-          "id": "HP5846-PPSA33879_00-DDXEDITION000000",
-          "title": "異界揭蹤／ANOMALITH 數位豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "數位豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA33879_00-DDXEDITION000000",
-          "price": 490.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 441.0,
-            "originalPrice": 490.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-10-28T16:00:00.000Z",
-            "endsAtRaw": "2026-10-28T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2809/9e46096bfc048b23d15f26fb0c72c6799b2ac838301892db.jpg?w=160&thumb=false"
-    },
     {
       "key": "EP6665-PPSA23129_00-HS30000000000000",
       "id": "EP6665-PPSA23129_00-HS30000000000000",
@@ -334,7 +264,7 @@
       "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
       "conceptId": "10014443",
       "region": "hk",
-      "title": "The Slormancer (中日英韓文版)",
+      "title": "The Slormancer (簡體中文, 韓文, 英文, 繁體中文, 日文)",
       "edition": "Deluxe",
       "publisher": "Dear Villagers",
       "platform": "ps5",
@@ -361,7 +291,7 @@
         {
           "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
           "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "title": "The Slormancer (中日英韓文版)",
+          "title": "The Slormancer (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": "Deluxe",
           "url": "https://store.playstation.com/zh-hant-hk/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
           "price": 238.0,
@@ -1264,6 +1194,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2303/bd11fd157a51a1e2bfa15ff04791b13ff19f7f3e8c42859b.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP4389-PPSA18023_00-TITANQUEST02GAME",
+      "id": "EP4389-PPSA18023_00-TITANQUEST02GAME",
+      "conceptId": "10009012",
+      "region": "hk",
+      "title": "Titan Quest II (中英韓文版)",
+      "edition": "Standard",
+      "publisher": "THQ NORDIC GAMES GMBH",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-01-15",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-15",
+      "releaseAt": "2027-01-15T14:00:00+00:00",
+      "price": 468.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP4389-PPSA18023_00-TITANQUEST02GAME",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/8b2be4e05cfe52c2e8035faf27b918cb9af8c89387c495ab.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4389-PPSA18023_00-TITANQUEST02GAME",
+          "id": "EP4389-PPSA18023_00-TITANQUEST02GAME",
+          "title": "Titan Quest II (中英韓文版)",
+          "edition": "Standard",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP4389-PPSA18023_00-TITANQUEST02GAME",
+          "price": 468.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "EP4389-PPSA18023_00-TITANQUEST02ULTI",
+          "id": "EP4389-PPSA18023_00-TITANQUEST02ULTI",
+          "title": "Titan Quest II - Ultimate Edition (簡體中文, 韓文, 英文, 日文)",
+          "edition": "Ultimate Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP4389-PPSA18023_00-TITANQUEST02ULTI",
+          "price": 638.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/5a825a5d01d67f82329a868e9583f6aa20a8698946e2018a.jpg?w=160&thumb=false"
     },
     {
       "key": "JP5784-PPSA34054_00-WSDELUXEEDITION0",
