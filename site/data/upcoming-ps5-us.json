@@ -5,88 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-27T06:04:59-07:00",
+  "updatedAt": "2026-10-28T06:56:07-07:00",
   "status": "success",
-  "gameCount": 95,
+  "gameCount": 101,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 129,
-    "productPages": 175,
+    "candidateCount": 135,
+    "productPages": 181,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "e5a95e5aac2a7ca776a1",
-      "id": null,
-      "conceptId": "10018448",
-      "region": "us",
-      "title": "Remothered: Red Nun's Legacy",
-      "edition": null,
-      "publisher": "STORMIND GAMES",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": "2026-10-27T14:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018448",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/24506d1634bf32d5ce835d705e0cd6c7c95fa5714897fb6b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "e5a95e5aac2a7ca776a1",
-          "id": null,
-          "title": "Remothered: Red Nun's Legacy",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018448",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/de2e5641fda9680d459dd86adac160820d02d2f2268c2d85.png?w=160&thumb=false"
-    },
-    {
-      "key": "a134a04a6931590121cd",
-      "id": null,
-      "conceptId": "10018028",
-      "region": "us",
-      "title": "The Séance of Blake Manor",
-      "edition": null,
-      "publisher": "RAW FURY",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-27",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-27",
-      "releaseAt": "2026-10-27T15:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018028",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0108/6f31883f26b5dcaf7ca6ac75a39fbbd4a3e9774875f23f48.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "a134a04a6931590121cd",
-          "id": null,
-          "title": "The Séance of Blake Manor",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018028",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/2c6841eef889ad17e2417cb46d93d3d50ca58fdfe0386c31.jpg?w=160&thumb=false"
-    },
     {
       "key": "UP2777-PPSA29381_00-0000000000000000",
       "id": "UP2777-PPSA29381_00-0000000000000000",
@@ -137,41 +67,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2706/471d694c53d4acf22d30802717f31550ef76587a81072f61.png?w=160&thumb=false"
-    },
-    {
-      "key": "8162e2f40bbbdc1c6798",
-      "id": null,
-      "conceptId": "10021120",
-      "region": "us",
-      "title": "eXcise",
-      "edition": null,
-      "publisher": "Wild Sphere S.L.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-28",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-28",
-      "releaseAt": "2026-10-28T07:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10021120",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1314/7cfd866ed10e1a56f78a492316b1c832fac0f9b1764ede3b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "8162e2f40bbbdc1c6798",
-          "id": null,
-          "title": "eXcise",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10021120",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1314/94098822dfe0df93aa988c582dbf01e3df090a37ce08e6f8.jpg?w=160&thumb=false"
     },
     {
       "key": "dae46058b4b4943ec056",
@@ -322,7 +217,7 @@
       "edition": null,
       "publisher": "Fulqrum Publishing Ltd.",
       "platform": "ps5",
-      "releaseDateRaw": "10/29/2026 09:00 AM UTC",
+      "releaseDateRaw": "2026-10-29",
       "datePrecision": "day",
       "releaseDate": "2026-10-29",
       "releaseAt": "2026-10-29T09:00:00+00:00",
@@ -347,6 +242,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1112/27c83b5510a3773f544b21ef64c6fc3fd84973dd8e160700.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "672e47981a5df4c7bbfd",
+      "id": null,
+      "conceptId": "10015959",
+      "region": "us",
+      "title": "Love: Fall in Death",
+      "edition": null,
+      "publisher": "SNR INTERACTIVE OYUN FILM YAPIMCILIK A.S",
+      "platform": "ps5",
+      "releaseDateRaw": "10/29/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-29",
+      "releaseAt": "2026-10-29T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10015959",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1008/4ca9bbf0a4204a6cf110d6affca1e3f1e5cecd238db2d86a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "672e47981a5df4c7bbfd",
+          "id": null,
+          "title": "Love: Fall in Death",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10015959",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1009/0880e3df4f87137f3b8860bcc4551274ee82f7e081c502e1.png?w=160&thumb=false"
     },
     {
       "key": "UB2134-PPSA34579_00-0622032276386943",
@@ -403,7 +333,7 @@
       "edition": null,
       "publisher": "Curveball Leisure Ltd",
       "platform": "ps5",
-      "releaseDateRaw": "10/29/2026 01:00 PM UTC",
+      "releaseDateRaw": "2026-10-29",
       "datePrecision": "day",
       "releaseDate": "2026-10-29",
       "releaseAt": "2026-10-29T13:00:00+00:00",
@@ -473,7 +403,7 @@
       "edition": null,
       "publisher": "Telltale",
       "platform": "ps5",
-      "releaseDateRaw": "10/29/2026 01:00 PM UTC",
+      "releaseDateRaw": "2026-10-29",
       "datePrecision": "day",
       "releaseDate": "2026-10-29",
       "releaseAt": "2026-10-29T13:00:00+00:00",
@@ -508,7 +438,7 @@
       "edition": null,
       "publisher": "TESSERA STUDIOS SL",
       "platform": "ps5",
-      "releaseDateRaw": "10/29/2026 11:00 AM UTC",
+      "releaseDateRaw": "2026-10-29",
       "datePrecision": "day",
       "releaseDate": "2026-10-29",
       "releaseAt": "2026-10-29T11:00:00+00:00",
@@ -863,7 +793,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/baf360b1f72f1d88b1da64a7f89b20efacfb8be7806f243a.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2213/d44782747eaaebfeac14ca6bfbc24c103fe65057ead6a063.png?w=160&thumb=false"
     },
     {
       "key": "168c2aa4714607cab084",
@@ -1108,6 +1038,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0308/d76b789fe9d351603a14d2e4fa5b7da6d5c3320d418c7533.jpg?w=160&thumb=false"
     },
     {
+      "key": "c3a27ee7d962b4e5c8de",
+      "id": null,
+      "conceptId": "10019536",
+      "region": "us",
+      "title": "Zero Caliber 2 Remastered",
+      "edition": null,
+      "publisher": "XREAL GAMES LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/5/2026 06:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": "2026-11-05T18:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019536",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0715/538894125dde5a240a46207d2ac1f77b3043699556684735.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c3a27ee7d962b4e5c8de",
+          "id": null,
+          "title": "Zero Caliber 2 Remastered",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019536",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0710/d16c65746450f13acbaa142de791722930801589881a176f.png?w=160&thumb=false"
+    },
+    {
       "key": "337b387fb6f377882e20",
       "id": null,
       "conceptId": "10018611",
@@ -1141,6 +1106,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0811/7c5cf689e334a518b19f001c729a8e15a6af47950a572183.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "8d16169d49883540b75d",
+      "id": null,
+      "conceptId": "10020053",
+      "region": "us",
+      "title": "Shelterra the Skyworld",
+      "edition": null,
+      "publisher": "KEMCO",
+      "platform": "ps5",
+      "releaseDateRaw": "11/6/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-06",
+      "releaseAt": "2026-11-06T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020053",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/34a3389873d8402770a0b226d29f410aaa169960eb07fc0e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "8d16169d49883540b75d",
+          "id": null,
+          "title": "Shelterra the Skyworld",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020053",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
     },
     {
       "key": "EP1875-PPSA31341_00-SHREK2REMASTERED",
@@ -1243,6 +1243,111 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
+    },
+    {
+      "key": "c75eca8701c444672393",
+      "id": null,
+      "conceptId": "10020673",
+      "region": "us",
+      "title": "Weed Supermarket Simulator",
+      "edition": null,
+      "publisher": "PlayWay plc",
+      "platform": "ps5",
+      "releaseDateRaw": "11/12/2026 03:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": "2026-11-12T15:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020673",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/0198c1720d05af09be17c85882e7a99903e061a631d3c5ac.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c75eca8701c444672393",
+          "id": null,
+          "title": "Weed Supermarket Simulator",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020673",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/aa87eb0f52131d43852a74e3bdcd6175a527de6a4ffbc48e.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "ee8c6e0b7253caaee8b4",
+      "id": null,
+      "conceptId": "10020649",
+      "region": "us",
+      "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
+      "edition": null,
+      "publisher": "QubicGames S.A.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/13/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-13",
+      "releaseAt": "2026-11-13T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020649",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2613/2d6248f6b3fdc992b7517596802a53e58d88a9e30206370e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "ee8c6e0b7253caaee8b4",
+          "id": null,
+          "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020649",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2613/82b22c18ab3cef76f36223080df01a130c0d1c59f4e21e1f.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "28915c152a02bd96c8f6",
+      "id": null,
+      "conceptId": "10020700",
+      "region": "us",
+      "title": "Moonlight Peaks",
+      "edition": null,
+      "publisher": "Marvelous USA (XSEED)",
+      "platform": "ps5",
+      "releaseDateRaw": "11/17/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-17",
+      "releaseAt": "2026-11-17T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020700",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2623/357514512ffb834eff879420b3b796274f5c797f30d5cd99.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "28915c152a02bd96c8f6",
+          "id": null,
+          "title": "Moonlight Peaks",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020700",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2623/e6c89faa5c9a1f02061b7c9a011c491eea7e64674ae2d3d4.png?w=160&thumb=false"
     },
     {
       "key": "EP2430-PPSA19075_00-0055738142177921",
@@ -1359,6 +1464,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/83c8c965f81890a78c9f4472660adb8748135f5afd1c4acb.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "11b576b9729d6661855f",
+      "id": null,
+      "conceptId": "10017442",
+      "region": "us",
+      "title": "Sunstone of Time",
+      "edition": null,
+      "publisher": "VRKiwi",
+      "platform": "ps5",
+      "releaseDateRaw": "11/25/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-25",
+      "releaseAt": "2026-11-25T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017442",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/32cfab9f47f46946c5f465bff7bcbade4723c10ac6ba17c0.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "11b576b9729d6661855f",
+          "id": null,
+          "title": "Sunstone of Time",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017442",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/0f92124d0fa4d0588f3f227bd5f4f4eef99a0d0018ffca1c.png?w=160&thumb=false"
     },
     {
       "key": "EP1439-PPSA36395_00-0856144322518238",
@@ -1773,6 +1913,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0508/1f01833843313a19cac763d4fe2f98d105dc2b26c6028442.jpg?w=160&thumb=false"
     },
     {
+      "key": "f7ae74e3188f8aa978b3",
+      "id": null,
+      "conceptId": "10019434",
+      "region": "us",
+      "title": "Survival Machine",
+      "edition": null,
+      "publisher": "PlayWay plc",
+      "platform": "ps5",
+      "releaseDateRaw": "12/4/2026 08:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-04",
+      "releaseAt": "2026-12-04T20:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019434",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1009/b67a01aa77a8d2c988913c983686392b29ca74ffcddb5bb6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "f7ae74e3188f8aa978b3",
+          "id": null,
+          "title": "Survival Machine",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019434",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1009/bff644a748d6106cf68a3d93c04a3a951ad9ddc1780bc1f5.jpg?w=160&thumb=false"
+    },
+    {
       "key": "UB0874-PPSA31608_00-0733548018947982",
       "id": "UB0874-PPSA31608_00-0733548018947982",
       "conceptId": "10016017",
@@ -1830,7 +2005,7 @@
       "region": "us",
       "title": "Attack on Titan 3 Digital Deluxe Edition",
       "edition": "Digital Deluxe Edition",
-      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "publisher": "KOEI TECMO America",
       "platform": "ps5",
       "releaseDateRaw": "12/7/2026",
       "datePrecision": "day",
@@ -1910,13 +2085,48 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/d60b4125e0ac3b4d609104010245e800c94ca20e52dfff0e.png?w=160&thumb=false"
     },
     {
+      "key": "0a359b1d7101796b0154",
+      "id": null,
+      "conceptId": "10020634",
+      "region": "us",
+      "title": "Raider Kid and the Ruby Chest",
+      "edition": null,
+      "publisher": "Finite Reflection Studios, LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "12/8/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-08",
+      "releaseAt": "2026-12-08T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020634",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1905/76b2eb18968473cacdc34598f7408f87f78062f8a0af20f6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "0a359b1d7101796b0154",
+          "id": null,
+          "title": "Raider Kid and the Ruby Chest",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020634",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/3015/bb4118f5ee3f8beb19ca13646d8090f8b51e23b396fe27ee.png?w=160&thumb=false"
+    },
+    {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",
       "id": "JP0106-PPSA25406_00-APP052554D424C45",
       "conceptId": "10012189",
       "region": "us",
       "title": "Attack on Titan 3",
       "edition": "Standard Edition",
-      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "publisher": "KOEI TECMO America",
       "platform": "ps5",
       "releaseDateRaw": "12/10/2026",
       "datePrecision": "day",
@@ -1994,6 +2204,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1914/e747e9cd0f70119b0504707fc32c51ad589b26db078b9513.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "ce6b75f79d32f650631d",
+      "id": null,
+      "conceptId": "10014504",
+      "region": "us",
+      "title": "Sturmjäger",
+      "edition": null,
+      "publisher": "Byteproduct GmbH",
+      "platform": "ps5",
+      "releaseDateRaw": "1/14/2027 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-14",
+      "releaseAt": "2027-01-14T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10014504",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2816/0bbfd2934e0beaebf1bcf226e1a4ad49de8a79c9457f07be.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "ce6b75f79d32f650631d",
+          "id": null,
+          "title": "Sturmjäger",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10014504",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2907/d16af7b676dbb3d614218e19878c86d1aba7bef66b655aa8.png?w=160&thumb=false"
     },
     {
       "key": "JP0177-PPSA34972_00-MAINGAME00000000",
@@ -2476,6 +2721,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/e9442a1255d6068c6bbdf323109780442423562bf187afa7.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "b76526a21bcdd067d563",
+      "id": null,
+      "conceptId": "10020938",
+      "region": "us",
+      "title": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction",
+      "edition": null,
+      "publisher": "Clear River Games AB",
+      "platform": "ps5",
+      "releaseDateRaw": "2/4/2027 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": "2027-02-04T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020938",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0711/47ef0a7c213f33488103c29ba0b504c4be64539ebe04bcb7.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "b76526a21bcdd067d563",
+          "id": null,
+          "title": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020938",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0711/be30949a214f6fa5998282bb69489d352ec196a51dc47baa.png?w=160&thumb=false"
     },
     {
       "key": "EP8459-PPSA18995_00-GOZO0000000PS5WW",
@@ -3419,41 +3699,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/685c909160eb95af68b273deec71fd63186ecd56ae9d3d0b.png?w=160&thumb=false"
     },
     {
-      "key": "c68aeeb6021d4c45d24d",
-      "id": null,
-      "conceptId": "10019782",
-      "region": "us",
-      "title": "Frog Sqwad",
-      "edition": null,
-      "publisher": "Panic Stations LTD",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019782",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1215/8669572da9dd700a535a52f94932743997e7e68d10f1c9a4.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c68aeeb6021d4c45d24d",
-          "id": null,
-          "title": "Frog Sqwad",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019782",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1215/4c97be22b4749f11ffbd129c3b5c08fa5ba3e872236ac16b.png?w=160&thumb=false"
-    },
-    {
       "key": "881c773b84deaaf1d463",
       "id": null,
       "conceptId": "10019136",
@@ -3559,13 +3804,13 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/15a171ca86e33d001ecffd6c79623a77f6f9405f5d223b37.jpg?w=160&thumb=false"
     },
     {
-      "key": "8d16169d49883540b75d",
+      "key": "0ce0b7c45be1b0e93799",
       "id": null,
-      "conceptId": "10020053",
+      "conceptId": "10009012",
       "region": "us",
-      "title": "Shelterra the Skyworld",
+      "title": "Titan Quest II",
       "edition": null,
-      "publisher": "KEMCO",
+      "publisher": "THQ Nordic",
       "platform": "ps5",
       "releaseDateRaw": null,
       "datePrecision": "tbd",
@@ -3576,22 +3821,22 @@
       "currency": "USD",
       "offer": null,
       "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020053",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/34a3389873d8402770a0b226d29f410aaa169960eb07fc0e.png?w=160&thumb=false",
+      "url": "https://store.playstation.com/en-us/concept/10009012",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/8b2be4e05cfe52c2e8035faf27b918cb9af8c89387c495ab.png?w=160&thumb=false",
       "versions": [
         {
-          "key": "8d16169d49883540b75d",
+          "key": "0ce0b7c45be1b0e93799",
           "id": null,
-          "title": "Shelterra the Skyworld",
+          "title": "Titan Quest II",
           "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020053",
+          "url": "https://store.playstation.com/en-us/concept/10009012",
           "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/5a825a5d01d67f82329a868e9583f6aa20a8698946e2018a.jpg?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",
@@ -3662,41 +3907,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0713/f982fd118c3aebf67c6ca47967798d814997fa3cf6fe3265.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "c3a27ee7d962b4e5c8de",
-      "id": null,
-      "conceptId": "10019536",
-      "region": "us",
-      "title": "Zero Caliber 2 Remastered",
-      "edition": null,
-      "publisher": "XREAL GAMES LTD.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019536",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0715/538894125dde5a240a46207d2ac1f77b3043699556684735.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c3a27ee7d962b4e5c8de",
-          "id": null,
-          "title": "Zero Caliber 2 Remastered",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019536",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0710/d16c65746450f13acbaa142de791722930801589881a176f.png?w=160&thumb=false"
     },
     {
       "key": "431030da947975720c5a",
