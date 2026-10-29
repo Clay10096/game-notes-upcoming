@@ -5,87 +5,19 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-28T06:52:45-07:00",
+  "updatedAt": "2026-10-29T06:58:38-07:00",
   "status": "success",
-  "gameCount": 28,
+  "gameCount": 30,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
-    "candidateCount": 44,
+    "candidateCount": 37,
     "coverage": "official-curated-page",
     "notes": [
       "美服来源为任天堂公开的 Coming Soon 精选页，可能不包含全部待发售游戏。"
     ]
   },
   "games": [
-    {
-      "key": "70010000118151",
-      "id": "70010000118151",
-      "conceptId": null,
-      "region": "us",
-      "title": "Hello Kitty Party Land",
-      "edition": "Standard Edition",
-      "publisher": "Bandai Namco Entertainment",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-29T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": null,
-      "price": 49.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/hello-kitty-party-land-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000118151/9586dc80a23d5d9c295c0a235c1e6e3563ad09c8990a4ce5aac37e57ff184e10",
-      "versions": [
-        {
-          "key": "70010000118151",
-          "id": "70010000118151",
-          "title": "Hello Kitty Party Land",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/hello-kitty-party-land-switch-2/",
-          "price": 49.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000127298",
-      "id": "70010000127298",
-      "conceptId": null,
-      "region": "us",
-      "title": "STEINS;GATE RE:BOOT",
-      "edition": "Standard Edition",
-      "publisher": "Spike Chunsoft US",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-29T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": null,
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/930d77fb88b94ee29b01fa2132f85ee1_1024",
-      "versions": [
-        {
-          "key": "70010000127298",
-          "id": "70010000127298",
-          "title": "STEINS;GATE RE:BOOT",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-switch-2/",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000111803",
       "id": "70010000111803",
@@ -323,6 +255,40 @@
       ]
     },
     {
+      "key": "70010000116414",
+      "id": "70010000116414",
+      "conceptId": null,
+      "region": "us",
+      "title": "RACCOIN: Chaos Max Edition",
+      "edition": "Standard Edition",
+      "publisher": "Playstack",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-10T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": null,
+      "price": 11.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/raccoin-chaos-max-edition-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000116414/dbc2c6b289d500c7fe69feb7815db8bacbc3ac82d0d24c96ac64c2e0fc225800",
+      "versions": [
+        {
+          "key": "70010000116414",
+          "id": "70010000116414",
+          "title": "RACCOIN: Chaos Max Edition",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/raccoin-chaos-max-edition-switch-2/",
+          "price": 11.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000101621",
       "id": "70010000101621",
       "conceptId": null,
@@ -368,6 +334,40 @@
             "endsAt": "2026-11-17T07:59:59Z",
             "endsAtRaw": null
           },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000134017",
+      "id": "70010000134017",
+      "conceptId": null,
+      "region": "us",
+      "title": "TANUKI: Pon's Summer",
+      "edition": "Standard Edition",
+      "publisher": "Critical Reflex",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-10T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": null,
+      "price": 19.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/tanuki-pons-summer-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000134017/58a1a117d1f65ca3891fe316e49d891dc950b00dbf5b8c18a41a70be82482a93",
+      "versions": [
+        {
+          "key": "70010000134017",
+          "id": "70010000134017",
+          "title": "TANUKI: Pon's Summer",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/tanuki-pons-summer-switch-2/",
+          "price": 19.99,
+          "originalPrice": null,
+          "offer": null,
           "memberOffer": null
         }
       ]
@@ -436,6 +436,56 @@
           "price": null,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000129965",
+      "id": "70010000129965",
+      "conceptId": null,
+      "region": "us",
+      "title": "Spirit Crossing",
+      "edition": "Standard Edition",
+      "publisher": "Spry Fox",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-16T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-16",
+      "releaseAt": null,
+      "price": 26.99,
+      "originalPrice": 29.99,
+      "currency": "USD",
+      "offer": {
+        "scope": "public",
+        "price": 26.99,
+        "originalPrice": 29.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-21T07:59:59Z",
+        "endsAtRaw": null
+      },
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/spirit-crossing-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000129965/7b863ba10659b47cc2bb8b44b6fe47113bab47e0d118ff3635a81bbc901699ca",
+      "versions": [
+        {
+          "key": "70010000129965",
+          "id": "70010000129965",
+          "title": "Spirit Crossing",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/spirit-crossing-switch-2/",
+          "price": 26.99,
+          "originalPrice": 29.99,
+          "offer": {
+            "scope": "public",
+            "price": 26.99,
+            "originalPrice": 29.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-21T07:59:59Z",
+            "endsAtRaw": null
+          },
           "memberOffer": null
         }
       ]
@@ -518,40 +568,6 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/the-binding-of-isaac-repentance-plus-switch-2/",
           "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000129138",
-      "id": "70010000129138",
-      "conceptId": null,
-      "region": "us",
-      "title": "Marupoyo: The Round Chick's Adventure",
-      "edition": "Standard Edition",
-      "publisher": "Casual Brothers",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-26T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 8.39,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/marupoyo-the-round-chicks-adventure-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c85ce8348d184f528cead820959eb16b_1024",
-      "versions": [
-        {
-          "key": "70010000129138",
-          "id": "70010000129138",
-          "title": "Marupoyo: The Round Chick's Adventure",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/marupoyo-the-round-chicks-adventure-switch-2/",
-          "price": 8.39,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -795,33 +811,33 @@
       ]
     },
     {
-      "key": "70010000136192",
-      "id": "70010000136192",
+      "key": "70010000136264",
+      "id": "70010000136264",
       "conceptId": null,
       "region": "us",
-      "title": "Spyder: Agent 8",
+      "title": "Witchbrook",
       "edition": "Standard Edition",
-      "publisher": "PQube",
+      "publisher": "Chucklefish",
       "platform": "switch2",
-      "releaseDateRaw": "2027-02-11T00:00:00.000Z",
+      "releaseDateRaw": "2027-01-28T00:00:00.000Z",
       "datePrecision": "day",
-      "releaseDate": "2027-02-11",
+      "releaseDate": "2027-01-28",
       "releaseAt": null,
-      "price": 12.99,
+      "price": null,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
       "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/spyder-agent-8-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000136192/9825a9bcbd33fa7d99e7c4237dd6f3bf309ea2a578422a31c088e0c4afb0532f",
+      "url": "https://www.nintendo.com/us/store/products/witchbrook-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000136264/2e50db42a9b285da6f7aaf401845cbf4fe5f99cf0f1c8d55c4b8de1fe3883153",
       "versions": [
         {
-          "key": "70010000136192",
-          "id": "70010000136192",
-          "title": "Spyder: Agent 8",
+          "key": "70010000136264",
+          "id": "70010000136264",
+          "title": "Witchbrook",
           "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/spyder-agent-8-switch-2/",
-          "price": 12.99,
+          "url": "https://www.nintendo.com/us/store/products/witchbrook-switch-2/",
+          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -999,6 +1015,40 @@
       ]
     },
     {
+      "key": "70010000135474",
+      "id": "70010000135474",
+      "conceptId": null,
+      "region": "us",
+      "title": "Petal Runner",
+      "edition": "Standard Edition",
+      "publisher": "iam8bit",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-03-08T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-08",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/petal-runner-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000135474/32186b76909cce51be301d111a919010b9b0d1e4949eee4816a45d68f0f128ed",
+      "versions": [
+        {
+          "key": "70010000135474",
+          "id": "70010000135474",
+          "title": "Petal Runner",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/petal-runner-switch-2/",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000099813",
       "id": "70010000099813",
       "conceptId": null,
@@ -1060,6 +1110,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/final-fantasy-vii-revelation-switch-2/",
           "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000133757",
+      "id": "70010000133757",
+      "conceptId": null,
+      "region": "us",
+      "title": "Haunted Paws",
+      "edition": "Standard Edition",
+      "publisher": "LazyFlock",
+      "platform": "switch2",
+      "releaseDateRaw": "May 2027",
+      "datePrecision": "season",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/haunted-paws-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000133757/b9a71ac36129638f72126597654ad054734aa7322822ae768c6a8f62a2ff9f8a",
+      "versions": [
+        {
+          "key": "70010000133757",
+          "id": "70010000133757",
+          "title": "Haunted Paws",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/haunted-paws-switch-2/",
+          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
