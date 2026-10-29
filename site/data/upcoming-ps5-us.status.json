@@ -1,10 +1,10 @@
 {
   "region": "US",
   "store": "playstation",
-  "status": "failed",
-  "attemptedAt": "2026-10-29T06:58:38-07:00",
-  "completedAt": "2026-10-29T07:00:50-07:00",
-  "lastSuccessAt": "2026-10-28T06:56:07-07:00",
-  "requestCount": 123,
-  "error": "SourceError: PlayStation announced concept became purchasable during scan"
+  "status": "success",
+  "attemptedAt": "2026-10-29T07:14:31-07:00",
+  "completedAt": "2026-10-29T07:17:16-07:00",
+  "lastSuccessAt": "2026-10-29T07:17:16-07:00",
+  "requestCount": 163,
+  "error": null
 }
