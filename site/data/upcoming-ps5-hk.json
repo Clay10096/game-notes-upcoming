@@ -5,14 +5,14 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-29T04:52:55+08:00",
+  "updatedAt": "2026-10-29T14:29:34+08:00",
   "status": "success",
-  "gameCount": 62,
+  "gameCount": 60,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 74,
-    "productPages": 74,
+    "candidateCount": 72,
+    "productPages": 72,
     "coverage": "official-category",
     "notes": []
   },
@@ -88,41 +88,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2609/0a102b57c2c8663d47af865d0ba9d0eef43140b13c9f70d7.jpg?w=160&thumb=false"
     },
     {
-      "key": "UB2134-PPSA34579_00-0679049422108833",
-      "id": "UB2134-PPSA34579_00-0679049422108833",
-      "conceptId": "10017620",
-      "region": "hk",
-      "title": "Phantom Blade Zero Digital Deluxe Edition (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
-      "edition": "數位豪華版",
-      "publisher": "S-GAME Publishing",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T02:00:00+00:00",
-      "price": 398.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UB2134-PPSA34579_00-0679049422108833",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2809/0eb304f7e688453c5f242b77cafdc0843e2f2dadc9364add.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB2134-PPSA34579_00-0679049422108833",
-          "id": "UB2134-PPSA34579_00-0679049422108833",
-          "title": "Phantom Blade Zero Digital Deluxe Edition (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
-          "edition": "數位豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UB2134-PPSA34579_00-0679049422108833",
-          "price": 398.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2809/c8c7fe63c265350da094a3b7ba4637f257f172dc68db1589.png?w=160&thumb=false"
-    },
-    {
       "key": "UB0289-PPSA38219_00-0697163834453593",
       "id": "UB0289-PPSA38219_00-0697163834453593",
       "conceptId": "10010699",
@@ -172,41 +137,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8bed547c06f36fdfacf4603fb1684726a625ae98de51fa7a.png?w=160&thumb=false"
-    },
-    {
-      "key": "UB2134-PPSA34579_00-0622032276386943",
-      "id": "UB2134-PPSA34579_00-0622032276386943",
-      "conceptId": "10017620",
-      "region": "hk",
-      "title": "影之刃零 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
-      "edition": "標準版",
-      "publisher": "S-GAME Publishing",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T02:00:00+00:00",
-      "price": 328.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UB2134-PPSA34579_00-0622032276386943",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/38f9a7f88d666544b895b9ba4fd3431606368bc45b7067e8.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB2134-PPSA34579_00-0622032276386943",
-          "id": "UB2134-PPSA34579_00-0622032276386943",
-          "title": "影之刃零 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
-          "edition": "標準版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UB2134-PPSA34579_00-0622032276386943",
-          "price": 328.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/2153ee57f7955802d94a6722418315637e8fba8f69eaf064.png?w=160&thumb=false"
     },
     {
       "key": "HP5846-PPSA37954_00-PJALICEDDX000000",

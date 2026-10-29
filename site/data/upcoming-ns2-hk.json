@@ -5,17 +5,51 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-29T04:51:24+08:00",
+  "updatedAt": "2026-10-29T14:28:23+08:00",
   "status": "success",
-  "gameCount": 30,
+  "gameCount": 36,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 563,
+    "candidateCount": 577,
     "coverage": "official-lineup",
     "notes": []
   },
   "games": [
+    {
+      "key": "70010000128734",
+      "id": "70010000128734",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Sword of the Sea",
+      "edition": null,
+      "publisher": "Fictions",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-10-30",
+      "datePrecision": "day",
+      "releaseDate": "2026-10-30",
+      "releaseAt": null,
+      "price": 198.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000128734",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001287349a16b568d30b11f19c48db7f88c50ee3/2aa592c59d97bb43bc778faa22542f85/b53578325c55c682427849041d9fed1f4fca7c22553e1d2993e91da452851d14.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000128734",
+          "id": "70010000128734",
+          "title": "Sword of the Sea",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000128734",
+          "price": 198.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
     {
       "key": "70010000133853",
       "id": "70010000133853",
@@ -321,6 +355,74 @@
       ]
     },
     {
+      "key": "70010000134020",
+      "id": "70010000134020",
+      "conceptId": null,
+      "region": "hk",
+      "title": "TANUKI: Pon's Summer",
+      "edition": null,
+      "publisher": "Critical Reflex",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-10",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": null,
+      "price": 99.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000134020",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013402045291b1ad30c11f1ae86ffc36d673ded/2c3766cbe332ccea360d6033947b7022/165baad9f2d71f4f08ddd923fd5fda7fe81476f24227a2ffe3a984a130190e2f.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000134020",
+          "id": "70010000134020",
+          "title": "TANUKI: Pon's Summer",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000134020",
+          "price": 99.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000116417",
+      "id": "70010000116417",
+      "conceptId": null,
+      "region": "hk",
+      "title": "浣熊推幣機: 混沌全開版",
+      "edition": null,
+      "publisher": "Playstack",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-10",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": null,
+      "price": 65.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000116417",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001164177efd5bd1d30b11f1a5c47b0b2de30087/4b96a3b9a1bf58690cb681e3a206da5a/db0f9235be5c93dc4a63298b3a80b0fbb5af354d9fbbd70c4b590cae7cae4c9c.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000116417",
+          "id": "70010000116417",
+          "title": "浣熊推幣機: 混沌全開版",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000116417",
+          "price": 65.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000127821",
       "id": "70010000127821",
       "conceptId": null,
@@ -418,6 +520,56 @@
           "price": 187.0,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000140055",
+      "id": "70010000140055",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Spirit Crossing - 靈渡之境",
+      "edition": null,
+      "publisher": "Spry Fox",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-17",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-17",
+      "releaseAt": null,
+      "price": 154.0,
+      "originalPrice": 172.0,
+      "currency": "HKD",
+      "offer": {
+        "scope": "public",
+        "price": 154.0,
+        "originalPrice": 172.0,
+        "discountPercent": 10.5,
+        "startsAt": "2026-10-28T15:00:00Z",
+        "endsAt": "2026-11-20T15:59:59Z",
+        "endsAtRaw": "2026-11-20T15:59:59Z"
+      },
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000140055",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001400553055a127d30c11f1ad0f3539255001b9/494db50e884870f9473e013912d3937f/121449d545bb9559943db1e6ad9c7dbb7c9fc3add686bce2b544baf08f9c6d30.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000140055",
+          "id": "70010000140055",
+          "title": "Spirit Crossing - 靈渡之境",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000140055",
+          "price": 154.0,
+          "originalPrice": 172.0,
+          "offer": {
+            "scope": "public",
+            "price": 154.0,
+            "originalPrice": 172.0,
+            "discountPercent": 10.5,
+            "startsAt": "2026-10-28T15:00:00Z",
+            "endsAt": "2026-11-20T15:59:59Z",
+            "endsAtRaw": "2026-11-20T15:59:59Z"
+          },
           "memberOffer": null
         }
       ]
@@ -588,6 +740,56 @@
           "price": 398.0,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000118761",
+      "id": "70010000118761",
+      "conceptId": null,
+      "region": "hk",
+      "title": "大反派千金 莉莉的計略",
+      "edition": null,
+      "publisher": "Alliance Arts",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 168.0,
+      "originalPrice": 187.0,
+      "currency": "HKD",
+      "offer": {
+        "scope": "public",
+        "price": 168.0,
+        "originalPrice": 187.0,
+        "discountPercent": 10.2,
+        "startsAt": "2026-10-28T16:00:00Z",
+        "endsAt": "2026-12-16T15:59:59Z",
+        "endsAtRaw": "2026-12-16T15:59:59Z"
+      },
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000118761",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000011876193314dc6d30b11f19de1ffc36d673ded/7a009bf687fddde6c861efdee9c0db47/a61985187e5b60397a85a08671e3523bbce64a4ab34f8cbdfd2de7cf8486e249.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000118761",
+          "id": "70010000118761",
+          "title": "大反派千金 莉莉的計略",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000118761",
+          "price": 168.0,
+          "originalPrice": 187.0,
+          "offer": {
+            "scope": "public",
+            "price": 168.0,
+            "originalPrice": 187.0,
+            "discountPercent": 10.2,
+            "startsAt": "2026-10-28T16:00:00Z",
+            "endsAt": "2026-12-16T15:59:59Z",
+            "endsAtRaw": "2026-12-16T15:59:59Z"
+          },
           "memberOffer": null
         }
       ]
@@ -772,6 +974,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000135074",
           "price": 449.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000136266",
+      "id": "70010000136266",
+      "conceptId": null,
+      "region": "hk",
+      "title": "巫奇魔法學院 Witchbrook",
+      "edition": null,
+      "publisher": "Chucklefish",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-01-28",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-28",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000136266",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000136266e0cd1119d30b11f195c347b5bfab7354/966d64530ce617254e67cc1fb057f65e/fe824024eccdee521074464865f7da48ac4d223854f5c7b0d9b2aebac4392433.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000136266",
+          "id": "70010000136266",
+          "title": "巫奇魔法學院 Witchbrook",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000136266",
+          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
