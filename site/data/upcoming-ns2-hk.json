@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-29T14:28:23+08:00",
+  "updatedAt": "2026-10-30T04:56:38+08:00",
   "status": "success",
-  "gameCount": 36,
+  "gameCount": 35,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,40 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000128734",
-      "id": "70010000128734",
-      "conceptId": null,
-      "region": "hk",
-      "title": "Sword of the Sea",
-      "edition": null,
-      "publisher": "Fictions",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-30",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-30",
-      "releaseAt": null,
-      "price": 198.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000128734",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001287349a16b568d30b11f19c48db7f88c50ee3/2aa592c59d97bb43bc778faa22542f85/b53578325c55c682427849041d9fed1f4fca7c22553e1d2993e91da452851d14.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000128734",
-          "id": "70010000128734",
-          "title": "Sword of the Sea",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000128734",
-          "price": 198.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000133853",
       "id": "70010000133853",
