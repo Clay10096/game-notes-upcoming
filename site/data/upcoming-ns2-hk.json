@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-10-30T04:56:38+08:00",
+  "updatedAt": "2026-10-31T04:32:23+08:00",
   "status": "success",
-  "gameCount": 35,
+  "gameCount": 34,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,40 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000133853",
-      "id": "70010000133853",
-      "conceptId": null,
-      "region": "hk",
-      "title": "Look Outside",
-      "edition": null,
-      "publisher": "Devolver Digital",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-10-31",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-31",
-      "releaseAt": null,
-      "price": 66.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000133853",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000133853d66da60bd0af11f1bc5c592b57784003/5eb8565c0554bdb4b75219ff71c3553a/eb3877a2d3840c7fe2d31a14ae0c910b61067f8ddbeea2fda2bbe6716968ad73.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000133853",
-          "id": "70010000133853",
-          "title": "Look Outside",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000133853",
-          "price": 66.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000131184",
       "id": "70010000131184",
