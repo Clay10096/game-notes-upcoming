@@ -5,192 +5,52 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-29T07:17:16-07:00",
+  "updatedAt": "2026-10-30T06:56:45-07:00",
   "status": "success",
-  "gameCount": 93,
+  "gameCount": 88,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 120,
-    "productPages": 161,
+    "candidateCount": 109,
+    "productPages": 149,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
     {
-      "key": "dae46058b4b4943ec056",
+      "key": "c6b18ba6455f2e291b51",
       "id": null,
-      "conceptId": "10020240",
+      "conceptId": "10020876",
       "region": "us",
-      "title": "Candy Shop Simulator",
+      "title": "Hidden Objects",
       "edition": null,
-      "publisher": "GAMES INCUBATOR S.A.",
+      "publisher": "Q&A Sp. z o.o.",
       "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
+      "releaseDateRaw": "2026-10-30",
       "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T15:00:00+00:00",
+      "releaseDate": "2026-10-30",
+      "releaseAt": "2026-10-30T14:00:00+00:00",
       "price": null,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
       "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020240",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1012/fde3116eb1a2f56572c8ccd08c44764c0e4fd544537a5e37.png?w=160&thumb=false",
+      "url": "https://store.playstation.com/en-us/concept/10020876",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/b0d9ca3991cd212ecdf1473122892a842919091c30282823.png?w=160&thumb=false",
       "versions": [
         {
-          "key": "dae46058b4b4943ec056",
+          "key": "c6b18ba6455f2e291b51",
           "id": null,
-          "title": "Candy Shop Simulator",
+          "title": "Hidden Objects",
           "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020240",
+          "url": "https://store.playstation.com/en-us/concept/10020876",
           "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1012/db529e22bcc8cb68a6acc80bd336a3f25c28c69a9613fced.png?w=160&thumb=false"
-    },
-    {
-      "key": "39ed13c4c3bf9281d05f",
-      "id": null,
-      "conceptId": "10017913",
-      "region": "us",
-      "title": "Croc 2 Kingdom of the Gobbos",
-      "edition": null,
-      "publisher": "Argonaut Games, Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017913",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0211/8b31094052a11b00aa0f866e42afba8a463bdd8b5ea130db.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "39ed13c4c3bf9281d05f",
-          "id": null,
-          "title": "Croc 2 Kingdom of the Gobbos",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017913",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2102/29b893a75855b50e890baa830f8a86cb67369f01223bb34e.png?w=160&thumb=false"
-    },
-    {
-      "key": "586706c5edb78a71e1a4",
-      "id": null,
-      "conceptId": "10020159",
-      "region": "us",
-      "title": "Titanium Court",
-      "edition": null,
-      "publisher": "SURPRISE ATTACK PTY LTD T/A FELLOW TRAVELLER GAMES",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020159",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/ba3b6e520700d20869e4ad54dce9bde8805e6e683a790b9e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "586706c5edb78a71e1a4",
-          "id": null,
-          "title": "Titanium Court",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020159",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/10fabf4fec407477d3ee04bfb955f09b5c52c95189f8c945.png?w=160&thumb=false"
-    },
-    {
-      "key": "878a0375e53f4e22865c",
-      "id": null,
-      "conceptId": "10017585",
-      "region": "us",
-      "title": "Train Yard Builder",
-      "edition": null,
-      "publisher": "ULTIMATE GAMES",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T15:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017585",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/98e0a04f029ae3cb944bbffc144ea60adf28c38b139db3df.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "878a0375e53f4e22865c",
-          "id": null,
-          "title": "Train Yard Builder",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017585",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/5aceb2a0e8c898cbd9dbb222a9b801ce71d925572cb454ff.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "8dc0bab4eb5666db72ca",
-      "id": null,
-      "conceptId": "10015034",
-      "region": "us",
-      "title": "White Box Quiz",
-      "edition": null,
-      "publisher": "Joindots GmbH",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-29",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-29",
-      "releaseAt": "2026-10-29T19:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10015034",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/3014/151fcfdcb5335e423e1706499a0e37f09f3ab7405c708122.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "8dc0bab4eb5666db72ca",
-          "id": null,
-          "title": "White Box Quiz",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10015034",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0211/ad84558fe8fec96fd2a5f20e19008e1b7f7d29485daefcc4.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/e59f82a46ab19613a3888067bd0f09a1bea7ff80d3b3340d.jpg?w=160&thumb=false"
     },
     {
       "key": "6e7ae6ccb6b541a048a0",
@@ -201,7 +61,7 @@
       "edition": null,
       "publisher": "Future Friends Games Limited",
       "platform": "ps5",
-      "releaseDateRaw": "10/30/2026 05:00 PM UTC",
+      "releaseDateRaw": "2026-10-30",
       "datePrecision": "day",
       "releaseDate": "2026-10-30",
       "releaseAt": "2026-10-30T17:00:00+00:00",
@@ -226,92 +86,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/0e877856a6da8220fc13d5bc57e100138a9f4e0a8cfec784.png?w=160&thumb=false"
-    },
-    {
-      "key": "UB0289-PPSA38219_00-0697163834453593",
-      "id": "UB0289-PPSA38219_00-0697163834453593",
-      "conceptId": "10010699",
-      "region": "us",
-      "title": "SURI: The Seventh Note",
-      "edition": "Standard",
-      "publisher": "Tathvamasi Studios Private Limited",
-      "platform": "ps5",
-      "releaseDateRaw": "10/30/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-30",
-      "releaseAt": "2026-10-30T04:00:00+00:00",
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 15.99,
-        "originalPrice": 19.99,
-        "discountPercent": 20.0,
-        "startsAt": null,
-        "endsAt": "2026-10-30T04:00:00.000Z",
-        "endsAtRaw": "2026-10-30T04:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/UB0289-PPSA38219_00-0697163834453593",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8a8a29b9ad103c8c6c02d2dbc30e561bb0c9f5feb2792040.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UB0289-PPSA38219_00-0697163834453593",
-          "id": "UB0289-PPSA38219_00-0697163834453593",
-          "title": "SURI: The Seventh Note",
-          "edition": "Standard",
-          "url": "https://store.playstation.com/en-us/product/UB0289-PPSA38219_00-0697163834453593",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 15.99,
-            "originalPrice": 19.99,
-            "discountPercent": 20.0,
-            "startsAt": null,
-            "endsAt": "2026-10-30T04:00:00.000Z",
-            "endsAtRaw": "2026-10-30T04:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8bed547c06f36fdfacf4603fb1684726a625ae98de51fa7a.png?w=160&thumb=false"
-    },
-    {
-      "key": "588c2dd3592bd2f4f0ba",
-      "id": null,
-      "conceptId": "10013983",
-      "region": "us",
-      "title": "The Cat in the Hat: Rainy Day Mayhem",
-      "edition": null,
-      "publisher": "Outright Games LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-10-30",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-30",
-      "releaseAt": "2026-10-30T04:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10013983",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1114/92a9161eb5369d2ff292efb6aaed6acd0a13f9ee0dbef57a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "588c2dd3592bd2f4f0ba",
-          "id": null,
-          "title": "The Cat in the Hat: Rainy Day Mayhem",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10013983",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/579e58ac88d8f23502cd0bed0dc3c321ec851ca6f69ef777.jpg?w=160&thumb=false"
     },
     {
       "key": "UP2777-PPSA36938_00-PJALICEDDX000000",
@@ -382,6 +156,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2615/056aa16e5eae4340cf46e6df484ed62054ffc9f06ee264e3.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
+      "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
+      "conceptId": "10014443",
+      "region": "us",
+      "title": "The Slormancer",
+      "edition": "Deluxe",
+      "publisher": "Dear Villagers",
+      "platform": "ps5",
+      "releaseDateRaw": "11/3/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-03",
+      "releaseAt": "2026-11-03T14:00:00+00:00",
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 20.99,
+        "originalPrice": 29.99,
+        "discountPercent": 30.0,
+        "startsAt": null,
+        "endsAt": "2026-11-05T19:00:00.000Z",
+        "endsAtRaw": "2026-11-05T19:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/en-us/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0214/6a97977720984ad32b4ceb287903aeb7472fd15fe7a19c78.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
+          "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
+          "title": "The Slormancer",
+          "edition": "Deluxe",
+          "url": "https://store.playstation.com/en-us/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 20.99,
+            "originalPrice": 29.99,
+            "discountPercent": 30.0,
+            "startsAt": null,
+            "endsAt": "2026-11-05T19:00:00.000Z",
+            "endsAtRaw": "2026-11-05T19:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": null
     },
     {
       "key": "e50bdb337ac43ab5127d",
@@ -557,6 +382,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/1390982900e3ec89ee9e90b37c8d8771ae7eabd7786fbec4.png?w=160&thumb=false"
+    },
+    {
+      "key": "f7556df3171ec373e206",
+      "id": null,
+      "conceptId": "10018044",
+      "region": "us",
+      "title": "Forefront",
+      "edition": null,
+      "publisher": "Triangle Factory",
+      "platform": "ps5",
+      "releaseDateRaw": "11/5/2026 10:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": "2026-11-05T10:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018044",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0611/352bcd85c76871203126d8e80f6beaf0f3ec013a9181c30a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "f7556df3171ec373e206",
+          "id": null,
+          "title": "Forefront",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018044",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/685c909160eb95af68b273deec71fd63186ecd56ae9d3d0b.png?w=160&thumb=false"
     },
     {
       "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
@@ -1041,6 +901,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/aa87eb0f52131d43852a74e3bdcd6175a527de6a4ffbc48e.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "881c773b84deaaf1d463",
+      "id": null,
+      "conceptId": "10019136",
+      "region": "us",
+      "title": "Leaf Blower Co.",
+      "edition": null,
+      "publisher": "Forklift Interactive Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/13/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-13",
+      "releaseAt": "2026-11-13T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019136",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2709/e60ac5738b94ba08addcd577a3fa0e6cba27ed0aadc5e34a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "881c773b84deaaf1d463",
+          "id": null,
+          "title": "Leaf Blower Co.",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019136",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/0351cc288464cd31955cef8ffc616ffe2ca576496147ba9e.png?w=160&thumb=false"
     },
     {
       "key": "ee8c6e0b7253caaee8b4",
@@ -3401,76 +3296,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0203/587b5e6a13bc4ef2168cd255d8754e382bd2446618c98033.png?w=160&thumb=false"
-    },
-    {
-      "key": "f7556df3171ec373e206",
-      "id": null,
-      "conceptId": "10018044",
-      "region": "us",
-      "title": "Forefront",
-      "edition": null,
-      "publisher": "Triangle Factory",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018044",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0611/352bcd85c76871203126d8e80f6beaf0f3ec013a9181c30a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "f7556df3171ec373e206",
-          "id": null,
-          "title": "Forefront",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018044",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/685c909160eb95af68b273deec71fd63186ecd56ae9d3d0b.png?w=160&thumb=false"
-    },
-    {
-      "key": "881c773b84deaaf1d463",
-      "id": null,
-      "conceptId": "10019136",
-      "region": "us",
-      "title": "Leaf Blower Co.",
-      "edition": null,
-      "publisher": "Forklift Interactive Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019136",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2709/e60ac5738b94ba08addcd577a3fa0e6cba27ed0aadc5e34a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "881c773b84deaaf1d463",
-          "id": null,
-          "title": "Leaf Blower Co.",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019136",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/0351cc288464cd31955cef8ffc616ffe2ca576496147ba9e.png?w=160&thumb=false"
     },
     {
       "key": "c19199dd888d432123aa",
