@@ -5,67 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-10-30T05:14:15+09:00",
+  "updatedAt": "2026-10-31T04:55:02+09:00",
   "status": "success",
   "gameCount": 102,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 932,
+    "candidateCount": 939,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000129934",
-      "id": "70010000129934",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Queen's Domain",
-      "edition": null,
-      "publisher": "Future Friends Games",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.10.31",
-      "datePrecision": "day",
-      "releaseDate": "2026-10-31",
-      "releaseAt": null,
-      "price": 1997.0,
-      "originalPrice": 2350.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 1997.0,
-        "originalPrice": 2350.0,
-        "discountPercent": 15.0,
-        "startsAt": "2026-10-07T22:00:00+09:00",
-        "endsAt": "2026-10-31T23:59:59+09:00",
-        "endsAtRaw": "2026-10-31 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129934",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fc9bec4aca849171818c3a28b67251fbfb0f49e0cf05f708133c413837ae2d52.jpg",
-      "versions": [
-        {
-          "key": "70010000129934",
-          "id": "70010000129934",
-          "title": "Queen's Domain",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000129934",
-          "price": 1997.0,
-          "originalPrice": 2350.0,
-          "offer": {
-            "scope": "public",
-            "price": 1997.0,
-            "originalPrice": 2350.0,
-            "discountPercent": 15.0,
-            "startsAt": "2026-10-07T22:00:00+09:00",
-            "endsAt": "2026-10-31T23:59:59+09:00",
-            "endsAtRaw": "2026-10-31 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000134880",
       "id": "70010000134880",
@@ -1452,6 +1402,25 @@
             "endsAtRaw": "2026-12-16 23:59:59"
           },
           "memberOffer": null
+        },
+        {
+          "key": "70070000039556",
+          "id": "70070000039556",
+          "title": "大悪逆令嬢 ストラテジーオブリリィ デジタルデラックスエディション",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000039556",
+          "price": 3740.0,
+          "originalPrice": 4156.0,
+          "offer": {
+            "scope": "public",
+            "price": 3740.0,
+            "originalPrice": 4156.0,
+            "discountPercent": 10.0,
+            "startsAt": "2026-10-29T00:00:00+09:00",
+            "endsAt": "2026-12-16T23:59:59+09:00",
+            "endsAtRaw": "2026-12-16 23:59:59"
+          },
+          "memberOffer": null
         }
       ]
     },
@@ -1669,6 +1638,17 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000104378",
           "price": 9680.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "70070000041126",
+          "id": "70070000041126",
+          "title": "進撃の巨人３ Digital Deluxe Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000041126",
+          "price": 12980.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1990,6 +1970,74 @@
           "title": "メトロイド ラヴェナス スペシャルエディション",
           "edition": null,
           "url": "https://www.nintendo.com/jp/games/switch2/abvta/index.html?modal=2",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "d29d9d59481ffd87069f",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "地球防衛軍6 for Nintendo Switch 2",
+      "edition": null,
+      "publisher": "ディースリー・パブリッシャー",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.1.28",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-28",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+      "image": null,
+      "versions": [
+        {
+          "key": "d29d9d59481ffd87069f",
+          "id": null,
+          "title": "地球防衛軍6 for Nintendo Switch 2",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "221a9cda705ac6afb219",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "朧村正怪奇譚",
+      "edition": null,
+      "publisher": "マーベラス",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.2.4",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+      "image": null,
+      "versions": [
+        {
+          "key": "221a9cda705ac6afb219",
+          "id": null,
+          "title": "朧村正怪奇譚",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
           "price": null,
           "originalPrice": null,
           "offer": null,
@@ -3052,6 +3100,40 @@
       ]
     },
     {
+      "key": "5546842724c066025e3f",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "デカポリス",
+      "edition": null,
+      "publisher": "レベルファイブ",
+      "platform": "switch2",
+      "releaseDateRaw": "2027",
+      "datePrecision": "year",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://topics.nintendo.co.jp/article/ce329b31-09ec-4dbf-80b0-3713fcae9a57",
+      "image": "https://topics-cdn.nintendo.co.jp/image/2023/01/30013001135633/0/64863_b01.jpg",
+      "versions": [
+        {
+          "key": "5546842724c066025e3f",
+          "id": null,
+          "title": "デカポリス",
+          "edition": null,
+          "url": "https://topics.nintendo.co.jp/article/ce329b31-09ec-4dbf-80b0-3713fcae9a57",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "196a4763c5c6a2c9d574",
       "id": null,
       "conceptId": null,
@@ -3324,40 +3406,6 @@
       ]
     },
     {
-      "key": "d29d9d59481ffd87069f",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "地球防衛軍6 for Nintendo Switch 2",
-      "edition": null,
-      "publisher": "ディースリー・パブリッシャー",
-      "platform": "switch2",
-      "releaseDateRaw": "今冬",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "d29d9d59481ffd87069f",
-          "id": null,
-          "title": "地球防衛軍6 for Nintendo Switch 2",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
       "key": "51a84bff63404580afee",
       "id": null,
       "conceptId": null,
@@ -3486,40 +3534,6 @@
           "title": "星のカービィ ワールドビヨンド",
           "edition": null,
           "url": "https://www.nintendo.com/jp/topics/article/c94f0ce3-6f08-4154-bf5b-7998fbf8b5ac",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "221a9cda705ac6afb219",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "朧村正怪奇譚",
-      "edition": null,
-      "publisher": "マーベラス",
-      "platform": "switch2",
-      "releaseDateRaw": "2027.初頭",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "221a9cda705ac6afb219",
-          "id": null,
-          "title": "朧村正怪奇譚",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
           "price": null,
           "originalPrice": null,
           "offer": null,
