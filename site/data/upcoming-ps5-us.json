@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-10-31T06:27:16-07:00",
+  "updatedAt": "2026-11-01T06:09:23-08:00",
   "status": "success",
-  "gameCount": 86,
+  "gameCount": 87,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 105,
-    "productPages": 145,
+    "candidateCount": 108,
+    "productPages": 148,
     "coverage": "official-category",
     "notes": []
   },
@@ -3261,6 +3261,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
+    },
+    {
+      "key": "873659aec11077006794",
+      "id": null,
+      "conceptId": "10020162",
+      "region": "us",
+      "title": "Mombo Combo Legacy",
+      "edition": null,
+      "publisher": "Orube Game Studio LTDA",
+      "platform": "ps5",
+      "releaseDateRaw": "12/2026",
+      "datePrecision": "season",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020162",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/132508fa6c54b96ca1ba5b7130e8de956171bb11e286026c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "873659aec11077006794",
+          "id": null,
+          "title": "Mombo Combo Legacy",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020162",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/264ecc4c6a4b0c96c590655230e7d6454c64cefb25928470.jpg?w=160&thumb=false"
     },
     {
       "key": "c21dd24e82ed6ed716b5",
