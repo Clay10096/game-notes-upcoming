@@ -5,69 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-01T04:15:43+09:00",
+  "updatedAt": "2026-11-02T04:35:59+09:00",
   "status": "success",
-  "gameCount": 55,
+  "gameCount": 54,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 66,
-    "productPages": 66,
+    "candidateCount": 65,
+    "productPages": 65,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "JP0536-PPSA36936_00-PJALICEDDX000000",
-      "id": "JP0536-PPSA36936_00-PJALICEDDX000000",
-      "conceptId": "10019084",
-      "region": "jp",
-      "title": "クライムライト／CRYMELIGHT デラックスエディション",
-      "edition": "デラックスエディション",
-      "publisher": "フリュー株式会社",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/11/2",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-02",
-      "releaseAt": "2026-11-02T15:00:00+00:00",
-      "price": 6578.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 5920.0,
-        "originalPrice": 6578.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-04T15:00:00.000Z",
-        "endsAtRaw": "2026-11-04T15:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/JP0536-PPSA36936_00-PJALICEDDX000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/adc1caaea235565a26b5e34a887bf2390445ab781e702e01.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0536-PPSA36936_00-PJALICEDDX000000",
-          "id": "JP0536-PPSA36936_00-PJALICEDDX000000",
-          "title": "クライムライト／CRYMELIGHT デラックスエディション",
-          "edition": "デラックスエディション",
-          "url": "https://store.playstation.com/ja-jp/product/JP0536-PPSA36936_00-PJALICEDDX000000",
-          "price": 6578.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 5920.0,
-            "originalPrice": 6578.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-04T15:00:00.000Z",
-            "endsAtRaw": "2026-11-04T15:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/eeea2a52258e50550342a05123139647bc1cb23f91ac50f3.png?w=160&thumb=false"
-    },
     {
       "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
       "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
