@@ -5,69 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-02T04:21:58+08:00",
+  "updatedAt": "2026-11-03T07:22:44+08:00",
   "status": "success",
-  "gameCount": 57,
+  "gameCount": 58,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 69,
-    "productPages": 69,
+    "candidateCount": 70,
+    "productPages": 70,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "HP5846-PPSA37954_00-PJALICEDDX000000",
-      "id": "HP5846-PPSA37954_00-PJALICEDDX000000",
-      "conceptId": "10019084",
-      "region": "hk",
-      "title": "慟哭幽光／CRYMELIGHT 豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "豪華版",
-      "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-02",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-02",
-      "releaseAt": "2026-11-02T16:00:00+00:00",
-      "price": 280.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 252.0,
-        "originalPrice": 280.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-04T16:00:00.000Z",
-        "endsAtRaw": "2026-11-04T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA37954_00-PJALICEDDX000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3106/d82c71d56933f7a08c1ee1b2dbab7f39ea7e2b74a2ed89f2.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP5846-PPSA37954_00-PJALICEDDX000000",
-          "id": "HP5846-PPSA37954_00-PJALICEDDX000000",
-          "title": "慟哭幽光／CRYMELIGHT 豪華版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA37954_00-PJALICEDDX000000",
-          "price": 280.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 252.0,
-            "originalPrice": 280.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-04T16:00:00.000Z",
-            "endsAtRaw": "2026-11-04T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3106/8607e1288f1a9834039d9fcdc38b86acbae5d0ec1818ece4.png?w=160&thumb=false"
-    },
     {
       "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
       "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
@@ -736,6 +685,76 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
     },
     {
+      "key": "UP0913-PPSA38212_00-0877603519890164",
+      "id": "UP0913-PPSA38212_00-0877603519890164",
+      "conceptId": "10019830",
+      "region": "hk",
+      "title": "Thief The Dark Project Remastered (簡體中文, 英文, 繁體中文, 日文)",
+      "edition": null,
+      "publisher": "Night Dive Studios",
+      "platform": "ps5",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T20:00:00+00:00",
+      "price": 238.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP0913-PPSA38212_00-0877603519890164",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0315/e72cf99329b71d77f77df3f1a1fc0bd46d2152df4157a67a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP0913-PPSA38212_00-0877603519890164",
+          "id": "UP0913-PPSA38212_00-0877603519890164",
+          "title": "Thief The Dark Project Remastered (簡體中文, 英文, 繁體中文, 日文)",
+          "edition": null,
+          "url": "https://store.playstation.com/zh-hant-hk/product/UP0913-PPSA38212_00-0877603519890164",
+          "price": 238.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0315/0a63fbd2e1be3a11692adda751cbc3606f9ce34256f4c98e.png?w=160&thumb=false"
+    },
+    {
+      "key": "UP0913-PPSA38212_00-0655864714752329",
+      "id": "UP0913-PPSA38212_00-0655864714752329",
+      "conceptId": "10019830",
+      "region": "hk",
+      "title": "Thief: The Dark Project Remastered - Digital Deluxe Edition (中日英文版)",
+      "edition": "Digital Deluxe Edition",
+      "publisher": "Night Dive Studios",
+      "platform": "ps5",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T20:00:00+00:00",
+      "price": 268.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP0913-PPSA38212_00-0655864714752329",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/7a2f69d78a4176f176659a46e09d185faf2bc5c7c733ec57.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP0913-PPSA38212_00-0655864714752329",
+          "id": "UP0913-PPSA38212_00-0655864714752329",
+          "title": "Thief: The Dark Project Remastered - Digital Deluxe Edition (中日英文版)",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/UP0913-PPSA38212_00-0655864714752329",
+          "price": 268.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/048005363e541760ed070b45882c6608841d16a8fb6cddc7.jpg?w=160&thumb=false"
+    },
+    {
       "key": "UB0874-PPSA31608_00-0733548018947982",
       "id": "UB0874-PPSA31608_00-0733548018947982",
       "conceptId": "10016017",
@@ -963,7 +982,7 @@
       "id": "JP0177-PPSA34972_00-MAINGAME00000000",
       "conceptId": "10017939",
       "region": "hk",
-      "title": "STRANGER THAN HEAVEN (中日英韓文版)",
+      "title": "STRANGER THAN HEAVEN (簡體中文, 韓文, 英文, 繁體中文, 日文)",
       "edition": "一般版",
       "publisher": "SEGA CORPORATION",
       "platform": "ps5",
@@ -982,7 +1001,7 @@
         {
           "key": "JP0177-PPSA34972_00-MAINGAME00000000",
           "id": "JP0177-PPSA34972_00-MAINGAME00000000",
-          "title": "STRANGER THAN HEAVEN (中日英韓文版)",
+          "title": "STRANGER THAN HEAVEN (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": "一般版",
           "url": "https://store.playstation.com/zh-hant-hk/product/JP0177-PPSA34972_00-MAINGAME00000000",
           "price": 468.0,
