@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-01T06:09:23-08:00",
+  "updatedAt": "2026-11-02T09:59:40-08:00",
   "status": "success",
-  "gameCount": 87,
+  "gameCount": 88,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 108,
-    "productPages": 148,
+    "candidateCount": 115,
+    "productPages": 156,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "UP2777-PPSA36938_00-PJALICEDDX000000",
-      "id": "UP2777-PPSA36938_00-PJALICEDDX000000",
-      "conceptId": "10019084",
-      "region": "us",
-      "title": "CRYMELIGHT Deluxe Edition",
-      "edition": "Deluxe Edition",
-      "publisher": "FURYU CORP.",
-      "platform": "ps5",
-      "releaseDateRaw": "11/2/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-02",
-      "releaseAt": "2026-11-02T15:00:00+00:00",
-      "price": 39.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/UP2777-PPSA36938_00-PJALICEDDX000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/adc1caaea235565a26b5e34a887bf2390445ab781e702e01.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP2777-PPSA36938_00-PJALICEDDX000000",
-          "id": "UP2777-PPSA36938_00-PJALICEDDX000000",
-          "title": "CRYMELIGHT Deluxe Edition",
-          "edition": "Deluxe Edition",
-          "url": "https://store.playstation.com/en-us/product/UP2777-PPSA36938_00-PJALICEDDX000000",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/eeea2a52258e50550342a05123139647bc1cb23f91ac50f3.png?w=160&thumb=false"
-    },
     {
       "key": "3df7b005941790e86a9c",
       "id": null,
@@ -61,7 +26,7 @@
       "edition": null,
       "publisher": "Atari Inc.",
       "platform": "ps5",
-      "releaseDateRaw": "11/3/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-11-03",
       "datePrecision": "day",
       "releaseDate": "2026-11-03",
       "releaseAt": "2026-11-03T14:00:00+00:00",
@@ -147,7 +112,7 @@
       "edition": null,
       "publisher": "ZAUM STUDIO LIMITED",
       "platform": "ps5",
-      "releaseDateRaw": "11/3/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-03",
       "datePrecision": "day",
       "releaseDate": "2026-11-03",
       "releaseAt": "2026-11-03T05:00:00+00:00",
@@ -626,6 +591,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
     },
     {
+      "key": "c21dd24e82ed6ed716b5",
+      "id": null,
+      "conceptId": "10003488",
+      "region": "us",
+      "title": "Ova Magica",
+      "edition": null,
+      "publisher": "TOP HAT STUDIOS, INC.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/10/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": "2026-11-10T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10003488",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/0ff2bd8d1286b0443054e2aabd237ace87750b64097929e7.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c21dd24e82ed6ed716b5",
+          "id": null,
+          "title": "Ova Magica",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10003488",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/e8f0c89791b3b42513cc501677e98be40558bc818f1c8c2c.png?w=160&thumb=false"
+    },
+    {
       "key": "EP1875-PPSA31341_00-SHREK2REMASTERED",
       "id": "EP1875-PPSA31341_00-SHREK2REMASTERED",
       "conceptId": "10015844",
@@ -796,6 +796,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/f2a1bac57f11f85de1cef0c42f7b374a9be35a4e014b3d4d.png?w=160&thumb=false"
+    },
+    {
+      "key": "73c0b38b49711212cb68",
+      "id": null,
+      "conceptId": "10020789",
+      "region": "us",
+      "title": "Deadly Stakes",
+      "edition": null,
+      "publisher": "OWN IT SOLUTIONS SA",
+      "platform": "ps5",
+      "releaseDateRaw": "11/12/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": "2026-11-12T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020789",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2813/eb4f5a4a68c14ef4e3ec5b1c3412b85ccf974acc5fd454bc.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "73c0b38b49711212cb68",
+          "id": null,
+          "title": "Deadly Stakes",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020789",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2813/0c6a3e0ec80eb9f0a386e6353a566f6a781428b38dddaf4f.jpg?w=160&thumb=false"
     },
     {
       "key": "c75eca8701c444672393",
@@ -1499,6 +1534,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0508/1f01833843313a19cac763d4fe2f98d105dc2b26c6028442.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "UP0913-PPSA38212_00-0877603519890164",
+      "id": "UP0913-PPSA38212_00-0877603519890164",
+      "conceptId": "10019830",
+      "region": "us",
+      "title": "Thief: The Dark Project Remastered",
+      "edition": null,
+      "publisher": "NIGHT DIVE STUDIOS",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T20:00:00+00:00",
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/UP0913-PPSA38212_00-0877603519890164",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0315/e72cf99329b71d77f77df3f1a1fc0bd46d2152df4157a67a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP0913-PPSA38212_00-0877603519890164",
+          "id": "UP0913-PPSA38212_00-0877603519890164",
+          "title": "Thief: The Dark Project Remastered",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/UP0913-PPSA38212_00-0877603519890164",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "UP0913-PPSA38212_00-0655864714752329",
+          "id": "UP0913-PPSA38212_00-0655864714752329",
+          "title": "Thief: The Dark Project Remastered - Digital Deluxe Edition",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/UP0913-PPSA38212_00-0655864714752329",
+          "price": 34.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0315/0a63fbd2e1be3a11692adda751cbc3606f9ce34256f4c98e.png?w=160&thumb=false"
     },
     {
       "key": "f7ae74e3188f8aa978b3",
@@ -3296,41 +3377,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/264ecc4c6a4b0c96c590655230e7d6454c64cefb25928470.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "c21dd24e82ed6ed716b5",
-      "id": null,
-      "conceptId": "10003488",
-      "region": "us",
-      "title": "Ova Magica",
-      "edition": null,
-      "publisher": "TOP HAT STUDIOS, INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "11/2026",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10003488",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/0ff2bd8d1286b0443054e2aabd237ace87750b64097929e7.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c21dd24e82ed6ed716b5",
-          "id": null,
-          "title": "Ova Magica",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10003488",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/e8f0c89791b3b42513cc501677e98be40558bc818f1c8c2c.png?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",
