@@ -5,69 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-03T07:22:44+08:00",
+  "updatedAt": "2026-11-04T05:37:28+08:00",
   "status": "success",
-  "gameCount": 58,
+  "gameCount": 57,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 70,
-    "productPages": 70,
+    "candidateCount": 69,
+    "productPages": 69,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-      "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-      "conceptId": "10014443",
-      "region": "hk",
-      "title": "The Slormancer (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "Deluxe",
-      "publisher": "Dear Villagers",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-03",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": "2026-11-03T14:00:00+00:00",
-      "price": 238.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 166.6,
-        "originalPrice": 238.0,
-        "discountPercent": 30.0,
-        "startsAt": null,
-        "endsAt": "2026-11-05T06:00:00.000Z",
-        "endsAtRaw": "2026-11-05T06:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0214/6a97977720984ad32b4ceb287903aeb7472fd15fe7a19c78.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "title": "The Slormancer (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "Deluxe",
-          "url": "https://store.playstation.com/zh-hant-hk/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "price": 238.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 166.6,
-            "originalPrice": 238.0,
-            "discountPercent": 30.0,
-            "startsAt": null,
-            "endsAt": "2026-11-05T06:00:00.000Z",
-            "endsAtRaw": "2026-11-05T06:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": null
-    },
     {
       "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
       "id": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
@@ -1109,7 +1058,7 @@
       "id": "EP3392-PPSA38251_00-0725635823258947",
       "conceptId": "10019858",
       "region": "hk",
-      "title": "Arizona Sunshine® (中日英韓文版)",
+      "title": "《Arizona Sunshine® 豪華版 (中日英韓文版)",
       "edition": "豪華版",
       "publisher": "VERTIGO GAMES",
       "platform": "ps5",
@@ -1136,7 +1085,7 @@
         {
           "key": "EP3392-PPSA38251_00-0725635823258947",
           "id": "EP3392-PPSA38251_00-0725635823258947",
-          "title": "Arizona Sunshine® (中日英韓文版)",
+          "title": "《Arizona Sunshine® 豪華版 (中日英韓文版)",
           "edition": "豪華版",
           "url": "https://store.playstation.com/zh-hant-hk/product/EP3392-PPSA38251_00-0725635823258947",
           "price": 238.0,
