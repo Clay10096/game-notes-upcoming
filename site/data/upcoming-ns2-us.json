@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-02T09:57:19-08:00",
+  "updatedAt": "2026-11-03T07:56:35-08:00",
   "status": "success",
-  "gameCount": 30,
+  "gameCount": 29,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,40 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000111803",
-      "id": "70010000111803",
-      "conceptId": null,
-      "region": "us",
-      "title": "Let's Sing 2027",
-      "edition": "Standard Edition",
-      "publisher": "THQ Nordic",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-03T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/lets-sing-2027-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000111803/788e5f6d068ac4e181273dc894c083d708f9f16336ee04867323affc8c438441",
-      "versions": [
-        {
-          "key": "70010000111803",
-          "id": "70010000111803",
-          "title": "Let's Sing 2027",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/lets-sing-2027-switch-2/",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000125081",
       "id": "70010000125081",

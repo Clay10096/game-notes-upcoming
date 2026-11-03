@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-02T09:59:40-08:00",
+  "updatedAt": "2026-11-03T07:59:20-08:00",
   "status": "success",
-  "gameCount": 88,
+  "gameCount": 87,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
@@ -17,127 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "3df7b005941790e86a9c",
-      "id": null,
-      "conceptId": "10018112",
-      "region": "us",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered",
-      "edition": null,
-      "publisher": "Atari Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-03",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": "2026-11-03T14:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018112",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2615/d8048299c64394917440f6cce7620709040dddefe61a634f.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "3df7b005941790e86a9c",
-          "id": null,
-          "title": "Godzilla: Destroy All Monsters Melee Remastered",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018112",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2615/056aa16e5eae4340cf46e6df484ed62054ffc9f06ee264e3.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-      "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-      "conceptId": "10014443",
-      "region": "us",
-      "title": "The Slormancer",
-      "edition": "Deluxe",
-      "publisher": "Dear Villagers",
-      "platform": "ps5",
-      "releaseDateRaw": "11/3/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": "2026-11-03T14:00:00+00:00",
-      "price": 29.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 20.99,
-        "originalPrice": 29.99,
-        "discountPercent": 30.0,
-        "startsAt": null,
-        "endsAt": "2026-11-05T19:00:00.000Z",
-        "endsAtRaw": "2026-11-05T19:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0214/6a97977720984ad32b4ceb287903aeb7472fd15fe7a19c78.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "id": "EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "title": "The Slormancer",
-          "edition": "Deluxe",
-          "url": "https://store.playstation.com/en-us/product/EB0235-PPSA28892_00-TSMDELUXE0000000",
-          "price": 29.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 20.99,
-            "originalPrice": 29.99,
-            "discountPercent": 30.0,
-            "startsAt": null,
-            "endsAt": "2026-11-05T19:00:00.000Z",
-            "endsAtRaw": "2026-11-05T19:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": null
-    },
-    {
-      "key": "e50bdb337ac43ab5127d",
-      "id": null,
-      "conceptId": "10016673",
-      "region": "us",
-      "title": "ZERO PARADES: Director's Cut",
-      "edition": null,
-      "publisher": "ZAUM STUDIO LIMITED",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-03",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-03",
-      "releaseAt": "2026-11-03T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10016673",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1518/e3a1fb54a44eea922f1697f62e1150d6186dd17ed25bb236.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "e50bdb337ac43ab5127d",
-          "id": null,
-          "title": "ZERO PARADES: Director's Cut",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10016673",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1518/b5c687c6e55a82bafe4dcbd5034960c9116354c410e686a3.jpg?w=160&thumb=false"
-    },
     {
       "key": "UP2777-PPSA36938_00-PROJECTALICE0000",
       "id": "UP2777-PPSA36938_00-PROJECTALICE0000",
@@ -182,7 +61,7 @@
       "edition": null,
       "publisher": "Alchemy Games",
       "platform": "ps5",
-      "releaseDateRaw": "11/4/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-04",
       "datePrecision": "day",
       "releaseDate": "2026-11-04",
       "releaseAt": "2026-11-04T05:00:00+00:00",
@@ -971,6 +850,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2623/e6c89faa5c9a1f02061b7c9a011c491eea7e64674ae2d3d4.png?w=160&thumb=false"
+    },
+    {
+      "key": "876a89376b2d30c8baa5",
+      "id": null,
+      "conceptId": "10009072",
+      "region": "us",
+      "title": "POPUCOM",
+      "edition": null,
+      "publisher": "Fireshine Games",
+      "platform": "ps5",
+      "releaseDateRaw": "11/17/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-17",
+      "releaseAt": "2026-11-17T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10009072",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1810/4514e504731add6614c0c4a47380d295e584fee0c0cf85d6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "876a89376b2d30c8baa5",
+          "id": null,
+          "title": "POPUCOM",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10009072",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1810/c228e80676acefb5977f07cae389e2150b671248ab552eaf.jpg?w=160&thumb=false"
     },
     {
       "key": "EP2430-PPSA19075_00-0055738142177921",
@@ -1875,6 +1789,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1914/e747e9cd0f70119b0504707fc32c51ad589b26db078b9513.jpg?w=160&thumb=false"
     },
     {
+      "key": "6bbd9b819224f0089d92",
+      "id": null,
+      "conceptId": "10020620",
+      "region": "us",
+      "title": "I Am Jesus Christ",
+      "edition": null,
+      "publisher": "PlayWay plc",
+      "platform": "ps5",
+      "releaseDateRaw": "12/11/2026 08:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-11",
+      "releaseAt": "2026-12-11T20:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020620",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/8998970b0d19fb95b738b524a6e105bb614cff03ab5a33fe.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "6bbd9b819224f0089d92",
+          "id": null,
+          "title": "I Am Jesus Christ",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020620",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/2051370698198b444c374a1530b5b2bc852585d790f4b14c.png?w=160&thumb=false"
+    },
+    {
       "key": "ce6b75f79d32f650631d",
       "id": null,
       "conceptId": "10014504",
@@ -2041,7 +1990,7 @@
       "id": "EP3392-PPSA38251_00-0725635823258947",
       "conceptId": "10019858",
       "region": "us",
-      "title": "Arizona Sunshine®",
+      "title": "Arizona Sunshine® Deluxe Edition",
       "edition": "Deluxe Edition",
       "publisher": "Vertigo Games B.V",
       "platform": "ps5",
@@ -2068,7 +2017,7 @@
         {
           "key": "EP3392-PPSA38251_00-0725635823258947",
           "id": "EP3392-PPSA38251_00-0725635823258947",
-          "title": "Arizona Sunshine®",
+          "title": "Arizona Sunshine® Deluxe Edition",
           "edition": "Deluxe Edition",
           "url": "https://store.playstation.com/en-us/product/EP3392-PPSA38251_00-0725635823258947",
           "price": 29.99,
