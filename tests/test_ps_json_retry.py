@@ -14,6 +14,9 @@ FAILURE = {"errors": [{"message": "", "path": ["categoryGridRetrieve"],
                    "error": {"code": 3165954, "reason": "internal_error"}}}],
     "data": {"categoryGridRetrieve": None}}
 SUCCESS = {"data": {"categoryGridRetrieve": {"pageInfo": {"totalCount": 1}, "products": [{"id": "example"}]}}}
+BREAKER = {"errors": [{"message": "Breaker is open", "path": ["categoryGridRetrieve"],
+    "extensions": {"type": "NimbusNormalizedError", "apiName": "getCategory"}}],
+    "data": {"categoryGridRetrieve": None}}
 
 
 class PSJSONRetryTests(unittest.TestCase):
@@ -31,19 +34,40 @@ class PSJSONRetryTests(unittest.TestCase):
         self.assertEqual(request.call_args_list[0].args[0], URL)
         self.assertEqual(request.call_args_list[1].args[0], URL)
         self.assertEqual(request.call_args_list[1].args[2]["Cache-Control"], "no-cache")
-        sleep.assert_called_once_with(2)
+        sleep.assert_called_once_with(10)
 
     def test_persistent_failure_is_returned_for_existing_source_validation(self):
         result, request, sleep = self.run_read([FAILURE] * 3)
         self.assertEqual(result, FAILURE)
         self.assertEqual(request.call_count, 3)
-        self.assertEqual(sleep.call_args_list, [call(2), call(4)])
+        self.assertEqual(sleep.call_args_list, [call(10), call(30)])
         self.assertIsNone(result["data"]["categoryGridRetrieve"])
 
     def test_last_allowed_attempt_can_succeed(self):
         result, request, sleep = self.run_read([FAILURE, FAILURE, SUCCESS])
         self.assertEqual(result, SUCCESS)
         self.assertEqual(request.call_count, 3)
+
+    def test_actual_upstream_500_then_circuit_breaker_can_recover(self):
+        result, request, sleep = self.run_read([FAILURE, BREAKER, SUCCESS])
+        self.assertEqual(result, SUCCESS)
+        self.assertEqual(request.call_count, 3)
+        self.assertEqual(sleep.call_args_list, [call(10), call(30)])
+
+    def test_open_circuit_is_bounded_and_requires_recognized_identity(self):
+        result, request, sleep = self.run_read([BREAKER] * 3)
+        self.assertEqual(result, BREAKER)
+        self.assertEqual(request.call_count, 3)
+        self.assertEqual(sleep.call_args_list, [call(10), call(30)])
+        for extensions in ({}, {"type": "Other", "apiName": "getCategory"},
+                           {"type": "NimbusNormalizedError", "apiName": "other"},
+                           {"type": "NimbusNormalizedError", "apiName": "getCategory", "statusCode": 401}):
+            failure = {"errors": [{"message": "Breaker is open", "path": ["categoryGridRetrieve"],
+                                   "extensions": extensions}]}
+            result, request, sleep = self.run_read([failure])
+            self.assertEqual(result, failure)
+            request.assert_called_once()
+            sleep.assert_not_called()
 
     def test_error_codes_only_retry_recognized_transient_failures(self):
         for status in [408, 429, 500, 502, 503, 504]:

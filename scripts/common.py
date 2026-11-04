@@ -38,6 +38,13 @@ def _retryable_ps_category_error(result):
         status = extensions.get("statusCode") if isinstance(extensions, dict) else None
         if status is None:
             status = error.get("statusCode")
+        # The same upstream outage can open Nimbus's circuit breaker without
+        # supplying a statusCode. Recognize its exact category error only.
+        if (status is None and error.get("message") == "Breaker is open"
+                and isinstance(extensions, dict)
+                and extensions.get("type") == "NimbusNormalizedError"
+                and extensions.get("apiName") == "getCategory"):
+            continue
         if type(status) is not int or status not in (408, 429, 500, 502, 503, 504):
             return False
     return True
@@ -92,7 +99,7 @@ class Client:
                          and _retryable_ps_category_error(result))
             if not retryable or attempt == 2:
                 return result
-            time.sleep(2 ** (attempt + 1))
+            time.sleep((10, 30)[attempt])
             request_headers["Cache-Control"] = "no-cache"
 
 
