@@ -23,6 +23,26 @@ class SourceError(RuntimeError):
     pass
 
 
+def _retryable_ps_category_error(result):
+    """The PS GraphQL gateway can return HTTP 200 with an upstream 5xx."""
+    errors = result.get("errors") if isinstance(result, dict) else None
+    if not isinstance(errors, list) or not errors:
+        return False
+    for error in errors:
+        if not isinstance(error, dict):
+            return False
+        path = error.get("path")
+        if not isinstance(path, list) or not path or path[0] != "categoryGridRetrieve":
+            return False
+        extensions = error.get("extensions")
+        status = extensions.get("statusCode") if isinstance(extensions, dict) else None
+        if status is None:
+            status = error.get("statusCode")
+        if type(status) is not int or status not in (408, 429, 500, 502, 503, 504):
+            return False
+    return True
+
+
 class Client:
     def __init__(self, delay=0.25):
         self.delay = delay
@@ -60,10 +80,20 @@ class Client:
         raise SourceError("Request failed")
 
     def json(self, url, body=None, headers=None):
-        try:
-            return json.loads(self.request(url, body, headers))
-        except (json.JSONDecodeError, UnicodeError) as exc:
-            raise SourceError("Expected JSON; official source changed or refused the request") from exc
+        request_headers = dict(headers or {})
+        for attempt in range(3):
+            try:
+                result = json.loads(self.request(url, body, request_headers))
+            except (json.JSONDecodeError, UnicodeError) as exc:
+                raise SourceError("Expected JSON; official source changed or refused the request") from exc
+            # Retry only this public read operation, never other hosts or POSTs.
+            retryable = (body is None
+                         and urllib.parse.urlsplit(url).hostname == "web.np.playstation.com"
+                         and _retryable_ps_category_error(result))
+            if not retryable or attempt == 2:
+                return result
+            time.sleep(2 ** (attempt + 1))
+            request_headers["Cache-Control"] = "no-cache"
 
 
 def query_url(url, params):
