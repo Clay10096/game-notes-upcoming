@@ -5,7 +5,7 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-04T05:57:28+09:00",
+  "updatedAt": "2026-11-05T06:16:42+09:00",
   "status": "success",
   "gameCount": 51,
   "source": {
@@ -1512,52 +1512,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/b331ad930ddd8bb5acb28a937aad9a4b18a97097eb0e85cc.png?w=160&thumb=false"
     },
     {
-      "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
-      "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
-      "conceptId": "10009461",
-      "region": "jp",
-      "title": "ゴッド・オブ・ウォー ラウフェイ™",
-      "edition": "スタンダードエディション",
-      "publisher": "Sony Interactive Entertainment",
-      "platform": "ps5",
-      "releaseDateRaw": "2027/2/15",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-15",
-      "releaseAt": "2027-02-15T15:00:00+00:00",
-      "price": 8980.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/UP9000-PPSA19249_00-LAUFEY0000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/e1e187126032636435888915f17e26c3645661746a38362d.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
-          "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
-          "title": "ゴッド・オブ・ウォー ラウフェイ™",
-          "edition": "スタンダードエディション",
-          "url": "https://store.playstation.com/ja-jp/product/UP9000-PPSA19249_00-LAUFEY0000000000",
-          "price": 8980.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
-          "id": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
-          "title": "ゴッド・オブ・ウォー ラウフェイ™ デジタルデラックスエディション",
-          "edition": "デジタルデラックスエディション",
-          "url": "https://store.playstation.com/ja-jp/product/UP9000-PPSA19249_00-LAUFEYDDE0000000",
-          "price": 9980.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/f670b0e7fd6a1032b593598939a6d65de877d51b8bee5d41.jpg?w=160&thumb=false"
-    },
-    {
       "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
       "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
       "conceptId": "10017833",
@@ -2122,6 +2076,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0806/d6722a147cefc055bac2846bb7061e7853ebb955a9d851dd.png?w=160&thumb=false"
+    },
+    {
+      "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
+      "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
+      "conceptId": "10009461",
+      "region": "jp",
+      "title": "ゴッド・オブ・ウォー ラウフェイ™",
+      "edition": "スタンダードエディション",
+      "publisher": "Sony Interactive Entertainment",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/5/19",
+      "datePrecision": "day",
+      "releaseDate": "2027-05-19",
+      "releaseAt": "2027-05-19T15:00:00+00:00",
+      "price": 8980.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/UP9000-PPSA19249_00-LAUFEY0000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/e1e187126032636435888915f17e26c3645661746a38362d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
+          "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
+          "title": "ゴッド・オブ・ウォー ラウフェイ™",
+          "edition": "スタンダードエディション",
+          "url": "https://store.playstation.com/ja-jp/product/UP9000-PPSA19249_00-LAUFEY0000000000",
+          "price": 8980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
+          "id": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
+          "title": "ゴッド・オブ・ウォー ラウフェイ™ デジタルデラックスエディション",
+          "edition": "デジタルデラックスエディション",
+          "url": "https://store.playstation.com/ja-jp/product/UP9000-PPSA19249_00-LAUFEYDDE0000000",
+          "price": 9980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/f670b0e7fd6a1032b593598939a6d65de877d51b8bee5d41.jpg?w=160&thumb=false"
     }
   ]
 }

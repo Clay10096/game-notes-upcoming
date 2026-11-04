@@ -5,306 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-04T05:56:20+09:00",
+  "updatedAt": "2026-11-05T06:15:13+09:00",
   "status": "success",
-  "gameCount": 102,
+  "gameCount": 100,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 940,
+    "candidateCount": 949,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000134880",
-      "id": "70010000134880",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Chivalware",
-      "edition": null,
-      "publisher": "Dotemu",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 1350.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134880",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5.jpg",
-      "versions": [
-        {
-          "key": "70010000134880",
-          "id": "70010000134880",
-          "title": "Chivalware",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000134880",
-          "price": 1350.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000131183",
-      "id": "70010000131183",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Faraway",
-      "edition": null,
-      "publisher": "Annapurna Interactive",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 1200.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg",
-      "versions": [
-        {
-          "key": "70010000131183",
-          "id": "70010000131183",
-          "title": "Faraway",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
-          "price": 1200.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000116351",
-      "id": "70010000116351",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered",
-      "edition": null,
-      "publisher": "Atari",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 3600.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000116351",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ae95e0f4075c88c6926d2730f58ba5bede755463375f65a95020857735d3af12.jpg",
-      "versions": [
-        {
-          "key": "70010000116351",
-          "id": "70010000116351",
-          "title": "Godzilla: Destroy All Monsters Melee Remastered",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000116351",
-          "price": 3600.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000136641",
-      "id": "70010000136641",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Industria (インダストリアー)",
-      "edition": null,
-      "publisher": "Beep",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 2970.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136641",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9500f4fea6ef6c918c9f9def2b99b0aaf54c9e4a782574f0721d988eeb8a9b59.jpg",
-      "versions": [
-        {
-          "key": "70010000136641",
-          "id": "70010000136641",
-          "title": "Industria (インダストリアー)",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000136641",
-          "price": 2970.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000119219",
-      "id": "70010000119219",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-      "edition": null,
-      "publisher": "CDE Entertainment",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 4230.0,
-      "originalPrice": 4700.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 4230.0,
-        "originalPrice": 4700.0,
-        "discountPercent": 10.0,
-        "startsAt": "2026-09-10T00:00:00+09:00",
-        "endsAt": "2026-11-04T23:59:59+09:00",
-        "endsAtRaw": "2026-11-04 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000119219",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b8d0ecd1cf7bea2f4702ff75c8ba678141b6e563de5fff0ce67b71457d9e5224.jpg",
-      "versions": [
-        {
-          "key": "70010000119219",
-          "id": "70010000119219",
-          "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000119219",
-          "price": 4230.0,
-          "originalPrice": 4700.0,
-          "offer": {
-            "scope": "public",
-            "price": 4230.0,
-            "originalPrice": 4700.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-09-10T00:00:00+09:00",
-            "endsAt": "2026-11-04T23:59:59+09:00",
-            "endsAtRaw": "2026-11-04 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000125083",
-      "id": "70010000125083",
-      "conceptId": null,
-      "region": "jp",
-      "title": "クライムライト／CRYMELIGHT",
-      "edition": null,
-      "publisher": "フリュー",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 2950.0,
-      "originalPrice": 3278.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 2950.0,
-        "originalPrice": 3278.0,
-        "discountPercent": 10.0,
-        "startsAt": "2026-09-17T00:00:00+09:00",
-        "endsAt": "2026-11-04T23:59:59+09:00",
-        "endsAtRaw": "2026-11-04 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000125083",
-      "image": "https://img-eshop.cdn.nintendo.net/i/96a08bd5be512b36dd31bfb060adf39d99a739113f193a7d698664054ac70c1a.jpg",
-      "versions": [
-        {
-          "key": "70010000125083",
-          "id": "70010000125083",
-          "title": "クライムライト／CRYMELIGHT",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000125083",
-          "price": 2950.0,
-          "originalPrice": 3278.0,
-          "offer": {
-            "scope": "public",
-            "price": 2950.0,
-            "originalPrice": 3278.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-09-17T00:00:00+09:00",
-            "endsAt": "2026-11-04T23:59:59+09:00",
-            "endsAtRaw": "2026-11-04 23:59:59"
-          },
-          "memberOffer": null
-        },
-        {
-          "key": "70070000040446",
-          "id": "70070000040446",
-          "title": "クライムライト／CRYMELIGHT デラックスエディション",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70070000040446",
-          "price": 5920.0,
-          "originalPrice": 6578.0,
-          "offer": {
-            "scope": "public",
-            "price": 5920.0,
-            "originalPrice": 6578.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-09-17T00:00:00+09:00",
-            "endsAt": "2026-11-04T23:59:59+09:00",
-            "endsAtRaw": "2026-11-04 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000130791",
-      "id": "70010000130791",
-      "conceptId": null,
-      "region": "jp",
-      "title": "ゼルダの伝説 時のオカリナ",
-      "edition": null,
-      "publisher": "任天堂",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.5",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 7980.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/aa9ja/index.html",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ac28612fa15a103adba3546e77dc9ffd0286b22f55c48d1220813cdaaa1f8d40.jpg",
-      "versions": [
-        {
-          "key": "70010000130791",
-          "id": "70010000130791",
-          "title": "ゼルダの伝説 時のオカリナ",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/aa9ja/index.html",
-          "price": 7980.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000123390",
       "id": "70010000123390",
@@ -385,6 +96,40 @@
             "endsAt": "2026-11-19T23:59:59+09:00",
             "endsAtRaw": "2026-11-19 23:59:59"
           },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000128286",
+      "id": "70010000128286",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ローリングガンナー+オーバーパワー",
+      "edition": null,
+      "publisher": "メビウス",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.8",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-08",
+      "releaseAt": null,
+      "price": 2980.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000128286",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a9a492ae76cabc8893877d2c3e212cb7f96f1f9b86207bc36c8acedabebd2012.jpg",
+      "versions": [
+        {
+          "key": "70010000128286",
+          "id": "70010000128286",
+          "title": "ローリングガンナー+オーバーパワー",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000128286",
+          "price": 2980.0,
+          "originalPrice": null,
+          "offer": null,
           "memberOffer": null
         }
       ]
@@ -560,40 +305,6 @@
       ]
     },
     {
-      "key": "7cd7a1f9ef811a1ccf83",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "SONIC PICO PARK",
-      "edition": null,
-      "publisher": "PICO PARK",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.12",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "7cd7a1f9ef811a1ccf83",
-          "id": null,
-          "title": "SONIC PICO PARK",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
       "key": "343717f075942066d698",
       "id": null,
       "conceptId": null,
@@ -689,6 +400,74 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000123165",
           "price": 7678.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000125623",
+      "id": "70010000125623",
+      "conceptId": null,
+      "region": "jp",
+      "title": "アドラブル・アドベンチャー",
+      "edition": null,
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 3200.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000125623",
+      "image": "https://img-eshop.cdn.nintendo.net/i/febc474585545fb83b685d67d6c51b4341555310a5ac8573a696ea0b8068186c.jpg",
+      "versions": [
+        {
+          "key": "70010000125623",
+          "id": "70010000125623",
+          "title": "アドラブル・アドベンチャー",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000125623",
+          "price": 3200.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000133205",
+      "id": "70010000133205",
+      "conceptId": null,
+      "region": "jp",
+      "title": "キャッスルバウンド (Castlebound)",
+      "edition": null,
+      "publisher": "Ogre Pixel",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 1500.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000133205",
+      "image": "https://img-eshop.cdn.nintendo.net/i/2673fe71f89609ac1f00e3d7d951d6683709fccdb164ca7bd862d8dad4cf9899.jpg",
+      "versions": [
+        {
+          "key": "70010000133205",
+          "id": "70010000133205",
+          "title": "キャッスルバウンド (Castlebound)",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000133205",
+          "price": 1500.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -932,6 +711,40 @@
       ]
     },
     {
+      "key": "70010000136992",
+      "id": "70010000136992",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ジェイデン・インダストリーズ：癒やしの自動化パズル",
+      "edition": null,
+      "publisher": "PUSHKA INTERACTIVE SOFTWARE",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.23",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-23",
+      "releaseAt": null,
+      "price": 1650.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136992",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fa3e75f9b536b5027b76aaae7d6c97203ee059dc9ce7694249882fbc81ee3385.jpg",
+      "versions": [
+        {
+          "key": "70010000136992",
+          "id": "70010000136992",
+          "title": "ジェイデン・インダストリーズ：癒やしの自動化パズル",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000136992",
+          "price": 1650.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000129140",
       "id": "70010000129140",
       "conceptId": null,
@@ -959,6 +772,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000129140",
           "price": 980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000125087",
+      "id": "70010000125087",
+      "conceptId": null,
+      "region": "jp",
+      "title": "最強王図鑑　クラッシュバトルキングス",
+      "edition": null,
+      "publisher": "日本コロムビア",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.26",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-26",
+      "releaseAt": null,
+      "price": 6380.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000125087",
+      "image": "https://img-eshop.cdn.nintendo.net/i/dbcf472944c610ef944ff73318573625ec7ea9492689c59b0cc414c9be83a7a8.jpg",
+      "versions": [
+        {
+          "key": "70010000125087",
+          "id": "70010000125087",
+          "title": "最強王図鑑　クラッシュバトルキングス",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000125087",
+          "price": 6380.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1536,6 +1383,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70070000039611",
           "price": 7990.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000126737",
+      "id": "70010000126737",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Ancestors: The Humankind Odyssey",
+      "edition": null,
+      "publisher": "Fictions",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.9",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": null,
+      "price": 5380.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126737",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d3e4c16c2c5595a2478536a87f01b72a32454472e3bdfadb71bea02cd005fcbf.jpg",
+      "versions": [
+        {
+          "key": "70010000126737",
+          "id": "70010000126737",
+          "title": "Ancestors: The Humankind Odyssey",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000126737",
+          "price": 5380.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
