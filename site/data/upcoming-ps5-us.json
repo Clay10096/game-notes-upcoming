@@ -5,88 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-03T07:59:20-08:00",
+  "updatedAt": "2026-11-04T09:02:30-08:00",
   "status": "success",
-  "gameCount": 87,
+  "gameCount": 85,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
     "candidateCount": 115,
-    "productPages": 156,
+    "productPages": 154,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "UP2777-PPSA36938_00-PROJECTALICE0000",
-      "id": "UP2777-PPSA36938_00-PROJECTALICE0000",
-      "conceptId": "10019084",
-      "region": "us",
-      "title": "CRYMELIGHT",
-      "edition": "Standard Edition",
-      "publisher": "FURYU CORP.",
-      "platform": "ps5",
-      "releaseDateRaw": "11/4/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-04",
-      "releaseAt": "2026-11-04T15:00:00+00:00",
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/UP2777-PPSA36938_00-PROJECTALICE0000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/b32dbcb194fa3a43071302349d86fc0cc36f1e0e8308836b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP2777-PPSA36938_00-PROJECTALICE0000",
-          "id": "UP2777-PPSA36938_00-PROJECTALICE0000",
-          "title": "CRYMELIGHT",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/UP2777-PPSA36938_00-PROJECTALICE0000",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2213/d44782747eaaebfeac14ca6bfbc24c103fe65057ead6a063.png?w=160&thumb=false"
-    },
-    {
-      "key": "168c2aa4714607cab084",
-      "id": null,
-      "conceptId": "10017644",
-      "region": "us",
-      "title": "We are Eva",
-      "edition": null,
-      "publisher": "Alchemy Games",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-04",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-04",
-      "releaseAt": "2026-11-04T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017644",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0713/d821c3eff883f08dc540c5ee5fe1bce2593f2b80f589affb.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "168c2aa4714607cab084",
-          "id": null,
-          "title": "We are Eva",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017644",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0713/026d98d921f5015fc19f237d85b32b00363bc19b14f6d94c.jpg?w=160&thumb=false"
-    },
     {
       "key": "0a09e878a6937d40db05",
       "id": null,
@@ -96,7 +26,7 @@
       "edition": null,
       "publisher": "PdPartid@games",
       "platform": "ps5",
-      "releaseDateRaw": "11/5/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-05",
       "datePrecision": "day",
       "releaseDate": "2026-11-05",
       "releaseAt": "2026-11-05T05:00:00+00:00",
@@ -131,7 +61,7 @@
       "edition": null,
       "publisher": "Annapurna Interactive",
       "platform": "ps5",
-      "releaseDateRaw": "11/5/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-11-05",
       "datePrecision": "day",
       "releaseDate": "2026-11-05",
       "releaseAt": "2026-11-05T14:00:00+00:00",
@@ -166,7 +96,7 @@
       "edition": null,
       "publisher": "Triangle Factory",
       "platform": "ps5",
-      "releaseDateRaw": "11/5/2026 10:00 AM UTC",
+      "releaseDateRaw": "2026-11-05",
       "datePrecision": "day",
       "releaseDate": "2026-11-05",
       "releaseAt": "2026-11-05T10:00:00+00:00",
@@ -191,6 +121,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/685c909160eb95af68b273deec71fd63186ecd56ae9d3d0b.png?w=160&thumb=false"
+    },
+    {
+      "key": "1609edf96cea023f7dba",
+      "id": null,
+      "conceptId": "10020319",
+      "region": "us",
+      "title": "HELL OF FEAR: Mind Breach",
+      "edition": null,
+      "publisher": "Gamedev Oyun Yazilim ve Danismanlik Anonim Sirketi",
+      "platform": "ps5",
+      "releaseDateRaw": "2026-11-05",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-05",
+      "releaseAt": "2026-11-05T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020319",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2012/b50d8034e7f375638796a39162e5f580ee45c2ddae923a6a.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "1609edf96cea023f7dba",
+          "id": null,
+          "title": "HELL OF FEAR: Mind Breach",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020319",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2012/ec6af54946ac4f0bff1c8b1b04d7e2a890d2e8dcf27afde9.png?w=160&thumb=false"
     },
     {
       "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
@@ -303,7 +268,7 @@
       "edition": null,
       "publisher": "COSEN CO., LTD.",
       "platform": "ps5",
-      "releaseDateRaw": "11/5/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-05",
       "datePrecision": "day",
       "releaseDate": "2026-11-05",
       "releaseAt": "2026-11-05T05:00:00+00:00",
@@ -338,7 +303,7 @@
       "edition": null,
       "publisher": "Cygames, Inc.",
       "platform": "ps5",
-      "releaseDateRaw": "11/5/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-05",
       "datePrecision": "day",
       "releaseDate": "2026-11-05",
       "releaseAt": "2026-11-05T05:00:00+00:00",
@@ -710,41 +675,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2813/0c6a3e0ec80eb9f0a386e6353a566f6a781428b38dddaf4f.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "c75eca8701c444672393",
-      "id": null,
-      "conceptId": "10020673",
-      "region": "us",
-      "title": "Weed Supermarket Simulator",
-      "edition": null,
-      "publisher": "PlayWay plc",
-      "platform": "ps5",
-      "releaseDateRaw": "11/12/2026 03:00 PM UTC",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": "2026-11-12T15:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020673",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/0198c1720d05af09be17c85882e7a99903e061a631d3c5ac.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c75eca8701c444672393",
-          "id": null,
-          "title": "Weed Supermarket Simulator",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020673",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/aa87eb0f52131d43852a74e3bdcd6175a527de6a4ffbc48e.jpg?w=160&thumb=false"
     },
     {
       "key": "881c773b84deaaf1d463",
@@ -3223,6 +3153,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
     },
     {
+      "key": "7f1c1dfc56c98f78ad20",
+      "id": null,
+      "conceptId": "10020388",
+      "region": "us",
+      "title": "DERELIKT",
+      "edition": null,
+      "publisher": "Hyperstrange Sp. z o.o.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020388",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/524f2f54e7cac8df88bd0eb183a66fada89e633e58e9b13e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "7f1c1dfc56c98f78ad20",
+          "id": null,
+          "title": "DERELIKT",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020388",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/5e40f86d03506ce64887b8094f8350f3312f296b9206d28b.jpg?w=160&thumb=false"
+    },
+    {
       "key": "1588c91d52f9d1961a0d",
       "id": null,
       "conceptId": "10020330",
@@ -3361,41 +3326,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1310/824967de0e154cc60339abde1f71c94f191c9b8a7c33ea37.png?w=160&thumb=false"
-    },
-    {
-      "key": "e18cc5a98a04de4fd416",
-      "id": null,
-      "conceptId": "10018837",
-      "region": "us",
-      "title": "Worship",
-      "edition": null,
-      "publisher": "Chasing Rats Games Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018837",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/3121/cda1056da79de6ed86a4d730d3911b6690180212e739c9d0.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "e18cc5a98a04de4fd416",
-          "id": null,
-          "title": "Worship",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018837",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0713/f982fd118c3aebf67c6ca47967798d814997fa3cf6fe3265.jpg?w=160&thumb=false"
     },
     {
       "key": "431030da947975720c5a",

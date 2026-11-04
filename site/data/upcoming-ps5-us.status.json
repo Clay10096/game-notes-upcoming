@@ -1,10 +1,10 @@
 {
   "region": "US",
   "store": "playstation",
-  "status": "failed",
-  "attemptedAt": "2026-11-04T08:00:23-08:00",
-  "completedAt": "2026-11-04T08:00:26-08:00",
-  "lastSuccessAt": "2026-11-03T07:59:20-08:00",
-  "requestCount": 1,
-  "error": "SourceError: PlayStation coming-soon category query failed"
+  "status": "success",
+  "attemptedAt": "2026-11-04T08:59:12-08:00",
+  "completedAt": "2026-11-04T09:02:30-08:00",
+  "lastSuccessAt": "2026-11-04T09:02:30-08:00",
+  "requestCount": 160,
+  "error": null
 }
