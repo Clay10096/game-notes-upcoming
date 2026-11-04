@@ -5,171 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-04T05:37:28+08:00",
+  "updatedAt": "2026-11-05T05:46:33+08:00",
   "status": "success",
-  "gameCount": 57,
+  "gameCount": 54,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 69,
-    "productPages": 69,
+    "candidateCount": 66,
+    "productPages": 66,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
-      "id": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
-      "conceptId": "10019384",
-      "region": "hk",
-      "title": "K-Pop Rising - Dream to Shine (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": null,
-      "publisher": "Microids",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-04",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-04",
-      "releaseAt": "2026-11-04T16:00:00+00:00",
-      "price": 238.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 214.2,
-        "originalPrice": 238.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-04T16:00:00.000Z",
-        "endsAtRaw": "2026-11-04T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP4295-PPSA37453_00-KPOPRISING0PS5WW",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1309/a1545f01cc249aabf7c3b7c05e19ac50fc2c02cae8937e25.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
-          "id": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
-          "title": "K-Pop Rising - Dream to Shine (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": null,
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP4295-PPSA37453_00-KPOPRISING0PS5WW",
-          "price": 238.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 214.2,
-            "originalPrice": 238.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-04T16:00:00.000Z",
-            "endsAtRaw": "2026-11-04T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1309/53848e2bc7d3043c0ea1335d2a7f9222f35d8e411339601d.png?w=160&thumb=false"
-    },
-    {
-      "key": "HP5846-PPSA37954_00-PROJECTALICE0000",
-      "id": "HP5846-PPSA37954_00-PROJECTALICE0000",
-      "conceptId": "10019084",
-      "region": "hk",
-      "title": "慟哭幽光／CRYMELIGHT (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-      "edition": "一般版",
-      "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-04",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-04",
-      "releaseAt": "2026-11-04T16:00:00+00:00",
-      "price": 156.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 140.4,
-        "originalPrice": 156.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-04T16:00:00.000Z",
-        "endsAtRaw": "2026-11-04T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA37954_00-PROJECTALICE0000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2402/cf3361e012be9968d7bb68c6921bd60cbb3720b079b27b01.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "HP5846-PPSA37954_00-PROJECTALICE0000",
-          "id": "HP5846-PPSA37954_00-PROJECTALICE0000",
-          "title": "慟哭幽光／CRYMELIGHT (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-          "edition": "一般版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/HP5846-PPSA37954_00-PROJECTALICE0000",
-          "price": 156.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 140.4,
-            "originalPrice": 156.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-04T16:00:00.000Z",
-            "endsAtRaw": "2026-11-04T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2402/4c02760f89c51b0960d9c191450dbfc41ad58a1daad86175.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP4108-PPSA35020_00-KONGLOBAL0000000",
-      "id": "JP4108-PPSA35020_00-KONGLOBAL0000000",
-      "conceptId": "10017961",
-      "region": "hk",
-      "title": "闇夜王國 (簡體中文, 英文, 繁體中文)",
-      "edition": null,
-      "publisher": "Dangen Entertainment",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-04",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-04",
-      "releaseAt": "2026-11-04T16:00:00+00:00",
-      "price": 148.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 133.2,
-        "originalPrice": 148.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-04T16:00:00.000Z",
-        "endsAtRaw": "2026-11-04T16:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/JP4108-PPSA35020_00-KONGLOBAL0000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2214/fe284f3df187ad77b4d0fe8ee019e96d487e91cd3ebc4141.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP4108-PPSA35020_00-KONGLOBAL0000000",
-          "id": "JP4108-PPSA35020_00-KONGLOBAL0000000",
-          "title": "闇夜王國 (簡體中文, 英文, 繁體中文)",
-          "edition": null,
-          "url": "https://store.playstation.com/zh-hant-hk/product/JP4108-PPSA35020_00-KONGLOBAL0000000",
-          "price": 148.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 133.2,
-            "originalPrice": 148.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-04T16:00:00.000Z",
-            "endsAtRaw": "2026-11-04T16:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2214/24fc26d1f318c0780bce1cfc50a9722c71930c1f4794b4c7.png?w=160&thumb=false"
-    },
     {
       "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
       "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
@@ -1633,87 +1480,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/b331ad930ddd8bb5acb28a937aad9a4b18a97097eb0e85cc.png?w=160&thumb=false"
     },
     {
-      "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
-      "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
-      "conceptId": "10009461",
-      "region": "hk",
-      "title": "God of War Laufey™ (中英韓文版)",
-      "edition": "普通版",
-      "publisher": "Sony Interactive Entertainment",
-      "platform": "ps5",
-      "releaseDateRaw": "2027-02-15",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-15",
-      "releaseAt": "2027-02-15T16:00:00+00:00",
-      "price": 388.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEY0000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/e1e187126032636435888915f17e26c3645661746a38362d.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
-          "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
-          "title": "God of War Laufey™ (中英韓文版)",
-          "edition": "普通版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEY0000000000",
-          "price": 388.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
-          "id": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
-          "title": "God of War Laufey™ 數位豪華版 (中英韓文版)",
-          "edition": "數位豪華版",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEYDDE0000000",
-          "price": 438.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/f670b0e7fd6a1032b593598939a6d65de877d51b8bee5d41.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
-      "id": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
-      "conceptId": "10009461",
-      "region": "hk",
-      "title": "God of War Laufey™ 數位豪華版升級 (中英韓文版)",
-      "edition": "數位豪華版升級",
-      "publisher": "Sony Interactive Entertainment",
-      "platform": "ps5",
-      "releaseDateRaw": "2027-02-15",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-15",
-      "releaseAt": "2027-02-15T16:00:00+00:00",
-      "price": 50.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/1e912324adbe256306dfd452e156aed4430f0f66e2444589.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
-          "id": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
-          "title": "God of War Laufey™ 數位豪華版升級 (中英韓文版)",
-          "edition": "數位豪華版升級",
-          "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
-          "price": 50.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/6648deb4d2e442c200e3cebe36466ade1f0fd45a051095e7.png?w=160&thumb=false"
-    },
-    {
       "key": "HP0082-PPSA34812_00-ROMANCINGSAGA3RA",
       "id": "HP0082-PPSA34812_00-ROMANCINGSAGA3RA",
       "conceptId": "10017833",
@@ -2327,6 +2093,87 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0806/d6722a147cefc055bac2846bb7061e7853ebb955a9d851dd.png?w=160&thumb=false"
+    },
+    {
+      "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
+      "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
+      "conceptId": "10009461",
+      "region": "hk",
+      "title": "God of War Laufey™ (中英韓文版)",
+      "edition": "普通版",
+      "publisher": "Sony Interactive Entertainment",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-05-19",
+      "datePrecision": "day",
+      "releaseDate": "2027-05-19",
+      "releaseAt": "2027-05-19T16:00:00+00:00",
+      "price": 388.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEY0000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/e1e187126032636435888915f17e26c3645661746a38362d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP9000-PPSA19249_00-LAUFEY0000000000",
+          "id": "UP9000-PPSA19249_00-LAUFEY0000000000",
+          "title": "God of War Laufey™ (中英韓文版)",
+          "edition": "普通版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEY0000000000",
+          "price": 388.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
+          "id": "UP9000-PPSA19249_00-LAUFEYDDE0000000",
+          "title": "God of War Laufey™ 數位豪華版 (中英韓文版)",
+          "edition": "數位豪華版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEYDDE0000000",
+          "price": 438.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/f670b0e7fd6a1032b593598939a6d65de877d51b8bee5d41.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
+      "id": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
+      "conceptId": "10009461",
+      "region": "hk",
+      "title": "God of War Laufey™ 數位豪華版升級 (中英韓文版)",
+      "edition": "數位豪華版升級",
+      "publisher": "Sony Interactive Entertainment",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-05-19",
+      "datePrecision": "day",
+      "releaseDate": "2027-05-19",
+      "releaseAt": "2027-05-19T16:00:00+00:00",
+      "price": 50.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/1e912324adbe256306dfd452e156aed4430f0f66e2444589.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
+          "id": "UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
+          "title": "God of War Laufey™ 數位豪華版升級 (中英韓文版)",
+          "edition": "數位豪華版升級",
+          "url": "https://store.playstation.com/zh-hant-hk/product/UP9000-PPSA19249_00-LAUFEYDDEUPGRADE",
+          "price": 50.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/6648deb4d2e442c200e3cebe36466ade1f0fd45a051095e7.png?w=160&thumb=false"
     }
   ]
 }
