@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-05T05:45:19+08:00",
+  "updatedAt": "2026-11-06T05:49:36+08:00",
   "status": "success",
-  "gameCount": 28,
+  "gameCount": 35,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 580,
+    "candidateCount": 591,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -85,6 +85,40 @@
       ]
     },
     {
+      "key": "70010000125624",
+      "id": "70010000125624",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Adorable Adventures",
+      "edition": null,
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 149.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000125624",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000125624d3b112bed88b11f1b22c21e976b01a68/9a3edec320cc859a240367c0929d4054/febc474585545fb83b685d67d6c51b4341555310a5ac8573a696ea0b8068186c.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000125624",
+          "id": "70010000125624",
+          "title": "Adorable Adventures",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000125624",
+          "price": 149.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000127821",
       "id": "70010000127821",
       "conceptId": null,
@@ -112,6 +146,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000127821",
           "price": 350.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000133206",
+      "id": "70010000133206",
+      "conceptId": null,
+      "region": "hk",
+      "title": "城堡躍進 (Castlebound)",
+      "edition": null,
+      "publisher": "Ogre Pixel",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 78.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000133206",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000133206bcee285fd88b11f1be84d395d6c5bc35/10320c9761ceb147a69e7379917f736e/2673fe71f89609ac1f00e3d7d951d6683709fccdb164ca7bd862d8dad4cf9899.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000133206",
+          "id": "70010000133206",
+          "title": "城堡躍進 (Castlebound)",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000133206",
+          "price": 78.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -213,7 +281,7 @@
       },
       "memberOffer": null,
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000140055",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001400553055a127d30c11f1ad0f3539255001b9/494db50e884870f9473e013912d3937f/121449d545bb9559943db1e6ad9c7dbb7c9fc3add686bce2b544baf08f9c6d30.jpg?w=400&fm=webp",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001400553055a127d30c11f1ad0f3539255001b9/aa3454606c34e5dd8de0b3b1ddc60604/c69ec27a73de106eb8a1cd1063ca60a2dee7b1fa7bbc5a548b4ad8bc3c63de65.jpg?w=400&fm=webp",
       "versions": [
         {
           "key": "70010000140055",
@@ -264,6 +332,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000125710",
           "price": 299.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000136993",
+      "id": "70010000136993",
+      "conceptId": null,
+      "region": "hk",
+      "title": "傑登工業: 療癒系自動化解謎遊戲 (JADEN INDUSTRIES: Cozy Automation Puzzler)",
+      "edition": null,
+      "publisher": "PUSHKA INTERACTIVE SOFTWARE",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-23",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-23",
+      "releaseAt": null,
+      "price": 55.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000136993",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000136993d1cbd0a0d88b11f1be8f87d557137676/f2bc724e7512e087c181e9a74a0680f2/fa3e75f9b536b5027b76aaae7d6c97203ee059dc9ce7694249882fbc81ee3385.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000136993",
+          "id": "70010000136993",
+          "title": "傑登工業: 療癒系自動化解謎遊戲 (JADEN INDUSTRIES: Cozy Automation Puzzler)",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000136993",
+          "price": 55.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -366,6 +468,74 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000111545",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000131634",
+      "id": "70010000131634",
+      "conceptId": null,
+      "region": "hk",
+      "title": "似曾相識的「那些遊戲」都換火柴人當主角了，你真的能夠順利通關嗎？",
+      "edition": null,
+      "publisher": "D3PUBLISHER",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 65.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000131634",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001316343c683c78d88c11f195da5f88700e56a3/9ded3e54503f9f25d447d5e10878aa17/ddb5326309b762c145c4d8055380b29a0efa710bbc1114d98cc2c9ceebce5feb.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000131634",
+          "id": "70010000131634",
+          "title": "似曾相識的「那些遊戲」都換火柴人當主角了，你真的能夠順利通關嗎？",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000131634",
+          "price": 65.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000131640",
+      "id": "70010000131640",
+      "conceptId": null,
+      "region": "hk",
+      "title": "似曾相識的「那些遊戲」都換火柴人當主角了，你真的能夠順利通關嗎？2",
+      "edition": null,
+      "publisher": "D3PUBLISHER",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 65.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000131640",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131640a10bfe09d88b11f1862387d557137676/f6ee0fff60f2d07b861953be3a1ebdb7/b798a8a9ccbd4e627c0c67558ae4ab56df307b74a378558d3ff3ce3f3427df38.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000131640",
+          "id": "70010000131640",
+          "title": "似曾相識的「那些遊戲」都換火柴人當主角了，你真的能夠順利通關嗎？2",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000131640",
+          "price": 65.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -491,6 +661,40 @@
       ]
     },
     {
+      "key": "70010000131646",
+      "id": "70010000131646",
+      "conceptId": null,
+      "region": "hk",
+      "title": "關於似曾相識的「那些遊戲」都變得更精采刺激，讓火柴人瀕臨極限的這檔事。",
+      "edition": null,
+      "publisher": "D3PUBLISHER",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 57.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000131646",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131646c3b19c91d88b11f1a6fb21e976b01a68/7729c2a940ccbe182b8f110d2d8f8078/dafb4e8a356b87c98fbb3fb11b9b695d058f732697552c7b887d36a14af392f5.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000131646",
+          "id": "70010000131646",
+          "title": "關於似曾相識的「那些遊戲」都變得更精采刺激，讓火柴人瀕臨極限的這檔事。",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000131646",
+          "price": 57.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000102605",
       "id": "70010000102605",
       "conceptId": null,
@@ -536,6 +740,40 @@
             "endsAt": "2027-01-07T15:59:59Z",
             "endsAtRaw": "2027-01-07T15:59:59Z"
           },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000126738",
+      "id": "70010000126738",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Ancestors: The Humankind Odyssey",
+      "edition": null,
+      "publisher": "Fictions",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-09",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": null,
+      "price": 248.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000126738",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000126738064cbdaed88c11f1ac7bef7b24064ef3/3b3aa0b862b69190476e4a8d6d63b58a/d3e4c16c2c5595a2478536a87f01b72a32454472e3bdfadb71bea02cd005fcbf.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000126738",
+          "id": "70010000126738",
+          "title": "Ancestors: The Humankind Odyssey",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000126738",
+          "price": 248.0,
+          "originalPrice": null,
+          "offer": null,
           "memberOffer": null
         }
       ]
