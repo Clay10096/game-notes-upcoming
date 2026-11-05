@@ -5,101 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-05T06:15:13+09:00",
+  "updatedAt": "2026-11-06T06:27:01+09:00",
   "status": "success",
-  "gameCount": 100,
+  "gameCount": 99,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 949,
+    "candidateCount": 952,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000123390",
-      "id": "70010000123390",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Stellar Blade™ コンプリートエディション",
-      "edition": null,
-      "publisher": "SHIFT UP",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.6",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-06",
-      "releaseAt": null,
-      "price": 7980.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000123390",
-      "image": "https://img-eshop.cdn.nintendo.net/i/175f1ae5bd50ad1a938848251d4a01f5c1f41c8bdd556467eee9cb73b9cbd360.jpg",
-      "versions": [
-        {
-          "key": "70010000123390",
-          "id": "70010000123390",
-          "title": "Stellar Blade™ コンプリートエディション",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000123390",
-          "price": 7980.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000140853",
-      "id": "70010000140853",
-      "conceptId": null,
-      "region": "jp",
-      "title": "天空の世界シェルテーラ Nintendo Switch 2 Edition",
-      "edition": null,
-      "publisher": "ケムコ",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.6",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-06",
-      "releaseAt": null,
-      "price": 1476.0,
-      "originalPrice": 1640.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 1476.0,
-        "originalPrice": 1640.0,
-        "discountPercent": 10.0,
-        "startsAt": "2026-10-30T00:00:00+09:00",
-        "endsAt": "2026-11-19T23:59:59+09:00",
-        "endsAtRaw": "2026-11-19 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000140853",
-      "image": "https://img-eshop.cdn.nintendo.net/i/4e19f95bd1ba8cbc9e5ffbb74011e54f405c85a37128a81b9b6a7d0dfbfda483.jpg",
-      "versions": [
-        {
-          "key": "70010000140853",
-          "id": "70010000140853",
-          "title": "天空の世界シェルテーラ Nintendo Switch 2 Edition",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000140853",
-          "price": 1476.0,
-          "originalPrice": 1640.0,
-          "offer": {
-            "scope": "public",
-            "price": 1476.0,
-            "originalPrice": 1640.0,
-            "discountPercent": 10.0,
-            "startsAt": "2026-10-30T00:00:00+09:00",
-            "endsAt": "2026-11-19T23:59:59+09:00",
-            "endsAtRaw": "2026-11-19 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000128286",
       "id": "70010000128286",
@@ -230,6 +146,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000104817",
           "price": 4980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000118238",
+      "id": "70010000118238",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Harold Halibut",
+      "edition": null,
+      "publisher": "Slow Bros.",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.11.12",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 4100.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000118238",
+      "image": "https://img-eshop.cdn.nintendo.net/i/10e051ad4e98ca3e0bdb79da3463a21ca4cf434b33c1d57152ec7d0a357aac71.jpg",
+      "versions": [
+        {
+          "key": "70010000118238",
+          "id": "70010000118238",
+          "title": "Harold Halibut",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000118238",
+          "price": 4100.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1667,7 +1617,7 @@
       "datePrecision": "day",
       "releaseDate": "2027-01-14",
       "releaseAt": null,
-      "price": null,
+      "price": 7480.0,
       "originalPrice": null,
       "currency": "JPY",
       "offer": null,
@@ -1681,7 +1631,7 @@
           "title": "スーパーダンガンロンパ２×２",
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000104545",
-          "price": null,
+          "price": 7480.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
