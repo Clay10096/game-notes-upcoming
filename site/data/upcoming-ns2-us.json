@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-04T08:59:12-08:00",
+  "updatedAt": "2026-11-05T08:15:45-08:00",
   "status": "success",
-  "gameCount": 28,
+  "gameCount": 25,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,124 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000119217",
-      "id": "70010000119217",
-      "conceptId": null,
-      "region": "us",
-      "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-      "edition": "Standard Edition",
-      "publisher": "CDE Entertainment",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-05T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 35.99,
-      "originalPrice": 39.99,
-      "currency": "USD",
-      "offer": {
-        "scope": "public",
-        "price": 35.99,
-        "originalPrice": 39.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-05T07:59:59Z",
-        "endsAtRaw": null
-      },
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/marvels-guardians-of-the-galaxy-encore-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000119217/e5e428d9a5f68f04f29fdce424ee4b76c903814e1a6c825f8e21b3634bcafbe9",
-      "versions": [
-        {
-          "key": "70010000119217",
-          "id": "70010000119217",
-          "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/marvels-guardians-of-the-galaxy-encore-edition-switch-2/",
-          "price": 35.99,
-          "originalPrice": 39.99,
-          "offer": {
-            "scope": "public",
-            "price": 35.99,
-            "originalPrice": 39.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-05T07:59:59Z",
-            "endsAtRaw": null
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000123388",
-      "id": "70010000123388",
-      "conceptId": null,
-      "region": "us",
-      "title": "Stellar Blade™ Complete Edition",
-      "edition": "Standard Edition",
-      "publisher": "SHIFT UP",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-05T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/614421e4ec954be5b3b95e0cf5be16e0_1024",
-      "versions": [
-        {
-          "key": "70010000123388",
-          "id": "70010000123388",
-          "title": "Stellar Blade™ Complete Edition",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000130792",
-      "id": "70010000130792",
-      "conceptId": null,
-      "region": "us",
-      "title": "The Legend of Zelda™: Ocarina of Time",
-      "edition": "Standard Edition",
-      "publisher": "Nintendo",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-05T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": null,
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000130792/da79eecb8ff4a1918790e0084cfcf8581a40f4864854e7a95615f5d43f41f937",
-      "versions": [
-        {
-          "key": "70010000130792",
-          "id": "70010000130792",
-          "title": "The Legend of Zelda™: Ocarina of Time",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000121956",
       "id": "70010000121956",
@@ -155,7 +37,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/hasbro-games-junior-collection-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5e7731856e5c41aeaa364502c122bd90_1024",
+      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/459744910d974420ac9f37b4f842ac0f_1024",
       "versions": [
         {
           "key": "70010000121956",
