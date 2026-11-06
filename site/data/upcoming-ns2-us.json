@@ -5,53 +5,19 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-05T08:15:45-08:00",
+  "updatedAt": "2026-11-06T07:45:20-08:00",
   "status": "success",
-  "gameCount": 25,
+  "gameCount": 32,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
-    "candidateCount": 37,
+    "candidateCount": 48,
     "coverage": "official-curated-page",
     "notes": [
       "美服来源为任天堂公开的 Coming Soon 精选页，可能不包含全部待发售游戏。"
     ]
   },
   "games": [
-    {
-      "key": "70010000121956",
-      "id": "70010000121956",
-      "conceptId": null,
-      "region": "us",
-      "title": "Hasbro Games™ Junior Collection",
-      "edition": "Standard Edition",
-      "publisher": "Outright Games",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-06T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-06",
-      "releaseAt": null,
-      "price": 29.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/hasbro-games-junior-collection-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/459744910d974420ac9f37b4f842ac0f_1024",
-      "versions": [
-        {
-          "key": "70010000121956",
-          "id": "70010000121956",
-          "title": "Hasbro Games™ Junior Collection",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/hasbro-games-junior-collection-switch-2/",
-          "price": 29.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000116414",
       "id": "70010000116414",
@@ -71,7 +37,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/raccoin-chaos-max-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000116414/dbc2c6b289d500c7fe69feb7815db8bacbc3ac82d0d24c96ac64c2e0fc225800",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000116414/dbc2c6b289d500c7fe69feb7815db8bacbc3ac82d0d24c96ac64c2e0fc225800",
       "versions": [
         {
           "key": "70010000116414",
@@ -113,7 +79,7 @@
       },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/shrek-2-remastered-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000101621/b85212e1ff7ded68d6ec393c2c4e9af4e99ce43e50795a3810d8b9c3f87b5e77",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000101621/b85212e1ff7ded68d6ec393c2c4e9af4e99ce43e50795a3810d8b9c3f87b5e77",
       "versions": [
         {
           "key": "70010000101621",
@@ -155,7 +121,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/tanuki-pons-summer-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000134017/58a1a117d1f65ca3891fe316e49d891dc950b00dbf5b8c18a41a70be82482a93",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000134017/58a1a117d1f65ca3891fe316e49d891dc950b00dbf5b8c18a41a70be82482a93",
       "versions": [
         {
           "key": "70010000134017",
@@ -163,6 +129,124 @@
           "title": "TANUKI: Pon's Summer",
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/tanuki-pons-summer-switch-2/",
+          "price": 19.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000112389",
+      "id": "70010000112389",
+      "conceptId": null,
+      "region": "us",
+      "title": "Warhammer Survivors",
+      "edition": "Standard Edition",
+      "publisher": "Auroch Digital",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-10T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-10",
+      "releaseAt": null,
+      "price": 7.19,
+      "originalPrice": 7.99,
+      "currency": "USD",
+      "offer": {
+        "scope": "public",
+        "price": 7.19,
+        "originalPrice": 7.99,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2026-11-18T07:59:59Z",
+        "endsAtRaw": null
+      },
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/warhammer-survivors-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000112389/4155f75346f9c8d8096c04b97ef9a4fa5c96f15ea7d944123f9d9416d136adf0",
+      "versions": [
+        {
+          "key": "70010000112389",
+          "id": "70010000112389",
+          "title": "Warhammer Survivors",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/warhammer-survivors-switch-2/",
+          "price": 7.19,
+          "originalPrice": 7.99,
+          "offer": {
+            "scope": "public",
+            "price": 7.19,
+            "originalPrice": 7.99,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2026-11-18T07:59:59Z",
+            "endsAtRaw": null
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000138432",
+      "id": "70010000138432",
+      "conceptId": null,
+      "region": "us",
+      "title": "Prinny Party: Going Overboard! – Nintendo Switch™ 2 Edition",
+      "edition": "Standard Edition",
+      "publisher": "NIS America",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-11T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-11",
+      "releaseAt": null,
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000138432/55d1e4bb4ad1580e5e46919df4781bf42ea17cd3cbdfb14a2b56359701bdd1e4",
+      "versions": [
+        {
+          "key": "70010000138432",
+          "id": "70010000138432",
+          "title": "Prinny Party: Going Overboard! – Nintendo Switch™ 2 Edition",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-switch-2/",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000125621",
+      "id": "70010000125621",
+      "conceptId": null,
+      "region": "us",
+      "title": "Adorable Adventures",
+      "edition": "Standard Edition",
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-12T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 19.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/adorable-adventures-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000125621/ee696d4f355137d77d69481806781c49753e1d2ded175130080803a4a941b385",
+      "versions": [
+        {
+          "key": "70010000125621",
+          "id": "70010000125621",
+          "title": "Adorable Adventures",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/adorable-adventures-switch-2/",
           "price": 19.99,
           "originalPrice": null,
           "offer": null,
@@ -189,7 +273,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000105915/0f5874d364377a4acfde5a8ed55cb41d7afaf0956f322470e79dce3d252e6522",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000105915/0f5874d364377a4acfde5a8ed55cb41d7afaf0956f322470e79dce3d252e6522",
       "versions": [
         {
           "key": "70010000105915",
@@ -223,7 +307,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000135059/a11858d1cda9e1760a7360a0613a382c8e38e2d53cc4162916d7c96151e0b30a",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000135059/a11858d1cda9e1760a7360a0613a382c8e38e2d53cc4162916d7c96151e0b30a",
       "versions": [
         {
           "key": "70010000135059",
@@ -232,6 +316,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000130093",
+      "id": "70010000130093",
+      "conceptId": null,
+      "region": "us",
+      "title": "Supermarket Simulator",
+      "edition": "Standard Edition",
+      "publisher": "Silver Lining",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-12T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-12",
+      "releaseAt": null,
+      "price": 19.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/supermarket-simulator-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000130093/c1ecdb5bc14f6bd330268d42f2b1588d0047466ec0c396dcc11228201a50485d",
+      "versions": [
+        {
+          "key": "70010000130093",
+          "id": "70010000130093",
+          "title": "Supermarket Simulator",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/supermarket-simulator-switch-2/",
+          "price": 19.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -265,7 +383,7 @@
       },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/spirit-crossing-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000129965/7b863ba10659b47cc2bb8b44b6fe47113bab47e0d118ff3635a81bbc901699ca",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000129965/7b863ba10659b47cc2bb8b44b6fe47113bab47e0d118ff3635a81bbc901699ca",
       "versions": [
         {
           "key": "70010000129965",
@@ -315,7 +433,7 @@
       },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/reverie-in-the-moonlight-nintendo-switch-2-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000126956/c4d6f1db09d23fff34e5137366be63440bc48397de970dbf9232a602e6b9d825",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000126956/c4d6f1db09d23fff34e5137366be63440bc48397de970dbf9232a602e6b9d825",
       "versions": [
         {
           "key": "70010000126956",
@@ -357,7 +475,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/the-binding-of-isaac-repentance-plus-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/da141bc043004005b41b8d230f46b2e1_1024",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/https://atum-img-lp1.cdn.nintendo.net/i/c/da141bc043004005b41b8d230f46b2e1_1024",
       "versions": [
         {
           "key": "70010000106369",
@@ -399,7 +517,7 @@
       },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/the-ascent-ultimate-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000123180/f6229526aacf3b4904f6a8022191c1c70e1f4c84c3159ee64e04c67d66614539",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000123180/f6229526aacf3b4904f6a8022191c1c70e1f4c84c3159ee64e04c67d66614539",
       "versions": [
         {
           "key": "70010000123180",
@@ -441,7 +559,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-withered-world-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000111167/438aec37db2246282f2bf803ea833ceca9cfd73ffa56cf0c2ce599ab8a1d7cbe",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000111167/438aec37db2246282f2bf803ea833ceca9cfd73ffa56cf0c2ce599ab8a1d7cbe",
       "versions": [
         {
           "key": "70010000111167",
@@ -491,6 +609,40 @@
       ]
     },
     {
+      "key": "70010000140787",
+      "id": "70010000140787",
+      "conceptId": null,
+      "region": "us",
+      "title": "Thief: The Dark Project Remastered: Nintendo Switch 2 Edition",
+      "edition": "Standard Edition",
+      "publisher": "Atari",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 29.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/thief-the-dark-project-remastered-nintendo-switch-2-edition-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000140787/f3d5d7ef5db4eeb8a7a0859df0802f80d22b1bedb0f7635b71a5200f8bdeb418",
+      "versions": [
+        {
+          "key": "70010000140787",
+          "id": "70010000140787",
+          "title": "Thief: The Dark Project Remastered: Nintendo Switch 2 Edition",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/thief-the-dark-project-remastered-nintendo-switch-2-edition-switch-2/",
+          "price": 29.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000122696",
       "id": "70010000122696",
       "conceptId": null,
@@ -509,7 +661,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-nintendo-switch-2-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000122696/c76451c966de42b096130dd926a2e4aa6120320b5061b890a9a017db7cef678f",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000122696/c76451c966de42b096130dd926a2e4aa6120320b5061b890a9a017db7cef678f",
       "versions": [
         {
           "key": "70010000122696",
@@ -551,7 +703,7 @@
       },
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-wilds-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000102602/90d2c8d6cd4faf3af5fab5443afd19a06cb64aed05b9f2f23d4400fd5d38dac1",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000102602/90d2c8d6cd4faf3af5fab5443afd19a06cb64aed05b9f2f23d4400fd5d38dac1",
       "versions": [
         {
           "key": "70010000102602",
@@ -575,6 +727,40 @@
       ]
     },
     {
+      "key": "70010000104377",
+      "id": "70010000104377",
+      "conceptId": null,
+      "region": "us",
+      "title": "Attack on Titan 3",
+      "edition": "Standard Edition",
+      "publisher": "KOEI TECMO AMERICA",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-10T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": null,
+      "price": 69.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/attack-on-titan-3-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000104377/4f0a9482e204b9482e3b1a8effc53a21e5a897e222f30d247ac3fae1ac7a89f1",
+      "versions": [
+        {
+          "key": "70010000104377",
+          "id": "70010000104377",
+          "title": "Attack on Titan 3",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/attack-on-titan-3-switch-2/",
+          "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000135071",
       "id": "70010000135071",
       "conceptId": null,
@@ -593,7 +779,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000135071/132aff63415dde9ad264109aa5fbae78390aa3fb9d039e704a91fe0f6c3750de",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000135071/132aff63415dde9ad264109aa5fbae78390aa3fb9d039e704a91fe0f6c3750de",
       "versions": [
         {
           "key": "70010000135071",
@@ -627,7 +813,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/witchbrook-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000136264/2e50db42a9b285da6f7aaf401845cbf4fe5f99cf0f1c8d55c4b8de1fe3883153",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000136264/2e50db42a9b285da6f7aaf401845cbf4fe5f99cf0f1c8d55c4b8de1fe3883153",
       "versions": [
         {
           "key": "70010000136264",
@@ -636,6 +822,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/witchbrook-switch-2/",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000136192",
+      "id": "70010000136192",
+      "conceptId": null,
+      "region": "us",
+      "title": "Spyder: Agent 8",
+      "edition": "Standard Edition",
+      "publisher": "PQube",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-02-11T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-11",
+      "releaseAt": null,
+      "price": 12.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/spyder-agent-8-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000136192/9825a9bcbd33fa7d99e7c4237dd6f3bf309ea2a578422a31c088e0c4afb0532f",
+      "versions": [
+        {
+          "key": "70010000136192",
+          "id": "70010000136192",
+          "title": "Spyder: Agent 8",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/spyder-agent-8-switch-2/",
+          "price": 12.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -661,7 +881,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/tomb-raider-legacy-of-atlantis-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000120170/ebca2a778a41c273072549b5f91cd89c2fb199eb882d16744b605e3b1bb58c9a",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000120170/ebca2a778a41c273072549b5f91cd89c2fb199eb882d16744b605e3b1bb58c9a",
       "versions": [
         {
           "key": "70010000120170",
@@ -695,7 +915,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/romancing-saga-3-destinies-united-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000114053/461953d171f9d87747cb5c2ec87112f70c1ba45d5f1b1a16315acdb1ab860132",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000114053/461953d171f9d87747cb5c2ec87112f70c1ba45d5f1b1a16315acdb1ab860132",
       "versions": [
         {
           "key": "70010000114053",
@@ -729,7 +949,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/yu-gi-oh-tag-force-gx-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000120387/0cddadb139e4063dc2079fd8f7f5aa714ba2f7fb03b4694356219145c0f3921b",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000120387/0cddadb139e4063dc2079fd8f7f5aa714ba2f7fb03b4694356219145c0f3921b",
       "versions": [
         {
           "key": "70010000120387",
@@ -763,7 +983,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-definitive-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000133213/9a1a8282113a1c18e2191f5c1786c94fba35528d75bb198e288e4fc2aca3d401",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000133213/9a1a8282113a1c18e2191f5c1786c94fba35528d75bb198e288e4fc2aca3d401",
       "versions": [
         {
           "key": "70010000133213",
@@ -772,6 +992,40 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-definitive-edition-switch-2/",
           "price": 59.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000125132",
+      "id": "70010000125132",
+      "conceptId": null,
+      "region": "us",
+      "title": "Ys VIII: Lacrimosa of DANA",
+      "edition": "Standard Edition",
+      "publisher": "NIS America",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-02-25T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-25",
+      "releaseAt": null,
+      "price": 39.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/ys-viii-lacrimosa-of-dana-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/https://atum-img-lp1.cdn.nintendo.net/i/c/3eb049ac5c164c4c9ca644b13fbafd36_1024",
+      "versions": [
+        {
+          "key": "70010000125132",
+          "id": "70010000125132",
+          "title": "Ys VIII: Lacrimosa of DANA",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/ys-viii-lacrimosa-of-dana-switch-2/",
+          "price": 39.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -797,7 +1051,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/trine-6-together-in-time-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000115287/311f666ba0abea6c487033f30b3623934dbe46ea062d65ea1c235c085f0d8802",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000115287/311f666ba0abea6c487033f30b3623934dbe46ea062d65ea1c235c085f0d8802",
       "versions": [
         {
           "key": "70010000115287",
@@ -831,7 +1085,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/petal-runner-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000135474/32186b76909cce51be301d111a919010b9b0d1e4949eee4816a45d68f0f128ed",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000135474/32186b76909cce51be301d111a919010b9b0d1e4949eee4816a45d68f0f128ed",
       "versions": [
         {
           "key": "70010000135474",
@@ -865,7 +1119,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/007-first-light-deluxe-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/793b8a6a126e4b92be8e5433879c1e2a_1024",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/https://atum-img-lp1.cdn.nintendo.net/i/c/793b8a6a126e4b92be8e5433879c1e2a_1024",
       "versions": [
         {
           "key": "70010000099813",
@@ -899,7 +1153,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-vii-revelation-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000130407/67ac49e0c7aca8a2ca4742751a5a1d190ef372692577ac87b0534d11d11b2cf1",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000130407/67ac49e0c7aca8a2ca4742751a5a1d190ef372692577ac87b0534d11d11b2cf1",
       "versions": [
         {
           "key": "70010000130407",
@@ -933,7 +1187,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/haunted-paws-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/w_160/q_auto/f_auto/store/software/switch2/70010000133757/b9a71ac36129638f72126597654ad054734aa7322822ae768c6a8f62a2ff9f8a",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000133757/b9a71ac36129638f72126597654ad054734aa7322822ae768c6a8f62a2ff9f8a",
       "versions": [
         {
           "key": "70010000133757",

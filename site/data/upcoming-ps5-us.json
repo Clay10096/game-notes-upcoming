@@ -5,158 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-05T08:18:31-08:00",
+  "updatedAt": "2026-11-06T07:47:18-08:00",
   "status": "success",
-  "gameCount": 82,
+  "gameCount": 79,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 107,
-    "productPages": 145,
+    "candidateCount": 101,
+    "productPages": 137,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "c3a27ee7d962b4e5c8de",
-      "id": null,
-      "conceptId": "10019536",
-      "region": "us",
-      "title": "Zero Caliber 2 Remastered",
-      "edition": null,
-      "publisher": "XREAL GAMES LTD.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-05",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-05",
-      "releaseAt": "2026-11-05T18:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019536",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0715/538894125dde5a240a46207d2ac1f77b3043699556684735.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c3a27ee7d962b4e5c8de",
-          "id": null,
-          "title": "Zero Caliber 2 Remastered",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019536",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0710/d16c65746450f13acbaa142de791722930801589881a176f.png?w=160&thumb=false"
-    },
-    {
-      "key": "337b387fb6f377882e20",
-      "id": null,
-      "conceptId": "10018611",
-      "region": "us",
-      "title": "Hasbro Games™ Junior Collection",
-      "edition": null,
-      "publisher": "Outright Games LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-06",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-06",
-      "releaseAt": "2026-11-06T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10018611",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0811/525741f1a607c97b30b5d62fd5648d4b272d30004e8f7998.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "337b387fb6f377882e20",
-          "id": null,
-          "title": "Hasbro Games™ Junior Collection",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10018611",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0811/7c5cf689e334a518b19f001c729a8e15a6af47950a572183.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "8d16169d49883540b75d",
-      "id": null,
-      "conceptId": "10020053",
-      "region": "us",
-      "title": "Shelterra the Skyworld",
-      "edition": null,
-      "publisher": "KEMCO",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-06",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-06",
-      "releaseAt": "2026-11-06T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020053",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/34a3389873d8402770a0b226d29f410aaa169960eb07fc0e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "8d16169d49883540b75d",
-          "id": null,
-          "title": "Shelterra the Skyworld",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020053",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0706/759dba97bdf80a45bd7ce87c981f0a2a822a5948c6e8a39e.png?w=160&thumb=false"
-    },
-    {
-      "key": "460e7b941d9cbc1c1e02",
-      "id": null,
-      "conceptId": "10017858",
-      "region": "us",
-      "title": "Ultimate Theater Simulator",
-      "edition": null,
-      "publisher": "Steelbox Games LLC",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-06",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-06",
-      "releaseAt": "2026-11-06T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017858",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2700/f9fb91b72996fe7a3cc6952d9abc4e0bbc7a9d81cbf3463b.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "460e7b941d9cbc1c1e02",
-          "id": null,
-          "title": "Ultimate Theater Simulator",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017858",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2100/8c172ea8924756edd0ec974126b30db68bd1541dc77c5316.png?w=160&thumb=false"
-    },
     {
       "key": "c21dd24e82ed6ed716b5",
       "id": null,
@@ -433,6 +293,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/aa87eb0f52131d43852a74e3bdcd6175a527de6a4ffbc48e.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "fd8b147cd2457e4fbf30",
+      "id": null,
+      "conceptId": "10021173",
+      "region": "us",
+      "title": "Draw It, Human!",
+      "edition": null,
+      "publisher": "Valdir de Freitas Vicente trading as MVCAO Studios",
+      "platform": "ps5",
+      "releaseDateRaw": "11/13/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-13",
+      "releaseAt": "2026-11-13T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10021173",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1003/b123e18fc214be85a6db791e4d562a04ce58d134c50a81fa.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "fd8b147cd2457e4fbf30",
+          "id": null,
+          "title": "Draw It, Human!",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10021173",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1003/f29dd06083341857aa7ad33c928a0c482a2dc93a8c2c34bb.png?w=160&thumb=false"
     },
     {
       "key": "881c773b84deaaf1d463",
@@ -944,10 +839,10 @@
       "edition": null,
       "publisher": "Feel Free Games B.V.",
       "platform": "ps5",
-      "releaseDateRaw": "12/2/2026 11:00 AM UTC",
+      "releaseDateRaw": "12/2/2026 01:00 PM UTC",
       "datePrecision": "day",
       "releaseDate": "2026-12-02",
-      "releaseAt": "2026-12-02T11:00:00+00:00",
+      "releaseAt": "2026-12-02T13:00:00+00:00",
       "price": null,
       "originalPrice": null,
       "currency": "USD",
@@ -969,6 +864,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0115/77a0008afeae93951224323771eedd9b2e3774e777d26079.png?w=160&thumb=false"
+    },
+    {
+      "key": "30cd21515fb823460e77",
+      "id": null,
+      "conceptId": "10009959",
+      "region": "us",
+      "title": "Aeterna Lucis",
+      "edition": null,
+      "publisher": "Aeternum Game Studios S.L",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026 05:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T17:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10009959",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0311/c54c0ab45e0ff59fe318f763c11c05e1cf6adca590c865dc.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "30cd21515fb823460e77",
+          "id": null,
+          "title": "Aeterna Lucis",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10009959",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0311/ab7543d8129a9fcf5bc0f30418713ea01f477ed71b896d91.jpg?w=160&thumb=false"
     },
     {
       "key": "JP0082-PPSA32281_00-DQM4000000000000",
@@ -3014,41 +2944,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/5e40f86d03506ce64887b8094f8350f3312f296b9206d28b.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "1588c91d52f9d1961a0d",
-      "id": null,
-      "conceptId": "10020330",
-      "region": "us",
-      "title": "Don Bradman Cricket JR",
-      "edition": null,
-      "publisher": "Home Entertainment Suppliers",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020330",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0203/623438032a1ea9e7e9995e7e5f7df4f3cd9cebd4a2b4ad34.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "1588c91d52f9d1961a0d",
-          "id": null,
-          "title": "Don Bradman Cricket JR",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020330",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0203/587b5e6a13bc4ef2168cd255d8754e382bd2446618c98033.png?w=160&thumb=false"
     },
     {
       "key": "c19199dd888d432123aa",
