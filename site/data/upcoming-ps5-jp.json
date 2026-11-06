@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-06T06:28:11+09:00",
+  "updatedAt": "2026-11-07T05:51:43+09:00",
   "status": "success",
-  "gameCount": 51,
+  "gameCount": 52,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 63,
-    "productPages": 63,
+    "candidateCount": 65,
+    "productPages": 65,
     "coverage": "official-category",
     "notes": []
   },
@@ -207,6 +207,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0714/8b8493a89d6be0884d326bd8d9fdeefac9d76eb310077406.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+      "id": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+      "conceptId": "10019576",
+      "region": "jp",
+      "title": "Winx Club - Moonlight Quest",
+      "edition": null,
+      "publisher": "BALIO STUDIO SRL",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/11/29",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-29",
+      "releaseAt": "2026-11-29T15:00:00+00:00",
+      "price": 6490.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 5516.0,
+        "originalPrice": 6490.0,
+        "discountPercent": 15.0,
+        "startsAt": null,
+        "endsAt": "2026-11-29T15:00:00.000Z",
+        "endsAtRaw": "2026-11-29T15:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/ja-jp/product/EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/48ac14138c624893d5aa17344d2e6ab4ec4bb74385a3eb4c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+          "id": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+          "title": "Winx Club - Moonlight Quest",
+          "edition": null,
+          "url": "https://store.playstation.com/ja-jp/product/EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+          "price": 6490.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 5516.0,
+            "originalPrice": 6490.0,
+            "discountPercent": 15.0,
+            "startsAt": null,
+            "endsAt": "2026-11-29T15:00:00.000Z",
+            "endsAtRaw": "2026-11-29T15:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/18f45f30ed1e1113c1c0983f1024e7d2d8b9866abafa8ce1.png?w=160&thumb=false"
     },
     {
       "key": "EP1439-PPSA36395_00-0856144322518238",
