@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-06T07:45:20-08:00",
+  "updatedAt": "2026-11-07T06:44:51-08:00",
   "status": "success",
   "gameCount": 32,
   "source": {
@@ -121,7 +121,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/tanuki-pons-summer-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000134017/58a1a117d1f65ca3891fe316e49d891dc950b00dbf5b8c18a41a70be82482a93",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000134017/a142be516440d53b660beb19263b48c33f01bf38f9f9fcdb9cc3b02aa0c048a2",
       "versions": [
         {
           "key": "70010000134017",

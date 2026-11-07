@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-06T07:47:18-08:00",
+  "updatedAt": "2026-11-07T06:47:10-08:00",
   "status": "success",
   "gameCount": 79,
   "source": {
@@ -122,7 +122,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/en-us/concept/10019799",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2310/1f3974db41ed0d3e50095c3513701284164d70d7347b7ebb.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0616/3b82c64d2913caa3e953ff250163d5caa740a21b4bd1f9f9.png?w=160&thumb=false",
       "versions": [
         {
           "key": "b3ac565f58091bca6339",
@@ -136,7 +136,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2310/412410bc22690cb307eaa962845eb88fc49ea85d098fcfdb.jpg?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0617/745e0ea8e558faa56f3e2493edc2b0d77282dbe1b56f37f6.jpg?w=160&thumb=false"
     },
     {
       "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
