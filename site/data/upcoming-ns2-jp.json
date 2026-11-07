@@ -5,9 +5,9 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-07T05:50:18+09:00",
+  "updatedAt": "2026-11-08T04:22:20+09:00",
   "status": "success",
-  "gameCount": 99,
+  "gameCount": 98,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
@@ -16,40 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000128286",
-      "id": "70010000128286",
-      "conceptId": null,
-      "region": "jp",
-      "title": "ローリングガンナー+オーバーパワー",
-      "edition": null,
-      "publisher": "メビウス",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.8",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-08",
-      "releaseAt": null,
-      "price": 2980.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000128286",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a9a492ae76cabc8893877d2c3e212cb7f96f1f9b86207bc36c8acedabebd2012.jpg",
-      "versions": [
-        {
-          "key": "70010000128286",
-          "id": "70010000128286",
-          "title": "ローリングガンナー+オーバーパワー",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000128286",
-          "price": 2980.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000116416",
       "id": "70010000116416",
