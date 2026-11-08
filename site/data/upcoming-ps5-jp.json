@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-08T04:23:30+09:00",
+  "updatedAt": "2026-11-09T04:35:03+09:00",
   "status": "success",
-  "gameCount": 52,
+  "gameCount": 54,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 65,
-    "productPages": 65,
+    "candidateCount": 68,
+    "productPages": 68,
     "coverage": "official-category",
     "notes": []
   },
@@ -1747,6 +1747,87 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2823/015f968089869ea9a0c6589190eedf3dabab77e715dc8cec.png?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA37010_00-KARIA10000MASTER",
+      "id": "JP0106-PPSA37010_00-KARIA10000MASTER",
+      "conceptId": "10019113",
+      "region": "jp",
+      "title": "カリアのアトリエ ～夜の王国と追憶の道標～",
+      "edition": "通常版",
+      "publisher": "(株)コーエーテクモゲームス",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/2/24",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-24",
+      "releaseAt": "2027-02-24T15:00:00+00:00",
+      "price": 9680.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA37010_00-KARIA10000MASTER",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2402/5e215992f79bd972ea3ec240a8a48bea86b06b66c1777d3b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA37010_00-KARIA10000MASTER",
+          "id": "JP0106-PPSA37010_00-KARIA10000MASTER",
+          "title": "カリアのアトリエ ～夜の王国と追憶の道標～",
+          "edition": "通常版",
+          "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA37010_00-KARIA10000MASTER",
+          "price": 9680.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA37010_00-KARIA00000DDX000",
+          "id": "JP0106-PPSA37010_00-KARIA00000DDX000",
+          "title": "カリアのアトリエ ～夜の王国と追憶の道標～ Digital Deluxe",
+          "edition": "Digital Deluxe",
+          "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA37010_00-KARIA00000DDX000",
+          "price": 11110.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1504/dd5cf919ceb9b4c2af10eb14816d9e00c792118c200cdd2a.png?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+      "id": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+      "conceptId": "10019113",
+      "region": "jp",
+      "title": "カリアのアトリエ ～夜の王国と追憶の道標～ Digital Deluxe with Season Pass",
+      "edition": "Digital Deluxe with シーズンパス",
+      "publisher": "(株)コーエーテクモゲームス",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/2/24",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-24",
+      "releaseAt": "2027-02-24T15:00:00+00:00",
+      "price": 14960.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA37010_00-KARIA000DDXSP000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1402/7e30ee172d4e39b37954cf542754ac0f924e3c0b77e7dfac.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "id": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "title": "カリアのアトリエ ～夜の王国と追憶の道標～ Digital Deluxe with Season Pass",
+          "edition": "Digital Deluxe with シーズンパス",
+          "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "price": 14960.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1402/865add7325eabfef3e70d412b1eac0aacc7abdd3af835477.png?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA34857_00-WOLONG2000000000",
