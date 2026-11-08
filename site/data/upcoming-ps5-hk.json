@@ -5,14 +5,14 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-08T04:00:42+08:00",
+  "updatedAt": "2026-11-09T04:18:35+08:00",
   "status": "success",
-  "gameCount": 55,
+  "gameCount": 57,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 68,
-    "productPages": 68,
+    "candidateCount": 71,
+    "productPages": 71,
     "coverage": "official-category",
     "notes": []
   },
@@ -1726,6 +1726,87 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2823/015f968089869ea9a0c6589190eedf3dabab77e715dc8cec.png?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA37010_00-KARIA10000MASTER",
+      "id": "JP0106-PPSA37010_00-KARIA10000MASTER",
+      "conceptId": "10019113",
+      "region": "hk",
+      "title": "卡莉亞的鍊金工房 ～夜之王國與追憶之道標～ (中日英韓文版)",
+      "edition": "一般版",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-02-24",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-24",
+      "releaseAt": "2027-02-24T16:00:00+00:00",
+      "price": 528.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA37010_00-KARIA10000MASTER",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2402/3605b747805ac471150aeed62210869b83845ded9b433a4b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA37010_00-KARIA10000MASTER",
+          "id": "JP0106-PPSA37010_00-KARIA10000MASTER",
+          "title": "卡莉亞的鍊金工房 ～夜之王國與追憶之道標～ (中日英韓文版)",
+          "edition": "一般版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA37010_00-KARIA10000MASTER",
+          "price": 528.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA37010_00-KARIA00000DDX000",
+          "id": "JP0106-PPSA37010_00-KARIA00000DDX000",
+          "title": "卡莉亞的鍊金工房 ～夜之王國與追憶之道標～ 數位豪華版 (中日英韓文版)",
+          "edition": "數位豪華版",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA37010_00-KARIA00000DDX000",
+          "price": 628.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1504/dd5cf919ceb9b4c2af10eb14816d9e00c792118c200cdd2a.png?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+      "id": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+      "conceptId": "10019113",
+      "region": "hk",
+      "title": "卡莉亞的鍊金工房 ～夜之王國與追憶之道標～ 數位豪華版 with 季票 (中日英韓文版)",
+      "edition": "數位豪華版 with 季票",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-02-24",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-24",
+      "releaseAt": "2027-02-24T16:00:00+00:00",
+      "price": 898.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA37010_00-KARIA000DDXSP000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1402/8e79e17da341eef24b5e73fba85adede2aec6bca9522f3ca.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "id": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "title": "卡莉亞的鍊金工房 ～夜之王國與追憶之道標～ 數位豪華版 with 季票 (中日英韓文版)",
+          "edition": "數位豪華版 with 季票",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "price": 898.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1402/865add7325eabfef3e70d412b1eac0aacc7abdd3af835477.png?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA34857_00-WOLONG2DDX000000",
