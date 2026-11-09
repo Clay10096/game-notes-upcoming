@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-08T06:52:53-08:00",
+  "updatedAt": "2026-11-09T10:32:07-08:00",
   "status": "success",
-  "gameCount": 79,
+  "gameCount": 81,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 102,
-    "productPages": 138,
+    "candidateCount": 105,
+    "productPages": 143,
     "coverage": "official-category",
     "notes": []
   },
@@ -26,7 +26,7 @@
       "edition": null,
       "publisher": "TOP HAT STUDIOS, INC.",
       "platform": "ps5",
-      "releaseDateRaw": "11/10/2026 04:00 PM UTC",
+      "releaseDateRaw": "2026-11-10",
       "datePrecision": "day",
       "releaseDate": "2026-11-10",
       "releaseAt": "2026-11-10T16:00:00+00:00",
@@ -112,7 +112,7 @@
       "edition": null,
       "publisher": "INPLERON LTD",
       "platform": "ps5",
-      "releaseDateRaw": "11/10/2026 10:00 AM UTC",
+      "releaseDateRaw": "2026-11-10",
       "datePrecision": "day",
       "releaseDate": "2026-11-10",
       "releaseAt": "2026-11-10T10:00:00+00:00",
@@ -293,6 +293,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/aa87eb0f52131d43852a74e3bdcd6175a527de6a4ffbc48e.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "7f1c1dfc56c98f78ad20",
+      "id": null,
+      "conceptId": "10020388",
+      "region": "us",
+      "title": "DERELIKT",
+      "edition": null,
+      "publisher": "Hyperstrange Sp. z o.o.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/13/2026 06:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-13",
+      "releaseAt": "2026-11-13T18:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020388",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/524f2f54e7cac8df88bd0eb183a66fada89e633e58e9b13e.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "7f1c1dfc56c98f78ad20",
+          "id": null,
+          "title": "DERELIKT",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020388",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/5e40f86d03506ce64887b8094f8350f3312f296b9206d28b.jpg?w=160&thumb=false"
     },
     {
       "key": "fd8b147cd2457e4fbf30",
@@ -2482,6 +2517,63 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2823/015f968089869ea9a0c6589190eedf3dabab77e715dc8cec.png?w=160&thumb=false"
     },
     {
+      "key": "JP0106-PPSA37010_00-KARIA10000MASTER",
+      "id": "JP0106-PPSA37010_00-KARIA10000MASTER",
+      "conceptId": "10019113",
+      "region": "us",
+      "title": "Atelier Karia: The Night Kingdom & the Guide of Memories",
+      "edition": "Standard Edition",
+      "publisher": "KOEI TECMO America",
+      "platform": "ps5",
+      "releaseDateRaw": "2/25/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-25",
+      "releaseAt": "2027-02-25T05:00:00+00:00",
+      "price": 69.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/JP0106-PPSA37010_00-KARIA10000MASTER",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2402/3bb5d81a79147dace76c1e536a8d83abcc900426cac0b42c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA37010_00-KARIA10000MASTER",
+          "id": "JP0106-PPSA37010_00-KARIA10000MASTER",
+          "title": "Atelier Karia: The Night Kingdom & the Guide of Memories",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/en-us/product/JP0106-PPSA37010_00-KARIA10000MASTER",
+          "price": 69.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA37010_00-KARIA00000DDX000",
+          "id": "JP0106-PPSA37010_00-KARIA00000DDX000",
+          "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Digital Deluxe Edition",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/en-us/product/JP0106-PPSA37010_00-KARIA00000DDX000",
+          "price": 79.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "id": "JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Ultimate Edition",
+          "edition": "Ultimate Edition",
+          "url": "https://store.playstation.com/en-us/product/JP0106-PPSA37010_00-KARIA000DDXSP000",
+          "price": 114.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1504/dd5cf919ceb9b4c2af10eb14816d9e00c792118c200cdd2a.png?w=160&thumb=false"
+    },
+    {
       "key": "JP0106-PPSA34857_00-WOLONG2000000000",
       "id": "JP0106-PPSA34857_00-WOLONG2000000000",
       "conceptId": "10017860",
@@ -2841,6 +2933,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/6648deb4d2e442c200e3cebe36466ade1f0fd45a051095e7.png?w=160&thumb=false"
     },
     {
+      "key": "2eb5b3b18695833f8bca",
+      "id": null,
+      "conceptId": "10020809",
+      "region": "us",
+      "title": "Bleeding Nightmare",
+      "edition": null,
+      "publisher": "GRIMTALIN SRL",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020809",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/26fc9ab6076049fc0c7aa941e1a34c718d1f3b3212497b13.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "2eb5b3b18695833f8bca",
+          "id": null,
+          "title": "Bleeding Nightmare",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020809",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/f51344f0b25371cb46cd7a2988c94f09f1afa10248316e49.png?w=160&thumb=false"
+    },
+    {
       "key": "547e04f688740ec2cb1e",
       "id": null,
       "conceptId": "10016943",
@@ -2909,41 +3036,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
-    },
-    {
-      "key": "7f1c1dfc56c98f78ad20",
-      "id": null,
-      "conceptId": "10020388",
-      "region": "us",
-      "title": "DERELIKT",
-      "edition": null,
-      "publisher": "Hyperstrange Sp. z o.o.",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020388",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/524f2f54e7cac8df88bd0eb183a66fada89e633e58e9b13e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "7f1c1dfc56c98f78ad20",
-          "id": null,
-          "title": "DERELIKT",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020388",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/5e40f86d03506ce64887b8094f8350f3312f296b9206d28b.jpg?w=160&thumb=false"
     },
     {
       "key": "c19199dd888d432123aa",
