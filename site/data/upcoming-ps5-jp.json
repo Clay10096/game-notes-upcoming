@@ -5,69 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-09T04:35:03+09:00",
+  "updatedAt": "2026-11-10T08:46:25+09:00",
   "status": "success",
-  "gameCount": 54,
+  "gameCount": 53,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 68,
-    "productPages": 68,
+    "candidateCount": 67,
+    "productPages": 67,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
-      "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
-      "conceptId": "10016825",
-      "region": "jp",
-      "title": "Warhammer Survivors",
-      "edition": null,
-      "publisher": "AUROCH DIGITAL LIMITED",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/11/10",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": "2026-11-10T10:00:00+00:00",
-      "price": 1100.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 990.0,
-        "originalPrice": 1100.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-10T10:00:00.000Z",
-        "endsAtRaw": "2026-11-10T10:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/ja-jp/product/EP5778-PPSA33563_00-WARHAMSURV000001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
-          "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
-          "title": "Warhammer Survivors",
-          "edition": null,
-          "url": "https://store.playstation.com/ja-jp/product/EP5778-PPSA33563_00-WARHAMSURV000001",
-          "price": 1100.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 990.0,
-            "originalPrice": 1100.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-10T10:00:00.000Z",
-            "endsAtRaw": "2026-11-10T10:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
-    },
     {
       "key": "EP2430-PPSA19075_00-0055738142177921",
       "id": "EP2430-PPSA19075_00-0055738142177921",
