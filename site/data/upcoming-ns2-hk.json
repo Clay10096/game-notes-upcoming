@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-09T04:17:10+08:00",
+  "updatedAt": "2026-11-10T08:00:35+08:00",
   "status": "success",
-  "gameCount": 35,
+  "gameCount": 33,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,74 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000134020",
-      "id": "70010000134020",
-      "conceptId": null,
-      "region": "hk",
-      "title": "TANUKI: Pon's Summer",
-      "edition": null,
-      "publisher": "Critical Reflex",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-10",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": null,
-      "price": 99.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000134020",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013402045291b1ad30c11f1ae86ffc36d673ded/2c3766cbe332ccea360d6033947b7022/165baad9f2d71f4f08ddd923fd5fda7fe81476f24227a2ffe3a984a130190e2f.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000134020",
-          "id": "70010000134020",
-          "title": "TANUKI: Pon's Summer",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000134020",
-          "price": 99.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000116417",
-      "id": "70010000116417",
-      "conceptId": null,
-      "region": "hk",
-      "title": "浣熊推幣機: 混沌全開版",
-      "edition": null,
-      "publisher": "Playstack",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-10",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": null,
-      "price": 65.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000116417",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001164177efd5bd1d30b11f1a5c47b0b2de30087/4b96a3b9a1bf58690cb681e3a206da5a/db0f9235be5c93dc4a63298b3a80b0fbb5af354d9fbbd70c4b590cae7cae4c9c.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000116417",
-          "id": "70010000116417",
-          "title": "浣熊推幣機: 混沌全開版",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000116417",
-          "price": 65.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000125624",
       "id": "70010000125624",
