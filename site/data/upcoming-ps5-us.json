@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-09T10:32:07-08:00",
+  "updatedAt": "2026-11-10T08:14:29-08:00",
   "status": "success",
-  "gameCount": 81,
+  "gameCount": 79,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 105,
-    "productPages": 143,
+    "candidateCount": 101,
+    "productPages": 139,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "c21dd24e82ed6ed716b5",
-      "id": null,
-      "conceptId": "10003488",
-      "region": "us",
-      "title": "Ova Magica",
-      "edition": null,
-      "publisher": "TOP HAT STUDIOS, INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-10",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": "2026-11-10T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10003488",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/0ff2bd8d1286b0443054e2aabd237ace87750b64097929e7.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c21dd24e82ed6ed716b5",
-          "id": null,
-          "title": "Ova Magica",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10003488",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/e8f0c89791b3b42513cc501677e98be40558bc818f1c8c2c.png?w=160&thumb=false"
-    },
     {
       "key": "EP1875-PPSA31341_00-SHREK2REMASTERED",
       "id": "EP1875-PPSA31341_00-SHREK2REMASTERED",
@@ -104,92 +69,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/c4fb55c58d2d9c2e027e396cbd51593e88aa12be7a665441.jpg?w=160&thumb=false"
     },
     {
-      "key": "b3ac565f58091bca6339",
-      "id": null,
-      "conceptId": "10019799",
-      "region": "us",
-      "title": "TANUKI: Pon's Summer",
-      "edition": null,
-      "publisher": "INPLERON LTD",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-10",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": "2026-11-10T10:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019799",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0616/3b82c64d2913caa3e953ff250163d5caa740a21b4bd1f9f9.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "b3ac565f58091bca6339",
-          "id": null,
-          "title": "TANUKI: Pon's Summer",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019799",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0617/745e0ea8e558faa56f3e2493edc2b0d77282dbe1b56f37f6.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
-      "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
-      "conceptId": "10016825",
-      "region": "us",
-      "title": "Warhammer Survivors",
-      "edition": null,
-      "publisher": "AUROCH DIGITAL LIMITED",
-      "platform": "ps5",
-      "releaseDateRaw": "11/10/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": "2026-11-10T10:00:00+00:00",
-      "price": 7.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 7.19,
-        "originalPrice": 7.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-10T10:00:00.000Z",
-        "endsAtRaw": "2026-11-10T10:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/en-us/product/EP5778-PPSA33563_00-WARHAMSURV000001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
-          "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
-          "title": "Warhammer Survivors",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/product/EP5778-PPSA33563_00-WARHAMSURV000001",
-          "price": 7.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 7.19,
-            "originalPrice": 7.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-10T10:00:00.000Z",
-            "endsAtRaw": "2026-11-10T10:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
-    },
-    {
       "key": "4a7d02a99e4447c41b12",
       "id": null,
       "conceptId": "10018202",
@@ -198,7 +77,7 @@
       "edition": null,
       "publisher": "Mythwright Limited",
       "platform": "ps5",
-      "releaseDateRaw": "11/11/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-11-11",
       "datePrecision": "day",
       "releaseDate": "2026-11-11",
       "releaseAt": "2026-11-11T14:00:00+00:00",
@@ -901,6 +780,76 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0115/77a0008afeae93951224323771eedd9b2e3774e777d26079.png?w=160&thumb=false"
     },
     {
+      "key": "873659aec11077006794",
+      "id": null,
+      "conceptId": "10020162",
+      "region": "us",
+      "title": "Mombo Combo Legacy",
+      "edition": null,
+      "publisher": "Orube Game Studio LTDA",
+      "platform": "ps5",
+      "releaseDateRaw": "12/2/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-02",
+      "releaseAt": "2026-12-02T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020162",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/132508fa6c54b96ca1ba5b7130e8de956171bb11e286026c.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "873659aec11077006794",
+          "id": null,
+          "title": "Mombo Combo Legacy",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020162",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/264ecc4c6a4b0c96c590655230e7d6454c64cefb25928470.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "d6147107ba80e7863abc",
+      "id": null,
+      "conceptId": "10020695",
+      "region": "us",
+      "title": "The Falconeer: Revolution Remaster",
+      "edition": null,
+      "publisher": "Wired Productions",
+      "platform": "ps5",
+      "releaseDateRaw": "12/2/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-02",
+      "releaseAt": "2026-12-02T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020695",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2116/4d4c060daf2eafbe633e8875c92c4c7ad3b51ea4a00237f2.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "d6147107ba80e7863abc",
+          "id": null,
+          "title": "The Falconeer: Revolution Remaster",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020695",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2310/e676caaac25479eee3f052670575f3e1e62facdea3a33db3.jpg?w=160&thumb=false"
+    },
+    {
       "key": "30cd21515fb823460e77",
       "id": null,
       "conceptId": "10009959",
@@ -1184,6 +1133,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0315/0a63fbd2e1be3a11692adda751cbc3606f9ce34256f4c98e.png?w=160&thumb=false"
     },
     {
+      "key": "2eb5b3b18695833f8bca",
+      "id": null,
+      "conceptId": "10020809",
+      "region": "us",
+      "title": "Bleeding Nightmare",
+      "edition": null,
+      "publisher": "GRIMTALIN SRL",
+      "platform": "ps5",
+      "releaseDateRaw": "12/4/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-04",
+      "releaseAt": "2026-12-04T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020809",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/26fc9ab6076049fc0c7aa941e1a34c718d1f3b3212497b13.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "2eb5b3b18695833f8bca",
+          "id": null,
+          "title": "Bleeding Nightmare",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020809",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/f51344f0b25371cb46cd7a2988c94f09f1afa10248316e49.png?w=160&thumb=false"
+    },
+    {
       "key": "f7ae74e3188f8aa978b3",
       "id": null,
       "conceptId": "10019434",
@@ -1424,6 +1408,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2108/985131c0d1a0a04bca901fd3c98b2d9b13f0e61ea309ce62.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "f62815abfbdf9f1b1223",
+      "id": null,
+      "conceptId": "10020420",
+      "region": "us",
+      "title": "Plane Mechanic Simulator",
+      "edition": null,
+      "publisher": "ULTIMATE GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "12/10/2026 03:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": "2026-12-10T15:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020420",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1710/ff759bf8a0d50074daf6a0653832ac87944fb6df2304ea2d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "f62815abfbdf9f1b1223",
+          "id": null,
+          "title": "Plane Mechanic Simulator",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020420",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1710/5bb28da8c12ca57f25f1f9ed55c7f608bb95965217e8d166.jpg?w=160&thumb=false"
     },
     {
       "key": "UB2417-PPSA37315_00-ROCTANESTAGETOUR",
@@ -2933,41 +2952,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/6648deb4d2e442c200e3cebe36466ade1f0fd45a051095e7.png?w=160&thumb=false"
     },
     {
-      "key": "2eb5b3b18695833f8bca",
-      "id": null,
-      "conceptId": "10020809",
-      "region": "us",
-      "title": "Bleeding Nightmare",
-      "edition": null,
-      "publisher": "GRIMTALIN SRL",
-      "platform": "ps5",
-      "releaseDateRaw": null,
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020809",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/26fc9ab6076049fc0c7aa941e1a34c718d1f3b3212497b13.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "2eb5b3b18695833f8bca",
-          "id": null,
-          "title": "Bleeding Nightmare",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020809",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/f51344f0b25371cb46cd7a2988c94f09f1afa10248316e49.png?w=160&thumb=false"
-    },
-    {
       "key": "547e04f688740ec2cb1e",
       "id": null,
       "conceptId": "10016943",
@@ -3071,76 +3055,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
-    },
-    {
-      "key": "873659aec11077006794",
-      "id": null,
-      "conceptId": "10020162",
-      "region": "us",
-      "title": "Mombo Combo Legacy",
-      "edition": null,
-      "publisher": "Orube Game Studio LTDA",
-      "platform": "ps5",
-      "releaseDateRaw": "12/2026",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020162",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/132508fa6c54b96ca1ba5b7130e8de956171bb11e286026c.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "873659aec11077006794",
-          "id": null,
-          "title": "Mombo Combo Legacy",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020162",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0615/264ecc4c6a4b0c96c590655230e7d6454c64cefb25928470.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "586da6ebc92935355ab7",
-      "id": null,
-      "conceptId": "10015654",
-      "region": "us",
-      "title": "Unpetrified: Echoes of Nature",
-      "edition": null,
-      "publisher": "MINDSCAPE BV",
-      "platform": "ps5",
-      "releaseDateRaw": "11/2026",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10015654",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1608/a121eb73a655666b591f0091198b2b7928e2fbad86a71441.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "586da6ebc92935355ab7",
-          "id": null,
-          "title": "Unpetrified: Echoes of Nature",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10015654",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2214/79de0c5d11a6d4588724ce7c0fd598f9805668bc519eae2f.jpg?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",
