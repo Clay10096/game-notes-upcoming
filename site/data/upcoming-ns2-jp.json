@@ -5,13 +5,13 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-10T08:45:19+09:00",
+  "updatedAt": "2026-11-11T06:15:51+09:00",
   "status": "success",
   "gameCount": 96,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 955,
+    "candidateCount": 956,
     "coverage": "official-search",
     "notes": []
   },
