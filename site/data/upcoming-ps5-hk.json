@@ -5,69 +5,18 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-10T08:02:04+08:00",
+  "updatedAt": "2026-11-11T05:43:28+08:00",
   "status": "success",
-  "gameCount": 57,
+  "gameCount": 56,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 71,
-    "productPages": 71,
+    "candidateCount": 70,
+    "productPages": 70,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
-      "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
-      "conceptId": "10016825",
-      "region": "hk",
-      "title": "Warhammer Survivors (簡體中文, 韓文, 英文, 日文)",
-      "edition": null,
-      "publisher": "AUROCH DIGITAL LIMITED",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-10",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-10",
-      "releaseAt": "2026-11-10T10:00:00+00:00",
-      "price": 78.0,
-      "originalPrice": null,
-      "currency": "HKD",
-      "offer": null,
-      "memberOffer": {
-        "scope": "member",
-        "price": 70.2,
-        "originalPrice": 78.0,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-10T10:00:00.000Z",
-        "endsAtRaw": "2026-11-10T10:00:00.000Z"
-      },
-      "url": "https://store.playstation.com/zh-hant-hk/product/EP5778-PPSA33563_00-WARHAMSURV000001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP5778-PPSA33563_00-WARHAMSURV000001",
-          "id": "EP5778-PPSA33563_00-WARHAMSURV000001",
-          "title": "Warhammer Survivors (簡體中文, 韓文, 英文, 日文)",
-          "edition": null,
-          "url": "https://store.playstation.com/zh-hant-hk/product/EP5778-PPSA33563_00-WARHAMSURV000001",
-          "price": 78.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": {
-            "scope": "member",
-            "price": 70.2,
-            "originalPrice": 78.0,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-10T10:00:00.000Z",
-            "endsAtRaw": "2026-11-10T10:00:00.000Z"
-          }
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/e4aff7577e3908f3854e51eb8933fe29eefb3e82a37b5131.png?w=160&thumb=false"
-    },
     {
       "key": "EP2430-PPSA19075_00-0055738142177921",
       "id": "EP2430-PPSA19075_00-0055738142177921",
