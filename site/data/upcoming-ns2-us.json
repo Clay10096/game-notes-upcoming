@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-10T08:12:03-08:00",
+  "updatedAt": "2026-11-11T07:55:37-08:00",
   "status": "success",
-  "gameCount": 28,
+  "gameCount": 27,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,40 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000138432",
-      "id": "70010000138432",
-      "conceptId": null,
-      "region": "us",
-      "title": "Prinny Party: Going Overboard! – Nintendo Switch™ 2 Edition",
-      "edition": "Standard Edition",
-      "publisher": "NIS America",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-11T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-11",
-      "releaseAt": null,
-      "price": 29.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000138432/55d1e4bb4ad1580e5e46919df4781bf42ea17cd3cbdfb14a2b56359701bdd1e4",
-      "versions": [
-        {
-          "key": "70010000138432",
-          "id": "70010000138432",
-          "title": "Prinny Party: Going Overboard! – Nintendo Switch™ 2 Edition",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-switch-2/",
-          "price": 29.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000125621",
       "id": "70010000125621",
@@ -301,7 +267,7 @@
       "datePrecision": "day",
       "releaseDate": "2026-11-19",
       "releaseAt": null,
-      "price": 59.99,
+      "price": 69.99,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
@@ -315,7 +281,7 @@
           "title": "The Binding of Isaac: Repentance+",
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/the-binding-of-isaac-repentance-plus-switch-2/",
-          "price": 59.99,
+          "price": 69.99,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
