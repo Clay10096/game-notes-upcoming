@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-11T06:17:18+09:00",
+  "updatedAt": "2026-11-12T06:53:19+09:00",
   "status": "success",
-  "gameCount": 53,
+  "gameCount": 55,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 67,
-    "productPages": 67,
+    "candidateCount": 69,
+    "productPages": 69,
     "coverage": "official-category",
     "notes": []
   },
@@ -627,6 +627,76 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2313/d60b4125e0ac3b4d609104010245e800c94ca20e52dfff0e.png?w=160&thumb=false"
+    },
+    {
+      "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "conceptId": "10014408",
+      "region": "jp",
+      "title": "エッジ オブ メモリーズ - デジタルデラックスエディション",
+      "edition": "デジタルデラックスエディション",
+      "publisher": "NACON SA",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/12/7",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-07",
+      "releaseAt": "2026-12-07T15:00:00+00:00",
+      "price": 5940.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/6db3f2d48834aa942a892359178484ef81995a31e1c15580.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "id": "EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "title": "エッジ オブ メモリーズ - デジタルデラックスエディション",
+          "edition": "デジタルデラックスエディション",
+          "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
+          "price": 5940.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/d61fbbca124fc8343165383657a956d70acaba47a4ea3d83.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP6665-PPSA28864_00-EOM0000000000000",
+      "id": "EP6665-PPSA28864_00-EOM0000000000000",
+      "conceptId": "10014408",
+      "region": "jp",
+      "title": "エッジ オブ メモリーズ",
+      "edition": "スタンダードエディション",
+      "publisher": "NACON SA",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/12/9",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": "2026-12-09T15:00:00+00:00",
+      "price": 4840.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA28864_00-EOM0000000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP6665-PPSA28864_00-EOM0000000000000",
+          "id": "EP6665-PPSA28864_00-EOM0000000000000",
+          "title": "エッジ オブ メモリーズ",
+          "edition": "スタンダードエディション",
+          "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA28864_00-EOM0000000000000",
+          "price": 4840.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",
