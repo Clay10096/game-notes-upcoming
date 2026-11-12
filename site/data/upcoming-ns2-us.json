@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-11T07:55:37-08:00",
+  "updatedAt": "2026-11-12T08:38:57-08:00",
   "status": "success",
-  "gameCount": 27,
+  "gameCount": 23,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,142 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000125621",
-      "id": "70010000125621",
-      "conceptId": null,
-      "region": "us",
-      "title": "Adorable Adventures",
-      "edition": "Standard Edition",
-      "publisher": "PQube",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-12T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": null,
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/adorable-adventures-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000125621/ee696d4f355137d77d69481806781c49753e1d2ded175130080803a4a941b385",
-      "versions": [
-        {
-          "key": "70010000125621",
-          "id": "70010000125621",
-          "title": "Adorable Adventures",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/adorable-adventures-switch-2/",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000105915",
-      "id": "70010000105915",
-      "conceptId": null,
-      "region": "us",
-      "title": "Metaphor: ReFantazio",
-      "edition": "Standard Edition",
-      "publisher": "SEGA",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-12T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": null,
-      "price": 39.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000105915/0f5874d364377a4acfde5a8ed55cb41d7afaf0956f322470e79dce3d252e6522",
-      "versions": [
-        {
-          "key": "70010000105915",
-          "id": "70010000105915",
-          "title": "Metaphor: ReFantazio",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/",
-          "price": 39.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000135059",
-      "id": "70010000135059",
-      "conceptId": null,
-      "region": "us",
-      "title": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
-      "edition": "Standard Edition",
-      "publisher": "Nintendo",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-12T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000135059/a11858d1cda9e1760a7360a0613a382c8e38e2d53cc4162916d7c96151e0b30a",
-      "versions": [
-        {
-          "key": "70010000135059",
-          "id": "70010000135059",
-          "title": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000130093",
-      "id": "70010000130093",
-      "conceptId": null,
-      "region": "us",
-      "title": "Supermarket Simulator",
-      "edition": "Standard Edition",
-      "publisher": "Silver Lining",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-12T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": null,
-      "price": 19.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/supermarket-simulator-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000130093/c1ecdb5bc14f6bd330268d42f2b1588d0047466ec0c396dcc11228201a50485d",
-      "versions": [
-        {
-          "key": "70010000130093",
-          "id": "70010000130093",
-          "title": "Supermarket Simulator",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/supermarket-simulator-switch-2/",
-          "price": 19.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000129965",
       "id": "70010000129965",
@@ -627,6 +491,40 @@
       ]
     },
     {
+      "key": "70010000114053",
+      "id": "70010000114053",
+      "conceptId": null,
+      "region": "us",
+      "title": "Romancing SaGa 3: Destinies United",
+      "edition": "Standard Edition",
+      "publisher": "SQUARE ENIX",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-02-04T00:00:00.000Z",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": null,
+      "price": 59.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/us/store/products/romancing-saga-3-destinies-united-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000114053/461953d171f9d87747cb5c2ec87112f70c1ba45d5f1b1a16315acdb1ab860132",
+      "versions": [
+        {
+          "key": "70010000114053",
+          "id": "70010000114053",
+          "title": "Romancing SaGa 3: Destinies United",
+          "edition": "Standard Edition",
+          "url": "https://www.nintendo.com/us/store/products/romancing-saga-3-destinies-united-switch-2/",
+          "price": 59.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000136192",
       "id": "70010000136192",
       "conceptId": null,
@@ -688,40 +586,6 @@
           "edition": "Standard Edition",
           "url": "https://www.nintendo.com/us/store/products/tomb-raider-legacy-of-atlantis-switch-2/",
           "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000114053",
-      "id": "70010000114053",
-      "conceptId": null,
-      "region": "us",
-      "title": "Romancing SaGa 3: Destinies United",
-      "edition": "Standard Edition",
-      "publisher": "SQUARE ENIX",
-      "platform": "switch2",
-      "releaseDateRaw": "2027-02-16T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-16",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/romancing-saga-3-destinies-united-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000114053/461953d171f9d87747cb5c2ec87112f70c1ba45d5f1b1a16315acdb1ab860132",
-      "versions": [
-        {
-          "key": "70010000114053",
-          "id": "70010000114053",
-          "title": "Romancing SaGa 3: Destinies United",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/romancing-saga-3-destinies-united-switch-2/",
-          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null

@@ -5,88 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-11T07:58:12-08:00",
+  "updatedAt": "2026-11-12T08:42:51-08:00",
   "status": "success",
   "gameCount": 77,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 106,
-    "productPages": 145,
+    "candidateCount": 105,
+    "productPages": 146,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "73c0b38b49711212cb68",
-      "id": null,
-      "conceptId": "10020789",
-      "region": "us",
-      "title": "Deadly Stakes",
-      "edition": null,
-      "publisher": "OWN IT SOLUTIONS SA",
-      "platform": "ps5",
-      "releaseDateRaw": "11/12/2026 04:00 PM UTC",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": "2026-11-12T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020789",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2813/eb4f5a4a68c14ef4e3ec5b1c3412b85ccf974acc5fd454bc.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "73c0b38b49711212cb68",
-          "id": null,
-          "title": "Deadly Stakes",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020789",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2813/0c6a3e0ec80eb9f0a386e6353a566f6a781428b38dddaf4f.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "c75eca8701c444672393",
-      "id": null,
-      "conceptId": "10020673",
-      "region": "us",
-      "title": "Weed Supermarket Simulator",
-      "edition": null,
-      "publisher": "PlayWay plc",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-12",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-12",
-      "releaseAt": "2026-11-12T15:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020673",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/0198c1720d05af09be17c85882e7a99903e061a631d3c5ac.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "c75eca8701c444672393",
-          "id": null,
-          "title": "Weed Supermarket Simulator",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020673",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2911/aa87eb0f52131d43852a74e3bdcd6175a527de6a4ffbc48e.jpg?w=160&thumb=false"
-    },
     {
       "key": "7f1c1dfc56c98f78ad20",
       "id": null,
@@ -131,7 +61,7 @@
       "edition": null,
       "publisher": "Valdir de Freitas Vicente trading as MVCAO Studios",
       "platform": "ps5",
-      "releaseDateRaw": "11/13/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-13",
       "datePrecision": "day",
       "releaseDate": "2026-11-13",
       "releaseAt": "2026-11-13T05:00:00+00:00",
@@ -166,7 +96,7 @@
       "edition": null,
       "publisher": "Forklift Interactive Inc.",
       "platform": "ps5",
-      "releaseDateRaw": "11/13/2026 04:00 PM UTC",
+      "releaseDateRaw": "2026-11-13",
       "datePrecision": "day",
       "releaseDate": "2026-11-13",
       "releaseAt": "2026-11-13T16:00:00+00:00",
@@ -201,7 +131,7 @@
       "edition": null,
       "publisher": "QubicGames S.A.",
       "platform": "ps5",
-      "releaseDateRaw": "11/13/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-13",
       "datePrecision": "day",
       "releaseDate": "2026-11-13",
       "releaseAt": "2026-11-13T05:00:00+00:00",
@@ -1289,6 +1219,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/3015/bb4118f5ee3f8beb19ca13646d8090f8b51e23b396fe27ee.png?w=160&thumb=false"
     },
     {
+      "key": "JP0720-PPSA37037_00-LAYTONGAME000000",
+      "id": "JP0720-PPSA37037_00-LAYTONGAME000000",
+      "conceptId": "10019130",
+      "region": "us",
+      "title": "Professor Layton and the New World of Steam",
+      "edition": null,
+      "publisher": "LEVEL5 Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "12/9/2026",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": "2026-12-09T15:00:00+00:00",
+      "price": 64.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/JP0720-PPSA37037_00-LAYTONGAME000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/2e9da9f0706b773f16e4341520fd11cac3e6b6f84ce149ba.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0720-PPSA37037_00-LAYTONGAME000000",
+          "id": "JP0720-PPSA37037_00-LAYTONGAME000000",
+          "title": "Professor Layton and the New World of Steam",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/product/JP0720-PPSA37037_00-LAYTONGAME000000",
+          "price": 64.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/26a68665020672abb329ab4a491d7f43d9c060c7e73479f2.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",
       "id": "JP0106-PPSA25406_00-APP052554D424C45",
       "conceptId": "10012189",
@@ -2008,6 +1973,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2808/11724ec4ada8ca3839a90c66372f9c2f5e97499f0cfbc231.jpg?w=160&thumb=false"
     },
     {
+      "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+      "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+      "conceptId": "10017833",
+      "region": "us",
+      "title": "Romancing SaGa 3: Destinies United Digital Deluxe Version",
+      "edition": "Digital Deluxe Version",
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "2/1/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-01",
+      "releaseAt": "2027-02-01T05:00:00+00:00",
+      "price": 79.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/328f75c1921087ac746377dbb490da1e9657ed46cf512726.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+          "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+          "title": "Romancing SaGa 3: Destinies United Digital Deluxe Version",
+          "edition": "Digital Deluxe Version",
+          "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+          "price": 79.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/b331ad930ddd8bb5acb28a937aad9a4b18a97097eb0e85cc.png?w=160&thumb=false"
+    },
+    {
       "key": "UP4133-PPSA21225_00-ELTAGAME00000000",
       "id": "UP4133-PPSA21225_00-ELTAGAME00000000",
       "conceptId": "10009613",
@@ -2124,6 +2124,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/a6213966773f343cce1e876d1240b4fd85c500c052acc4b5.png?w=160&thumb=false"
     },
     {
+      "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+      "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+      "conceptId": "10017833",
+      "region": "us",
+      "title": "Romancing SaGa 3: Destinies United",
+      "edition": "Standard Edition",
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "2/4/2027",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": "2027-02-04T05:00:00+00:00",
+      "price": 59.99,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/1e94c418b91bf7ee4baf4f0f7c10308cce5b3abd285a91da.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+          "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+          "title": "Romancing SaGa 3: Destinies United",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+          "price": 59.99,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/76fe315dad5205a8079cccca6c93a027fe8084d2366248de.png?w=160&thumb=false"
+    },
+    {
       "key": "UP5267-PPSA29000_00-TRLOADELX0000000",
       "id": "UP5267-PPSA29000_00-TRLOADELX0000000",
       "conceptId": "10014491",
@@ -2227,76 +2262,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1817/771217e22a1d0697bc99d28ece0715e4cedb40a2b3561f78.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-      "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-      "conceptId": "10017833",
-      "region": "us",
-      "title": "Romancing SaGa 3: Destinies United Digital Deluxe Version",
-      "edition": "Digital Deluxe Version",
-      "publisher": "SQUARE ENIX CO., LTD.",
-      "platform": "ps5",
-      "releaseDateRaw": "2/13/2027",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-13",
-      "releaseAt": "2027-02-13T05:00:00+00:00",
-      "price": 79.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/328f75c1921087ac746377dbb490da1e9657ed46cf512726.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-          "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-          "title": "Romancing SaGa 3: Destinies United Digital Deluxe Version",
-          "edition": "Digital Deluxe Version",
-          "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-          "price": 79.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/b331ad930ddd8bb5acb28a937aad9a4b18a97097eb0e85cc.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-      "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-      "conceptId": "10017833",
-      "region": "us",
-      "title": "Romancing SaGa 3: Destinies United",
-      "edition": "Standard Edition",
-      "publisher": "SQUARE ENIX CO., LTD.",
-      "platform": "ps5",
-      "releaseDateRaw": "2/16/2027",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-16",
-      "releaseAt": "2027-02-16T05:00:00+00:00",
-      "price": 59.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/1e94c418b91bf7ee4baf4f0f7c10308cce5b3abd285a91da.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "title": "Romancing SaGa 3: Destinies United",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "price": 59.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/76fe315dad5205a8079cccca6c93a027fe8084d2366248de.png?w=160&thumb=false"
     },
     {
       "key": "UP6312-PPSA31381_00-0730774904492744",
@@ -2864,6 +2829,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/6648deb4d2e442c200e3cebe36466ade1f0fd45a051095e7.png?w=160&thumb=false"
+    },
+    {
+      "key": "64b9c9a7b66227a8695e",
+      "id": null,
+      "conceptId": "10020367",
+      "region": "us",
+      "title": "Alphadia F",
+      "edition": null,
+      "publisher": "KEMCO",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020367",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0708/9ea295de8647ff1c1e5d7dfdae93b0cbb5c26b5904ea2092.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "64b9c9a7b66227a8695e",
+          "id": null,
+          "title": "Alphadia F",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020367",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0708/89dc4444156de40b380e1b4f652f28aacb0a2ac597508023.png?w=160&thumb=false"
     },
     {
       "key": "547e04f688740ec2cb1e",
