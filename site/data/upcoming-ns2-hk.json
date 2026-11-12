@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-12T06:32:21+08:00",
+  "updatedAt": "2026-11-13T06:07:58+08:00",
   "status": "success",
-  "gameCount": 29,
+  "gameCount": 36,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 594,
+    "candidateCount": 611,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -62,6 +62,74 @@
             "endsAt": "2026-11-20T15:59:59Z",
             "endsAtRaw": "2026-11-20T15:59:59Z"
           },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000138607",
+      "id": "70010000138607",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Figment",
+      "edition": null,
+      "publisher": "Bedtime Digital",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-19",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-19",
+      "releaseAt": null,
+      "price": 149.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000138607",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000138607f65c3df9de0b11f1b67207f406a39dd3/70e3a70e135ed898f7f112843470f04f/f4559b3956615e14e17e8fad94a14daf9815fc6c1fa1ccc6f0a319e9127316a7.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000138607",
+          "id": "70010000138607",
+          "title": "Figment",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000138607",
+          "price": 149.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000138613",
+      "id": "70010000138613",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Figment 2: Creed Valley",
+      "edition": null,
+      "publisher": "Bedtime Digital",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-19",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-19",
+      "releaseAt": null,
+      "price": 149.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000138613",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000138613c4504e09de0b11f1952a317cd4868583/d0c9cf569e26eece1c20af4d2b97f62f/a90419158b28b17732eed52ea6824f6c959d7fa8ffc56290fa6077cc010d1e16.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000138613",
+          "id": "70010000138613",
+          "title": "Figment 2: Creed Valley",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000138613",
+          "price": 149.0,
+          "originalPrice": null,
+          "offer": null,
           "memberOffer": null
         }
       ]
@@ -135,6 +203,40 @@
       ]
     },
     {
+      "key": "70010000132277",
+      "id": "70010000132277",
+      "conceptId": null,
+      "region": "hk",
+      "title": "GRIME II",
+      "edition": null,
+      "publisher": "Kwalee",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-26",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-26",
+      "releaseAt": null,
+      "price": 156.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000132277",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000132277b6271d71de0b11f1b4bc07f406a39dd3/c96cdf0a22bd232adf747d5e5b078d88/23c7593019b44b1bf0864a1a0debef8e620db59218289664ad57bd2ff6f236c0.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000132277",
+          "id": "70010000132277",
+          "title": "GRIME II",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000132277",
+          "price": 156.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000129141",
       "id": "70010000129141",
       "conceptId": null,
@@ -162,6 +264,90 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000129141",
           "price": 65.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000134884",
+      "id": "70010000134884",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Station to Station",
+      "edition": null,
+      "publisher": "Engine Software",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-26",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-26",
+      "releaseAt": null,
+      "price": 87.0,
+      "originalPrice": 109.0,
+      "currency": "HKD",
+      "offer": {
+        "scope": "public",
+        "price": 87.0,
+        "originalPrice": 109.0,
+        "discountPercent": 20.2,
+        "startsAt": "2026-11-11T16:00:00Z",
+        "endsAt": "2026-12-10T15:59:59Z",
+        "endsAtRaw": "2026-12-10T15:59:59Z"
+      },
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000134884",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013488442171319de0c11f18e4e317cd4868583/5d6c3a154402222f3d9f41933dfc57f5/5401795418bb024d0c82a6cf5dbe97c3b9dfb5477ad1ca7ff1dcf883c5d7792a.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000134884",
+          "id": "70010000134884",
+          "title": "Station to Station",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000134884",
+          "price": 87.0,
+          "originalPrice": 109.0,
+          "offer": {
+            "scope": "public",
+            "price": 87.0,
+            "originalPrice": 109.0,
+            "discountPercent": 20.2,
+            "startsAt": "2026-11-11T16:00:00Z",
+            "endsAt": "2026-12-10T15:59:59Z",
+            "endsAtRaw": "2026-12-10T15:59:59Z"
+          },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000125088",
+      "id": "70010000125088",
+      "conceptId": null,
+      "region": "hk",
+      "title": "最強王圖鑑　爆裂對戰王",
+      "edition": null,
+      "publisher": "NIPPON COLUMBIA",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-11-26",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-26",
+      "releaseAt": null,
+      "price": 299.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000125088",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000125088cf30508ede0b11f1b13c85f5e41289c4/4a6d8349ddfd92cf48150a743df38aae/65053bf632e103e919d87eb17b588b3e6f75070e848cbf0a9ae0d8ac8ef456d4.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000125088",
+          "id": "70010000125088",
+          "title": "最強王圖鑑　爆裂對戰王",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000125088",
+          "price": 299.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -609,6 +795,40 @@
       ]
     },
     {
+      "key": "70010000130001",
+      "id": "70010000130001",
+      "conceptId": null,
+      "region": "hk",
+      "title": "食魂徒：Blue Pieta(Shikhondo: Blue Pieta)",
+      "edition": null,
+      "publisher": "CFK",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-10",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": null,
+      "price": 320.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000130001",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000130001b4bd3bb9de0b11f1b83ab5931d5a461a/ed040c4b066ebb4615cbebd45a8188af/7a42ba98f7c9ad0580f426910cc899b0c58f95896813e4bcfd1c182ec5bfd397.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000130001",
+          "id": "70010000130001",
+          "title": "食魂徒：Blue Pieta(Shikhondo: Blue Pieta)",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000130001",
+          "price": 320.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000112022",
       "id": "70010000112022",
       "conceptId": null,
@@ -704,6 +924,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000135074",
           "price": 449.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000137344",
+      "id": "70010000137344",
+      "conceptId": null,
+      "region": "hk",
+      "title": "少女魔役",
+      "edition": null,
+      "publisher": "Inti Creates",
+      "platform": "switch2",
+      "releaseDateRaw": "2027-01-28",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-28",
+      "releaseAt": null,
+      "price": 220.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000137344",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137344ee5907c0de0b11f1b1f21f71f2913656/3fcf56cfc1346d5fba9888a546b5707a/9df1e0384a221fbd38787d7b4989b3a14bf9aec6f06b0b6f67ac2d08b7277a3d.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000137344",
+          "id": "70010000137344",
+          "title": "少女魔役",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000137344",
+          "price": 220.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
