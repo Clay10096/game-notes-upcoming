@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-12T06:53:19+09:00",
+  "updatedAt": "2026-11-13T06:50:53+09:00",
   "status": "success",
-  "gameCount": 55,
+  "gameCount": 56,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 69,
-    "productPages": 69,
+    "candidateCount": 70,
+    "productPages": 70,
     "coverage": "official-category",
     "notes": []
   },
@@ -635,7 +635,7 @@
       "region": "jp",
       "title": "エッジ オブ メモリーズ - デジタルデラックスエディション",
       "edition": "デジタルデラックスエディション",
-      "publisher": "NACON SA",
+      "publisher": "株式会社3goo",
       "platform": "ps5",
       "releaseDateRaw": "2026/12/7",
       "datePrecision": "day",
@@ -647,7 +647,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA28864_00-EOM00DELUXE00001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/6db3f2d48834aa942a892359178484ef81995a31e1c15580.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1204/c4f2e7aba42675a3fd6c5fcb9cafe74796f0c3657d6da41b.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP6665-PPSA28864_00-EOM00DELUXE00001",
@@ -661,7 +661,7 @@
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1109/d61fbbca124fc8343165383657a956d70acaba47a4ea3d83.jpg?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1204/23f54aa8a15bbe1dd16bdee53d3ebeb922fd6ca9c8dac5d0.jpg?w=160&thumb=false"
     },
     {
       "key": "EP6665-PPSA28864_00-EOM0000000000000",
@@ -670,7 +670,7 @@
       "region": "jp",
       "title": "エッジ オブ メモリーズ",
       "edition": "スタンダードエディション",
-      "publisher": "NACON SA",
+      "publisher": "株式会社3goo",
       "platform": "ps5",
       "releaseDateRaw": "2026/12/9",
       "datePrecision": "day",
@@ -682,7 +682,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://store.playstation.com/ja-jp/product/EP6665-PPSA28864_00-EOM0000000000000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png?w=160&thumb=false",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1203/433de493d4dbbcbde3c0b07a31f078e4f22f9b1e7f2a78d1.png?w=160&thumb=false",
       "versions": [
         {
           "key": "EP6665-PPSA28864_00-EOM0000000000000",
@@ -697,6 +697,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/d5d185da1cc641b54306fb847eea95baf75ec94ae57497c8.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "JP0720-PPSA37037_00-LAYTONGAME000000",
+      "id": "JP0720-PPSA37037_00-LAYTONGAME000000",
+      "conceptId": "10019130",
+      "region": "jp",
+      "title": "レイトン教授と蒸気の新世界",
+      "edition": null,
+      "publisher": "LEVEL5 Inc.",
+      "platform": "ps5",
+      "releaseDateRaw": "2026/12/9",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": "2026-12-09T15:00:00+00:00",
+      "price": 7920.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/JP0720-PPSA37037_00-LAYTONGAME000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/d9c4227c926d6a79b6906894ae8133724616a05727ada49f.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0720-PPSA37037_00-LAYTONGAME000000",
+          "id": "JP0720-PPSA37037_00-LAYTONGAME000000",
+          "title": "レイトン教授と蒸気の新世界",
+          "edition": null,
+          "url": "https://store.playstation.com/ja-jp/product/JP0720-PPSA37037_00-LAYTONGAME000000",
+          "price": 7920.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/26a68665020672abb329ab4a491d7f43d9c060c7e73479f2.jpg?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",
@@ -1372,6 +1407,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0307/c6bfb97f7f3ec183a4ba50d5797406d2ab8a9a8d3c2fa60a.jpg?w=160&thumb=false"
     },
     {
+      "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+      "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+      "conceptId": "10017833",
+      "region": "jp",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
+      "edition": "デジタルデラックス版",
+      "publisher": "(株)スクウェア・エニックス",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/1/31",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-31",
+      "releaseAt": "2027-01-31T15:00:00+00:00",
+      "price": 10780.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/05f5cb1a4b71ac8f535de7d2389932236e802ffce1247964.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+          "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+          "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
+          "edition": "デジタルデラックス版",
+          "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
+          "price": 10780.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/b331ad930ddd8bb5acb28a937aad9a4b18a97097eb0e85cc.png?w=160&thumb=false"
+    },
+    {
       "key": "EP4133-PPSA21224_00-ELTAGAME00000000",
       "id": "EP4133-PPSA21224_00-ELTAGAME00000000",
       "conceptId": "10009613",
@@ -1405,6 +1475,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0313/e9442a1255d6068c6bbdf323109780442423562bf187afa7.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+      "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+      "conceptId": "10017833",
+      "region": "jp",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド",
+      "edition": "Standard Edition",
+      "publisher": "(株)スクウェア・エニックス",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/2/3",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-03",
+      "releaseAt": "2027-02-03T15:00:00+00:00",
+      "price": 7480.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/9d19db0056b25d58e78f01112c46f1c569ea76b185d730b6.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+          "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+          "title": "ロマンシング サガ3 デスティニーユナイテッド",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
+          "price": 7480.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/76fe315dad5205a8079cccca6c93a027fe8084d2366248de.png?w=160&thumb=false"
     },
     {
       "key": "JP0108-PPSA18997_00-GOZO0000000PS5JP",
@@ -1545,76 +1650,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1817/771217e22a1d0697bc99d28ece0715e4cedb40a2b3561f78.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-      "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-      "conceptId": "10017833",
-      "region": "jp",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
-      "edition": "デジタルデラックス版",
-      "publisher": "(株)スクウェア・エニックス",
-      "platform": "ps5",
-      "releaseDateRaw": "2027/2/12",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-12",
-      "releaseAt": "2027-02-12T15:00:00+00:00",
-      "price": 10780.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/05f5cb1a4b71ac8f535de7d2389932236e802ffce1247964.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-          "id": "JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-          "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
-          "edition": "デジタルデラックス版",
-          "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMASAGA3RWWDDXE",
-          "price": 10780.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1806/b331ad930ddd8bb5acb28a937aad9a4b18a97097eb0e85cc.png?w=160&thumb=false"
-    },
-    {
-      "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-      "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-      "conceptId": "10017833",
-      "region": "jp",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド",
-      "edition": "Standard Edition",
-      "publisher": "(株)スクウェア・エニックス",
-      "platform": "ps5",
-      "releaseDateRaw": "2027/2/15",
-      "datePrecision": "day",
-      "releaseDate": "2027-02-15",
-      "releaseAt": "2027-02-15T15:00:00+00:00",
-      "price": 7480.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/9d19db0056b25d58e78f01112c46f1c569ea76b185d730b6.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "id": "JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "title": "ロマンシング サガ3 デスティニーユナイテッド",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/ja-jp/product/JP0082-PPSA34811_00-ROMANCINGSAGA3RW",
-          "price": 7480.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3008/76fe315dad5205a8079cccca6c93a027fe8084d2366248de.png?w=160&thumb=false"
     },
     {
       "key": "JP0005-PPSA23593_00-APPLICATION00000",
