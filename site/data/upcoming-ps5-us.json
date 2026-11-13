@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-12T08:42:51-08:00",
+  "updatedAt": "2026-11-13T08:00:51-08:00",
   "status": "success",
-  "gameCount": 77,
+  "gameCount": 75,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 105,
-    "productPages": 146,
+    "candidateCount": 102,
+    "productPages": 143,
     "coverage": "official-category",
     "notes": []
   },
@@ -26,7 +26,7 @@
       "edition": null,
       "publisher": "Hyperstrange Sp. z o.o.",
       "platform": "ps5",
-      "releaseDateRaw": "11/13/2026 06:00 PM UTC",
+      "releaseDateRaw": "2026-11-13",
       "datePrecision": "day",
       "releaseDate": "2026-11-13",
       "releaseAt": "2026-11-13T18:00:00+00:00",
@@ -51,111 +51,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/5e40f86d03506ce64887b8094f8350f3312f296b9206d28b.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "fd8b147cd2457e4fbf30",
-      "id": null,
-      "conceptId": "10021173",
-      "region": "us",
-      "title": "Draw It, Human!",
-      "edition": null,
-      "publisher": "Valdir de Freitas Vicente trading as MVCAO Studios",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-13",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-13",
-      "releaseAt": "2026-11-13T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10021173",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1003/b123e18fc214be85a6db791e4d562a04ce58d134c50a81fa.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "fd8b147cd2457e4fbf30",
-          "id": null,
-          "title": "Draw It, Human!",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10021173",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1003/f29dd06083341857aa7ad33c928a0c482a2dc93a8c2c34bb.png?w=160&thumb=false"
-    },
-    {
-      "key": "881c773b84deaaf1d463",
-      "id": null,
-      "conceptId": "10019136",
-      "region": "us",
-      "title": "Leaf Blower Co.",
-      "edition": null,
-      "publisher": "Forklift Interactive Inc.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-13",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-13",
-      "releaseAt": "2026-11-13T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10019136",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2709/e60ac5738b94ba08addcd577a3fa0e6cba27ed0aadc5e34a.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "881c773b84deaaf1d463",
-          "id": null,
-          "title": "Leaf Blower Co.",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10019136",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/0351cc288464cd31955cef8ffc616ffe2ca576496147ba9e.png?w=160&thumb=false"
-    },
-    {
-      "key": "ee8c6e0b7253caaee8b4",
-      "id": null,
-      "conceptId": "10020649",
-      "region": "us",
-      "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
-      "edition": null,
-      "publisher": "QubicGames S.A.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-13",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-13",
-      "releaseAt": "2026-11-13T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020649",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2613/2d6248f6b3fdc992b7517596802a53e58d88a9e30206370e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "ee8c6e0b7253caaee8b4",
-          "id": null,
-          "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020649",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2613/82b22c18ab3cef76f36223080df01a130c0d1c59f4e21e1f.jpg?w=160&thumb=false"
     },
     {
       "key": "28915c152a02bd96c8f6",
@@ -342,6 +237,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/1c8e3e304f0bad2d99ffed828ad460ebe5949608cb82a5dd.png?w=160&thumb=false"
+    },
+    {
+      "key": "5945dd4b2e773c478972",
+      "id": null,
+      "conceptId": "10020582",
+      "region": "us",
+      "title": "Geo Book",
+      "edition": null,
+      "publisher": "QubicGames S.A.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/20/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-20",
+      "releaseAt": "2026-11-20T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020582",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0215/18f53ffe8c0fa7696184429b69fc1289c38c4f513f6958ef.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "5945dd4b2e773c478972",
+          "id": null,
+          "title": "Geo Book",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020582",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0215/f63b25d52904f81e2e0f98dcf56cb9a8eb4a514ac92e1fd3.jpg?w=160&thumb=false"
     },
     {
       "key": "b1cac88c4c8c413572a8",

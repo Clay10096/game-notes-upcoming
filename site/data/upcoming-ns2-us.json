@@ -5,13 +5,13 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-12T08:38:57-08:00",
+  "updatedAt": "2026-11-13T07:58:24-08:00",
   "status": "success",
   "gameCount": 23,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
-    "candidateCount": 48,
+    "candidateCount": 47,
     "coverage": "official-curated-page",
     "notes": [
       "美服来源为任天堂公开的 Coming Soon 精选页，可能不包含全部待发售游戏。"
@@ -255,7 +255,7 @@
       "offer": null,
       "memberOffer": null,
       "url": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000111542/02197d7f7c72aa7a6be2e59cd1b05deb881110d0fdba938815645b8fdf8b7bbc",
+      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/https://atum-img-lp1.cdn.nintendo.net/i/c/d658361593264e1c9e5f4bc65d91efe4_1024",
       "versions": [
         {
           "key": "70010000111542",
