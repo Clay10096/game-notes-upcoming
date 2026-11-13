@@ -5,7 +5,7 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-13T06:50:53+09:00",
+  "updatedAt": "2026-11-14T06:25:34+09:00",
   "status": "success",
   "gameCount": 56,
   "source": {
@@ -357,7 +357,7 @@
       "edition": null,
       "publisher": "Ubisoft",
       "platform": "ps5",
-      "releaseDateRaw": "2026/12/2",
+      "releaseDateRaw": "2026-12-02",
       "datePrecision": "day",
       "releaseDate": "2026-12-02",
       "releaseAt": "2026-12-02T15:00:00+00:00",
