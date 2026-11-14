@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-13T08:00:51-08:00",
+  "updatedAt": "2026-11-14T06:53:59-08:00",
   "status": "success",
   "gameCount": 75,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 102,
-    "productPages": 143,
+    "candidateCount": 100,
+    "productPages": 141,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "7f1c1dfc56c98f78ad20",
-      "id": null,
-      "conceptId": "10020388",
-      "region": "us",
-      "title": "DERELIKT",
-      "edition": null,
-      "publisher": "Hyperstrange Sp. z o.o.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-13",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-13",
-      "releaseAt": "2026-11-13T18:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020388",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/524f2f54e7cac8df88bd0eb183a66fada89e633e58e9b13e.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "7f1c1dfc56c98f78ad20",
-          "id": null,
-          "title": "DERELIKT",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020388",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/5e40f86d03506ce64887b8094f8350f3312f296b9206d28b.jpg?w=160&thumb=false"
-    },
     {
       "key": "28915c152a02bd96c8f6",
       "id": null,
@@ -128,7 +93,7 @@
       "conceptId": "10009391",
       "region": "us",
       "title": "Ranger's Path: National Park Simulator",
-      "edition": "Standard Edition",
+      "edition": null,
       "publisher": "astragon Entertainment GmbH",
       "platform": "ps5",
       "releaseDateRaw": "11/17/2026",
@@ -147,7 +112,7 @@
           "key": "EP2430-PPSA19075_00-0055738142177921",
           "id": "EP2430-PPSA19075_00-0055738142177921",
           "title": "Ranger's Path: National Park Simulator",
-          "edition": "Standard Edition",
+          "edition": null,
           "url": "https://store.playstation.com/en-us/product/EP2430-PPSA19075_00-0055738142177921",
           "price": 24.99,
           "originalPrice": null,
@@ -813,6 +778,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "66640e4b8e30b1bfe87d",
+      "id": null,
+      "conceptId": "10020593",
+      "region": "us",
+      "title": "Quadrillion Carrots",
+      "edition": null,
+      "publisher": "OWN IT SOLUTIONS SA",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020593",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1611/d16a899e29313bc6dd90ab953ec75f2a989ec45a7e72bac0.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "66640e4b8e30b1bfe87d",
+          "id": null,
+          "title": "Quadrillion Carrots",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020593",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1611/e367f2d68f529858b8899bd2f3c2774fc85e53c6e03664a7.jpg?w=160&thumb=false"
     },
     {
       "key": "EP0001-PPSA34056_00-STBSTD0000000000",
