@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-15T07:27:33-08:00",
+  "updatedAt": "2026-11-16T10:03:56-08:00",
   "status": "success",
-  "gameCount": 23,
+  "gameCount": 22,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,56 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000129965",
-      "id": "70010000129965",
-      "conceptId": null,
-      "region": "us",
-      "title": "Spirit Crossing",
-      "edition": "Standard Edition",
-      "publisher": "Spry Fox",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-16T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-16",
-      "releaseAt": null,
-      "price": 26.99,
-      "originalPrice": 29.99,
-      "currency": "USD",
-      "offer": {
-        "scope": "public",
-        "price": 26.99,
-        "originalPrice": 29.99,
-        "discountPercent": 10.0,
-        "startsAt": null,
-        "endsAt": "2026-11-21T07:59:59Z",
-        "endsAtRaw": null
-      },
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/spirit-crossing-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000129965/7b863ba10659b47cc2bb8b44b6fe47113bab47e0d118ff3635a81bbc901699ca",
-      "versions": [
-        {
-          "key": "70010000129965",
-          "id": "70010000129965",
-          "title": "Spirit Crossing",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/spirit-crossing-switch-2/",
-          "price": 26.99,
-          "originalPrice": 29.99,
-          "offer": {
-            "scope": "public",
-            "price": 26.99,
-            "originalPrice": 29.99,
-            "discountPercent": 10.0,
-            "startsAt": null,
-            "endsAt": "2026-11-21T07:59:59Z",
-            "endsAtRaw": null
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000126956",
       "id": "70010000126956",
