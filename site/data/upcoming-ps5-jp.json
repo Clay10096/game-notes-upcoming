@@ -5,53 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-16T05:22:13+09:00",
+  "updatedAt": "2026-11-17T08:44:25+09:00",
   "status": "success",
-  "gameCount": 56,
+  "gameCount": 55,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 70,
-    "productPages": 70,
+    "candidateCount": 69,
+    "productPages": 69,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP2430-PPSA19075_00-0055738142177921",
-      "id": "EP2430-PPSA19075_00-0055738142177921",
-      "conceptId": "10009391",
-      "region": "jp",
-      "title": "Ranger's Path: National Park Simulator",
-      "edition": "Standard Edition",
-      "publisher": "astragon Entertainment GmbH",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/11/17",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-17",
-      "releaseAt": "2026-11-17T00:00:00+00:00",
-      "price": 4400.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/EP2430-PPSA19075_00-0055738142177921",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0209/d8e02f4dbefeb11e4e1171d8c06f4f205d531a364a12fe84.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP2430-PPSA19075_00-0055738142177921",
-          "id": "EP2430-PPSA19075_00-0055738142177921",
-          "title": "Ranger's Path: National Park Simulator",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/ja-jp/product/EP2430-PPSA19075_00-0055738142177921",
-          "price": 4400.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0209/795a7d0d6cace7d767063f0f8faf018bfef8a1de4fdeb894.png?w=160&thumb=false"
-    },
     {
       "key": "JP0230-PPSA29660_00-GTAVISTANDARD001",
       "id": "JP0230-PPSA29660_00-GTAVISTANDARD001",

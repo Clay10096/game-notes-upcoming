@@ -5,67 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-16T05:20:48+09:00",
+  "updatedAt": "2026-11-17T08:43:19+09:00",
   "status": "success",
   "gameCount": 90,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 972,
+    "candidateCount": 973,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000140054",
-      "id": "70010000140054",
-      "conceptId": null,
-      "region": "jp",
-      "title": "クロスランド せいれいたちとつむぐせかい",
-      "edition": null,
-      "publisher": "Spry Fox",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.17",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-17",
-      "releaseAt": null,
-      "price": 2960.0,
-      "originalPrice": 3700.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 2960.0,
-        "originalPrice": 3700.0,
-        "discountPercent": 20.0,
-        "startsAt": "2026-10-29T00:00:00+09:00",
-        "endsAt": "2026-11-21T23:59:59+09:00",
-        "endsAtRaw": "2026-11-21 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000140054",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e1e203955dddbf1201b7b4429fd80a455c435cca9e0506fa987445af10631dcf.jpg",
-      "versions": [
-        {
-          "key": "70010000140054",
-          "id": "70010000140054",
-          "title": "クロスランド せいれいたちとつむぐせかい",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000140054",
-          "price": 2960.0,
-          "originalPrice": 3700.0,
-          "offer": {
-            "scope": "public",
-            "price": 2960.0,
-            "originalPrice": 3700.0,
-            "discountPercent": 20.0,
-            "startsAt": "2026-10-29T00:00:00+09:00",
-            "endsAt": "2026-11-21T23:59:59+09:00",
-            "endsAtRaw": "2026-11-21 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000138606",
       "id": "70010000138606",
@@ -1043,6 +993,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000126737",
           "price": 5380.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000122505",
+      "id": "70010000122505",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ライダーズ リパブリック",
+      "edition": null,
+      "publisher": "ユービーアイソフト",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.9",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000122505",
+      "image": "https://img-eshop.cdn.nintendo.net/i/11bab07cd4bd27be70444dcefa7070fc433f849760cc56b578ce4da4e48940a3.jpg",
+      "versions": [
+        {
+          "key": "70010000122505",
+          "id": "70010000122505",
+          "title": "ライダーズ リパブリック",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000122505",
+          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
