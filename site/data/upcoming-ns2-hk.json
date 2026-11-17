@@ -5,9 +5,9 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-16T04:53:39+08:00",
+  "updatedAt": "2026-11-17T08:03:41+08:00",
   "status": "success",
-  "gameCount": 36,
+  "gameCount": 35,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
@@ -16,56 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000140055",
-      "id": "70010000140055",
-      "conceptId": null,
-      "region": "hk",
-      "title": "Spirit Crossing - 靈渡之境",
-      "edition": null,
-      "publisher": "Spry Fox",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-17",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-17",
-      "releaseAt": null,
-      "price": 154.0,
-      "originalPrice": 172.0,
-      "currency": "HKD",
-      "offer": {
-        "scope": "public",
-        "price": 154.0,
-        "originalPrice": 172.0,
-        "discountPercent": 10.5,
-        "startsAt": "2026-10-28T15:00:00Z",
-        "endsAt": "2026-11-20T15:59:59Z",
-        "endsAtRaw": "2026-11-20T15:59:59Z"
-      },
-      "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000140055",
-      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001400553055a127d30c11f1ad0f3539255001b9/aa3454606c34e5dd8de0b3b1ddc60604/c69ec27a73de106eb8a1cd1063ca60a2dee7b1fa7bbc5a548b4ad8bc3c63de65.jpg?w=400&fm=webp",
-      "versions": [
-        {
-          "key": "70010000140055",
-          "id": "70010000140055",
-          "title": "Spirit Crossing - 靈渡之境",
-          "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000140055",
-          "price": 154.0,
-          "originalPrice": 172.0,
-          "offer": {
-            "scope": "public",
-            "price": 154.0,
-            "originalPrice": 172.0,
-            "discountPercent": 10.5,
-            "startsAt": "2026-10-28T15:00:00Z",
-            "endsAt": "2026-11-20T15:59:59Z",
-            "endsAtRaw": "2026-11-20T15:59:59Z"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000138607",
       "id": "70010000138607",
