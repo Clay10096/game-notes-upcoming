@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "status": "success",
   "targetCurrency": "CNY",
-  "quoteDate": "2026-11-17",
-  "updatedAt": "2026-11-17T23:25:40+00:00",
+  "quoteDate": "2026-11-18",
+  "updatedAt": "2026-11-18T17:02:57+00:00",
   "rates": {
-    "USD": 6.6661206661206664,
-    "JPY": 0.04184747215081405,
-    "HKD": 0.8496074042286682
+    "USD": 6.667213712618526,
+    "JPY": 0.041822133257077496,
+    "HKD": 0.8496798856651523
   },
   "source": {
     "name": "European Central Bank",

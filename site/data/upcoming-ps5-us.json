@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-17T09:30:50-08:00",
+  "updatedAt": "2026-11-18T09:02:57-08:00",
   "status": "success",
-  "gameCount": 74,
+  "gameCount": 76,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 99,
-    "productPages": 140,
+    "candidateCount": 101,
+    "productPages": 142,
     "coverage": "official-category",
     "notes": []
   },
@@ -97,6 +97,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0215/f63b25d52904f81e2e0f98dcf56cb9a8eb4a514ac92e1fd3.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "f7d3fe6f898e586fc74f",
+      "id": null,
+      "conceptId": "10020527",
+      "region": "us",
+      "title": "One More Delve",
+      "edition": null,
+      "publisher": "ATVR Oy",
+      "platform": "ps5",
+      "releaseDateRaw": "11/23/2026 04:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-23",
+      "releaseAt": "2026-11-23T16:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020527",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2815/9dcd05051a3bc7fec926e80b30768daedab6f3ec3e1b6f81.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "f7d3fe6f898e586fc74f",
+          "id": null,
+          "title": "One More Delve",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020527",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2815/fd47f48773dd6a49df3e3ead6c170048b2158e99d0b86acd.png?w=160&thumb=false"
     },
     {
       "key": "b1cac88c4c8c413572a8",
@@ -1338,6 +1373,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/2d16264612acd0c6dadc98032a4343218375ab2120ba6eef.png?w=160&thumb=false"
+    },
+    {
+      "key": "c817f122cc6b42562eb1",
+      "id": null,
+      "conceptId": "10020436",
+      "region": "us",
+      "title": "Merge Match March",
+      "edition": null,
+      "publisher": "EastAsiaSoft",
+      "platform": "ps5",
+      "releaseDateRaw": "12/23/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-23",
+      "releaseAt": "2026-12-23T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020436",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/eaaca590bcc54856b2fd8e638f59164a0bd65c71a6af5246.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "c817f122cc6b42562eb1",
+          "id": null,
+          "title": "Merge Match March",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020436",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/856a746c04c94bdbbdc5dfcc9dbcabac978aecb445909dd8.png?w=160&thumb=false"
     },
     {
       "key": "ce6b75f79d32f650631d",
