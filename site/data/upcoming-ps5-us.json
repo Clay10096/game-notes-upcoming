@@ -5,64 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-18T09:02:57-08:00",
+  "updatedAt": "2026-11-19T09:12:09-08:00",
   "status": "success",
   "gameCount": 76,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 101,
-    "productPages": 142,
+    "candidateCount": 104,
+    "productPages": 144,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "EP1004-PPSA01547_00-GTAVISTANDARD001",
-      "id": "EP1004-PPSA01547_00-GTAVISTANDARD001",
-      "conceptId": "10000730",
-      "region": "us",
-      "title": "Grand Theft Auto VI",
-      "edition": "Standard Edition",
-      "publisher": "Rockstar Games",
-      "platform": "ps5",
-      "releaseDateRaw": "11/19/2026",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-19",
-      "releaseAt": "2026-11-19T05:00:00+00:00",
-      "price": 79.99,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/9f51f0ccdb65bd29c36a0907a738c2902a712f03e2fd6470.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "EP1004-PPSA01547_00-GTAVISTANDARD001",
-          "id": "EP1004-PPSA01547_00-GTAVISTANDARD001",
-          "title": "Grand Theft Auto VI",
-          "edition": "Standard Edition",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
-          "price": 79.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        },
-        {
-          "key": "EP1004-PPSA01547_00-GTAVIULTIMATE001",
-          "id": "EP1004-PPSA01547_00-GTAVIULTIMATE001",
-          "title": "Grand Theft Auto VI: Ultimate Edition",
-          "edition": "Ultimate Edition",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-          "price": 99.99,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/1c8e3e304f0bad2d99ffed828ad460ebe5949608cb82a5dd.png?w=160&thumb=false"
-    },
     {
       "key": "5945dd4b2e773c478972",
       "id": null,
@@ -72,7 +26,7 @@
       "edition": null,
       "publisher": "QubicGames S.A.",
       "platform": "ps5",
-      "releaseDateRaw": "11/20/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-20",
       "datePrecision": "day",
       "releaseDate": "2026-11-20",
       "releaseAt": "2026-11-20T05:00:00+00:00",
@@ -2934,6 +2888,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1004/43be3457b4a9fde902da1ed34b4110ff8cf8567cfde73c47.png?w=160&thumb=false"
+    },
+    {
+      "key": "69754110d74316a891d4",
+      "id": null,
+      "conceptId": "10019739",
+      "region": "us",
+      "title": "Nubby's Number Factory",
+      "edition": null,
+      "publisher": "POLYCRUNCH GAMES LIMITED",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019739",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1616/2f638bd538df14893ec5ecac03ebf807693fe4b894061988.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "69754110d74316a891d4",
+          "id": null,
+          "title": "Nubby's Number Factory",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019739",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1616/48f02121f9b076a009ebd80d946d0d35e09cf5bd9efbc085.png?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",
