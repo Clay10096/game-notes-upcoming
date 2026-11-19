@@ -5,51 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-19T07:33:37+09:00",
+  "updatedAt": "2026-11-20T07:38:52+09:00",
   "status": "success",
-  "gameCount": 96,
+  "gameCount": 94,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 991,
+    "candidateCount": 990,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000127596",
-      "id": "70010000127596",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Warhammer 40,000: Boltgun 2",
-      "edition": null,
-      "publisher": "Devolver Digital",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.20",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-20",
-      "releaseAt": null,
-      "price": 3150.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000127596",
-      "image": "https://img-eshop.cdn.nintendo.net/i/354f993cd80441238da5c43cefee5005017594a3ea39ae64c39bd2db53ff57c7.jpg",
-      "versions": [
-        {
-          "key": "70010000127596",
-          "id": "70010000127596",
-          "title": "Warhammer 40,000: Boltgun 2",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000127596",
-          "price": 3150.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000136992",
       "id": "70010000136992",
@@ -400,40 +366,6 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000131139",
           "price": 4800.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "8703736a1d3faffa5709",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "STEP THEATER - ステップシアター",
-      "edition": null,
-      "publisher": "エヌビーゲームズ",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.12.3",
-      "datePrecision": "day",
-      "releaseDate": "2026-12-03",
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "8703736a1d3faffa5709",
-          "id": null,
-          "title": "STEP THEATER - ステップシアター",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -1166,13 +1098,13 @@
       "datePrecision": "day",
       "releaseDate": "2026-12-10",
       "releaseAt": null,
-      "price": null,
+      "price": 7920.0,
       "originalPrice": null,
       "currency": "JPY",
       "offer": null,
       "memberOffer": null,
       "url": "https://store-jp.nintendo.com/item/software/D70010000136656",
-      "image": "https://img-eshop.cdn.nintendo.net/i/76f295d4925aeac2d007e3d81c0fbd1be56298a254b37e2139f6e6e7ce142b5d.jpg",
+      "image": "https://img-eshop.cdn.nintendo.net/i/690b66ad5eae0792856012cfb4630d2b2bb61255d217c7da4c4ba7a4ac258a70.jpg",
       "versions": [
         {
           "key": "70010000136656",
@@ -1180,7 +1112,7 @@
           "title": "レイトン教授と蒸気の新世界",
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000136656",
-          "price": null,
+          "price": 7920.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
