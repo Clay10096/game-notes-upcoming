@@ -5,53 +5,18 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-20T07:40:17+09:00",
+  "updatedAt": "2026-11-21T07:14:55+09:00",
   "status": "success",
-  "gameCount": 53,
+  "gameCount": 52,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 67,
-    "productPages": 67,
+    "candidateCount": 66,
+    "productPages": 66,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "JP2880-PPSA09825_00-GOTHIC1REMAKE000",
-      "id": "JP2880-PPSA09825_00-GOTHIC1REMAKE000",
-      "conceptId": "10005976",
-      "region": "jp",
-      "title": "Gothic 1 Remake",
-      "edition": "Standard",
-      "publisher": "THQ Nordic",
-      "platform": "ps5",
-      "releaseDateRaw": "2026/11/24",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-24",
-      "releaseAt": "2026-11-24T04:00:00+00:00",
-      "price": 7700.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/ja-jp/product/JP2880-PPSA09825_00-GOTHIC1REMAKE000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0714/683bb359dcdc3856e433ebadaa56dde7fc04403cea152cf7.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "JP2880-PPSA09825_00-GOTHIC1REMAKE000",
-          "id": "JP2880-PPSA09825_00-GOTHIC1REMAKE000",
-          "title": "Gothic 1 Remake",
-          "edition": "Standard",
-          "url": "https://store.playstation.com/ja-jp/product/JP2880-PPSA09825_00-GOTHIC1REMAKE000",
-          "price": 7700.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0714/8b8493a89d6be0884d326bd8d9fdeefac9d76eb310077406.jpg?w=160&thumb=false"
-    },
     {
       "key": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
       "id": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",

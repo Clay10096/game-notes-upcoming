@@ -5,13 +5,13 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-20T07:38:52+09:00",
+  "updatedAt": "2026-11-21T07:13:39+09:00",
   "status": "success",
-  "gameCount": 94,
+  "gameCount": 98,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 990,
+    "candidateCount": 997,
     "coverage": "official-search",
     "notes": []
   },
@@ -691,6 +691,17 @@
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
+        },
+        {
+          "key": "70070000036357",
+          "id": "70070000036357",
+          "title": "レイマン レジェンド リトールド デラックス エディション",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000036357",
+          "price": 7040.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
         }
       ]
     },
@@ -1018,6 +1029,40 @@
       ]
     },
     {
+      "key": "70070000041640",
+      "id": "70070000041640",
+      "conceptId": null,
+      "region": "jp",
+      "title": "『ライダーズ リパブリック』プレミアムエディション",
+      "edition": null,
+      "publisher": "ユービーアイソフト",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.9",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-09",
+      "releaseAt": null,
+      "price": 5610.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70070000041640",
+      "image": "https://img-eshop.cdn.nintendo.net/i/4d8c281bcd840d377123c1e28223a548ecf46a954993ba73b6ba555803b3d816.jpg",
+      "versions": [
+        {
+          "key": "70070000041640",
+          "id": "70070000041640",
+          "title": "『ライダーズ リパブリック』プレミアムエディション",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000041640",
+          "price": 5610.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000122505",
       "id": "70010000122505",
       "conceptId": null,
@@ -1307,6 +1352,40 @@
           "key": "a847ac2411a0436c80c0",
           "id": null,
           "title": "コーヒートーク トーキョー",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "178f3d46fe5967e0ade7",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "東方紅魔郷：New Classic ～ the Embodiment of Scarlet Devil.",
+      "edition": null,
+      "publisher": "アライアンス・アーツ",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.17",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-17",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+      "image": null,
+      "versions": [
+        {
+          "key": "178f3d46fe5967e0ade7",
+          "id": null,
+          "title": "東方紅魔郷：New Classic ～ the Embodiment of Scarlet Devil.",
           "edition": null,
           "url": "https://www.nintendo.com/jp/games/switch2/index.html",
           "price": null,
@@ -1997,6 +2076,74 @@
       ]
     },
     {
+      "key": "a72d178eff340ee0e54b",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "クレヨンしんちゃん『オラと博士の夏休み』～終わらない七日間の旅～",
+      "edition": null,
+      "publisher": "ネオス",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.3.4",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-04",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+      "image": null,
+      "versions": [
+        {
+          "key": "a72d178eff340ee0e54b",
+          "id": null,
+          "title": "クレヨンしんちゃん『オラと博士の夏休み』～終わらない七日間の旅～",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "fdb4c1c4ba114fb15f66",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "クレヨンしんちゃん『炭の町のシロ』",
+      "edition": null,
+      "publisher": "ネオス",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.3.4",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-04",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+      "image": null,
+      "versions": [
+        {
+          "key": "fdb4c1c4ba114fb15f66",
+          "id": null,
+          "title": "クレヨンしんちゃん『炭の町のシロ』",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000135476",
       "id": "70010000135476",
       "conceptId": null,
@@ -2058,6 +2205,40 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000099815",
           "price": 8910.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "8d11f4ed44fab7a3f65e",
+      "id": null,
+      "conceptId": null,
+      "region": "jp",
+      "title": "薬屋のひとりごと ～偽りの皇弟～",
+      "edition": null,
+      "publisher": "コーエーテクモゲームス",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.3.18",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-18",
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+      "image": null,
+      "versions": [
+        {
+          "key": "8d11f4ed44fab7a3f65e",
+          "id": null,
+          "title": "薬屋のひとりごと ～偽りの皇弟～",
+          "edition": null,
+          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
+          "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -3279,40 +3460,6 @@
           "key": "41fbd1307a752c6da425",
           "id": null,
           "title": "続ポートピア連続殺人事件:忘却の埋葬",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "8d11f4ed44fab7a3f65e",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "薬屋のひとりごと ～偽りの皇弟～",
-      "edition": null,
-      "publisher": "コーエーテクモゲームス",
-      "platform": "switch2",
-      "releaseDateRaw": "2027.初頭",
-      "datePrecision": "season",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "8d11f4ed44fab7a3f65e",
-          "id": null,
-          "title": "薬屋のひとりごと ～偽りの皇弟～",
           "edition": null,
           "url": "https://www.nintendo.com/jp/games/switch2/index.html",
           "price": null,
