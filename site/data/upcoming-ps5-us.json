@@ -5,7 +5,7 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-19T09:12:09-08:00",
+  "updatedAt": "2026-11-20T08:50:00-08:00",
   "status": "success",
   "gameCount": 76,
   "source": {
@@ -17,41 +17,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "5945dd4b2e773c478972",
-      "id": null,
-      "conceptId": "10020582",
-      "region": "us",
-      "title": "Geo Book",
-      "edition": null,
-      "publisher": "QubicGames S.A.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-20",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-20",
-      "releaseAt": "2026-11-20T05:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020582",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0215/18f53ffe8c0fa7696184429b69fc1289c38c4f513f6958ef.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "5945dd4b2e773c478972",
-          "id": null,
-          "title": "Geo Book",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020582",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0215/f63b25d52904f81e2e0f98dcf56cb9a8eb4a514ac92e1fd3.jpg?w=160&thumb=false"
-    },
     {
       "key": "f7d3fe6f898e586fc74f",
       "id": null,
@@ -226,6 +191,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "2d1b2ac08b41ad3ef2c4",
+      "id": null,
+      "conceptId": "10014269",
+      "region": "us",
+      "title": "GrimKeep",
+      "edition": null,
+      "publisher": "RESOLUTION GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "11/30/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-30",
+      "releaseAt": "2026-11-30T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10014269",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1714/43aa6173c40291baab966b2a0402ac3c687b145bd63d177b.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "2d1b2ac08b41ad3ef2c4",
+          "id": null,
+          "title": "GrimKeep",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10014269",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1713/04938cd56aba3c3bf4c77bca1db50df0702d6c044d7cbdba.png?w=160&thumb=false"
     },
     {
       "key": "JP0082-PPSA32281_00-DQM4DDX000000000",
