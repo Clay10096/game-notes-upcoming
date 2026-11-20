@@ -5,7 +5,7 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-20T06:58:23+08:00",
+  "updatedAt": "2026-11-21T06:33:49+08:00",
   "status": "success",
   "gameCount": 54,
   "source": {
@@ -73,7 +73,7 @@
       "id": "EP1439-PPSA36395_00-0856144322518238",
       "conceptId": "10016558",
       "region": "hk",
-      "title": "FreeStyle Football 2 - Deluxe Edition (中日英韓文版)",
+      "title": "FreeStyle Football 2 - Deluxe Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
       "edition": "Deluxe Edition",
       "publisher": "JOYCITY CORPORATION",
       "platform": "ps5",
@@ -100,7 +100,7 @@
         {
           "key": "EP1439-PPSA36395_00-0856144322518238",
           "id": "EP1439-PPSA36395_00-0856144322518238",
-          "title": "FreeStyle Football 2 - Deluxe Edition (中日英韓文版)",
+          "title": "FreeStyle Football 2 - Deluxe Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": "Deluxe Edition",
           "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0856144322518238",
           "price": 308.0,
@@ -119,7 +119,7 @@
         {
           "key": "EP1439-PPSA36395_00-0801025643898279",
           "id": "EP1439-PPSA36395_00-0801025643898279",
-          "title": "FreeStyle Football 2 - Ultimate Edition (中日英韓文版)",
+          "title": "FreeStyle Football 2 - Ultimate Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": "Ultimate Edition",
           "url": "https://store.playstation.com/zh-hant-hk/product/EP1439-PPSA36395_00-0801025643898279",
           "price": 568.0,
@@ -143,7 +143,7 @@
       "id": "JP0082-PPSA32281_00-DQM4DDX000000000",
       "conceptId": "10016414",
       "region": "hk",
-      "title": "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉 怪物大師版 (中日英韓文版)",
+      "title": "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉 怪物大師版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
       "edition": null,
       "publisher": "SQUARE ENIX",
       "platform": "ps5",
@@ -162,7 +162,7 @@
         {
           "key": "JP0082-PPSA32281_00-DQM4DDX000000000",
           "id": "JP0082-PPSA32281_00-DQM4DDX000000000",
-          "title": "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉 怪物大師版 (中日英韓文版)",
+          "title": "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉 怪物大師版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
           "edition": null,
           "url": "https://store.playstation.com/zh-hant-hk/product/JP0082-PPSA32281_00-DQM4DDX000000000",
           "price": 648.0,
