@@ -5,14 +5,14 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-21T08:00:03-08:00",
+  "updatedAt": "2026-11-22T08:02:28-08:00",
   "status": "success",
-  "gameCount": 77,
+  "gameCount": 78,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 106,
-    "productPages": 146,
+    "candidateCount": 110,
+    "productPages": 150,
     "coverage": "official-category",
     "notes": []
   },
@@ -26,7 +26,7 @@
       "edition": null,
       "publisher": "ATVR Oy",
       "platform": "ps5",
-      "releaseDateRaw": "11/23/2026 04:00 PM UTC",
+      "releaseDateRaw": "2026-11-23",
       "datePrecision": "day",
       "releaseDate": "2026-11-23",
       "releaseAt": "2026-11-23T16:00:00+00:00",
@@ -2748,6 +2748,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/6648deb4d2e442c200e3cebe36466ade1f0fd45a051095e7.png?w=160&thumb=false"
+    },
+    {
+      "key": "ac1c4a9654619ac9e2d5",
+      "id": null,
+      "conceptId": "10021299",
+      "region": "us",
+      "title": "A Game About Cleaning A Lake",
+      "edition": null,
+      "publisher": "OWN IT SOLUTIONS SA",
+      "platform": "ps5",
+      "releaseDateRaw": "2026",
+      "datePrecision": "year",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10021299",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0318/a1ea1d9861a9fecb29b171b1f4d04b7b5c8f8c3743a43799.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "ac1c4a9654619ac9e2d5",
+          "id": null,
+          "title": "A Game About Cleaning A Lake",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10021299",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0318/9bbcce38ac259a0fba212d760e8c51ff1a73c336d04cdba4.jpg?w=160&thumb=false"
     },
     {
       "key": "64b9c9a7b66227a8695e",
