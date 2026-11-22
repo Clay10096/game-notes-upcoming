@@ -5,9 +5,9 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-22T05:52:43+09:00",
+  "updatedAt": "2026-11-23T06:00:31+09:00",
   "status": "success",
-  "gameCount": 98,
+  "gameCount": 97,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
@@ -16,40 +16,6 @@
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000136992",
-      "id": "70010000136992",
-      "conceptId": null,
-      "region": "jp",
-      "title": "ジェイデン・インダストリーズ：癒やしの自動化パズル",
-      "edition": null,
-      "publisher": "PUSHKA INTERACTIVE SOFTWARE",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.23",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-23",
-      "releaseAt": null,
-      "price": 1650.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136992",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fa3e75f9b536b5027b76aaae7d6c97203ee059dc9ce7694249882fbc81ee3385.jpg",
-      "versions": [
-        {
-          "key": "70010000136992",
-          "id": "70010000136992",
-          "title": "ジェイデン・インダストリーズ：癒やしの自動化パズル",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000136992",
-          "price": 1650.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000132276",
       "id": "70010000132276",
