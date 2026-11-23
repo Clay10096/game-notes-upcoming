@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-22T08:02:28-08:00",
+  "updatedAt": "2026-11-23T11:58:54-08:00",
   "status": "success",
-  "gameCount": 78,
+  "gameCount": 76,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 110,
-    "productPages": 150,
+    "candidateCount": 112,
+    "productPages": 152,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "f7d3fe6f898e586fc74f",
-      "id": null,
-      "conceptId": "10020527",
-      "region": "us",
-      "title": "One More Delve",
-      "edition": null,
-      "publisher": "ATVR Oy",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-23",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-23",
-      "releaseAt": "2026-11-23T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020527",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2815/9dcd05051a3bc7fec926e80b30768daedab6f3ec3e1b6f81.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "f7d3fe6f898e586fc74f",
-          "id": null,
-          "title": "One More Delve",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020527",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2815/fd47f48773dd6a49df3e3ead6c170048b2158e99d0b86acd.png?w=160&thumb=false"
-    },
     {
       "key": "b1cac88c4c8c413572a8",
       "id": null,
@@ -61,7 +26,7 @@
       "edition": null,
       "publisher": "THQ Nordic",
       "platform": "ps5",
-      "releaseDateRaw": "11/24/2026 02:00 PM UTC",
+      "releaseDateRaw": "2026-11-24",
       "datePrecision": "day",
       "releaseDate": "2026-11-24",
       "releaseAt": "2026-11-24T14:00:00+00:00",
@@ -2888,41 +2853,6 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
-    },
-    {
-      "key": "22367c6181fbd3ee1e30",
-      "id": null,
-      "conceptId": "10021354",
-      "region": "us",
-      "title": "Final Apex",
-      "edition": null,
-      "publisher": "Repixel8 Ltd",
-      "platform": "ps5",
-      "releaseDateRaw": "2026",
-      "datePrecision": "year",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10021354",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2913/532f50ceb59c781e2165d8d896acf281fb8521faa49022b2.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "22367c6181fbd3ee1e30",
-          "id": null,
-          "title": "Final Apex",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10021354",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2913/b11c20c4595e00bf23c72ac39c7eca47c14053d75a00fd30.png?w=160&thumb=false"
     },
     {
       "key": "c19199dd888d432123aa",
