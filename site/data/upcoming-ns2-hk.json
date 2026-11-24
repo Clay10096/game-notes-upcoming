@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-23T05:37:15+08:00",
+  "updatedAt": "2026-11-24T10:47:37+08:00",
   "status": "success",
-  "gameCount": 37,
+  "gameCount": 38,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 623,
+    "candidateCount": 625,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -552,6 +552,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000131646",
           "price": 57.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000143132",
+      "id": "70010000143132",
+      "conceptId": null,
+      "region": "hk",
+      "title": "Aeterna Lucis",
+      "edition": null,
+      "publisher": "Aeternum Game Studios",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-04",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-04",
+      "releaseAt": null,
+      "price": 135.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000143132",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001431323bf8f781e51e11f1bf12a79ecc2fbdc8/9b2d3d40b200e016919f4b3317df6b68/7062a4e666bfddb989a4a1f9a84cb582aace2a2851e304b50161a608feff27a8.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000143132",
+          "id": "70010000143132",
+          "title": "Aeterna Lucis",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000143132",
+          "price": 135.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
