@@ -5,13 +5,13 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-23T06:00:31+09:00",
+  "updatedAt": "2026-11-24T11:08:33+09:00",
   "status": "success",
-  "gameCount": 97,
+  "gameCount": 100,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 997,
+    "candidateCount": 1000,
     "coverage": "official-search",
     "notes": []
   },
@@ -1464,6 +1464,40 @@
       ]
     },
     {
+      "key": "70010000140416",
+      "id": "70010000140416",
+      "conceptId": null,
+      "region": "jp",
+      "title": "天地創造 Nintendo Switch 2 Edition",
+      "edition": null,
+      "publisher": "Clear River Games",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.1.14",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-14",
+      "releaseAt": null,
+      "price": 4478.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140416",
+      "image": "https://img-eshop.cdn.nintendo.net/i/00f495ef528552883b399163e662041de3101f9facc07f8ded7ebf8fa8bc7857.jpg",
+      "versions": [
+        {
+          "key": "70010000140416",
+          "id": "70010000140416",
+          "title": "天地創造 Nintendo Switch 2 Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000140416",
+          "price": 4478.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000122040",
       "id": "70010000122040",
       "conceptId": null,
@@ -1763,6 +1797,74 @@
           "edition": null,
           "url": "https://www.nintendo.com/jp/games/switch2/index.html",
           "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70070000038894",
+      "id": "70070000038894",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
+      "edition": null,
+      "publisher": "スクウェア・エニックス",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.2.1",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-01",
+      "releaseAt": null,
+      "price": 10780.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70070000038894",
+      "image": "https://img-eshop.cdn.nintendo.net/i/61120a238711830ee4e726b69c0d38704f6b5248155f70c60ad128be8a8f020d.jpg",
+      "versions": [
+        {
+          "key": "70070000038894",
+          "id": "70070000038894",
+          "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70070000038894",
+          "price": 10780.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000114055",
+      "id": "70010000114055",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド",
+      "edition": null,
+      "publisher": "スクウェア・エニックス",
+      "platform": "switch2",
+      "releaseDateRaw": "2027.2.4",
+      "datePrecision": "day",
+      "releaseDate": "2027-02-04",
+      "releaseAt": null,
+      "price": 7480.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000114055",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9fd7f1e04700a7840b1d4ff27fe3b584bff903578969b4485a6d9b383808e76c.jpg",
+      "versions": [
+        {
+          "key": "70010000114055",
+          "id": "70010000114055",
+          "title": "ロマンシング サガ3 デスティニーユナイテッド",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000114055",
+          "price": 7480.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
