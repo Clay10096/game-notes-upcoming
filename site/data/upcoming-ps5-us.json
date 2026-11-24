@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-23T11:58:54-08:00",
+  "updatedAt": "2026-11-24T11:27:12-08:00",
   "status": "success",
-  "gameCount": 76,
+  "gameCount": 78,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 112,
-    "productPages": 152,
+    "candidateCount": 119,
+    "productPages": 159,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "b1cac88c4c8c413572a8",
-      "id": null,
-      "conceptId": "10009603",
-      "region": "us",
-      "title": "Gothic 3 Classic",
-      "edition": null,
-      "publisher": "THQ Nordic",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-24",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-24",
-      "releaseAt": "2026-11-24T14:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10009603",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/9697fa5c96c7a0e0b60da227b4a3c1800e35132c1d2c94c0.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "b1cac88c4c8c413572a8",
-          "id": null,
-          "title": "Gothic 3 Classic",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10009603",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/83c8c965f81890a78c9f4472660adb8748135f5afd1c4acb.jpg?w=160&thumb=false"
-    },
     {
       "key": "11b576b9729d6661855f",
       "id": null,
@@ -61,7 +26,7 @@
       "edition": null,
       "publisher": "VRKiwi",
       "platform": "ps5",
-      "releaseDateRaw": "11/25/2026 05:00 AM UTC",
+      "releaseDateRaw": "2026-11-25",
       "datePrecision": "day",
       "releaseDate": "2026-11-25",
       "releaseAt": "2026-11-25T05:00:00+00:00",
@@ -86,6 +51,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/0f92124d0fa4d0588f3f227bd5f4f4eef99a0d0018ffca1c.png?w=160&thumb=false"
+    },
+    {
+      "key": "e3dcedce9b0a6e65ee84",
+      "id": null,
+      "conceptId": "10016490",
+      "region": "us",
+      "title": "Arkheron",
+      "edition": null,
+      "publisher": "BONFIRE STUDIOS INC.",
+      "platform": "ps5",
+      "releaseDateRaw": "11/27/2026 03:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-11-27",
+      "releaseAt": "2026-11-27T15:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10016490",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1818/2ed56e2e5a9349ec4f84a3410d569b677a4f2d049d46a035.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "e3dcedce9b0a6e65ee84",
+          "id": null,
+          "title": "Arkheron",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10016490",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2603/e888af1fe53a0fa9146660ac416e94da9c160b11ecde3236.png?w=160&thumb=false"
     },
     {
       "key": "EP1439-PPSA36395_00-0856144322518238",
@@ -673,6 +673,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0508/1f01833843313a19cac763d4fe2f98d105dc2b26c6028442.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "982b79565d2e0c18e8c8",
+      "id": null,
+      "conceptId": "10018374",
+      "region": "us",
+      "title": "Space Mechanic Simulator",
+      "edition": null,
+      "publisher": "ULTIMATE GAMES",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026 03:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T15:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10018374",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1211/e0698ffa7ed6ef0870fbdb6281f80fcc817f8af9963a2ba2.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "982b79565d2e0c18e8c8",
+          "id": null,
+          "title": "Space Mechanic Simulator",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10018374",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1211/13084826e0d7fa2299ffbf39df46d59118af33a8925bcdc0.jpg?w=160&thumb=false"
     },
     {
       "key": "UP0913-PPSA38212_00-0877603519890164",
@@ -1327,6 +1362,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/856a746c04c94bdbbdc5dfcc9dbcabac978aecb445909dd8.png?w=160&thumb=false"
+    },
+    {
+      "key": "8828310bbb6f4267426b",
+      "id": null,
+      "conceptId": "10017555",
+      "region": "us",
+      "title": "Armatus",
+      "edition": null,
+      "publisher": "Fictions",
+      "platform": "ps5",
+      "releaseDateRaw": "1/7/2027 05:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-07",
+      "releaseAt": "2027-01-07T17:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017555",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0522/0e388f7a11f4f6387feea0393e1b3105df84ac5a70ebadcb.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "8828310bbb6f4267426b",
+          "id": null,
+          "title": "Armatus",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017555",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0522/2bb4ee7aee64ab25121dbd3b08a2f35ac4e4a8bb4c48b1d6.jpg?w=160&thumb=false"
     },
     {
       "key": "ce6b75f79d32f650631d",
