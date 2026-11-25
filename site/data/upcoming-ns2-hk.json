@@ -5,7 +5,7 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-24T10:47:37+08:00",
+  "updatedAt": "2026-11-25T08:27:36+08:00",
   "status": "success",
   "gameCount": 38,
   "source": {
@@ -1204,7 +1204,7 @@
       "currency": "HKD",
       "offer": null,
       "memberOffer": null,
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000133231",
+      "url": "https://www.nintendo.com/hk/switch/zelda-yakusai/dx/",
       "image": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013323146627b0cac8b11f19427ebc15686256c/12609b89d0d39efaecb124612d6ab558/b34d2cdc3942da8386bfba51c7f46fcf027f5a09901680b1c5a02d46cf585c51.jpg?w=400&fm=webp",
       "versions": [
         {
@@ -1212,7 +1212,7 @@
           "id": "70010000133231",
           "title": "ZELDA無雙 災厄啟示錄豪華版",
           "edition": null,
-          "url": "https://ec.nintendo.com/HK/zh/titles/70010000133231",
+          "url": "https://www.nintendo.com/hk/switch/zelda-yakusai/dx/",
           "price": 449.0,
           "originalPrice": null,
           "offer": null,
