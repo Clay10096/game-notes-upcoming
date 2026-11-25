@@ -5,237 +5,17 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-25T08:51:10+09:00",
+  "updatedAt": "2026-11-26T08:35:04+09:00",
   "status": "success",
-  "gameCount": 100,
+  "gameCount": 98,
   "source": {
     "name": "Nintendo JP official Switch 2 search",
     "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-    "candidateCount": 1001,
+    "candidateCount": 1007,
     "coverage": "official-search",
     "notes": []
   },
   "games": [
-    {
-      "key": "70010000132276",
-      "id": "70010000132276",
-      "conceptId": null,
-      "region": "jp",
-      "title": "GRIME II",
-      "edition": null,
-      "publisher": "Kwalee",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 2800.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132276",
-      "image": "https://img-eshop.cdn.nintendo.net/i/23c7593019b44b1bf0864a1a0debef8e620db59218289664ad57bd2ff6f236c0.jpg",
-      "versions": [
-        {
-          "key": "70010000132276",
-          "id": "70010000132276",
-          "title": "GRIME II",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000132276",
-          "price": 2800.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000127694",
-      "id": "70010000127694",
-      "conceptId": null,
-      "region": "jp",
-      "title": "KuloNiku: Bowl Up!",
-      "edition": null,
-      "publisher": "Raw Fury",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 1400.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000127694",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6657bcbbf696ce61331991a2d9b5b4cba8476afa58c9890671f2a4a759d8f750.jpg",
-      "versions": [
-        {
-          "key": "70010000127694",
-          "id": "70010000127694",
-          "title": "KuloNiku: Bowl Up!",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000127694",
-          "price": 1400.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000130832",
-      "id": "70010000130832",
-      "conceptId": null,
-      "region": "jp",
-      "title": "Station to Station",
-      "edition": null,
-      "publisher": "Engine Software",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 1592.0,
-      "originalPrice": 1990.0,
-      "currency": "JPY",
-      "offer": {
-        "scope": "public",
-        "price": 1592.0,
-        "originalPrice": 1990.0,
-        "discountPercent": 20.0,
-        "startsAt": "2026-11-12T00:00:00+09:00",
-        "endsAt": "2026-12-10T23:59:59+09:00",
-        "endsAtRaw": "2026-12-10 23:59:59"
-      },
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000130832",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5401795418bb024d0c82a6cf5dbe97c3b9dfb5477ad1ca7ff1dcf883c5d7792a.jpg",
-      "versions": [
-        {
-          "key": "70010000130832",
-          "id": "70010000130832",
-          "title": "Station to Station",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000130832",
-          "price": 1592.0,
-          "originalPrice": 1990.0,
-          "offer": {
-            "scope": "public",
-            "price": 1592.0,
-            "originalPrice": 1990.0,
-            "discountPercent": 20.0,
-            "startsAt": "2026-11-12T00:00:00+09:00",
-            "endsAt": "2026-12-10T23:59:59+09:00",
-            "endsAtRaw": "2026-12-10 23:59:59"
-          },
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000129140",
-      "id": "70010000129140",
-      "conceptId": null,
-      "region": "jp",
-      "title": "まるぽよ：丸いひよこの冒険",
-      "edition": null,
-      "publisher": "Casual Brothers",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 980.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129140",
-      "image": "https://img-eshop.cdn.nintendo.net/i/0e0386d2273b3c39418b9084e161409da3cc669de4e75d8c3ab8aaa4aa441b5f.jpg",
-      "versions": [
-        {
-          "key": "70010000129140",
-          "id": "70010000129140",
-          "title": "まるぽよ：丸いひよこの冒険",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000129140",
-          "price": 980.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000135657",
-      "id": "70010000135657",
-      "conceptId": null,
-      "region": "jp",
-      "title": "サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ",
-      "edition": null,
-      "publisher": "イマジニア",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 4580.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135657",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1592857bda81300db0e9a694eb45f124ea42ade5208a4e98a5be414462cd9149.jpg",
-      "versions": [
-        {
-          "key": "70010000135657",
-          "id": "70010000135657",
-          "title": "サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000135657",
-          "price": 4580.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "70010000125087",
-      "id": "70010000125087",
-      "conceptId": null,
-      "region": "jp",
-      "title": "最強王図鑑　クラッシュバトルキングス",
-      "edition": null,
-      "publisher": "日本コロムビア",
-      "platform": "switch2",
-      "releaseDateRaw": "2026.11.26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 6380.0,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store-jp.nintendo.com/item/software/D70010000125087",
-      "image": "https://img-eshop.cdn.nintendo.net/i/dbcf472944c610ef944ff73318573625ec7ea9492689c59b0cc414c9be83a7a8.jpg",
-      "versions": [
-        {
-          "key": "70010000125087",
-          "id": "70010000125087",
-          "title": "最強王図鑑　クラッシュバトルキングス",
-          "edition": null,
-          "url": "https://store-jp.nintendo.com/item/software/D70010000125087",
-          "price": 6380.0,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000132961",
       "id": "70010000132961",
@@ -559,6 +339,40 @@
       ]
     },
     {
+      "key": "70010000137709",
+      "id": "70010000137709",
+      "conceptId": null,
+      "region": "jp",
+      "title": "サルウォーズ -2人で協力！ダブルマウスアクション-",
+      "edition": null,
+      "publisher": "ギフトテンインダストリ",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.3",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 625.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137709",
+      "image": "https://img-eshop.cdn.nintendo.net/i/5f603423a3bb1c0e463816503c1d028d199ec8a745f705bc5c9bb9ef190417cb.jpg",
+      "versions": [
+        {
+          "key": "70010000137709",
+          "id": "70010000137709",
+          "title": "サルウォーズ -2人で協力！ダブルマウスアクション-",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000137709",
+          "price": 625.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000136333",
       "id": "70010000136333",
       "conceptId": null,
@@ -622,6 +436,56 @@
           "price": 7700.0,
           "originalPrice": null,
           "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000144159",
+      "id": "70010000144159",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ファッションモール物語 – Nintendo Switch 2 Edition",
+      "edition": null,
+      "publisher": "カイロソフト",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.3",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 1800.0,
+      "originalPrice": 2000.0,
+      "currency": "JPY",
+      "offer": {
+        "scope": "public",
+        "price": 1800.0,
+        "originalPrice": 2000.0,
+        "discountPercent": 10.0,
+        "startsAt": "2026-11-26T00:00:00+09:00",
+        "endsAt": "2026-12-16T23:59:59+09:00",
+        "endsAtRaw": "2026-12-16 23:59:59"
+      },
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000144159",
+      "image": "https://img-eshop.cdn.nintendo.net/i/55c25981c30d6c7b60ea0fd46b5944fa02173bd568d3cf86f1d402611b3b2256.jpg",
+      "versions": [
+        {
+          "key": "70010000144159",
+          "id": "70010000144159",
+          "title": "ファッションモール物語 – Nintendo Switch 2 Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000144159",
+          "price": 1800.0,
+          "originalPrice": 2000.0,
+          "offer": {
+            "scope": "public",
+            "price": 1800.0,
+            "originalPrice": 2000.0,
+            "discountPercent": 10.0,
+            "startsAt": "2026-11-26T00:00:00+09:00",
+            "endsAt": "2026-12-16T23:59:59+09:00",
+            "endsAtRaw": "2026-12-16 23:59:59"
+          },
           "memberOffer": null
         }
       ]
@@ -770,6 +634,40 @@
             "endsAt": "2026-12-16T23:59:59+09:00",
             "endsAtRaw": "2026-12-16 23:59:59"
           },
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000143131",
+      "id": "70010000143131",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Aeterna Lucis",
+      "edition": null,
+      "publisher": "Aeternum Game Studios",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.4",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-04",
+      "releaseAt": null,
+      "price": 3500.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000143131",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7062a4e666bfddb989a4a1f9a84cb582aace2a2851e304b50161a608feff27a8.jpg",
+      "versions": [
+        {
+          "key": "70010000143131",
+          "id": "70010000143131",
+          "title": "Aeterna Lucis",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000143131",
+          "price": 3500.0,
+          "originalPrice": null,
+          "offer": null,
           "memberOffer": null
         }
       ]
@@ -1097,6 +995,40 @@
       ]
     },
     {
+      "key": "70010000132365",
+      "id": "70010000132365",
+      "conceptId": null,
+      "region": "jp",
+      "title": "ピクロスS CLIMAX",
+      "edition": null,
+      "publisher": "ジュピター",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.10",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": null,
+      "price": 2980.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000132365",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c8acd015ef3dbe6c1cdf335cfc874522d0ac7da7d472888346a430b0d1daa977.jpg",
+      "versions": [
+        {
+          "key": "70010000132365",
+          "id": "70010000132365",
+          "title": "ピクロスS CLIMAX",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000132365",
+          "price": 2980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000136656",
       "id": "70010000136656",
       "conceptId": null,
@@ -1287,6 +1219,74 @@
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000130000",
           "price": 6980.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000137961",
+      "id": "70010000137961",
+      "conceptId": null,
+      "region": "jp",
+      "title": "STARDUST: Wish of Witch",
+      "edition": null,
+      "publisher": "Silver Lining Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.15",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-15",
+      "releaseAt": null,
+      "price": 2800.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137961",
+      "image": "https://img-eshop.cdn.nintendo.net/i/60a9ab62861bf0671b91fb3f9621b0f713a59a3d6929787448140208811ceacb.jpg",
+      "versions": [
+        {
+          "key": "70010000137961",
+          "id": "70010000137961",
+          "title": "STARDUST: Wish of Witch",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000137961",
+          "price": 2800.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000142324",
+      "id": "70010000142324",
+      "conceptId": null,
+      "region": "jp",
+      "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition",
+      "edition": null,
+      "publisher": "Playtonic Friends",
+      "platform": "switch2",
+      "releaseDateRaw": "2026.12.17",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-17",
+      "releaseAt": null,
+      "price": 2800.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store-jp.nintendo.com/item/software/D70010000142324",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c76d72d212ef0447d6f6545fb07121e542c8d8d341d82058cf653473a107a3a3.jpg",
+      "versions": [
+        {
+          "key": "70010000142324",
+          "id": "70010000142324",
+          "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition",
+          "edition": null,
+          "url": "https://store-jp.nintendo.com/item/software/D70010000142324",
+          "price": 2800.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
@@ -2450,40 +2450,6 @@
       ]
     },
     {
-      "key": "7717a4bba7dfacfcaf10",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "007 ファースト・ライト",
-      "edition": null,
-      "publisher": "H2 INTERACTIVE",
-      "platform": "switch2",
-      "releaseDateRaw": "未定",
-      "datePrecision": "tbd",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "7717a4bba7dfacfcaf10",
-          "id": null,
-          "title": "007 ファースト・ライト",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
       "key": "70010000130419",
       "id": "70010000130419",
       "conceptId": null,
@@ -2578,40 +2544,6 @@
           "title": "Haunted Paws",
           "edition": null,
           "url": "https://store-jp.nintendo.com/item/software/D70010000133759",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ]
-    },
-    {
-      "key": "c14be37a2b8a309788bc",
-      "id": null,
-      "conceptId": null,
-      "region": "jp",
-      "title": "Hela",
-      "edition": null,
-      "publisher": "MY.GAMES",
-      "platform": "switch2",
-      "releaseDateRaw": "2026",
-      "datePrecision": "year",
-      "releaseDate": null,
-      "releaseAt": null,
-      "price": null,
-      "originalPrice": null,
-      "currency": "JPY",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/jp/games/switch2/index.html",
-      "image": null,
-      "versions": [
-        {
-          "key": "c14be37a2b8a309788bc",
-          "id": null,
-          "title": "Hela",
-          "edition": null,
-          "url": "https://www.nintendo.com/jp/games/switch2/index.html",
           "price": null,
           "originalPrice": null,
           "offer": null,

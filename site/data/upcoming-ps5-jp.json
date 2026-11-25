@@ -5,14 +5,14 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-25T08:52:36+09:00",
+  "updatedAt": "2026-11-26T08:36:15+09:00",
   "status": "success",
-  "gameCount": 52,
+  "gameCount": 53,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/ja-jp/category/0c9f6f09-d84c-433e-9acd-d7e222eef034/1",
-    "candidateCount": 66,
-    "productPages": 66,
+    "candidateCount": 68,
+    "productPages": 68,
     "coverage": "official-category",
     "notes": []
   },
@@ -1834,6 +1834,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0706/0dd35da2b37e19229fbdebc45daa5f6f4046697bc9143cb8.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA35454_00-NOBU170000000000",
+      "id": "JP0106-PPSA35454_00-NOBU170000000000",
+      "conceptId": "10018231",
+      "region": "jp",
+      "title": "信長の野望･飛翔",
+      "edition": "通常版",
+      "publisher": "(株)コーエーテクモゲームス",
+      "platform": "ps5",
+      "releaseDateRaw": "2027/3/11",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-11",
+      "releaseAt": "2027-03-11T15:00:00+00:00",
+      "price": 11880.0,
+      "originalPrice": null,
+      "currency": "JPY",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA35454_00-NOBU170000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0308/5e97b2ea5868328d55df2f1865402ec3dab8110954b514af.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA35454_00-NOBU170000000000",
+          "id": "JP0106-PPSA35454_00-NOBU170000000000",
+          "title": "信長の野望･飛翔",
+          "edition": "通常版",
+          "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA35454_00-NOBU170000000000",
+          "price": 11880.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA35454_00-NOBU17DDX0000000",
+          "id": "JP0106-PPSA35454_00-NOBU17DDX0000000",
+          "title": "信長の野望･飛翔 Digital Deluxe Edition",
+          "edition": "Digital Deluxe Edition",
+          "url": "https://store.playstation.com/ja-jp/product/JP0106-PPSA35454_00-NOBU17DDX0000000",
+          "price": 16830.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0308/1cddaad59f988b3c02faf80f36e639037eba3e617651e4b5.png?w=160&thumb=false"
     },
     {
       "key": "JP0367-PPSA31245_00-00EDF62DXEDITION",
