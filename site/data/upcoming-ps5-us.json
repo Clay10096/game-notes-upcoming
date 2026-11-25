@@ -5,52 +5,52 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-24T11:27:12-08:00",
+  "updatedAt": "2026-11-25T10:33:06-08:00",
   "status": "success",
-  "gameCount": 78,
+  "gameCount": 82,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 119,
-    "productPages": 159,
+    "candidateCount": 125,
+    "productPages": 165,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
     {
-      "key": "11b576b9729d6661855f",
+      "key": "61a16a22166b03c64805",
       "id": null,
-      "conceptId": "10017442",
+      "conceptId": "10021069",
       "region": "us",
-      "title": "Sunstone of Time",
+      "title": "The Spectrum Retreat: Redux",
       "edition": null,
-      "publisher": "VRKiwi",
+      "publisher": "RIPSTONE LTD",
       "platform": "ps5",
-      "releaseDateRaw": "2026-11-25",
+      "releaseDateRaw": "2026-11-26",
       "datePrecision": "day",
-      "releaseDate": "2026-11-25",
-      "releaseAt": "2026-11-25T05:00:00+00:00",
+      "releaseDate": "2026-11-26",
+      "releaseAt": "2026-11-26T09:00:00+00:00",
       "price": null,
       "originalPrice": null,
       "currency": "USD",
       "offer": null,
       "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10017442",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/32cfab9f47f46946c5f465bff7bcbade4723c10ac6ba17c0.png?w=160&thumb=false",
+      "url": "https://store.playstation.com/en-us/concept/10021069",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/24205ba588a573a8b7546e6cb7cfc8780e7196699ce149b4.png?w=160&thumb=false",
       "versions": [
         {
-          "key": "11b576b9729d6661855f",
+          "key": "61a16a22166b03c64805",
           "id": null,
-          "title": "Sunstone of Time",
+          "title": "The Spectrum Retreat: Redux",
           "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10017442",
+          "url": "https://store.playstation.com/en-us/concept/10021069",
           "price": null,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null
         }
       ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/0f92124d0fa4d0588f3f227bd5f4f4eef99a0d0018ffca1c.png?w=160&thumb=false"
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/69a5a5883b4ad74a8983de6375f32ed1a54269e1af6e41fa.jpg?w=160&thumb=false"
     },
     {
       "key": "e3dcedce9b0a6e65ee84",
@@ -166,10 +166,10 @@
       "edition": null,
       "publisher": "RESOLUTION GAMES",
       "platform": "ps5",
-      "releaseDateRaw": "11/30/2026 05:00 AM UTC",
+      "releaseDateRaw": "11/30/2026 02:00 PM UTC",
       "datePrecision": "day",
       "releaseDate": "2026-11-30",
-      "releaseAt": "2026-11-30T05:00:00+00:00",
+      "releaseAt": "2026-11-30T14:00:00+00:00",
       "price": null,
       "originalPrice": null,
       "currency": "USD",
@@ -436,6 +436,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0311/ab7543d8129a9fcf5bc0f30418713ea01f477ed71b896d91.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "6c270f737e035407524a",
+      "id": null,
+      "conceptId": "10020699",
+      "region": "us",
+      "title": "BloodRush: Undying Wish",
+      "edition": null,
+      "publisher": "Nuntius Games, LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "12/3/2026 03:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": "2026-12-03T15:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020699",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0321/5f4c05e71303fc60e3a0bec0f614da723232fc8b1f08f4c2.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "6c270f737e035407524a",
+          "id": null,
+          "title": "BloodRush: Undying Wish",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020699",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0321/df37145e73d4598ae9e5fa88b26d007ede9fbcf87a80bd8e.png?w=160&thumb=false"
     },
     {
       "key": "JP0082-PPSA32281_00-DQM4000000000000",
@@ -1066,6 +1101,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/26a68665020672abb329ab4a491d7f43d9c060c7e73479f2.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "75eea692eec161558f70",
+      "id": null,
+      "conceptId": "10017729",
+      "region": "us",
+      "title": "Agent Skunk: Stink Ops",
+      "edition": null,
+      "publisher": "Witenovastudio OÜ",
+      "platform": "ps5",
+      "releaseDateRaw": "12/10/2026 05:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": "2026-12-10T17:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017729",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/b02f31baea6ae83dd1bf179f1937469950e9accf3ff807a5.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "75eea692eec161558f70",
+          "id": null,
+          "title": "Agent Skunk: Stink Ops",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017729",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/39e0d9d539fc22d11a0447e169c62cba547b6adeb26eac22.jpg?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA25406_00-APP052554D424C45",
@@ -1828,6 +1898,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/fee3117ef2e9dad53f42a3d92a69cd2be482266eac9b6300.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "79fed062222126f70111",
+      "id": null,
+      "conceptId": "10016866",
+      "region": "us",
+      "title": "Formido - The Darkness Remembers",
+      "edition": null,
+      "publisher": "EastAsiaSoft",
+      "platform": "ps5",
+      "releaseDateRaw": "1/27/2027 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-27",
+      "releaseAt": "2027-01-27T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10016866",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1004/0a25fe87b8ac397ceddd9a27a2c22276ca136372f6698072.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "79fed062222126f70111",
+          "id": null,
+          "title": "Formido - The Darkness Remembers",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10016866",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1602/c4c4d256f806d60cd055e53405ad1ccdc4acd01185dc020c.png?w=160&thumb=false"
     },
     {
       "key": "EP4365-PPSA39307_00-00000000TROPICO7",
@@ -2923,6 +3028,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0509/0ef230f42fc8f4e9f91e57c44df7a6710674e3cdede38727.png?w=160&thumb=false"
+    },
+    {
+      "key": "5675716786cd241ba6c2",
+      "id": null,
+      "conceptId": "10019969",
+      "region": "us",
+      "title": "FlatOut 4: Total Insanity VR",
+      "edition": null,
+      "publisher": "Impact Reality, INC.",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019969",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/a3ef12c7478edce852110ad6bf9c6b4465020dea581ed063.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "5675716786cd241ba6c2",
+          "id": null,
+          "title": "FlatOut 4: Total Insanity VR",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019969",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0522/8bdb846714b0c16007b2848d112df094c08609e8670e442e.png?w=160&thumb=false"
     },
     {
       "key": "c19199dd888d432123aa",
