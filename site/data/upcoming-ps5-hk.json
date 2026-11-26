@@ -5,14 +5,14 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-25T08:28:53+08:00",
+  "updatedAt": "2026-11-26T08:04:20+08:00",
   "status": "success",
-  "gameCount": 54,
+  "gameCount": 55,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 68,
-    "productPages": 68,
+    "candidateCount": 70,
+    "productPages": 70,
     "coverage": "official-category",
     "notes": []
   },
@@ -1802,6 +1802,52 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0706/0dd35da2b37e19229fbdebc45daa5f6f4046697bc9143cb8.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "JP0106-PPSA35454_00-NOBU170000000000",
+      "id": "JP0106-PPSA35454_00-NOBU170000000000",
+      "conceptId": "10018231",
+      "region": "hk",
+      "title": "信長之野望·飛翔 (中日文版)",
+      "edition": "一般版 (中日文版)",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-03-11",
+      "datePrecision": "day",
+      "releaseDate": "2027-03-11",
+      "releaseAt": "2027-03-11T16:00:00+00:00",
+      "price": 528.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA35454_00-NOBU170000000000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0308/76a3d66ca3ed088212746d40ca0241cac9e3720158e240d3.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "JP0106-PPSA35454_00-NOBU170000000000",
+          "id": "JP0106-PPSA35454_00-NOBU170000000000",
+          "title": "信長之野望·飛翔 (中日文版)",
+          "edition": "一般版 (中日文版)",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA35454_00-NOBU170000000000",
+          "price": 528.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        },
+        {
+          "key": "JP0106-PPSA35454_00-NOBU17DDX0000000",
+          "id": "JP0106-PPSA35454_00-NOBU17DDX0000000",
+          "title": "信長之野望·飛翔 數位豪華版 (中日文版)",
+          "edition": "數位豪華版 (中日文版)",
+          "url": "https://store.playstation.com/zh-hant-hk/product/JP0106-PPSA35454_00-NOBU17DDX0000000",
+          "price": 748.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0308/1cddaad59f988b3c02faf80f36e639037eba3e617651e4b5.png?w=160&thumb=false"
     },
     {
       "key": "JP0106-PPSA39237_00-APPKUSURIYA00000",
