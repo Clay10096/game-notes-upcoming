@@ -5,63 +5,28 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-25T10:33:06-08:00",
+  "updatedAt": "2026-11-26T10:14:46-08:00",
   "status": "success",
   "gameCount": 82,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 125,
-    "productPages": 165,
+    "candidateCount": 115,
+    "productPages": 155,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
     {
-      "key": "61a16a22166b03c64805",
-      "id": null,
-      "conceptId": "10021069",
-      "region": "us",
-      "title": "The Spectrum Retreat: Redux",
-      "edition": null,
-      "publisher": "RIPSTONE LTD",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-26",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": "2026-11-26T09:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10021069",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/24205ba588a573a8b7546e6cb7cfc8780e7196699ce149b4.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "61a16a22166b03c64805",
-          "id": null,
-          "title": "The Spectrum Retreat: Redux",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10021069",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/69a5a5883b4ad74a8983de6375f32ed1a54269e1af6e41fa.jpg?w=160&thumb=false"
-    },
-    {
-      "key": "e3dcedce9b0a6e65ee84",
+      "key": "d00b35932979bb90c1ae",
       "id": null,
       "conceptId": "10016490",
       "region": "us",
-      "title": "Arkheron",
+      "title": "Arkheron Early Access",
       "edition": null,
       "publisher": "BONFIRE STUDIOS INC.",
       "platform": "ps5",
-      "releaseDateRaw": "11/27/2026 03:00 PM UTC",
+      "releaseDateRaw": "2026-11-27",
       "datePrecision": "day",
       "releaseDate": "2026-11-27",
       "releaseAt": "2026-11-27T15:00:00+00:00",
@@ -74,9 +39,9 @@
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1818/2ed56e2e5a9349ec4f84a3410d569b677a4f2d049d46a035.png?w=160&thumb=false",
       "versions": [
         {
-          "key": "e3dcedce9b0a6e65ee84",
+          "key": "d00b35932979bb90c1ae",
           "id": null,
-          "title": "Arkheron",
+          "title": "Arkheron Early Access",
           "edition": null,
           "url": "https://store.playstation.com/en-us/concept/10016490",
           "price": null,
@@ -1327,6 +1292,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/2051370698198b444c374a1530b5b2bc852585d790f4b14c.png?w=160&thumb=false"
+    },
+    {
+      "key": "380a7960259130d06166",
+      "id": null,
+      "conceptId": "10017481",
+      "region": "us",
+      "title": "Dome Keeper",
+      "edition": null,
+      "publisher": "RAW FURY",
+      "platform": "ps5",
+      "releaseDateRaw": "12/14/2026 02:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-14",
+      "releaseAt": "2026-12-14T14:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10017481",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2114/879c6c477909f6c1ad40b6aec954bc6ddfa577895f8962ca.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "380a7960259130d06166",
+          "id": null,
+          "title": "Dome Keeper",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10017481",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2114/9f00bb902204389e102c1f32947e90deab392f769788d60b.jpg?w=160&thumb=false"
     },
     {
       "key": "c88b886bd251b77b00ba",

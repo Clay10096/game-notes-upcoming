@@ -5,9 +5,9 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-25T10:30:00-08:00",
+  "updatedAt": "2026-11-26T10:12:18-08:00",
   "status": "success",
-  "gameCount": 25,
+  "gameCount": 24,
   "source": {
     "name": "Nintendo US official Coming Soon page",
     "url": "https://www.nintendo.com/us/store/games/coming-soon/",
@@ -18,56 +18,6 @@
     ]
   },
   "games": [
-    {
-      "key": "70010000130830",
-      "id": "70010000130830",
-      "conceptId": null,
-      "region": "us",
-      "title": "Station to Station",
-      "edition": "Standard Edition",
-      "publisher": "Engine Software",
-      "platform": "switch2",
-      "releaseDateRaw": "2026-11-26T00:00:00.000Z",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-26",
-      "releaseAt": null,
-      "price": 14.39,
-      "originalPrice": 17.99,
-      "currency": "USD",
-      "offer": {
-        "scope": "public",
-        "price": 14.39,
-        "originalPrice": 17.99,
-        "discountPercent": 20.0,
-        "startsAt": null,
-        "endsAt": "2026-12-10T13:59:59Z",
-        "endsAtRaw": null
-      },
-      "memberOffer": null,
-      "url": "https://www.nintendo.com/us/store/products/station-to-station-switch-2/",
-      "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_160/store/software/switch2/70010000130830/6a08104314beaf513651120bf2e032cbff4ba7c1ec3c0c753a5f716dceec1997",
-      "versions": [
-        {
-          "key": "70010000130830",
-          "id": "70010000130830",
-          "title": "Station to Station",
-          "edition": "Standard Edition",
-          "url": "https://www.nintendo.com/us/store/products/station-to-station-switch-2/",
-          "price": 14.39,
-          "originalPrice": 17.99,
-          "offer": {
-            "scope": "public",
-            "price": 14.39,
-            "originalPrice": 17.99,
-            "discountPercent": 20.0,
-            "startsAt": null,
-            "endsAt": "2026-12-10T13:59:59Z",
-            "endsAtRaw": null
-          },
-          "memberOffer": null
-        }
-      ]
-    },
     {
       "key": "70010000123180",
       "id": "70010000123180",
