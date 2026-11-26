@@ -5,7 +5,7 @@
   "region": "JP",
   "timezone": "Asia/Tokyo",
   "currency": "JPY",
-  "updatedAt": "2026-11-26T08:36:15+09:00",
+  "updatedAt": "2026-11-27T08:47:12+09:00",
   "status": "success",
   "gameCount": 53,
   "source": {
@@ -442,7 +442,7 @@
       "id": "UB0874-PPSA31608_00-0159496427397455",
       "conceptId": "10016017",
       "region": "jp",
-      "title": "Guns of Escaton",
+      "title": "Guns of Eschaton",
       "edition": "Standard Edition",
       "publisher": "4Divinity Pte Ltd",
       "platform": "ps5",
@@ -469,7 +469,7 @@
         {
           "key": "UB0874-PPSA31608_00-0159496427397455",
           "id": "UB0874-PPSA31608_00-0159496427397455",
-          "title": "Guns of Escaton",
+          "title": "Guns of Eschaton",
           "edition": "Standard Edition",
           "url": "https://store.playstation.com/ja-jp/product/UB0874-PPSA31608_00-0159496427397455",
           "price": 4950.0,
