@@ -5,53 +5,18 @@
   "region": "US",
   "timezone": "America/Los_Angeles",
   "currency": "USD",
-  "updatedAt": "2026-11-26T10:14:46-08:00",
+  "updatedAt": "2026-11-27T09:58:41-08:00",
   "status": "success",
-  "gameCount": 82,
+  "gameCount": 84,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/en-us/category/82ced94c-ed3f-4d81-9b50-4d4cf1da170b/1",
-    "candidateCount": 115,
-    "productPages": 155,
+    "candidateCount": 117,
+    "productPages": 157,
     "coverage": "official-category",
     "notes": []
   },
   "games": [
-    {
-      "key": "d00b35932979bb90c1ae",
-      "id": null,
-      "conceptId": "10016490",
-      "region": "us",
-      "title": "Arkheron Early Access",
-      "edition": null,
-      "publisher": "BONFIRE STUDIOS INC.",
-      "platform": "ps5",
-      "releaseDateRaw": "2026-11-27",
-      "datePrecision": "day",
-      "releaseDate": "2026-11-27",
-      "releaseAt": "2026-11-27T15:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10016490",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1818/2ed56e2e5a9349ec4f84a3410d569b677a4f2d049d46a035.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "d00b35932979bb90c1ae",
-          "id": null,
-          "title": "Arkheron Early Access",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10016490",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2603/e888af1fe53a0fa9146660ac416e94da9c160b11ecde3236.png?w=160&thumb=false"
-    },
     {
       "key": "EP1439-PPSA36395_00-0856144322518238",
       "id": "EP1439-PPSA36395_00-0856144322518238",
@@ -594,41 +559,6 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0807/6d865116922e0ded31488ab8127a777e03b135d11019282b.jpg?w=160&thumb=false"
     },
     {
-      "key": "66640e4b8e30b1bfe87d",
-      "id": null,
-      "conceptId": "10020593",
-      "region": "us",
-      "title": "Quadrillion Carrots",
-      "edition": null,
-      "publisher": "OWN IT SOLUTIONS SA",
-      "platform": "ps5",
-      "releaseDateRaw": "12/3/2026 04:00 PM UTC",
-      "datePrecision": "day",
-      "releaseDate": "2026-12-03",
-      "releaseAt": "2026-12-03T16:00:00+00:00",
-      "price": null,
-      "originalPrice": null,
-      "currency": "USD",
-      "offer": null,
-      "memberOffer": null,
-      "url": "https://store.playstation.com/en-us/concept/10020593",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1611/d16a899e29313bc6dd90ab953ec75f2a989ec45a7e72bac0.png?w=160&thumb=false",
-      "versions": [
-        {
-          "key": "66640e4b8e30b1bfe87d",
-          "id": null,
-          "title": "Quadrillion Carrots",
-          "edition": null,
-          "url": "https://store.playstation.com/en-us/concept/10020593",
-          "price": null,
-          "originalPrice": null,
-          "offer": null,
-          "memberOffer": null
-        }
-      ],
-      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1611/e367f2d68f529858b8899bd2f3c2774fc85e53c6e03664a7.jpg?w=160&thumb=false"
-    },
-    {
       "key": "EP0001-PPSA34056_00-STBSTD0000000000",
       "id": "EP0001-PPSA34056_00-STBSTD0000000000",
       "conceptId": "10017364",
@@ -791,6 +721,41 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1109/f51344f0b25371cb46cd7a2988c94f09f1afa10248316e49.png?w=160&thumb=false"
     },
     {
+      "key": "6cbb9de2bafe00c13fe6",
+      "id": null,
+      "conceptId": "10019173",
+      "region": "us",
+      "title": "Breath of Life",
+      "edition": null,
+      "publisher": "Evgeniy Kolpakov t/a Sometimes You",
+      "platform": "ps5",
+      "releaseDateRaw": "12/4/2026 05:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-04",
+      "releaseAt": "2026-12-04T05:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019173",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0321/5d995790d7c0b981b68faef9120d336c2e7772a2f7642dae.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "6cbb9de2bafe00c13fe6",
+          "id": null,
+          "title": "Breath of Life",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019173",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0321/4c7b3f9c7af2325ec03e4038ae4d13f55e5c5d6df8e552c8.png?w=160&thumb=false"
+    },
+    {
       "key": "e4bbe260236c999b491a",
       "id": null,
       "conceptId": "10018849",
@@ -945,6 +910,76 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2108/985131c0d1a0a04bca901fd3c98b2d9b13f0e61ea309ce62.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "9d56d74c954bdf2b54b0",
+      "id": null,
+      "conceptId": "10021273",
+      "region": "us",
+      "title": "Troll Slayer",
+      "edition": null,
+      "publisher": "SOUZA E COSTA DESENVOLVIMENTO DE SISTEMAS LTDA",
+      "platform": "ps5",
+      "releaseDateRaw": "12/7/2026 12:00 AM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-07",
+      "releaseAt": "2026-12-07T00:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10021273",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2623/409c4cbf169cfd34168ef665376245f5e7c056a95643b3f7.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "9d56d74c954bdf2b54b0",
+          "id": null,
+          "title": "Troll Slayer",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10021273",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2700/fe0ec10614d36e136e5656c3cd5ed9ae3dafd29b02330a37.png?w=160&thumb=false"
+    },
+    {
+      "key": "b5903dead07eb026e52c",
+      "id": null,
+      "conceptId": "10019201",
+      "region": "us",
+      "title": "Don't Fret",
+      "edition": null,
+      "publisher": "Digital Pajamas LLC",
+      "platform": "ps5",
+      "releaseDateRaw": "12/8/2026 05:00 PM UTC",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-08",
+      "releaseAt": "2026-12-08T17:00:00+00:00",
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10019201",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0100/01034ebf1c9ec5a9bb9f6dc90c9b2f377735df1508773d8d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "b5903dead07eb026e52c",
+          "id": null,
+          "title": "Don't Fret",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10019201",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0100/36f994c222fe2819c2de427c5b2beaac420b2c7f38ff98a4.png?w=160&thumb=false"
     },
     {
       "key": "UB0874-PPSA31608_00-0159496427397455",
@@ -3133,6 +3168,41 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1616/48f02121f9b076a009ebd80d946d0d35e09cf5bd9efbc085.png?w=160&thumb=false"
+    },
+    {
+      "key": "5c8d4c95244759a50693",
+      "id": null,
+      "conceptId": "10020829",
+      "region": "us",
+      "title": "Penguin Lifter",
+      "edition": null,
+      "publisher": "Axyos Games Entertainment LLC",
+      "platform": "ps5",
+      "releaseDateRaw": null,
+      "datePrecision": "tbd",
+      "releaseDate": null,
+      "releaseAt": null,
+      "price": null,
+      "originalPrice": null,
+      "currency": "USD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://store.playstation.com/en-us/concept/10020829",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/4b05d8a5c69a68735d5eea699f292a7546fa634a50183da5.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "5c8d4c95244759a50693",
+          "id": null,
+          "title": "Penguin Lifter",
+          "edition": null,
+          "url": "https://store.playstation.com/en-us/concept/10020829",
+          "price": null,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/e5b0ff6c8fc6b7b51197065f58eb628382e1f3c5293cdf13.jpg?w=160&thumb=false"
     },
     {
       "key": "523de9a660351c4f14ee",
