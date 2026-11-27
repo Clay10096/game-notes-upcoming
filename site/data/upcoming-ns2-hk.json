@@ -5,13 +5,13 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-26T08:02:59+08:00",
+  "updatedAt": "2026-11-27T08:23:51+08:00",
   "status": "success",
-  "gameCount": 33,
+  "gameCount": 36,
   "source": {
     "name": "Nintendo HK Switch 2 lineup and official price service",
     "url": "https://www.nintendo.com/hk/games/switch2/lineup",
-    "candidateCount": 625,
+    "candidateCount": 635,
     "coverage": "official-lineup",
     "notes": []
   },
@@ -305,6 +305,40 @@
       ]
     },
     {
+      "key": "70010000137710",
+      "id": "70010000137710",
+      "conceptId": null,
+      "region": "hk",
+      "title": "猴子大作戰：雙人合作滑鼠動作遊戲",
+      "edition": null,
+      "publisher": "GIFT TEN INDUSTRY",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-03",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-03",
+      "releaseAt": null,
+      "price": 35.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000137710",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001377102036bce8e90c11f198dc95fcdb2b5b8c/0af3d1cb8fe572b82e3670fb3847bdff/afddd198bbaa5fcdf59bbb14502db2e7f66f09b25768d9f7d878929ea8ca15ff.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000137710",
+          "id": "70010000137710",
+          "title": "猴子大作戰：雙人合作滑鼠動作遊戲",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000137710",
+          "price": 35.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000126599",
       "id": "70010000126599",
       "conceptId": null,
@@ -593,6 +627,40 @@
       ]
     },
     {
+      "key": "70010000132366",
+      "id": "70010000132366",
+      "conceptId": null,
+      "region": "hk",
+      "title": "PICROSS S CLIMAX",
+      "edition": null,
+      "publisher": "JUPITER",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-10",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-10",
+      "releaseAt": null,
+      "price": 169.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000132366",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001323663c51086ae90c11f19f1fe3f8fc0eb400/8b8410be50fdc7899512b70f9db95199/c8acd015ef3dbe6c1cdf335cfc874522d0ac7da7d472888346a430b0d1daa977.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000132366",
+          "id": "70010000132366",
+          "title": "PICROSS S CLIMAX",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000132366",
+          "price": 169.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
       "key": "70010000136975",
       "id": "70010000136975",
       "conceptId": null,
@@ -654,6 +722,40 @@
           "edition": null,
           "url": "https://ec.nintendo.com/HK/zh/titles/70010000130001",
           "price": 320.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": null
+        }
+      ]
+    },
+    {
+      "key": "70010000137962",
+      "id": "70010000137962",
+      "conceptId": null,
+      "region": "hk",
+      "title": "STARDUST: Wish of Witch (星塵軌跡：魔女之願)",
+      "edition": null,
+      "publisher": "Silver Lining Interactive",
+      "platform": "switch2",
+      "releaseDateRaw": "2026-12-14",
+      "datePrecision": "day",
+      "releaseDate": "2026-12-14",
+      "releaseAt": null,
+      "price": 145.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": null,
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000137962",
+      "image": "https://images.ctfassets.net/o5v89n4kg6h4/700100001379629071ec86e90c11f1b4f6133729c6d92e/cda9f5926b834f87c2bfaf3728ddab28/60a9ab62861bf0671b91fb3f9621b0f713a59a3d6929787448140208811ceacb.jpg?w=400&fm=webp",
+      "versions": [
+        {
+          "key": "70010000137962",
+          "id": "70010000137962",
+          "title": "STARDUST: Wish of Witch (星塵軌跡：魔女之願)",
+          "edition": null,
+          "url": "https://ec.nintendo.com/HK/zh/titles/70010000137962",
+          "price": 145.0,
           "originalPrice": null,
           "offer": null,
           "memberOffer": null

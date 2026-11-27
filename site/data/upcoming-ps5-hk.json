@@ -5,14 +5,14 @@
   "region": "HK",
   "timezone": "Asia/Hong_Kong",
   "currency": "HKD",
-  "updatedAt": "2026-11-26T08:04:20+08:00",
+  "updatedAt": "2026-11-27T08:25:06+08:00",
   "status": "success",
-  "gameCount": 55,
+  "gameCount": 57,
   "source": {
     "name": "PlayStation Store official Coming Soon / Pre-order category and product pages",
     "url": "https://store.playstation.com/zh-hant-hk/category/3bf499d7-7acf-4931-97dd-2667494ee2c9/1",
-    "candidateCount": 70,
-    "productPages": 70,
+    "candidateCount": 72,
+    "productPages": 72,
     "coverage": "official-category",
     "notes": []
   },
@@ -1049,6 +1049,57 @@
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/098f24a2047a6a15d042b55fbcd7cde9f9c3d1f29e041c28.png?w=160&thumb=false"
     },
     {
+      "key": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "id": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "conceptId": "10005193",
+      "region": "hk",
+      "title": "Tropico 7 - Deluxe Edition (中日英韓文版)",
+      "edition": "Deluxe Edition",
+      "publisher": "KALYPSO MEDIA",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-01-26",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-26",
+      "releaseAt": "2027-01-26T14:00:00+00:00",
+      "price": 511.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 459.9,
+        "originalPrice": 511.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2027-01-28T14:00:00.000Z",
+        "endsAtRaw": "2027-01-28T14:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP4365-PPSA39307_00-0T7DELUXEEDITION",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/4daaf2ea3d1c245793f7f18dbcd30fdacbbe52c258b5661d.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "id": "EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "title": "Tropico 7 - Deluxe Edition (中日英韓文版)",
+          "edition": "Deluxe Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP4365-PPSA39307_00-0T7DELUXEEDITION",
+          "price": 511.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 459.9,
+            "originalPrice": 511.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2027-01-28T14:00:00.000Z",
+            "endsAtRaw": "2027-01-28T14:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/fee3117ef2e9dad53f42a3d92a69cd2be482266eac9b6300.jpg?w=160&thumb=false"
+    },
+    {
       "key": "JP3372-PPSA37624_00-MAINGAME00000000",
       "id": "JP3372-PPSA37624_00-MAINGAME00000000",
       "conceptId": "10019493",
@@ -1187,6 +1238,57 @@
         }
       ],
       "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2808/717aa88585b9b9b7fdb68992d7cfe2e1a4a596f5343303cb.jpg?w=160&thumb=false"
+    },
+    {
+      "key": "EP4365-PPSA39307_00-00000000TROPICO7",
+      "id": "EP4365-PPSA39307_00-00000000TROPICO7",
+      "conceptId": "10005193",
+      "region": "hk",
+      "title": "Tropico 7 (韓文, 英文, 日文)",
+      "edition": "Standard Edition",
+      "publisher": "KALYPSO MEDIA",
+      "platform": "ps5",
+      "releaseDateRaw": "2027-01-28",
+      "datePrecision": "day",
+      "releaseDate": "2027-01-28",
+      "releaseAt": "2027-01-28T14:00:00+00:00",
+      "price": 385.0,
+      "originalPrice": null,
+      "currency": "HKD",
+      "offer": null,
+      "memberOffer": {
+        "scope": "member",
+        "price": 346.5,
+        "originalPrice": 385.0,
+        "discountPercent": 10.0,
+        "startsAt": null,
+        "endsAt": "2027-01-28T14:00:00.000Z",
+        "endsAtRaw": "2027-01-28T14:00:00.000Z"
+      },
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP4365-PPSA39307_00-00000000TROPICO7",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0709/6f7f75cab455fa3b89d2889a6210c39e44e010bb113a4744.png?w=160&thumb=false",
+      "versions": [
+        {
+          "key": "EP4365-PPSA39307_00-00000000TROPICO7",
+          "id": "EP4365-PPSA39307_00-00000000TROPICO7",
+          "title": "Tropico 7 (韓文, 英文, 日文)",
+          "edition": "Standard Edition",
+          "url": "https://store.playstation.com/zh-hant-hk/product/EP4365-PPSA39307_00-00000000TROPICO7",
+          "price": 385.0,
+          "originalPrice": null,
+          "offer": null,
+          "memberOffer": {
+            "scope": "member",
+            "price": 346.5,
+            "originalPrice": 385.0,
+            "discountPercent": 10.0,
+            "startsAt": null,
+            "endsAt": "2027-01-28T14:00:00.000Z",
+            "endsAtRaw": "2027-01-28T14:00:00.000Z"
+          }
+        }
+      ],
+      "imageFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0307/c6bfb97f7f3ec183a4ba50d5797406d2ab8a9a8d3c2fa60a.jpg?w=160&thumb=false"
     },
     {
       "key": "HP0082-PPSA34812_00-ROMASAGA3RAPDDXE",
